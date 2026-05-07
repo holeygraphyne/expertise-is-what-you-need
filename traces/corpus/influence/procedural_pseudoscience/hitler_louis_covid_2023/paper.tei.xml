@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Molecular Simulation of the Effect of Electron Donor/Acceptor Groups on Fluvoxamine/Serotonin Interactions as a Strategy for COVID‐19 Mitigation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-11-08">2023-11-08</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Hamid</forename><surname>Hadi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hitler</forename><surname>Louis</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>e</label> Department of Pure and Applied Chemistry University of Calabar , Calabar ( Nigeria) [ ]</note>
+								<orgName type="department">Department of Pure and Applied Chemistry</orgName>
+								<orgName type="institution">University of Calabar</orgName>
+								<address>
+									<settlement>Calabar</settlement>
+									<country key="NG">Nigeria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Komeil</forename><surname>Jafari</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Terkumbur</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+							<email>gberterkumburemmanuel@gmail.com</email>
+							<idno type="ORCID">0000-0002-1901-3675</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Nnenna</forename><forename type="middle">A</forename><surname>Onwuabusim</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemistry Physical Chemistry group , Lorestan University Khorramabad ( Iran Computational and Bio-Simulation Research Group</note>
+								<orgName type="department">Department of Chemistry Physical Chemistry group</orgName>
+								<orgName type="laboratory">Computational and Bio-Simulation Research Group</orgName>
+								<orgName type="institution">Lorestan University Khorramabad</orgName>
+								<address>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">University of Calabar , Calabar ( Nigeria) Department of Chemistry ,</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Calabar</orgName>
+								<address>
+									<settlement>Calabar</settlement>
+									<country key="NG">Nigeria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Physical Chemistry Group University of Qom , Qom ( Iran</note>
+								<orgName type="department">Physical Chemistry Group</orgName>
+								<orgName type="institution">University of Qom</orgName>
+								<address>
+									<settlement>Qom</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation">H. Louis Centre for Herbal Pharmacology and Environmental Sustainability Chettinad Hospital and Research Institute Chettinad Academy of Research and Education Kelambakkam 603103 , Tamil Nadu (India</note>
+								<orgName type="department">H. Louis Centre for Herbal Pharmacology and Environmental Sustainability</orgName>
+								<orgName type="institution">Chettinad Hospital and Research Institute Chettinad Academy of Research and Education</orgName>
+								<address>
+									<postCode>603103</postCode>
+									<settlement>Kelambakkam</settlement>
+									<country>Tamil Nadu (India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Molecular Simulation of the Effect of Electron Donor/Acceptor Groups on Fluvoxamine/Serotonin Interactions as a Strategy for COVID‐19 Mitigation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">ChemistrySelect</title>
+						<title level="j" type="abbrev">ChemistrySelect</title>
+						<idno type="ISSN">2365-6549</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">42</biblScope>
+							<date type="published" when="2023-11-08" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">142F12F93ABA6E2D01F449D06CC8EF46</idno>
+					<idno type="DOI">10.1002/slct.202302980</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>COVID-19</term>
+					<term>density functional theory</term>
+					<term>fluvoxamine</term>
+					<term>NCI</term>
+					<term>QTAIM</term>
+					<term>serotonin</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Fluvoxamine has been proven in studies to improve the immune system by reabsorbing serotonin and to be beneficial in limiting the spread of covid-19 (in the early stages of the disease). The interaction between pristine fluvoxamine drug and serotonin, as well as the interaction between NO 2 /NH 2 doped fluvoxamine drug and serotonin, was investigated in this work using the quantum theory of atom in the molecule (QTAIM) and density-functional theory (DFT) at the B3LYP/6-311 + G (d,p) (gas phase and water media) computational level. The NH 2 and NO 2 doping on fluvoxamine significantly increased the adsorption energy of serotonin and improved the dipole moment, solvent energy, chemical hardness/softness, and charge/energy transfer. On the other hand, according to the results of this study, NH 2 doping compared to NO 2 had no significant effect on the electronic properties such as HOMO/ LUMO orbital energy and its gap. From the results, the binding energy of the most stable structure (Complex-A) was measured to be 12.59 and 11.65 kcal/mol. Based on the electronic structure analysis, an assessment of the stability of the studied systems in the gas phase reveals the following trend: Fluvoxamine-NH2 &gt; Fluvoxamine-NO2 &gt; Fluvoxamine-NH2/Ser &gt; Fluvoxamine-NO2/Ser, with corresponding energy gaps of 4.12, 2.65, 1.98, and 1.63 eV, respectively. Therefore, NH 2 doping on fluvoxamine is a harmless electronic interaction and does not significantly change the properties of the drug. It seems that increasing the absorption energy by doping the NH 2 functional group can help reduce the therapeutic dose and make fluvoxamine more effective.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Coronavirus (Covid-19), in 2019 became the foundation of a new disease that caused severe problems in public health. The high infectivity of this virus made it spread all over the world. So, scientists from different fields tried to find a way to deal with it. Since the existing drugs could not deal with this unknown virus, much effort was made to investigate the available drugs (to find their use to deal with this disease). Due to the rapid spread of this virus, it is important to review current drugs and new compounds to determine if there is a way to treat COVID-19 quickly. With the identification of the structure of the covid-19 virus protease, basic research on the effectiveness of existing drugs on the enzyme activity of this virus intensified. <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref> Studies show that serious problems can be prevented if this disease is diagnosed in the early stages. <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref> A clinical investigation found that giving fluvoxamine to patients with mild COVID-19 lowered the chance of hospitalisation considerably. [5] The COVID-19 Early Treatment Fund (CETF) has released the findings of a clinical trial involving fluvoxamine in patients with mild COVID-19. The trial results showed that giving fluvoxamine early in the course of COVID-19 lowered the chance of hospitalisation considerably. <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref> Fluvoxamine is an antidepressant that is a selective serotonin reuptake inhibitor (SSRI). It is commonly administered to persons who have obsessive-compulsive disorder. <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref> Serotonin inhibition and reabsorption can prevent the excessive release of cytokines. Cytokines play an important role in cell differentiation and immunity and are of great importance in the field of health and disease, especially in the field of immune responses to infection and inflammation. <ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Recently, studies on fluvoxamine show that this drug can reduce the plasma levels of several types of inflammatory cytokines, which are involved in the phenomenon of COVID-19, through the reabsorption of serotonin. The researchers believed this capability could prevent cytokine storms which result in inflammation, (one of the important symptoms of COVID-19). <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> Density Functional Theory has recently been used in analysing the effectiveness of the quantity of serotonin absorption by fluvoxamine, in line with laboratory development. Dadkhah et al <ref type="bibr" target="#b17">[18]</ref> performed a computational investigation of the structural and electronic properties of the cis and trans structures of fluvoxamine as a nano-drug, and their results show that the trans structure of fluvoxamine has convenient quantum chemical properties to verify that this structure of the molecule is marked as a medicine. Likewise, Staro, J et al. <ref type="bibr" target="#b18">[19]</ref> Tuning the activity of known drugs through the introduction of halogen atoms, a case study of SERT ligands-Fluoxetine and fluvoxamine, was investigated and reported that the obtained biological activity data, supported by a thorough in silico binding mode analysis, allowed the identification of two partners for halogen bond interactions: The influence of anthraquinone scaffold on the E/Z isomer distribution of two thiosemicarbazone derivatives was investigated by Markovi et al. [20] According to 2D NMR and DFT, the greater stability of Eisomers is due to a ten-membered intramolecular hydrogen bond between the thiosemicarbazone N2H and the anthraquinone carbonyl group. Schultz, on the other hand, explored trace analysis of antidepressant medicines and their select degradates in aquatic matrixes using LC/ESI/MS/MS, and their studies revealed that the approach was applied to wastewater effluent and samples obtained from a wastewater-dominated stream.</p><p>In this study, using the quantum theory of atoms in molecules (QTAIM) and density functional theory (DFT), the effect of electron-donor/acceptor groups on the amount of serotonin absorption by fluvoxamine (as the frontline of corona treatment) was investigated. The effect of the substitution of NO 2 and NH 2 groups (using the electrophilic reaction of benzene ring) on the electronic properties of fluvoxamine in the presence of serotonin was dually studied. We hope that the results of this research can introduce a new class of drugs to deal with the coronavirus in the early stages of the disease. We hope that this research will help for better understanding in the role of electron-donor/acceptor groups in forming structureproperty patterns in medicinal compounds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Computational Details</head><p>In this study, the density functional theory (DFT) method was used to investigate the interaction of fluvoxamine /serotonin and also the effect of substitution of electron donor/acceptor groups (in fluvoxamine) in order to better absorb serotonin. For this purpose, the geometric structure of molecules (Figure <ref type="figure" target="#fig_0">1</ref>) was sketched with GaussView 6.0.16 <ref type="bibr" target="#b20">[21]</ref> and optimized with gaussian 19 <ref type="bibr" target="#b21">[22]</ref> using the B3LYP method and basis set of 6-311 + G (d,p) in solvent (CPCM, Solvent = Water) and gas phases. <ref type="bibr" target="#b22">[23]</ref> The choice of B3LYP for this work was first based on its well-known good performance in forecasting geometries and energies. Accurate prediction of electric properties is a more difficult challenge for B3LYP in general, with its performance depending on whatever electric property is calculated and what class of molecules is evaluated. Many benchmark investigations show that B3LYP performs reasonably well when calculating ground-state electric characteristics. The energy gap (Eg), adsorption energy (Eads), cohesive energy (ECoh), antioxidant property (E1/2), recovery time (RT), electrophilicity index (ω), represents electronic chemical potential (μ), chemical hardness (η) and electrophilicity-based charge transfer (ECT) of each were obtained using equations 1-11 respectively.</p><formula xml:id="formula_0">E g ¼ jE LUMO À E HOMO j (<label>1</label></formula><formula xml:id="formula_1">)</formula><p>Where EHOMO is the highest occupied molecular orbital (HOMO) energy and ELUMO is the lowest unoccupied molecular orbital energy (LUMO). Understanding the counterpoise corrected during the calculation of binding energy is very essential hence this was calculated herein using equation 2</p><formula xml:id="formula_2">E ads ¼ E Fluv=Ser À ðE Fluv þ E Ser ÞÀ E BSSE<label>(2)</label></formula><p>EBSSE is referred to as a basis set superposition errors energy in this context. Following, calculations of vibrational frequencies at the same theoretical level were made, and no fictitious mode was discovered, proving that all stationary points mapped to accurate minima on the potential energy surface.</p><p>The cohesive energy E coh of the NO2/NH2-Fluvoxamine was computed using equation ( <ref type="formula" target="#formula_3">3</ref>)</p><formula xml:id="formula_3">E coh ¼ À ðE tot À S i n i E i Þ=n<label>(3)</label></formula><p>where n is the total number of atoms and Etot, Ei, and ni are the total energies of all planned molecules, atoms, and molecules, respectively. <ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> The stabilization of energy when the system receives an additional electronic charge from the environment is measured by the electrophilicity index (), one of the key metrics. The following equation has been used to construct the electrophilicity index used in this work as a descriptor for the direction of charge transfer, where a larger value of indicates a compound's more electrophilic power:</p><formula xml:id="formula_4">m ¼ E HOMO þ E LUMO = 2 (4) h ¼ À E HOMO þ E LUMO = 2 (5) w ¼ m 2 = 2h (6)</formula><p>Where, in the equation above, μ stands for electronic chemical potential and η is referred to as the ground state's chemical hardness.</p><p>The following formula has been established to represent the maximal electronic charge ΔNmax that an electrophile is capable of accepting from its surroundings: </p><formula xml:id="formula_5">DN max ¼ À m = h<label>(7)</label></formula><p>Which electrophilicity index, on the basis of ΔNmax can be written as:</p><formula xml:id="formula_6">w ¼ m 2 = 2h ¼ ðð À m=2Þð À m=hÞÞcDN max = 2<label>(8)</label></formula><p>In the equation 8, χ is defined as electronegativity of a system. Therefore, the maximum electronic charge ΔN max in terms of electrophilicity index (ω) and electronegativity (χ) can be calculated by:</p><formula xml:id="formula_7">DN max ¼ 2w = c<label>(9)</label></formula><p>As a result, electrophilicity-based charge transfer (ECT), which may be calculated as follows, can be used to describe the amount of charge transfer between two systems, such as between drug and doped fullerenes.</p><formula xml:id="formula_8">ECT ¼ DN max ð Þ A À DN max ð Þ B ¼ 2 w A X A À w B X B ð Þ; X ¼ À m; A ¼ Serotonin and B ¼ Fluvoxamine : (<label>10</label></formula><formula xml:id="formula_9">)</formula><p>In the above equation, If ECT &gt; 0, A acts as the electron-acceptor, and if ECT &lt; 0, A acts as an electron-donor.</p><p>The geometric structure of each structure was optimised using DFT theory in the gas phase and in water solvent in order to examine the impact of solvation on the stability and electronic characteristics of structures as well as solvation energy calculations (E Sol = E Solvent -E Gas ). The same procedure was used to calculate molecule electrostatic potential (ESP) in order to determine the ideal interaction position.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Molecular Electrostatic Potential (ESP)</head><p>Figure <ref type="figure" target="#fig_1">2</ref> depicts the calculated electrostatic potentials map (ESP) on the molecular surfaces of fluvoxamine and serotonin. Surfaces are represented in molecular electrostatic potential by the hues red and yellow. The electron-rich (partially negative charge) area is represented by the colour red, whereas the electron-poor (partially positive charge) areas are represented by the colour yellow. <ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref> Figure <ref type="figure" target="#fig_1">2</ref> depicts the electrostatic potential map after investigation using the B3LYP/6-311 + G (d,p) technique. Around the fluorine, nitrogen, and oxygen atoms, where electrophilic assault is feasible, is the zone of red colour (electron-rich). Around the hydrogen atoms, the molecule has a yellow hue zone (electron-poor region) that is vulnerable to nucleophilic assault. It is clear that the F atom is surrounded by negative electrostatic potentials and the ESP around the F atom (in fluvoxamine) is extended in space more than that of the other atoms. This is due to the high electronegativity of fluorine atoms. Therefore, it seems that the fluorine atomic basins are the active sites of charge/energy exchange in fluvoxamine drug, and serotonin absorption takes place from the fluorine atoms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Optimization, energies and electronic properties of the structures</head><p>To determine the best possible places for the interaction between the medication fluvoxamine and the neurotransmitter serotonin, six distinct geometric configurations (AÀ F) have been examined. The values of binding energy with BSSE corrections between serotonin and fluvoxamine were estimated in two phases of gas and water solvent following optimisation of a single fluvoxamine drug, serotonin, and six configurations of fluvoxamine/serotonin complex. The results are shown in Table <ref type="table" target="#tab_0">1</ref>. On the basis of the various active sites and the binding energies obtained for all of these configurations, which are reported in Figure <ref type="figure" target="#fig_2">3</ref>, configuration A was chosen (which are the fluorine atomic basins in fluvoxamine as well as the nitrogen and oxygen atomic basins in serotonin). According to Figure <ref type="figure" target="#fig_2">3</ref>, the order of the absolute value of binding energies or adsorption energies for different configurations is A &gt; D &gt; E &gt; F &gt; B &gt; C in both gas and solvent phases. Complex A has the highest reported negative binding energy, which indicates that it has the most stable structure out of all the complexes. Moreover, none of the complexes contained any phantom frequencies. For the gas phase and aqueous solvent, respectively, the binding energy of the most stable structure (Complex-A) was measured to be 12.59 and 11.65 Kcal/mol. The weak interaction between fluvoxamine and serotonin suggests that there is physisorption between the two drugs. The relatively low adsorption energy suggests that the interaction between fluvoxamine and serotonin happens mostly through noncovalent nature. All of the structures' HOMO energy levels in the aqueous environment are slightly lower than those in the gas phase, according to the computed values of EHOMO in each of the complexes. Moreover, relative to the gas phase, the LUMO energy levels in all complexes except complex-A decreased in the water solvent phase. This result had a reverse trend for the A complex, and the LUMO energy levels for this complex were À 2.85 (eV) in the water solvent phase and À 2.73 (eV) in the gas phase. As a result, compound A's HLG values in the aqueous environment are lower than they are in the gas phase. We can infer from the findings that serotonin adsorption on fluvoxamine lowers HLG (Eg) values, with complex A experiencing a lesser decrease than the other complexes. It means that the occurrence of quantum tunnelling between fluvoxamine and serotonin occurs more readily and the transfer of charge and energy is promoted in the state of configuration A by narrowing the energy gap. In this case, serotonin absorption is better by fluvoxamine. The electrophilic charge transfer (ECT) values of these structures show that since the charge transfer rate is less than zero (ΔN &lt; 0 and therefore ECT &lt; 0), serotonin acts as an electron donor and fluvoxamine as an electron/charge acceptor. <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> The obtained values for charge transfer (ECT) are in agreement with the corresponding values of the electrophilicity index (ω).</p><p>Reducing the dosage of the drug along with increasing the effectiveness of the drug has always been one of the challenges faced by the researchers. Increasing drug absorption can reduce the dosage of the drug and the side effects of the drug accordingly. In the continuation of this work, by designing new pharmaceutical structures (through the effect of electron donor/acceptor groups on the benzene ring), this issue was addressed as much as possible. On the basis of the obtained parameters in Table <ref type="table" target="#tab_0">1</ref>, we can conclude that complex-A can be selected as the most stable structure to investigate the effect of electron donor/acceptor groups on the adsorption behavior of fluvoxamine drug.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Optimization of structures of serotonin and NO 2 /NH 2 - Fluvoxamine, in a new configuration</head><p>In this part of the work, new drug structures of fluvoxamine were designed by adding electron-donor/acceptor groups to the structure of fluvoxamine. <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref> Then, in order to investigate serotonin absorption by new configurations of fluvoxamine, each of the designed structures was optimized in the gas phase and water environment using DFT theory at B3LYP-DFT/6-311 + G (d,p) theory level. First imaginary frequency and cohesive energy were investigated as basic factors in the stability of designed structures. No imaginary frequencies were observed in any of the designed configurations (Figure <ref type="figure" target="#fig_3">4</ref>). Table <ref type="table" target="#tab_1">2</ref> shows the calculated values of adhesion energy obtained in gas phase and water solvent. The stability of the designed structures was ensured by the absence of imaginary frequency and cohesive energy calculations. <ref type="bibr" target="#b31">[32]</ref>    Investigating the electronic properties of the serotoninfluvoxamine complex in the new configuration of fluvoxamine (the effect of electron-donor/acceptor groups).</p><p>In Table <ref type="table" target="#tab_2">3</ref>, the values of the examined structures' binding, solvation, and electrical characteristics that have been estimated in both gas and solvent phases have been assembled.</p><p>In Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_2">3</ref>, which are used to calculate the chemical stability and reactivity of chemical compounds, respectively, are the values of chemical hardness and electrophilic index. The comparison of these results shows that in the presence of electron-donor/acceptor groups, the chemical hardness values for the new fluvoxamine/serotonin complex and also the new configuration of fluvoxamine decrease, while the electrophilic indices increase. The increase in the electrophilic index for the new fluvoxamine/serotonin complex and the new configuration of fluvoxamine compared to the fluvoxamine/serotonin and fluvoxamine complex means that the presence of electron donor/acceptor groups in the interaction of the new drug with serotonin creates a more electrophilic characteristic for the studied structures. <ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref> An important parameter for defining the spatial distribution of electron charge within a molecule is the molecular dipole moment, or. Although it is well known that's magnitude and direction depend on the size and shape of the molecule, the presence of various functional groups can lead to the formation of various dipole moments. Compounds with larger dipole moments have better solubility in polar solvents like water because the dipole moment directly correlates with solubility. It is blatantly obvious how functional groups (NO 2 / NH 2 ) affect dipole moment values. The results of Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_2">3</ref> can be compared to demonstrate that after binding to NO 2 /NH 2 groups, Fluvoxamine's dipole moments considerably increase as a result of the disruption of the electron density. The NO 2 - Fluvoxamine/Serotonin complex has higher dipole moment values than fluvoxamine/Serotonin and NH 2 -Fluvoxamine/Serotonin complexes. The solubility of fluvoxamine improved after NO 2 binding due to a significant increase in the dipole moment. [35] The effect of NO 2 on Fluvoxamine can be rational- ized in terms of changes in the electronegativity of Fluvox-amine, and in the local dipole moment resulting from the electron-acceptor (NO 2 ) substitution. In this case, the electronacceptor (NO 2 ) properties become a factor reinforcing the charge separation within the molecule of fluvoxamine. This indicates a stronger charge separation in the presence of NO 2 than NH 2 . These results indicate an increase in drug solubility (with NO 2 /NH 2 doping) in aqueous solutions. The solvation energy (the difference between the optimized energies in the water and gas phases) is used to measure the solubility of a substance in a solvent. <ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref> According to the solvation energy findings, NO2 is more conducive to charge separation than NH 2 . An indicator of a material's solubility in a solvent is the optimum energies in the liquid and gaseous phases. Solvation energy measurements that are negative indicate a spontaneous response. The degree of solubility increases with decreasing solvation energy. When the medication is absorbed on the surface of serotonin in the solvent, Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>'s solubility energy values demonstrate that adding functional groups increases the solubility of all complexes. In other words, all planned complexes are made more soluble and stabilised in the presence of water solvent. The adsorbate serotonin has an exothermic interaction with fluvoxamine, as indicated by the negative values of the binding energies (Eb) for Fluvoxamine-NO 2 /NH 2 -Ser. The largest negative binding energy value among these complexes is displayed by Fluvoxamine-NO 2 /Ser, which exhibits values of À 53.25 and À 59.18 kcal/mol in the gas phase and aqueous solvent, respectively. Since there are more strongly interacting complexes in the aqueous solvent, the Eb energies in the solvent phase are more negative than they are in the gaseous phase. Also, the sequence of these complexes' binding energies in both phases demonstrates that the interaction between fluvoxamine functionalized serotonin and the medication is stronger than that between pristine serotonin and the latter. It means that by doping the NH 2 and NO 2 , the weak contact between serotonin and the medication fluvoxamine was transformed to a strong chemisorption.</p><p>According to the results obtained from examining HOMO and LUMO frontier orbitals and the energy gap between them, it can be concluded that the effect of electron donating/ accepting groups reduces the values of HLG (Eg). The decrease in the energy gap is more evident in the presence of NO 2 groups. A large change in the energy gap may improve or even reduce the drug's effectiveness. A comparison of the results reported in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref> shows that the energy gap as well as the energy of the HOMO and LUMO frontier orbitals of the drug NH 2 -Fluvoxamine has changed much less compared to pristine fluvoxamine (Figure <ref type="figure" target="#fig_4">5</ref>). These results are consistent with the DOS spectra obtained for pristine fluvoxamine and fluvoxamine doped with NH 2 /NO 2 as shown in Figure <ref type="figure" target="#fig_5">6</ref>. Therefore, it can be concluded that the doping of NH 2 functional group on fluvoxamine is a harmless electronic interaction and the NH 2 functional group does not significantly change the properties of the drug. Since the aim of this study is not to change the medicinal properties, it seems that the doping of NH 2 with fluvoxamine can increase the effectiveness of the drug due to the absorption energy and appropriate solubility, and thereby reduce the dosage of the drug.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Topology Analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantum Theory of Atom in Molecule</head><p>For deeper understanding of molecular structures and their characteristics, Quantum theory of atom in molecule (QTAIM) analysis by Richard Bader in 1970s provide a strong foundation. [38-39] This analysis is based on the notion that groups of atoms bound together by chemical bonds can be thought of as molecules which are defined by the distribution of electron density between the atoms. <ref type="bibr" target="#b39">[40]</ref> We can learn vital details about the molecule structure, including the position and strength of chemical bonds, the type of intermolecular interactions, and the stability of various molecular configurations, by evaluating this electron density using QTAIM. <ref type="bibr" target="#b40">[41]</ref> The ρ(r) defines how electrons are distributed within the molecules, and this electrons density function lies at the core of QTAIM. The probability density of finding an electron at a specific location in space is calculated by solving the Schrödinger equation for the molecular wave function and then calculating the square of the wave function.  The most crucial information that QTAIM establishes is that using electron density function can be correlated to the location of the atoms and the area with much electron density. Characteristics of the crucial spots, like the strength and direction of the gradient in the electron density, the nature of bond formation and interaction in the electron density and the curvature of the direction. The local characteristics of these crucial spots, such as the direction and strength of the gradient in the electron density and the curvature of the electron density surface, are used to categorize them.</p><p>The nature of bond formation and the inter-and intramolecular interactions present in the researched compounds were examined for the purposes of this study using the quantum theory of atoms in molecules (Figure <ref type="figure" target="#fig_6">7</ref>). Electron localization function (ELF), energy density H(r), density of all electrons (r), lagrangian kinetic energy G(r), Hamiltonian kinetic energy K(r), potential energy density H(r), laplacian of electron density 2(r), energy density H(r), and eigenvalues of hessian (λ1, and λ2) were all analyzed at different bond critical points (BCP) that indicated the interaction within and between the studied compounds flo (NH 2 -SER, and NO 2 -SER). The F19…H9-N54bond from the NH 2 -SER compound had the greatest ρ(r) value of 0.746 e, as can be seen from the data shown in Table <ref type="table" target="#tab_3">4</ref>. According to the literature review, the stronger the nature of the contact between the surface and the adsorbed molecule, the higher the (r) value. Corresponding to this, the greater (r) value in NO 2 -Ser compound was seen from the bond formation's 147-bond crucial point, N54-H65…F19. According to earlier research, the values of ρ(r) for closed shell interactions range from 0.002 a.u. to 0.016 for weak Van der Waals forces and 0.0024 to 0.0547 a.u. for strong electrostatic interactions; as  a result, the compound under study exhibits a strong electrostatic interaction between the adsorbed molecules. Whereas, Flox was observed to have a weak Van der Waals forces. It means that the weak interaction of serotonin and fluvoxamine drug was changed to strong chemisorption by doping the NH 2 and NO 2 . Another important parameter from the QTAIM analysis, was the information obtained from the r 2 ρ (r), from r 2 ρ (r) parameter, strong shared-shell interatomic interaction is evidenced by a local concentration of the electron density distribution at the critical point when r 2 ρ (r) &lt; 0. An under- standing into electron localization function (ELF) is also very crucial in analyzing the covalent nature in any bond formation, from results presented herein, it was observed that the studied complexes showed both bonding localized electrons and nonbonding localized electron due to the range of values obtained from 0.5 to 1 e.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RDG Analysis</head><p>Many biological and chemical processes are analysis with the help of non-covalent interactions, which is also referred to as  weak chemical interactions. <ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref> This concept was used in this study to vividly comprehend the underlying principles driving molecular interactions and to develop new medications, materials, and different applications. Biological molecules such as proteins, nucleic acids, and membranes are examples of biological molecules whose structure and operation depend heavily on non-covalent interactions. To comprehend how these molecules interact with one another and how they operate in cells and organisms, scientists investigate these interactions. Importantly, this analysis is applied in drug discovery by researchers by investigating the interactions between a medicinal molecule and its target protein in order to generate more effective and specific medications. With the purpose of enhancing the precision and dependability of molecular modeling tools, non-covalent interaction study is also important, hydrogen bonding, van der Waals forces, electrostatic interactions, and hydrophobic interactions are the most prevalent types of the RDG analysis <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref> The attraction of oppositely charged particles causes electrostatic interactions. Hydrophobic interactions, on the other hand, are mediated by the tendency of nonpolar molecules to cluster together in water. In this study, the DFT/B3LYP/6-311 + + G(d,p) theoretical approaches were used to explore the nature of the interaction between the surfaces and adsorbed molecules. The computa- tional visualisation of the RDG map, which shows a number of amazing zones enabled by the iso-surfaces created, such as van der Waals contacts, steric repulsion, and strong attractive attractions, allowed researchers to better understand intramolecular and intermolecular interactions within and between the study systems. Figure <ref type="figure" target="#fig_7">8</ref> depicts these map surfaces, from which the colours can be determined as follows: The green isosurfaces in the map structures reflect non-directional attraction caused by weak contact and van der Waals dispersion forces. [50-52] The strong interactions represented by the red isosurfaces, on the other hand, are largely induced by steric repulsion, albeit they also affect ion and molecule conformation and reactivity. The strong interactions represented by the red iso-surfaces, on the other hand, are largely induced by steric repulsion, albeit they also affect ion and molecule conformation and reactivity. This is predicated on the scartter maps' discovery of peak apparitions in the eigen's (λ2) extraordinarily very negative zone.. <ref type="bibr" target="#b52">[53]</ref><ref type="bibr" target="#b53">[54]</ref><ref type="bibr" target="#b54">[55]</ref><ref type="bibr" target="#b55">[56]</ref> This is consistent with the study of the quantum theory of atoms in molecules that has been provided here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The Density Functional Theory (DFT) method was utilized to investigate the interaction of fluvoxamine and serotonin, as well as the effect of substituting electron donor/acceptor groups (in fluvoxamine) to increase serotonin absorption as a covid-19 prevention strategy. The results obtained in this study showed that the electronic properties of fluvoxamine changed significantly with NO 2 doping. The electrophilic charge transfer (ECT) values of these structures show that the charge transfer rate is less than zero (ΔN &lt; 0 and therefore ECT &lt; 0), therefore serotonin acts as an electron donor and fluvoxamine as an electron/charge acceptor. The solubility of fluvoxamine improved after NO 2 binding due to a significant increase in the dipole moment. Also, with NH 2 and NO 2 doping, the adsorption energy increased significantly compared to pristine fluvoxamine. On the other hand, the increase in absorption energy during NH 2 doping occurred while the energy of HOMO/LUMO boundary orbitals in NH 2 -Fluvoxamine did not change signifi- cantly compared to pristine fluvoxamine. From the results, the binding energy of the most stable structure (Complex-A) was measured to be 12.59 and 11.65 kcal/mol. Based on the electronic structure analysis, an assessment of the stability of the studied systems in the gas phase reveals the following trend: Fluvoxamine-NH2 &gt; Fluvoxamine-NO2 &gt; Fluvoxamine-NH2/Ser &gt; Fluvoxamine-NO2/Ser, with corresponding energy gaps of 4.12, 2.65, 1.98, and 1.63 eV. According to the obtained results, NH 2 doping had no significant effect on the energy gap of pristine fluvoxamine. Therefore, NH 2 doping is a harmless electronic interaction and does not cause a significant change in drug properties, but by increasing the absorption energy, it can help to reduce the drug dose and increase its efficiency. The higher ρ(r) value in NO 2 -SER compound was observed from 147-bond critical point of the bond formation N54À H65…F19. information from non-covalent interaction showed that NH 2 - SER, and NO 2 -SER, exhibit strong attractive intermolecular interactions that validate the existence of hydrogen and stabilize the connections which is an indication of the effectiveness of the studied compounds for combatting Covid 19 disease.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Molecular structure of fluvoxamine and serotonin.</figDesc><graphic coords="2,47.85,629.06,241.57,100.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Electrostatic potentials map (ESP) of serotonin and fluvoxamine.</figDesc><graphic coords="3,96.72,589.10,401.84,140.43" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The optimized structure of different configurations of fluvoxamine drug and serotonin.</figDesc><graphic coords="5,109.98,66.61,375.31,369.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. IR spectra for pristine fluvoxamine and fluvoxamine doped with NH 2 /NO 2 .</figDesc><graphic coords="5,71.21,473.22,452.86,122.51" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Doping effect NH 2 /NO 2 on fluvoxamine energy gap (gas phase).</figDesc><graphic coords="7,45.58,426.22,246.10,146.61" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Doping effect NH 2 /NO 2 on fluvoxamine DOS spectrum (gas phase).</figDesc><graphic coords="7,69.73,610.30,455.81,119.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Pictorial representation of the QTAIM of atoms in molecules.</figDesc><graphic coords="8,85.55,66.62,424.12,324.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. The Pictorial representation of non-covalent interaction.</figDesc><graphic coords="9,112.88,66.61,369.47,494.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Energetic parameters and electronic properties of pristine fluvoxamine, serotonin, and different complexes of fluvoxamine/serotonin in the gas phase and water media.</figDesc><table><row><cell>Structure</cell><cell>E HOMO (eV)</cell><cell>E LUMO (eV)</cell><cell>E g (eV)</cell><cell>μ (eV)</cell><cell>η (eV)</cell><cell>ω (eV)</cell><cell>ECT</cell><cell>μ D (Debye)</cell><cell>E b</cell><cell>E sol (kcal/mol)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(kcal/mol)</cell><cell></cell></row><row><cell>Gas phase</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fluvoxamine</cell><cell>À 5.79</cell><cell>À 1.55</cell><cell>4.24</cell><cell>À 3.67</cell><cell>2.12</cell><cell>3.17</cell><cell>-</cell><cell>3.27</cell><cell>-</cell><cell>À 6.44</cell></row><row><cell>Serotonin</cell><cell>À 5.19</cell><cell>À 0.05</cell><cell>5.14</cell><cell>À 2.62</cell><cell>2.57</cell><cell>1.33</cell><cell>-</cell><cell>0.86</cell><cell>-</cell><cell>À 1.22</cell></row><row><cell>Complex-A</cell><cell>À 5.04</cell><cell>À 2.73</cell><cell>2.31</cell><cell>À 3.885</cell><cell>1.15</cell><cell>6.56</cell><cell>À 3.76</cell><cell>6.24</cell><cell>À 12.59</cell><cell>À 8.12</cell></row><row><cell>Complex-B</cell><cell>À 5.25</cell><cell>À 1.36</cell><cell>3.90</cell><cell>À 3.305</cell><cell>1.94</cell><cell>2.81</cell><cell>À 2.78</cell><cell>5.61</cell><cell>À 10.78</cell><cell>À 6.78</cell></row><row><cell>Complex-C</cell><cell>À 5.19</cell><cell>À 1.30</cell><cell>3.89</cell><cell>À 3.245</cell><cell>1.94</cell><cell>2.71</cell><cell>À 2.42</cell><cell>5.77</cell><cell>À 9.64</cell><cell>À 7.01</cell></row><row><cell>Complex-D</cell><cell>À 4.96</cell><cell>À 1.86</cell><cell>3.10</cell><cell>À 3.41</cell><cell>1.55</cell><cell>3.75</cell><cell>À 3.61</cell><cell>6.13</cell><cell>À 10.98</cell><cell>À 7.53</cell></row><row><cell>Complex-E</cell><cell>À 5.12</cell><cell>À 1.61</cell><cell>3.51</cell><cell>À 3.365</cell><cell>1.75</cell><cell>3.23</cell><cell>À 3.31</cell><cell>6.09</cell><cell>À 10.27</cell><cell>À 7.49</cell></row><row><cell>Complex-F</cell><cell>À 5.09</cell><cell>À 1.32</cell><cell>3.77</cell><cell>À 3.205</cell><cell>1.88</cell><cell>2.73</cell><cell>À 3.10</cell><cell>5.89</cell><cell>À 10.08</cell><cell>À 7.23</cell></row><row><cell>Water phase</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fluvoxamine</cell><cell>À 5.67</cell><cell>À 1.15</cell><cell>4.52</cell><cell>À 3.41</cell><cell>2.26</cell><cell>2.57</cell><cell>-</cell><cell>4.15</cell><cell>-</cell><cell>À 6.44</cell></row><row><cell>Serotonin</cell><cell>À 5.07</cell><cell>À 0.02</cell><cell>5.05</cell><cell>À 2.54</cell><cell>2.52</cell><cell>1.28</cell><cell>-</cell><cell>1.04</cell><cell>-</cell><cell>À 1.22</cell></row><row><cell>Complex-A</cell><cell>À 4.92</cell><cell>À 2.85</cell><cell>2.07</cell><cell>À 3.88</cell><cell>1.03</cell><cell>7.30</cell><cell>À 3.62</cell><cell>8.17</cell><cell>À 11.65</cell><cell>À 8.12</cell></row><row><cell>Complex-B</cell><cell>À 5.13</cell><cell>À 1.21</cell><cell>3.92</cell><cell>À 3.17</cell><cell>1.96</cell><cell>2.56</cell><cell>À 2.14</cell><cell>6.98</cell><cell>À 10.12</cell><cell>À 6.78</cell></row><row><cell>Complex-C</cell><cell>À 5.07</cell><cell>À 1.12</cell><cell>3.95</cell><cell>À 3.09</cell><cell>1.97</cell><cell>2.42</cell><cell>À 2.31</cell><cell>6.82</cell><cell>À 9.35</cell><cell>À 7.01</cell></row><row><cell>Complex-D</cell><cell>À 4.84</cell><cell>À 1.11</cell><cell>3.73</cell><cell>À 2.97</cell><cell>1.86</cell><cell>2.37</cell><cell>À 3.41</cell><cell>7.88</cell><cell>À 11.02</cell><cell>À 7.53</cell></row><row><cell>Complex-E</cell><cell>À 5.00</cell><cell>À 1.46</cell><cell>3.54</cell><cell>À 3.23</cell><cell>1.77</cell><cell>2.94</cell><cell>À 3.22</cell><cell>7.71</cell><cell>À 10.65</cell><cell>À 7.49</cell></row><row><cell>Complex-F</cell><cell>À 4.97</cell><cell>À 1.17</cell><cell>3.80</cell><cell>À 3.07</cell><cell>1.90</cell><cell>2.48</cell><cell>À 3.13</cell><cell>7.62</cell><cell>À 10.47</cell><cell>À 7.23</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Results obtained for the cohesive energy for the fluvoxamine doped with NH 2 /NO 2 .</figDesc><table><row><cell>Structure</cell><cell>Cohesive energy</cell><cell>Cohesive energy</cell></row><row><cell></cell><cell>(Kcal.mol À 1 )</cell><cell>(Kcal.mol À 1 )</cell></row><row><cell></cell><cell>(gas phase)</cell><cell>(water solvent)</cell></row><row><cell>Fluvoxamine-</cell><cell>142.24</cell><cell>130.95</cell></row><row><cell>NO 2</cell><cell></cell><cell></cell></row><row><cell>Fluvoxamine-</cell><cell>156.35</cell><cell>155.98</cell></row><row><cell>NH 2</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Energy parameters and electronic properties of fluvoxamine doped with NH2/NO2, serotonin, and their complexes in the gas phase and water media.</figDesc><table><row><cell>Structure</cell><cell>E HOMO (eV)</cell><cell>E LUMO (eV)</cell><cell>E g (eV)</cell><cell>μ (eV)</cell><cell>η (eV)</cell><cell>ω (eV)</cell><cell>ECT</cell><cell>μ D (Debye)</cell><cell>E b</cell><cell>E sol (kcal/mol)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(kcal/mol)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Gas phase</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fluvoxamine-NO2</cell><cell>À 5.59</cell><cell>À 2.94</cell><cell>2.65</cell><cell>À 4.26</cell><cell>1.32</cell><cell>6.87</cell><cell>À</cell><cell>11.15</cell><cell>À</cell><cell>À</cell></row><row><cell>Fluvoxamine-NH2</cell><cell>À 5.72</cell><cell>À 1.60</cell><cell>4.12</cell><cell>À 3.66</cell><cell>2.06</cell><cell>3.25</cell><cell>À</cell><cell>6.72</cell><cell>À</cell><cell>À</cell></row><row><cell>F uvoxamine-NO2/Ser</cell><cell>À 4.18</cell><cell>À 2.55</cell><cell>1.63</cell><cell>À 3.36</cell><cell>0.81</cell><cell>6.94</cell><cell>À 4.84</cell><cell>11.62</cell><cell>À 53.25</cell><cell>À 16.14</cell></row><row><cell>Fluvoxamine-NH2/Ser</cell><cell>À 4.08</cell><cell>À 2.10</cell><cell>1.98</cell><cell>À 3.09</cell><cell>0.99</cell><cell>4.82</cell><cell>À 4.27</cell><cell>10.13</cell><cell>À 43.67</cell><cell>À 12.23</cell></row><row><cell>Water phase</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fluvoxamine-NO2</cell><cell>À 4.22</cell><cell>À 2.15</cell><cell>2.07</cell><cell>À 3.18</cell><cell>1.03</cell><cell>4.90</cell><cell>À</cell><cell>15.22</cell><cell>À</cell><cell>À</cell></row><row><cell>Fluvoxamine-NH2</cell><cell>À 5.59</cell><cell>À 1.13</cell><cell>4.46</cell><cell>À 3.36</cell><cell>2.23</cell><cell>2.53</cell><cell>À</cell><cell>10.97</cell><cell>À</cell><cell>À</cell></row><row><cell>Fluvoxamine-NO2/Ser</cell><cell>À 4.09</cell><cell>À 2.51</cell><cell>1.58</cell><cell>À 3.30</cell><cell>0.79</cell><cell>6.89</cell><cell>À 4.67</cell><cell>23.17</cell><cell>À 59.18</cell><cell>À 16.14</cell></row><row><cell>Fluvoxamine-NH2/Ser</cell><cell>À 4.01</cell><cell>À 2.08</cell><cell>1.93</cell><cell>À 3.04</cell><cell>0.96</cell><cell>4.80</cell><cell>À 4.03</cell><cell>22.18</cell><cell>À 45.73</cell><cell>À 12.23</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Quantum theory of atom in molecule estimated at DFT/B3LYP/6-311 + G (d,p) level.</figDesc><table><row><cell>Systems</cell><cell>Bond</cell><cell>BCP</cell><cell>ρ(r)</cell><cell>G(r)</cell><cell>K(r)</cell><cell>V(r)</cell><cell>H(r)</cell><cell>r2ρ</cell><cell>ELF</cell><cell>λ1</cell><cell>λ2</cell></row><row><cell>Flox</cell><cell>C 7 À N 9</cell><cell>76</cell><cell>0.351</cell><cell>0.263</cell><cell>0.460</cell><cell>À 0.723</cell><cell>À 0.460</cell><cell>À 0.789</cell><cell>0.785</cell><cell>À 0.747</cell><cell>0.562</cell></row><row><cell></cell><cell>N 9 À O 11</cell><cell>78</cell><cell>0.237</cell><cell>0.136</cell><cell>0.132</cell><cell>À 0.268</cell><cell>À 0.132</cell><cell>0.176</cell><cell>0.786</cell><cell>0.979</cell><cell>À 0.492</cell></row><row><cell>NH 2 -SER</cell><cell>F19…H 9 À N 54</cell><cell>104</cell><cell>0.746</cell><cell>0.684</cell><cell>À 0.152</cell><cell>À 0.532</cell><cell>0.152</cell><cell>0.334</cell><cell>0.140</cell><cell>À 0.889</cell><cell>0.514</cell></row><row><cell></cell><cell>N 16 -H 12 À O 51</cell><cell>149</cell><cell>0.419</cell><cell>0.307</cell><cell>0.422</cell><cell>À 0.351</cell><cell>À 0.422</cell><cell>0.106</cell><cell>0.181</cell><cell>0.245</cell><cell>À 0.688</cell></row><row><cell>NO 2 -SER</cell><cell>N 16 À H 38 …O51</cell><cell>86</cell><cell>0.165</cell><cell>0.149</cell><cell>À 0.204</cell><cell>À 0.128</cell><cell>0.205</cell><cell>0.676</cell><cell>0.409</cell><cell>0.113</cell><cell>À 0.233</cell></row><row><cell></cell><cell>N 54 À H 67 -C 5</cell><cell>138</cell><cell>0.158</cell><cell>0.126</cell><cell>À 0.174</cell><cell>À 0.109</cell><cell>0.174</cell><cell>0.574</cell><cell>0.485</cell><cell>0.963</cell><cell>À 0.196</cell></row><row><cell></cell><cell>N 54 À H 65 …F 19</cell><cell>147</cell><cell>0.537</cell><cell>0.516</cell><cell>À 0.168</cell><cell>À 0.346</cell><cell>0.169</cell><cell>0.273</cell><cell>0.833</cell><cell>0.359</cell><cell>À 0.306</cell></row><row><cell></cell><cell>O 69 À F 20</cell><cell>148</cell><cell>0.124</cell><cell>0.122</cell><cell>À 0.298</cell><cell>À 0.920</cell><cell>0.298</cell><cell>0.607</cell><cell>0.241</cell><cell>0.811</cell><cell>À 0.112</cell></row><row><cell></cell><cell>O 69 À F 22</cell><cell>153</cell><cell>0.104</cell><cell>0.970</cell><cell>À 0.228</cell><cell>À 0.742</cell><cell>0.228</cell><cell>0.479</cell><cell>0.210</cell><cell>0.617</cell><cell>À 0.903</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ChemistrySelect 2023, 8, e202302980 (2 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>23656549, 2023, 42, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202302980 by CASE WESTERN RESERVE UNIVERSITY, Wiley Online Library on [28/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>ChemistrySelect 2023, 8, e202302980 (3 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>ChemistrySelect 2023, 8, e202302980 (4 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>ChemistrySelect 2023, 8, e202302980 (5 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p>ChemistrySelect 2023, 8, e202302980 (6 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6"><p>ChemistrySelect 2023, 8, e202302980 (7 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_7"><p>ChemistrySelect 2023, 8, e202302980 (8 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_8"><p>ChemistrySelect 2023, 8, e202302980 (9 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_9"><p>ChemistrySelect 2023, 8, e202302980 (10 of 11) © 2023 Wiley-VCH GmbH</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_10"><p>ChemistrySelect 2023, 8, e202302980 (11 of 11) © 2023 Wiley-VCH GmbH</p></note>
+		</body>
+		<back>
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This research was not funded by any governmental or nongovernmental agency.</p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data sharing is not applicable to this article as no new data were created or analyzed in this study.</p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of Data</head><p>All data are contained within the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>H.L.: Analysis, investigation, reading, and writing. H.H.: Conceptualization, analysis, and manuscript first draft. T.G. and N.O.: Manuscript revision, review, and proofreading. K.J.: Analysis, writing, and editing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interests</head><p>The authors declare no conflicts of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Modi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Sagar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">252</biblScope>
+			<biblScope unit="page" from="117" to="652" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. Shah, P. Modi, S. R. Sagar, Life Sci. 2020. 252, 117-652.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yousefi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mashouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Okpechi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alahari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Alahari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page">114296</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Yousefi, L. Mashouri, S. C. Okpechi, N. Alahari, S. K. Alahari, Biochem. Pharmacol. 2021. 183, 114296.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Rihmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rujescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sarchiapone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sokolowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Titelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Carli</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eurpsy.2011.06.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="129" to="141" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Wasserman, Z. Rihmer, D. Rujescu, M. Sarchiapone, M. Sokolowski, D. Titelman, V. Carli, Eur. Psychiatry 2012, 27, 129-141.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moynihan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Henry</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.324.7342.886</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bmj</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="886" to="891" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Moynihan, P. CG, I. Heath, D. Henry, Bmj 2002, 324, 886-891.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhuta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Khokher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kesireddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iftikhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mhanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Assaly</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/MJT.0000000000001496</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Ther</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="298" to="e304" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Bhuta, W. Khokher, N. Kesireddy, S. Iftikhar, A. Beran, M. Mhanna, R. Assaly, Am. J. Ther 2022, 29, e298-e304.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Calusic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marcec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luksa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jurkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kovac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mihaljevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Likic</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bcp.15126</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Clin. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="2065" to="2073" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Calusic, R. Marcec, L. Luksa, I. Jurkovic, N. Kovac, S. Mihaljevic, R. Likic, Br. J. Clin. Pharmacol. 2022, 88, 2065-2073.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santos</forename><surname>Moreira-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C M</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thabane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Milagres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Global Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="42" to="e51" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Reis, E. A. dos Santos Moreira-Silva, D. C. M. Silva, A. Thabane, A. C. Milagres, T. S. Ferreira, E. J. Mills, Lancet Global Health 2022, 10, e42-e51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Calusic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marcec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luksa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jurkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kovac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mihaljevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Likic</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bcp.15126</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Clin. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="2065" to="2073" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Calusic, R. Marcec, L. Luksa, I. Jurkovic, N. Kovac, S. Mihaljevic, R. Likic, Br. J. Clin. Pharmacol. 2022, 88, 2065-2073.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Lan</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santos</forename><surname>Moreira-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C M</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thabane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Milagres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glo. Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="42" to="e51" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Reis, E. A. dos Santos Moreira-Silva, D. C. M. Silva, L. Thabane, A. C. Milagres, T. S. Ferreira, E. J. Mills, The Lan. Glo. Health 2022 10, e42-e51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1007/978-4-431-54442-5</idno>
+		<editor>T. Yoshimoto, T. Yoshimoto, T.</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Yoshimoto, T. Yoshimoto, T. (Eds.). 2013. DOI: 10.1007/978-4-431- 54442-5.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Murtaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Baarsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Scamurra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0165-2427(96)05698-X</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Immunol. Immunopathol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="45" to="55" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. P. Murtaugh, M. J. Baarsch, Y. Zhou, R. W. Scamurra, G. Lin, Vet. Immunol. Immunopathol. 1996, 54, 45-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Netea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Domínguez-Andrés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Barreiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chavakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Divangahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fuchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Latz</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41577-020-0285-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="375" to="388" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. G. Netea, J. Domínguez-Andrés, L. B. Barreiro, T. Chavakis, M. Divangahi, E. Fuchs, E. Latz, Nat. Rev. Immunol. 2020, 20, 375-388.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Afahanam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Ikot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L E</forename><surname>Manicum</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsomega.2c06630</idno>
+		<ptr target="https://pubs.acs.org/doi/full/10.1021/acsomega.2c06630" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Omega</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="9861" to="9872" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. E. Afahanam, H. Louis, I. Benjamin, T. E. Gber, I. J. Ikot, A. L. E. Manicum, ACS Omega. 2023, 8(11), 9861-9872, https://pubs.acs.org/doi/ full/10.1021/acsomega.2c06630.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Effenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Szpirt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theranostics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">316</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. S. Kim, J. Y. Lee, J. W. Yang, K. H. Lee, M. Effenberger, W. Szpirt, J. I. Shin, Theranostics 2021, 11, 316.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ghasemzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ghasemzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hosseini</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.humimm.2021.09.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="86" to="98" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Ghasemzadeh, A. Ghasemzadeh, E. Hosseini, Hum. Immunol. 2022, 83, 86-98.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dadkhah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Novir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Balali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Theor. Chem</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="33" to="45" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Dadkhah, S. B. Novir, E. Balali, Comput. Theor. Chem. 2017, 11, 33-45.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Staroń</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pietruś</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bugno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kurczab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Satała</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Warszycki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bojarski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Med. Chem</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page">113533</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Staroń, W. Pietruś, R. Bugno, R. Kurczab, G. Satała, D. Warszycki, A. J. Bojarski, Eur. J. Med. Chem. 2021, 220, 113533.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Etinwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ekereke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Offiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chphi.2023.100291</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phy. Impact</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">100291</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. E. Gber, B. Etinwa, I. Benjamin, E. Ekereke, O. E. Offiong, A. S. Adeyinka, H. Louis, Chem. Phy. Impact. 2023, 7, 100291.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Marković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Joksović</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jakovljević</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Struct</title>
+		<imprint>
+			<biblScope unit="volume">1058</biblScope>
+			<biblScope unit="page" from="291" to="297" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Marković, M. D. Joksović, S. Marković, I. Jakovljević, J. Mol. Struct. 2014, 1058, 291-297.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Charlie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Egemonye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Orosun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Iran. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Louis, T. E. Gber, D. E. Charlie, T. C. Egemonye, M. M. Orosun, J. Iran. Chem. Soc. 2022, 78, 1-17.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dennington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Millam</surname></persName>
+		</author>
+		<title level="m">GaussView 6.0. 16</title>
+		<meeting><address><addrLine>KS, USA; HyperChem, T.; Gainesville, Hypercube</addrLine></address></meeting>
+		<imprint>
+			<publisher>HyperChem Professional Program</publisher>
+			<date type="published" when="2001">2001. 2016</date>
+		</imprint>
+	</monogr>
+	<note>HyperChem 8.07</note>
+	<note type="raw_reference">R. Dennington, T. A. Keith., J. M. Millam., GaussView 6.0. 16. Semichem Inc.: Shawnee Mission, KS, USA. HyperChem, T. (2001). HyperChem 8.07, HyperChem Professional Program. Gainesville, Hypercube. 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Frisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Trucks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Schlegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Scuseria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Robb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Cheeseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scalmani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Petersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakatsuji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caricato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Marenich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bloino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Janesko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gomperts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mennucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hratchian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Izmaylov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sonnenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Williams-Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lipparini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Egidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Petrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ranasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Zakrzewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ehara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Toyota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hasegawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Honda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kitao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vreven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Throssell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Montgomery</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Peralta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ogliaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bearpark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Heyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Brothers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Kudin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>Staroverov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Normand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Raghavachari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Rendell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Burant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tomasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Millam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cammi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Ochterski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Morokuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Foresman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Inc</forename><surname>Gaussian</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Wallingford CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, J. B. Foresman, D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Manby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Alfè</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gillan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="5178" to="5180" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. R. Manby, D. Alfè, M. J. Gillan, Phys. Chem. Chem. Phys. 2006, 44, 5178-5180.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="31" to="53" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Kong, F. Li, Phys. Rev. B 1997, 56, 31-53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Reza</forename><surname>Shamlouei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Inclusion Phenom. Macrocyclic Chem</title>
+		<imprint>
+			<biblScope unit="page" from="557" to="568" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Hadi, H. Reza Shamlouei, J. Inclusion Phenom. Macrocyclic Chem. 2022, 557-568.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Ogunwale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. of Envir Chem Eng</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="108" to="802" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. J. Ogunwale, H. Louis, T. E. Gber, A. S. Adeyinka, J. of Envir Chem Eng 2022, 10, 108-802.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">J</forename><surname>Undiandeye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Egemonye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Agwamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Undiandeye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Ita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ind Chem Soc</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="100" to="500" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">U. J. Undiandeye, H. Louis, T. E. Gber, T. C. Egemonye, E. C. Agwamba, I. A. Undiandeye, A. S. Adeyinka, B. I. Ita, J. Ind Chem Soc. 2022, 99, 100- 500.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Eno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Unimuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Mbonu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Ndubisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Adalikwu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jil.2022.100030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ion Liq</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">100030</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. A. Eno, H. Louis, T. O. Unimuke, T. E. Gber, I. J. Mbonu, C. J. Ndubisi, S. A. Adalikwu, J. Ion Liq. 2022, 2, 100030.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ebrahimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Rezanejade</forename><surname>Bardajee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Poly Resea</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Ebrahimi, G. Rezanejade Bardajee, J. Poly Resea 2021, 28, 35.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rezaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Shamlouei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Struct</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="49" to="61" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Rezaei, H. R. Shamlouei, J. Mol. Struct. 2023, 13 49-61.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Raj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Ranjith-Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Surjit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Emerg. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="451" to="478" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Verma, S. Raj, U. Berry, C. T. Ranjith-Kumar, M. Surjit, Drug Emerg. Infect. Dis 2023, 12, 451-478.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.mtchem.2022.101354</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Today Chem</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">101354</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Dong, Y. Zhang, F. H. Tian, L. Sun, J. Zhang, Mater. Today Chem. 2023, 28, 101354.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Raposo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. B</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="100" to="500" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. J. Raposo, J. Phys. Chem. B 2023, 99, 100-500.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cortés-Guzmán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Elsevier</publisher>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="53" to="71" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Cortés-Guzmán, J. I. Rodríguez, J. S. Anderson, Elsevier. 2023, 9, 53-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Bader</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jp102748b</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="7431" to="7444" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. F. Bader, J. Phys. Chem. A 2010, 114, 7431-7444.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Odey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Ita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Edet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ashishie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Effa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ChemistrySelect</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">e202203832</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. O. Odey, H. Louis, D. K. Ita, H. O. Edet, P. B. Ashishie, T. E. Gber, A. G. Effa, ChemistrySelect 2023, 8, e202203832.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Egemonye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Unimuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Edet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Bassey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.arabjc.2022.104026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ara J. Chem</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">104026</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. C. Egemonye, H. Louis, T. O. Unimuke, T. E. Gber, H. O. Edet, V. M. Bassey, A. S. Adeyinka, Ara J. Chem. 2022, 15, 104026.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Karimzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Safaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Jen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.molliq.2020.114890</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Liq</title>
+		<imprint>
+			<biblScope unit="volume">322</biblScope>
+			<biblScope unit="page">114890</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Karimzadeh, B. Safaei, T. C. Jen, J. Mol. Liq. 2021, 322, 114890.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Ikenyirimba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Unimuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Mathias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Louis, O. J. Ikenyirimba, T. O. Unimuke, G. E. Mathias, T. E. Gber, A. S. Adeyinka, Sci. Rep. 2022. 12, 1-21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Apebende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Amodu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Asogwa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift für Phys. Chemie</title>
+		<imprint>
+			<biblScope unit="volume">236</biblScope>
+			<biblScope unit="page" from="1515" to="1546" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. G. Apebende, H. Louis, A. E. Owen, I. Benjamin, I. O. Amodu, T. E. Gber, F. C. Asogwa, Zeitschrift für Phys. Chemie 2022. 236, 1515-1546.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Ekereke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Isang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ikeuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Amodu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Agwamba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Omega</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="35118" to="35135" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Louis, E. E. Ekereke, B. B. Isang, A. I. Ikeuba, I. O. Amodu, T. E. Gber, E. C. Agwamba, ACS Omega. 2022, 12, 35118-35135.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Apebende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Magu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Asogwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">B</forename><surname>Onyebuenyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Unimuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Results in Chem</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">100669</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. G. Apebende, T. O. Magu, F. C. Asogwa, I. B. Onyebuenyi, T. O. Unimuke, T. E. Gber, Results in Chem. 2022. 4, 100669.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Inah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Eze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Edet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Eno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem Phy impact</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">100265</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. E. Inah, J. F. Eze, H. Louis, H. O. Edet, T. E. Gber, E. A. Eno, A. S. Adeyinka, Chem Phy impact. 2023. 7, 100265.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Isang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Unimuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Amodu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ikeuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Sol state electrochem</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Louis, B. B. Isang, T. O, Unimuke, T. E. Gber, I. O. Amodu, A. I. Ikeuba, A. S. Adeyinka, J. Sol state electrochem. 2022, 9, 1-13.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Emori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Adalikwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Timothy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polycyclic Aromat. Compd</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Emori, H. Louis, S. A. Adalikwu, R. A. Timothy, C. R. Cheng, T. E. Gber, A. S. Adeyinka, Polycyclic Aromat. Compd. 2022. 17, 1-18.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Agida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Oche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Ashishel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">F</forename><surname>Ede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Agwamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Talanta open</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="2" to="52" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. E. Gber, C. A. Agida, H. Louis, D. Oche, B. P. Ashishel, O. F. Ede, E. C. Agwamba, A. S. Adeyinka, Talanta open 2023, 10, 02-52.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Henriquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sirimulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Narayan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecules</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="13" to="97" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Mendez, G. Henriquez, S. Sirimulla, M. Narayan, Molecules 2017. 22, 13-97.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saleh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Presti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp. theor. Chem</title>
+		<imprint>
+			<biblScope unit="volume">998</biblScope>
+			<biblScope unit="page" from="148" to="163" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Saleh, C. Gatti, L. L. Presti, Comp. theor. Chem. 2012. 998, 148-163.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Timothy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Adindu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Agwamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Offiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Pembere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol Liqs</title>
+		<imprint>
+			<biblScope unit="volume">390</biblScope>
+			<biblScope unit="page">122950</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. A. Timothy, H. Louis, E. A. Adindu, T. E. Gber, E. C. Agwamba, O. E. Offiong, A. M. Pembere, J. Mol Liqs. 2023, 390, 122950.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Utsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Nwosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Nwagu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Ikot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polycycl Aromat Compd</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. M. Utsu, T. E. Gber, D. O. Nwosa, A. D. Nwagu, I. Benjamin, I. J. Ikot, H. Louis, Polycycl Aromat Compd. 2023, 8, 1-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Inah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Utsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Ayi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Talanta</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">124777</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. A. Anyama, B. Inah, P. Utsu, A. A. Ayi, Talanta 2023, 12, 124777.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Oyo-Ita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Nsofor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Edet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">O</forename><surname>Ogungbemiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.mseb.2023.116668</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. B</title>
+		<imprint>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page">116668</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Oyo-Ita, H. Louis, V. C. Nsofor, H. O. Edet, T. E. Gber, F. O. Ogungbe- miro, A. S. Adeyinka, Mater. Sci. Eng. B 2023, 296, 116668.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Utsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Ayi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jics.2023.100993</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Indian Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">100993</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. M. Utsu, C. A. Anyama, T. E. Gber, A. A. Ayi, H. Louis, J. Indian Chem. Soc. 2023, 100, 100993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">J</forename><surname>Undiandeye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Inah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Emori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Anna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Okoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phy impact</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">100290</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">U. J. Undiandeye, B. E. Inah, O. C. Godfrey, W. Emori, I. Anna, B. C. Okoro, H. Louis, Chem. Phy impact 2023. 7, 100290.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Ngana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Amodu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Ekereke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Adeyinka</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/D3RA02939E</idno>
+	</analytic>
+	<monogr>
+		<title level="j">A. Rsc advan</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="25391" to="25407" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. E. Gber, H. Louis, O. C. Ngana, I. O. Amodu, E. E. Ekereke, I. Benjamin, A. S. Adeyinka, A. Rsc advan 2023, 13, 25391-25407.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Asogwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Gber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Isamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Adalikwua</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/S2737416523500515</idno>
+		<idno>.1142/S2737416523500515</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Biophys. Chem</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2023-07-31">2023. July 31, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Manuscript received</note>
+	<note type="raw_reference">F. C. Asogwa, H. Louis, T. E. Gber, B. K. Isamura, S. A. Adalikwua, J. Comput. Biophys. Chem. 2023, 82, 1-15 10.1142/S2737416523500515. Manuscript received: July 31, 2023</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

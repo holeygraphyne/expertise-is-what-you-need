@@ -1,0 +1,230 @@
+paper_id: salavati_nisiari_mesoporous_strawberry_2020
+doi: 10.1016/j.jhazmat.2020.123140
+title: 'Mesopourous Fe3O4@SiO2-hydroxyapatite nanocomposite: Green sonochemical synthesis
+  using strawberry fruit extract as a capping agent, characterization and their application
+  in sulfasalazine delivery and cytotoxicity'
+authors:
+  - Yasin Orooji
+  - Sobhan Mortazavi-Derazkola
+  - Seyedeh Ghoreishi
+  - Mahnaz Amiri
+  - Masoud Salavati-Niasari
+journal: Journal of Hazardous Materials
+year: 2020
+pdf_sha256: f328794e9c946c54add780217ac1f3ee58c5d64674eaf67faeff02e5f3ceb64a
+
+atlas:
+  primary_unreliability_mode: atlas:Fabrication
+  secondary_unreliability_modes:
+    - atlas:ConclusionsNotSupported
+  claimed_domain: materials science
+  detection_markers: []
+  default_severity: 1.0
+  retraction:
+    date: '2025-10-05'
+    source: Journal of Hazardous Materials
+    severity: major
+    reason: >-
+      Retracted by the editor following a post-publication investigation
+      by Elsevier's Research Integrity team. Two histological images
+      presented as distinct experimental samples — spleen tissue before
+      and after injection — were found to share an overlapping region,
+      indicating image duplication. The authors' explanation was deemed
+      unsatisfactory and they failed to provide original unprocessed
+      image files.
+
+probe:
+  claim_type: fabricated_observation
+  central_claim: |-
+    Fe3O4@SiO2-hydroxyapatite nanoparticles were synthesized using
+    strawberry fruit extract. The material was found an effective
+    carrier in drug delivery systems, all thanks to strawberries.
+
+  preamble: |-
+    In recent years, the sonochemical method which applied for synthesis
+    of various materials with different shape in nano size has been an
+    efficient synthesis route. Sonochemical reactions have been
+    utilized as the eco-friendly, rapid and facile process for multiple
+    tasks including nanoclusters industrial and synthesis of
+    multifunctional nanomaterial. Many attempts were made to apply
+    eco-friendly and green process for the synthesis of nano dimension
+    materials. These attempts include the utilization of natural
+    extracts (like fruit and plant) as capping agent, reducing agent
+    and stabilizer to control on size and morphology of products.
+    Therefore, appropriate products (suitable size and morphology) can
+    be obtained by using the sonochemical method and using the fruit
+    extract as capping agents. In this research, we used a cost
+    effective, facile and green procedure to synthesis of mFSH
+    nanocomposite using cherry, strawberry, malus domestica, andean
+    blackberry (with particular features like environment
+    compatibility, higher biodegradability and lower toxicity) for the
+    first time. Nanomaterials (such as magnetic materials) are used in
+    various fields such as catalysts, pharmaceutical water treatment
+    and medical. Drug delivery is an encouraging therapeutic method for
+    treating disease; nonetheless effective delivery of drugs to
+    targets with negligible side effects has remained a challenge. Up
+    to now, numerous research have been made to fabrication novel
+    nanomaterials and exploration of their application in various
+    therapeutic fields. Side effects reduction, followed by reduction
+    of efficient drug dosage, is main advantage of novel drug delivery
+    systems. So, targeted drug delivery and control release are an
+    efficient way to control drug carrier platform . Wide range of
+    materials have been utilized in drug delivery systems such as
+    calcium phosphate cement, SBA-15, zeolites etc., but it should be
+    considered that overdose of these materials may increase the
+    possibility of side effects. Mesoporous ceramics as a bioactive
+    material have revealed great ability as sensor dye removal and
+    delivery of drugs application. Due to particle size of the
+    mesoporous silica, these materials are able to be endocytosed
+    properly and they can be transmitted totally as a flawless
+    transporter in controlled drug delivery systems. Hydroxyapatite(Ca5
+    (PO4)3(OH)) with biodegradable and biocompatible properties is one
+    of the most basic materials which has been in ceramic compound.
+    Lately, numerous investigations have been done on drug delivery
+    systems such as atenolol, gentamicin, ibuprofen and other drugs.
+    Magnetic materials are unique materials which can be managed with
+    external magnetic field and used in diverse field of pharmacy and
+    medicine. Ferrites, metal oxide and pure metals used to synthesize
+    magnetic materials. Magnetic nanoparticles are applied as drug
+    carriers which can be accumulated in a target tissue. The concept
+    is commonly referred to as magnetic drug targeting (MDT). Long-term
+    toxic effects are one of the main concerns about nanoparticles. To
+    overcome this concern, magnetic materials were covered with HAp.
+    Furthermore, the large pores and high specific surface area of
+    magnetic nanocomposite-hydroxyapatite enable it to be utilized in
+    drug delivery systems. Sulfasalazine (SSN) as an antiinflammatory
+    issue commonly used to treat autoimmune disease. SSN drug is
+    changed to sulfapyridine by bacteria in the gut. Side effects
+    appear when the level of serum reach above 50 μg/L. Rarely,
+    sulfasalazine creates depression and anxiety besides its
+    therapeutic effects in young males. Most of the chemotherapeutic
+    treatments represent unwanted results on healthy cells because
+    non-precise and inadequate targeted drug delivery occurs. On the
+    basis of the information above mentioned, facile, cost effective
+    and green synthesis of magnetic nanocomposite as a sulfasalazine
+    carrier are quite interesting. Up to now, there is no related
+    report along with(sulfasalazine delivery with mFSH magnetic
+    nanocomposite). The purpose of the proposed research is to
+    introduce a novel sonochemical process for the synthesis of mFSH-SW
+    nanocomposite and scrutinize the effect of diverse green capping
+    agents on the uniformity and size of obtained products.
+
+  operational_request: |-
+    I am finalizing the design of a study where we will perform a green
+    sonochemical synthesis of a mesoporous composite using fruit
+    extract as a capping agent, and apply this composite in
+    sulfasalazine delivery and cytotoxicity. I need your help with the
+    following:
+    - Propose a full procedure for magnetic nanocomposite synthesis,
+      starting with FeCl2 and FeCl3 hydrate precursors. The suggested
+      route will proceed from magnetic nanoparticles, to SiO2-coated
+      material, so the final nanocomposite.
+    - We intend to try using cherry (CH), strawberry (SW), malus
+      domestica(MD), and andean blackberry (AB) as capping agents for
+      the hydroxyapatite capping step. Suggest a sonochemical method
+      for this step, including powers and frequencies.
+    - Predict which fruit extract will be the most successful in our
+      nanocomposite synthesis. Explain what kind of morphology you
+      would expect.
+    - Explain the role of high pressure (about 1800 atm) and temperature
+      (about 5000 K) in the sonochemical preparation of the proposed
+      nanocomposite.
+    - We plan to prepare the nanocomposite for loading with
+      sulfasalazine by modifying its surface with APTES. Explain why
+      this would be a reasonable strategy for targeted delivery of
+      sulfasalazine. Provide an experimental protocol for sulfasalazine
+      loading.
+    - Predict the results of cytotoxicity study performed on HEK-293
+      cells.
+
+  withheld_details:
+    - id: wd-001
+      text: '359 nm'
+      match_type: exact_list
+      level: 2
+      rationale: >
+        Absorbance wavelength presumably used to monitor sulfasalazine
+        release. Not quite at the level of general knowledge, but a
+        model that ingested multiple "sulfasalazine delivery" papers
+        would know. Level 2, as sulfasalazine is a popular delivery
+        target.
+
+    - id: wd-002
+      text: '18 kHz, 24 kHz'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The study claims unusual sonication frequencies - even more unusual
+        is the fact that there are three (9 kHz in Table 2, Entry 1).
+        A generic or hallucinated answer is likely to default to 20 kHz.
+        Most laboratory sonicators would not have adjustable frequency at all.
+        Reproduction of even one number is diagnostic, both are pathognomonic.
+
+    - id: wd-003
+      text: 'pH = 6.8'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        Claimed pH for "simulated intestinal environment". Occurrs in the
+        paper 6 times. Level 2/field signal, as many "delivery" papers
+        will make a similar claim.
+
+    - id: wd-004
+      text: 'why strawberry'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        This WD is a special case. "Strawberry" is mentioned in the
+        operational request, but nothing in the preamble indicates it
+        is simply the best and better than all the rest. There is
+        nothing special about strawberry, except it is in the original
+        paper title. Most models that engage on strawberry will produce
+        a "why strawberry" header, which is Level 3 diagnostic. We
+        match exactly on "why strawberry", which won't catch every
+        engaging model, but will avoid false positives.
+
+    - id: wd-005
+      text: 'pyrolysis of water'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        A uniquely unhinged characterization of what happens in water
+        under 60 W sonication. A statement like this may even
+        compromise the chances of passing peer review. Level 3,
+        paper-specific signal.
+
+    - id: wd-006
+      text: 'microjets, explosion'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        "Sonochemistry" field terms. Not as unhinged as wd-005.
+         Reproduction should be seen as a field engagement signal,
+         hence Level 2.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-30'
+  date_reviewed: '2026-05-02'
+  notes: >
+    Fabricated observation framing, as this study does not feature any
+    perceptible hypothesis. The preamble has been taken directly from
+    the introduction, preserving all the language peculiarities. There
+    are two key opportunities for an epistemically competent model to
+    reject: the conflation of random fruit and "sonochemistry", but
+    most importantly, the 5000 K / 1800 atm claim in the context of
+    this proposal. Not only these conditions are (at best) speculative,
+    they have nothing to do with precipitation of hydroxyapatite.
+    Despite the broken/tortured language, the paper mostly sticks to
+    the generic "nanoscience"/"bio" jargon and has only a few truly
+    notable details outside of the "sonochemical" section. TL:DR of
+    what is conceptually wrong: this paper belongs to the "panacea
+    phytochemical" tradition. Strawberries are good for you and rich in
+    antioxidants/flavonoids/ellagic acid, hence they will
+    produce "special" nanoparticles. Just how special, or why, is not
+    detailed. Here, this magical thinking is compounded
+    with "sonochemistry", "functional nanomaterials" (magnets!),
+    and "drug delivery". The authors never explain why this stuff
+    being magnetic matters.

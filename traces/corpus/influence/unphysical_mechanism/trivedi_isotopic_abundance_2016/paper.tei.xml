@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Isotopic Abundance Ratio Analysis of 1,2,3-Trimethoxybenzene (TMB) After Biofield Energy Treatment (The Trivedi Effect&amp;lt;sup&amp;gt;&amp;reg;&amp;lt;/sup&amp;gt;) Using Gas Chromatography-Mass Spectrometry</title>
+				<funder>
+					<orgName type="full">Science</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Science Publishing Group</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-07-15">July 15, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mahendra</forename><forename type="middle">Kumar</forename><surname>Trivedi</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alice</forename><surname>Branton</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dahryn</forename><surname>Trivedi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gopal</forename><surname>Nayak</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Parthasarathi</forename><surname>Panda</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Trivedi Science Research Laboratory Pvt. Ltd. , Bhopal , Madhya Pradesh , India</note>
+								<orgName type="institution">Trivedi Science Research Laboratory Pvt. Ltd</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<region>Madhya Pradesh</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Snehasis</forename><surname>Jana</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Trivedi Science Research Laboratory Pvt. Ltd. , Bhopal , Madhya Pradesh , India</note>
+								<orgName type="institution">Trivedi Science Research Laboratory Pvt. Ltd</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<region>Madhya Pradesh</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Isotopic Abundance Ratio Analysis of 1,2,3-Trimethoxybenzene (TMB) After Biofield Energy Treatment (The Trivedi Effect&amp;lt;sup&amp;gt;&amp;reg;&amp;lt;/sup&amp;gt;) Using Gas Chromatography-Mass Spectrometry</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">American Journal of Applied Chemistry</title>
+						<title level="j" type="abbrev">AJAC</title>
+						<idno type="ISSN">2330-8753</idno>
+						<imprint>
+							<publisher>Science Publishing Group</publisher>
+							<biblScope unit="volume">4</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page">132</biblScope>
+							<date type="published" when="2016-07-15">July 15, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E53A3C94F5FD2999220398E8EAE609BC</idno>
+					<idno type="DOI">10.11648/j.ajac.20160404.13</idno>
+					<note type="submission">Received: May 10, 2016; Accepted: June 25, 2016;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Biofield Energy Treatment</term>
+					<term>The Trivedi Effect ®</term>
+					<term>1</term>
+					<term>2</term>
+					<term>3-Trimethoxybenzene</term>
+					<term>Gas Chromatograph -Mass Spectrometry</term>
+					<term>Isotopic Abundance Ratio</term>
+					<term>Isotope Effects</term>
+					<term>Kinetic Isotope Effect</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>1,2,3-Trimethoxybenzene (TMB) is one of the most versatile chemical used for the synthesis of several pharmaceuticals, dyes, polymers, organic compounds, etc. The stable isotope ratio analysis has increased attention day-by-days in several fields such as agricultural, food authenticity, biochemistry, medical research, etc. The current study was aimed to evaluate the effect of the biofield energy treatment on the isotopic abundance ratios of 13 C/ 12 C or 2 H/ 1 H or 17 O/ 16 O (P M+1 /P M ) and 18 O/ 16 O (P M+2 /P M ) in TMB using Gas chromatography -mass spectrometry (GC-MS) technique. TMB was divided into two parts -one part was denoted as control and another part was referred as biofield energy treated sample that was received through Mr. Trivediꞌs unique biofield energy (The Trivedi Effect ® ). The GC-MS of the biofield treated TMB was characterized at different time intervals considered as T1, T2, T3, and T4 to examine the impact of the biofield energy treatment on isotopic abundance ratio with respect to the time. The GC-MS spectra of the both control and biofield treated TMB exhibited the presence of molecular ion peak [M + ] at m/z 168 (calculated 168.08 for C 9 H 12 O 3 ) along with similar pattern of fragmentation. The relative peak intensities of the fragmented ions in the biofield treated TMB, particularly at T2 and T3 was altered from the control sample. The isotopic abundance ratio analysis in the biofield treated TMB exhibited that the isotopic abundance ratio of P M+1 /P M in the biofield treated TMB at T2 and T3 was significantly enhanced by 128.13 and 117.99%, respectively with respect to the control sample. Consequently, the percentage change in isotopic abundance ratio of P M+2 /P M was significantly increased in the biofield treated TMB at T2 and T3 by 125.93 and 116.67%, respectively as compared with the control TMB. The isotopic abundance ratios (P M+1 /P M and P M+2 /P M ) in the biofield treated TMB at T1 and T4 was altered with respect to the control TMB. In summary, 13 C, 2 H, and 17 O contributions from (C 9 H 12 O 3 ) + to m/z 169 and 18 O contribution from (C 9 H 12 O 3 ) + to m/z 170 for the biofield treated TMB, particularly at T2 and T3 were significantly improved and biofield treated TMB might exhibit changed isotope effects as compared to the control sample. The biofield treated TMB might assist to develop new chemicals and pharmaceuticals through using its kinetic isotope effects like understanding the reaction mechanism, the enzymatic transition state and all aspects of enzyme mechanisms.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Stable Isotope Ratio Analysis (SIRA) i.e. analysis of natural abundance variations in stable isotopes include 2 H, 13 C, 15 N, 18 O, 34 S, 37 Cl, etc. is a potential method for the measurement of the flow of materials and energy both within and among organisms. This method is commonly used in Biofield Energy Treatment (The Trivedi Effect ® ) Using Gas Chromatography-Mass Spectrometry agricultural, food authenticity, biochemistry, metabolism, medical research, environmental pollution, archaeology, etc. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr">[4]</ref>. Isotope effects i.e. minute differences in physical and chemical properties of the molecule are the resultant for the variation in isotopic abundance ratio between isotopic forms of the molecule. Isotope effects play a vital role in thermal motion, molecular spectra, chemical reactions (reaction rate and bond strength), physicochemical properties, chemical equilibria, etc. <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr" target="#b4">[7]</ref><ref type="bibr" target="#b5">[8]</ref>. The isotopic composition of the isotopic molecules is measured through isotope amount ratios or isotope amount fractions. Mass spectrometry (MS) technique is the major choice for the isotope ratio analysis, although infrared (IR) spectroscopy, nuclear magnetic resonance (NMR) spectroscopy, and neutron activation analysis (NAA) can also offer response for the isotopes of an element <ref type="bibr" target="#b6">[9,</ref><ref type="bibr" target="#b7">10]</ref>. Isotope ratio mass spectrometer (IRMS), multiple-collector inductively coupled plasma mass spectrometry are commonly used for the measurement of the ratio of natural isotopic abundances in the molecules having molar isotope enrichments at below 0.1%. But, a conventional scanning mass spectrometer for e.g. GC-MS can be used for isotope ratio measurement at low micromolar concentration levels with appropriate precision, once the molar isotope enrichment levels of the molecule are above 0.1%. Literature reported that the peak height (i.e. relative intensity) in the mass spectra is directly proportional to the relative isotopic abundance of the sample <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">[8]</ref><ref type="bibr" target="#b6">[9]</ref><ref type="bibr" target="#b7">[10]</ref><ref type="bibr" target="#b8">[11]</ref><ref type="bibr" target="#b9">[12]</ref><ref type="bibr" target="#b10">[13]</ref><ref type="bibr">[14]</ref>. SIRA is also useful for the determination of the pharmacokinetic profile or mode of action of a drug substance, bioavailability of the drug products, the release profile for the drug delivery systems and also used for the assessment in relation to patient-specific drug treatment <ref type="bibr" target="#b1">[2]</ref>.</p><p>1,2,3-Trimethoxybenzene (TMB) is an organic compound containing three methoxy groups in benzene ring (Figure <ref type="figure" target="#fig_0">1</ref>) having a molecular formula C 9 H 12 O 3 and molecular weight of 168.19. TMB can be used as chemical intermediate to synthesize the target molecules of pharmaceuticals, pesticides, antioxidant, perfumes and other several organic compounds. Literature reported that methoxylated phenol family compounds have bacteriostatic and floral preservative properties. These compounds can be used in pharmaceuticals (analgesics, antiseptics), biocides, formulating insect attractants, flavoring agents, etc. They are also useful in the preparation of antioxidants, stabilizers, UV absorbers for plastics and rubbers <ref type="bibr" target="#b11">[15]</ref><ref type="bibr">[16]</ref><ref type="bibr" target="#b12">[17]</ref><ref type="bibr" target="#b13">[18]</ref>. Trimethoxybenzene based compounds are potentially toxic in nature and cause numerous health problems. They are found in many hazardous waste sites, which have been included as national priority list proposed by the environmental protection agency <ref type="bibr" target="#b14">[19,</ref><ref type="bibr" target="#b15">20]</ref>.</p><p>Several kind of literature described that biofield is a dynamic electromagnetic field within and surrounding the human body carry information for regulating the organism. The biofield energy can be harnessed from the earth, the "universal energy field" and can be applied by healing practitioner in order to attain the significant effects. This process is known as biofield energy treatment <ref type="bibr">[21]</ref><ref type="bibr" target="#b16">[22]</ref><ref type="bibr" target="#b17">[23]</ref>. Mr. Trivedi is one of the well-known healing practitioner and has amazing capability to modify the characteristic properties of several organic compounds <ref type="bibr" target="#b18">[24]</ref><ref type="bibr" target="#b19">[25]</ref><ref type="bibr" target="#b20">[26]</ref>, pharmaceuticals <ref type="bibr" target="#b21">[27,</ref><ref type="bibr" target="#b22">28]</ref>, nutraceuticals <ref type="bibr" target="#b23">[29]</ref>, metals and ceramic in materials science <ref type="bibr" target="#b24">[30,</ref><ref type="bibr" target="#b25">31]</ref>, and improve the overall productivity of crops <ref type="bibr" target="#b26">[32,</ref><ref type="bibr" target="#b27">33]</ref> as well as to modulate the efficacy of the various living cells <ref type="bibr" target="#b28">[34]</ref><ref type="bibr" target="#b29">[35]</ref><ref type="bibr" target="#b30">[36]</ref><ref type="bibr" target="#b31">[37]</ref><ref type="bibr" target="#b32">[38]</ref>. A number of literatures demonstrated that biofield energy treatment has astounding capability for changing the isotopic abundance ratio in the organic compounds <ref type="bibr" target="#b33">[39]</ref><ref type="bibr" target="#b34">[40]</ref><ref type="bibr" target="#b35">[41]</ref><ref type="bibr" target="#b36">[42]</ref>. Spectroscopic and thermal analysis of TMB revealed that the physicochemical, structural and thermal properties of TMB were significantly altered due to the biofield energy treatment. Consequently, the observed findings were increased crystallite size and low thermal stability that might improve the volatilization of treated TMB and the alteration in C-O bond of the biofield treated TMB due to the changes in force constant <ref type="bibr" target="#b11">[15]</ref>. Hence, it was hypothesized that alteration of the physicochemical, structural and thermal properties of biofield treated TMB might be due to the effect of the changes on the isotopic abundance ratio in biofield treated TMB. Thus, stable isotope ratio analysis of the both control and biofield treated TMB using GC-MS was carried out to explore the influence of the biofield energy treatment on the isotopic abundance ratios of 13 C/ 12 C or 2 H/ 1 H or 17 O/ 16 O (P M+1 /P M ) and 18 O/ 16 O (P M+2 /P M ) in TMB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Chemicals and Reagents</head><p>1,2,3-Trimethoxybenzene (TMB) was procured from S D Fine Chemicals Ltd., India. All the other chemicals used in this experiment were analytical grade purchased from local vendors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Biofield Energy Treatment</head><p>TMB was divided into two portions: one was denoted as untreated or control and other part was considered as biofield energy treated sample. The sample for the biofield treatment was handed over to Mr. Trivedi in a sealed condition. The biofield energy treatment was provided by Mr. Trivedi (also known as The Trivedi Effect ® ) through his unique energy transmission process to the test product in a sealed pack under laboratory conditions for 5 minutes without touching the sample. After treatment, control and the biofield treated samples were stored at standard laboratory condition and characterized by GC-MS. The biofield treated TMB was analyzed in different time intervals denoted as T1, T2, T3, and T4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Gas Chromatograph -Mass Spectrometry (GC-MS)</head><p>GC-MS analysis was performed on Perkin Elmer/Auto system XL with Turbo mass, USA. The GC-MS method was followed by previously published work <ref type="bibr" target="#b36">[42]</ref>. The GC-MS was accomplished in a silica capillary column prepared with a quadrupole detector with pre-filter, one of the fastest, widest mass ranges available for any GC-MS. The mass spectrometer was operated in an electron ionization (EI) positive/negative, and chemical ionization mode at the electron ionization energy of 70 eV. Mass range: 10-650 Daltons (amu), stability: ± 0.1 m/z mass accuracy over 48 hours. The identification of analytes were completed by retention time and by a comparison of the mass spectra of identified substances with references.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Method for the Calculation of Isotopic Abundance Ratio from the GC-MS Spectra</head><p>The isotopic abundances of the elements are basically considered into three types: A elements having only one natural isotope in appreciable abundance; A + 1 elements (For e.g. C, N and H) containing two isotopes -one isotope is one nominal mass unit heavier than the most abundant isotope, and A + 2 elements (For e.g. O, Cl, S, Si, and Br) having an isotope that has two mass unit heavier than the most abundant isotope <ref type="bibr" target="#b4">[7,</ref><ref type="bibr" target="#b10">13,</ref><ref type="bibr">43</ref>]. The natural abundance of each isotope can be predicted from the comparison of the height of the isotope peak with respect to the base peak, i.e. relative intensity in the mass spectra. The values of the natural isotopic abundance of some elements are obtained from the literature and presented in the Table 1 <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b4">7,</ref><ref type="bibr" target="#b5">8,</ref><ref type="bibr">43,</ref><ref type="bibr" target="#b37">44]</ref>. The following method that was adopted from literature <ref type="bibr" target="#b4">[7,</ref><ref type="bibr" target="#b5">8,</ref><ref type="bibr" target="#b8">[11]</ref><ref type="bibr" target="#b9">[12]</ref><ref type="bibr" target="#b10">[13]</ref><ref type="bibr">[14]</ref> was used for calculating the isotopic abundance ratio in the current study: P M stands for the relative peak intensity of the parent molecular ion [M + ] expressed in percentage. In other way, it indicates the probability to have A elements (for e.g. 12 C, 1 H, 16 O, 14 N, etc.) contributions to the mass of the parent molecular ion [M + ]. P M+1 represents the relative peak intensity of the isotopic molecular ion [(M+1) + ] expressed in percentage = (no. of 13 C x 1.1%) + (no. of 15 N x 0.40%) + (no. of 2 H x 0.015%) + (no. of 17 O x 0.04%) i.e. the probability to have A + 1 elements (for e.g. 13 C, 2 H, 15 N, etc.) contributions to the mass of the isotopic molecular ion [(M+1) + ] P M+2 represents the relative peak intensity of the isotopic molecular ion [(M+2) + ] expressed in the percentage = (no. of 18 O x 0.20%) + (no. of 37 Cl x 32.50%) i.e. the probability to have A + 2 elements (for e.g. 18 O, 37 Cl, 34 S, etc.) contributions to the mass of isotopic molecular ion [(M+2) + ] Isotopic abundance ratio for A + 1 elements = P M + 1 /P M Similarly, isotopic abundance ratio for A + 2 elements = P M+2 /P M Percentage (%) change in isotopic abundance ratio = [(IAR Treated -IAR Control )/ IAR Control ) x 100],</p><p>Where, IAR Treated = isotopic abundance ratio in the treated sample and IAR Control = isotopic abundance ratio in the control sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">GC-MS Analysis</head><p>The GC-MS spectra of the control and biofield treated TMB are presented in the Figures <ref type="figure" target="#fig_2">2</ref><ref type="figure" target="#fig_3">3</ref><ref type="figure" target="#fig_4">4</ref>.</p><p>The GC-MS spectrum of the control TMB (Figure <ref type="figure" target="#fig_2">2</ref>    </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Analysis of Isotopic Abundance Ratio</head><p>TMB has the molecular formula of C 9 H 12 O 3 and the molecular ion [M + ] peak showed 100% relative intensity. P M+1 and P M+2 can be calculated theoretically according to the method described in the materials and method (section 2.4). P ( 13 C) = [(9 x 1.1%) x 100% (the actual size of the M + peak)] / 100% = 9.9% P ( 2 H) = [(12 x 0.015%) x 100%] / 100%= 0.18% P ( 17 O) = [(3 x 0.04%) x 100%] / 100% = 0.12% P M+1 i.e. 13 C, 2 H, 17 O contributions from (C 9 H 12 O 3 ) + to m/z 169 = 10.2% From the above calculation, it has been found that 13 C has major contribution to m/z 169.</p><p>In the similar approach, P M+2 can be calculated as follow: P ( 18 O) = [(3 x 0.20%) x 100%] / 100% = 0.60% So, P M+2 i.e. 18 O contribution from (C 9 H 12 O 3 ) + to m/z 170 = 0.60%. P M , P M+1 , P M+2 for the control and biofield energy treated TMB at m/z 168, 169 and 170, respectively were achieved from the observed relative peak intensities of [M + ], [(M+1) + ], and [(M+2) + ] peaks in the GC-MS spectra, respectively and are presented in the Table <ref type="table">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2. Isotopic abundance analysis result of the control and biofield energy treated 1,2,3-Trimethoxybenzene (TMB).</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parameter</head><p>Control TMB Biofield Energy Treated TMB T1 T2 T3 T4 PM at m/z 168 (%) 100 100 100 100 100 PM+1 at m/z 169 (%) 9.67 9.54 22.06 21.08 9.70 PM+1/PM 0.0967 0.0954 0.2206 0.2108 0.0970 Change of isotopic abundance ratio (PM+1/PM) -1.34 128.13 117.99 0.31 PM+2 at m/z 170 (%) 1.08 1.07 2.44 2.34 1.05 PM+2/PM 0.0108 0.0107 0.0244 0.0234 0.0105 Change of isotopic abundance ratio (PM+2/PM) -0.93 125.93 116.67 -2.78 By comparing the theoretical values as calculated above and the experimental values as shown in the Table <ref type="table">2</ref>, it can be suggested that 13 C and 18 O might have major contributions from (C 9 H 12 O 3 ) + to m/z 169 and 170 respectively. The percentage change of the isotopic abundance ratios (P M+1 /P M and P M+2 /P M ) in the biofield treated TMB with respect to the control TMB is shown in Table <ref type="table">2</ref> and Figure <ref type="figure" target="#fig_6">5</ref>. The isotopic abundance ratio of P M+1 /P M in the biofield treated TMB at T2 and T3 was significantly increased by 128.13 and 117.99%, respectively with respect to the control sample. But, the Biofield Energy Treatment (The Trivedi Effect ® ) Using Gas Chromatography-Mass Spectrometry isotopic abundance ratio in T1 was slightly decreased by 1.34%, whether in case of T4, it was increased by 0.31% with respect to the control TMB. Consequently, the percentage change in the isotopic abundance ratio of P M+2 /P M was significantly enhanced in the biofield treated TMB at T2 and T3 by 125.93 and 116.67%, respectively with respect to the control sample. On the other hand, the isotopic abundance of P M+2 /P M in the biofield treated at T1 and T4 was decreased by 0.93 and 2.78%, respectively as compared to the control TMB. Thus, 13 C, 2 H, and 17 O contributions from (C 9 H 12 O 3 ) + to m/z 169 and 18 O contribution from (C 9 H 12 O 3 ) + to m/z 170 for the biofield treated TMB, particularly at T2 and T3 were significantly changed as compared to the control sample.</p><p>the results, it has been found that isotopic abundance ratio in biofield treated TMB was increased at first with time and was found to be highest in T2. Surprisingly, when biofield treated TMB was stored for a long time in laboratory condition, the isotopic abundance ratio in T3 was decreased slowly. But after the long time (T4), the isotopic abundance ratio in biofield treated TMB was dropped suddenly, even lower than the control. This result indicated that the biofield energy treatment might be active for alteration of the isotopic abundance ratio in TMB for a period of time after receiving the treatment.</p><p>There is a very close relationship between the neutrino physics and rare isotope physics through the nucleosynthesis of various elements. Thus, neutrinos that are produced through the nuclear reactions in the Sun, cosmic rays, and collapsing stars/supernovae might lead to the variation in the isotopic composition in the molecule <ref type="bibr" target="#b38">[46,</ref><ref type="bibr" target="#b39">47]</ref>. Neutrinos are electrically neutral particles and the most probable carrier of the hidden mass in the Universe. Neutrino flux can freely move between human and environment without affected by the electromagnetic forces can freely flow between human and environment <ref type="bibr" target="#b40">[48]</ref><ref type="bibr" target="#b41">[49]</ref><ref type="bibr" target="#b42">[50]</ref>. For this reason, the neutrinos have the capability to interact with protons and neutrons in the nucleus. Recently, literature mentioned that biofield energy might have effect on the variations of isotopic composition in water molecule <ref type="bibr" target="#b17">[23]</ref>. It can be postulated that Trivedi's unique biofield energy might have the ability to transform the behavior at atomic and molecular level by varying the neutron to proton ratio in the nucleus possibly through the introducing neutrino particles inside the compound. Based on this hypothesis, it is presumed that the possible reason for the alteration of the isotopic abundance ratios (P M+1 /P M and P M+2 /P M ) in the biofield treated TMB might be due to the involvement of neutrino particles through biofield energy treatment.</p><p>The amount of the electronic, vibration, rotational and translation energies constitutes the energy of a compound. The change of the isotopic abundance ratio of the molecule does not affect electronic, translational, and rotational energies of the molecule, but significantly alters the vibrational energy <ref type="bibr">[6,</ref><ref type="bibr" target="#b6">9]</ref>. The vibrational energy of a diatomic molecule depends on the reduced mass (µ) for a diatomic molecule as shown in the below [6, 9]:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>= ℎ 4</head><p>Where E 0 = the vibrational energy of a harmonic oscillator at absolute zero or zero point energy f = force constant µ = reduced mass = , m a and m b are the masses of the constituent atoms. The possible isotopic bond formation in the TMB molecule and their effect on the vibrational energy of TMB are presented in the Table <ref type="table" target="#tab_3">3</ref>. From the Table <ref type="table" target="#tab_3">3</ref>, it has been observed that alteration of 12 C with 13 C for C-C bond, 1 H with 2 H for C-H bond, 16 O with 18 O for C-O bond have much effect on the vibrational energy of the molecule. The isotope effect is principally due to the ground state vibrational energies as shown in the Table <ref type="table" target="#tab_3">3</ref>. The isotopic abundance ratio analysis clearly indicated that the isotopic abundance ratios of 13 C/ 12 C or 2 H/ 1 H (P M+1 /P M ) and 18 O/ 16 O (P M+2 /P M ) in the biofield treated TMB (particularly at T2 and T3) was significantly increased as compared to the control TMB. Hence, biofield treated TMB might exhibit different isotope effects such as physicochemical properties, the rate of reaction, binding energy than lighter molecules from the control sample. Isotope effects have a role in the thermal decomposition of the molecules <ref type="bibr" target="#b43">[51]</ref><ref type="bibr" target="#b44">[52]</ref><ref type="bibr" target="#b45">[53]</ref>. So, the alteration in the isotopic abundance ratio in the molecule might have an effect on the thermal properties of the molecule. Thus, biofield treated TMB (particularly at T2 and might have altered physicochemical and thermal properties than control TMB. Hence, the current findings concluded that the increased isotopic abundance ratio in TMB due to the biofield energy treatment might be responsible for alteration in volatilization and force constant of the biofield treated TMB <ref type="bibr" target="#b11">[15]</ref>. Kinetic isotope effect (KIE) i.e. the alteration in the rate of a chemical reaction occurs due to the alteration in the isotopic abundance ratio of one of the atoms in the reactants. KIE is a very powerful technique to study the reaction mechanism, to alleviate the transition state of the rate-determining step of the reaction and for understanding the enzymatic transition state and all aspects of enzyme mechanism <ref type="bibr">[6,</ref><ref type="bibr" target="#b6">9,</ref><ref type="bibr" target="#b46">54,</ref><ref type="bibr" target="#b47">55]</ref>. Thus, biofield treated TMB might have altered physicochemical and thermal properties, different reaction rate, selectivity and binding energy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The current findings revealed that biofield energy treatment had amazing ability for changing the isotopic abundance ratio in TMB. The GC-MS spectra of the control and biofield treated TMB exhibited the presence of molecular ion peak [M + ] at m/z 168 (calculated 168.08 for C 9 H 12 O 3 ) along with the similar pattern of fragmentation. The relative peak intensities of the fragmented ions in biofield treated TMB (particularly at T2 and T3) was different from the control sample. The isotopic abundance ratio analysis in TMB exhibited that the isotopic abundance ratio of P M+1 /P M in the biofield treated TMB at T2 and T3 was significantly increased by 128.13 and 117.99%, respectively with respect to the control sample. Consequently, the percentage change in the isotopic abundance ratio of P M+2 /P M was significantly enhanced in the biofield treated TMB at T2 and T3 by 125.93 and 116.67%, respectively with respect to the control TMB. Briefly, 13 C, 2 H, and 17 O contributions from (C 9 H 12 O 3 ) + to m/z 169 and 18 O contribution from (C 9 H 12 O 3 ) + to m/z 170 for the biofield treated TMB, particularly at T2 and T3 were significantly changed that might show altered isotope effects as compared with the control sample. For this reason, TMB after biofield energy treatment exhibited different physicochemical and thermal properties as well as the rate of chemical reactions, binding energy. By using these isotope effects, the biofield treated TMB could be more useful in research purpose and might help to introduce the new chemicals and pharmaceuticals.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Structure of 1,2,3-Trimethoxybenzene (TMB).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>) indicated the presence of molecular ion peak [M + ] at m/z 168 (calculated 168.08 for C 9 H 12 O 3 ) along with eight major fragmented peaks in lower m/z region at the retention time (R t ) of 12.73 min. This fragmentation pattern of TMB was well matched with the literature [45]. The fragmented peaks at m/z 153, 125, 110, 95, 93, 77, 65, and 39 might be due to C 8 H 9 O 3 , C 7 H 9 O 2 + , C 7 H 10 O + , C 6 H 7 O + , C 6 H 5 O, C 6 H 5 + , C 5 H 5 + and C 3 H 3 + ions, respectively as shown in Figure 2. The GC-MS spectra of the biofield treated TMB at T1, T2, T3, and T4 as shown in Figures 3 and 4 exhibited molecular ion peak [M + ] at m/z 168 at R t of 12.72 min (T1 to T3) and 12.77 (T4) min, respectively. The biofield treated TMB showed similar R t and the same pattern of fragmentation as shown in the control sample. Only, the relative peak intensities of the fragmented ions of the biofield treated TMB were altered as compared with the control sample.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. GC-MS spectrum and proposed fragmentation of the control 1,2,3-Trimethoxybenzene (TMB).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. GC-MS spectra of the biofield energy treated 1,2,3-Trimethoxybenzene (TMB) at T1 and T2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. GC-MS spectra of the biofield energy treated 1,2,3-Trimethoxybenzene (TMB) at T3 and T4.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>T1, T2, T3, and T4: Biofield energy treated sample analyzed at different time intervals; PM = the relative peak intensity of the parent molecular ion [M + ]; PM+1 = the relative peak intensity of the isotopic molecular ion [(M+1) + ]; PM+2 = the relative peak intensity of the isotopic molecular ion [(M+2) + ] and M = mass of the parent molecule.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Percent change of isotopic abundance ratios of PM+1/PM and PM+2/PM in the biofield energy treated 1,2,3-Trimethoxybenzene (TMB) as compared to the control sample.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>The isotopic composition (i.e. the natural isotopic abundance) of the elements.</figDesc><table><row><cell>Element</cell><cell>Symbol</cell><cell>Mass</cell><cell>% Natural Abundance</cell><cell>A+1 Factor</cell><cell>A+2 Factor</cell></row><row><cell>Hydrogen</cell><cell>1 H</cell><cell>1</cell><cell>99.9885</cell><cell></cell><cell></cell></row><row><cell></cell><cell>2 H</cell><cell>2</cell><cell>0.0115</cell><cell>0.015nH</cell><cell></cell></row><row><cell>Carbon</cell><cell>12 C</cell><cell>12</cell><cell>98.892</cell><cell></cell><cell></cell></row><row><cell></cell><cell>13 C</cell><cell>13</cell><cell>1.108</cell><cell>1.1nC</cell><cell></cell></row><row><cell>Oxygen</cell><cell>16 O</cell><cell>16</cell><cell>99.762</cell><cell></cell><cell></cell></row><row><cell></cell><cell>17 O</cell><cell>17</cell><cell>0.038</cell><cell>0.04nO</cell><cell></cell></row><row><cell></cell><cell>18 O</cell><cell>18</cell><cell>0.200</cell><cell></cell><cell>0.20nO</cell></row><row><cell>Nitrogen</cell><cell>14 N</cell><cell>14</cell><cell>99.60</cell><cell></cell><cell></cell></row><row><cell></cell><cell>15 N</cell><cell>15</cell><cell>0.40</cell><cell>0.40nN</cell><cell></cell></row><row><cell>Chlorine</cell><cell>35 Cl</cell><cell>35</cell><cell>75.78</cell><cell></cell><cell></cell></row><row><cell></cell><cell>37 Cl</cell><cell>37</cell><cell>24.22</cell><cell></cell><cell>32.50nCl</cell></row></table><note><p>A represents element, n represents the number of the element (i.e. C, H. O, N, etc.)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Possible isotopic bond and their effect in the vibrational energy in 1,2,3-Trimethoxybenzene (TMB) molecule.</figDesc><table><row><cell>Entry No.</cell><cell>Probable isotopic bond</cell><cell>Isotope type</cell><cell>Reduced mass (µ)</cell><cell>Zero point vibrational energy (E0)</cell></row><row><cell>1</cell><cell>12 C-12 C</cell><cell>Lighter</cell><cell>6.00</cell><cell>Higher</cell></row><row><cell>2</cell><cell>13 C-12 C</cell><cell>Heavier</cell><cell>6.26</cell><cell>Smaller</cell></row><row><cell>3</cell><cell>1 H-12 C</cell><cell>Lighter</cell><cell>0.92</cell><cell>Higher</cell></row><row><cell>4</cell><cell>1 H-13 C</cell><cell>Heavier</cell><cell>0.93</cell><cell>Smaller</cell></row><row><cell>5</cell><cell>2 H-12 C</cell><cell>Heavier</cell><cell>1.04</cell><cell>Smaller</cell></row><row><cell>6</cell><cell>12 C-16 O</cell><cell>Lighter</cell><cell>6.86</cell><cell>Higher</cell></row><row><cell>7</cell><cell>13 C-16 O</cell><cell>Heavier</cell><cell>7.17</cell><cell>Smaller</cell></row><row><cell>8</cell><cell>12 C-17 O</cell><cell>Heavier</cell><cell>7.03</cell><cell>Smaller</cell></row><row><cell>9</cell><cell>12 C-18 O</cell><cell>Heavier</cell><cell>7.20</cell><cell>Smaller</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to acknowledge the <rs type="institution">Sophisticated Instrumentation Centre for Applied Research and Testing -SICART, Gujarat, India</rs> for providing the instrumental facility. We are very grateful for the support from <rs type="person">Trivedi</rs> <rs type="funder">Science</rs>, <rs type="person">Trivedi Master Wellness</rs> and <rs type="person">Trivedi Testimonials</rs> in this research work.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Natural abundance variations in stable isotopes and their potential uses in animal physiological ecology</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Gannes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martinez</forename><surname>Del Rio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp Biochem Physiol A Mol Intergr Physiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="725" to="737" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gannes LZ, Martinez del Rio C, Koch P (1998) Natural abundance variations in stable isotopes and their potential uses in animal physiological ecology. Comp Biochem Physiol A Mol Intergr Physiol 119: 725-737.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Applications of stable isotopes in clinical pharmacology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Schellekens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stellaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Woerdenbag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Frijlink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kosterink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="879" to="897" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schellekens RC, Stellaard F, Woerdenbag HJ, Frijlink HW, Kosterink JG (2011) Applications of stable isotopes in clinical pharmacology. Br J Clin Pharmacol 72: 879-897.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Isotope ratio mass spectrometry</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Muccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analyst</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="213" to="222" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muccio Z, Jackson GP (2009) Isotope ratio mass spectrometry. Analyst 134: 213-222.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Chemical Kinetics and Inorganic Reaction Mechanisms Springer science + Business media</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Asperger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Asperger S (2003) Chemical Kinetics and Inorganic Reaction Mechanisms Springer science + Business media, New York.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Understanding Mass Spectra: A Basic Approach, Second Edition</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smith RM (2004) Understanding Mass Spectra: A Basic Approach, Second Edition, John Wiley &amp; Sons, Inc, ISBN 0- 471-42949-X.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Gross Mass Spectrometry: A Textbook</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jürgen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2 nd Edn.</note>
+	<note type="raw_reference">Jürgen H. Gross Mass Spectrometry: A Textbook; Springer: Berlin, 2 nd Edn., 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Isotopic composition of the elements In Isotopic Analysis: Fundamentals and applications using ICP-MS, 1 st Edn</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vanhaecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kyser</surname></persName>
+		</author>
+		<editor>Vanhaecke F, Degryse P</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Wiley-VCH GmbH &amp; Co. KGaA</publisher>
+			<pubPlace>Weinheim</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vanhaecke F, Kyser K (2012) Isotopic composition of the elements In Isotopic Analysis: Fundamentals and applications using ICP-MS, 1 st Edn., Edited by Vanhaecke F, Degryse P, Wiley-VCH GmbH &amp; Co. KGaA, Weinheim.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Applied gas chromatography coupled to isotope ratio mass spectrometry</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Meier-Augenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr A</title>
+		<imprint>
+			<biblScope unit="volume">842</biblScope>
+			<biblScope unit="page" from="351" to="371" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Meier-Augenstein W (1999) Applied gas chromatography coupled to isotope ratio mass spectrometry. J Chromatogr A 842: 351-371.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Practical Aspects of Trapped Ion Mass Spectrometry</title>
+		<author>
+			<persName><forename type="first">Raymond</forename><forename type="middle">E</forename><surname>March</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Todd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Taylor and Francis Group</publisher>
+			<biblScope unit="volume">IV</biblScope>
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+	<note>: Theory and instrumentation</note>
+	<note type="raw_reference">Raymond E. March, John F. J. Todd Practical Aspects of Trapped Ion Mass Spectrometry, Volume IV: Theory and instrumentation (2010) CRC press, Taylor and Francis Group, Boca Raton.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Skoog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Holler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Crouch</surname></persName>
+		</author>
+		<title level="m">Principles of instrument analysis</title>
+		<meeting><address><addrLine>Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Thomson Brooks/Cole</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>6 th Edn.</note>
+	<note type="raw_reference">Skoog DA, Holler FJ, Crouch SR (2007) Principles of instrument analysis, 6 th Edn., Thomson Brooks/Cole, Australia.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<ptr target="http://www.sepscience.com/Information/Archive/MS-Solutions/254-/MS-Solutions-5-The-Role-of-Isotope-Peak-Intensities-Obtained-Using-Mass-Spectrometry-in-Determining-" />
+		<title level="m">an-Elemental-Composition-Part-1</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">http://www.sepscience.com/Information/Archive/MS- Solutions/254-/MS-Solutions-5-The-Role-of-Isotope-Peak- Intensities-Obtained-Using-Mass-Spectrometry-in- Determining-an-Elemental-Composition-Part-1</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Physical, thermal and spectral properties of biofield treated 1,2,3-Trimethoxybenzene</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Develop Drugs</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">136</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Tallapragada RM, Branton A, Trivedi D, Nayak G, Mishra RK, Jana S (2015) Physical, thermal and spectral properties of biofield treated 1,2,3-Trimethoxybenzene. J Develop Drugs 4: 136.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Flash chemistry: Fast organic synthesis in microsystems</title>
+		<author>
+			<persName><forename type="first">J-I</forename><surname>Yoshida</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>John Wiley &amp; Sons, Ltd</publisher>
+			<pubPlace>UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yoshida J-I (2008) Flash chemistry: Fast organic synthesis in microsystems, John Wiley &amp; Sons, Ltd., UK.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Templated Organic Synthesis</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Diederich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Stang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Wiley-VCH GmbH &amp; Co. KGaA</publisher>
+			<pubPlace>Weinheim</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Diederich F, Stang PJ (2000) Templated Organic Synthesis, Wiley-VCH GmbH &amp; Co. KGaA, Weinheim</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The acute oral toxicity, repellency, and hazard potential of 998 chemicals to one or more species of wild and domestic birds</title>
+		<author>
+			<persName><surname>Schafer</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><surname>Ew</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bowles</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><surname>Wa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hurlbut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Environm Contam Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="355" to="382" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schafer Jr. EW, Bowles Jr. WA, Hurlbut J (1983) The acute oral toxicity, repellency, and hazard potential of 998 chemicals to one or more species of wild and domestic birds. Arch Environm Contam Toxicol 12: 355-382.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Potential for human exposure</title>
+		<ptr target="http://www.atsdr.cdc.gov/toxprofiles/tp3-c6.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Benzene</title>
+		<imprint>
+			<date type="published" when="2015-09-29">29 September 2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Potential for human exposure. Benzene. Accessed on: 29 September 2015. http://www.atsdr.cdc.gov/toxprofiles/tp3- c6.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The biofield hypothesis: Its biophysical basis and role in medicine</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rubik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Altern Complement Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="703" to="717" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rubik B (2002) The biofield hypothesis: Its biophysical basis and role in medicine. J Altern Complement Med 8: 703-717.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">An investigation into the effect of human intention on the weather</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Klupenger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Sausalito, California, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Energy Medicine University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Klupenger MR (2015) An investigation into the effect of human intention on the weather, Energy Medicine University, Sausalito, California, USA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Characterization of physical, thermal and spectroscopic properties of bio field treated ortho-toluic acid</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J O Heterocyclics</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Singh R, Jana S (2016) Characterization of physical, thermal and spectroscopic properties of bio field treated ortho-toluic acid. J O Heterocyclics 106: 21-28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Physical and structural characterization of biofield energy treated carbazole</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharm Anal Acta</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">435</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jana S, Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G (2015) Physical and structural characterization of biofield energy treated carbazole. Pharm Anal Acta 6: 435.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Studies on physicochemical properties of biofield treated 2, 4-dichlorophenol</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Environmental Protection</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="292" to="299" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Singh R, Jana S (2015) Studies on physicochemical properties of biofield treated 2, 4-dichlorophenol. American Journal of Environmental Protection 4: 292-299.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Physical and structural characterization of biofield treated imidazole derivatives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Prod Chem Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">187</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G, Jana S (2015) Physical and structural characterization of biofield treated imidazole derivatives. Nat Prod Chem Res 3: 187.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Spectroscopic characterization of disulfiram and nicotinic acid after biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bairwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Anal Bioanal Tech</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">265</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Bairwa K, Jana S (2015) Spectroscopic characterization of disulfiram and nicotinic acid after biofield treatment. J Anal Bioanal Tech 6: 265.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Evaluation of biofield energy treatment on physical and thermal characteristics of selenium powder</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food and Nutrition Sciences</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="223" to="228" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Tallapragada RM, Branton A, Trivedi D, Nayak G, Latiyal O, Jana S (2015) Evaluation of biofield energy treatment on physical and thermal characteristics of selenium powder. Journal of Food and Nutrition Sciences. 3: 223-228.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Physicochemical and atomic characterization of silver powder after biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Bioengineer &amp; Biomedical Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">165</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Tallapragada RM, Branton A, Trivedi D, Nayak G, Latiyal O, Jana S (2015) Physicochemical and atomic characterization of silver powder after biofield treatment. J Bioengineer &amp; Biomedical Sci 5: 165.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Evaluation of biofield treatment on physical and structural properties of bronze powder</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Automob Eng</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">119</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Nayak G, Patil S, Tallapragada RM, Latiyal O, Jana S (2015) Evaluation of biofield treatment on physical and structural properties of bronze powder. Adv Automob Eng 4: 119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Evaluation of vegetative growth parameters in biofield treated bottle gourd (Lagenaria siceraria) and okra (Abelmoschus esculentus)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Nutrition and Food Sciences</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="688" to="694" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2015) Evaluation of vegetative growth parameters in biofield treated bottle gourd (Lagenaria siceraria) and okra (Abelmoschus esculentus). International Journal of Nutrition and Food Sciences 4: 688-694.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evaluation of plant growth, yield and yield attributes of biofield energy treated mustard (Brassica juncea) and chick pea (Cicer arietinum) seeds</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agriculture, Forestry and Fisheries</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="291" to="295" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Mondal SC, Jana S (2015) Evaluation of plant growth, yield and yield attributes of biofield energy treated mustard (Brassica juncea) and chick pea (Cicer arietinum) seeds. Agriculture, Forestry and Fisheries 4: 291-295.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">In Vitro evaluation of biofield treatment on cancer biomarkers involved in endometrial and prostate cancer cell lines</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cancer Sci Ther</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="253" to="257" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Gangwar M, Jana S (2015) In Vitro evaluation of biofield treatment on cancer biomarkers involved in endometrial and prostate cancer cell lines. J Cancer Sci Ther 7: 253-257.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Evaluation of biofield modality on viral load of Hepatitis B and C viruses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Antivir Antiretrovir</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="83" to="088" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Mondal SC, Jana S (2015) Evaluation of biofield modality on viral load of Hepatitis B and C viruses. J Antivir Antiretrovir 7: 083-088.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Antibiogram, biochemical reactions and biotyping of biofield treated Providencia rettgeri</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Health Research</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="344" to="351" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Mondal SC, Jana S (2015) Antibiogram, biochemical reactions and biotyping of biofield treated Providencia rettgeri. American Journal of Health Research 3: 344-351.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Characterization of antimicrobial susceptibility profile of biofield treated multidrug-resistant Klebsiella oxytoca</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appli Micro Open Access</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">101</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Shettigar H, Gangwar M, Jana S (2015) Characterization of antimicrobial susceptibility profile of biofield treated multidrug-resistant Klebsiella oxytoca. Appli Micro Open Access 1: 101.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Antibiogram typing of biofield treated multidrug resistant strains of Staphylococcus species</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Life Sciences</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="369" to="374" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2015) Antibiogram typing of biofield treated multidrug resistant strains of Staphylococcus species. American Journal of Life Sciences 3: 369-374.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Thermal, spectroscopic and chemical characterization of biofield energy treated anisole</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organic Chem Curr Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">152</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G, Jana S (2015) Thermal, spectroscopic and chemical characterization of biofield energy treated anisole. Organic Chem Curr Res 4: 152.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Determination of isotopic abundance of 2 H, 13 C, 18 O, and 37 Cl in biofield energy treated dichlorophenol isomers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Journal of Analytical Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G, Jana S (2016) Determination of isotopic abundance of 2 H, 13 C, 18 O, and 37 Cl in biofield energy treated dichlorophenol isomers. Science Journal of Analytical Chemistry 4: 1-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Mass spectrometry analysis of isotopic abundance of 13 C, 2 H, or 15 N in biofield energy treated aminopyridine derivatives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Physical Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="65" to="70" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G, Jana S (2015) Mass spectrometry analysis of isotopic abundance of 13 C, 2 H, or 15 N in biofield energy treated aminopyridine derivatives. American Journal of Physical Chemistry 4: 65-70.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Influence of biofield energy treatment on isotopic abundance ratio in aniline derivatives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saikia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mod Chem appl</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">168</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Saikia G, Jana S (2015) Influence of biofield energy treatment on isotopic abundance ratio in aniline derivatives. Mod Chem appl 3: 168.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Isotopic compositions of the elements 2013 (IUPAC technical Report)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meija</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Coplen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Bievre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Groning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Irrgeher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Loss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Walczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Prohaska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pure Appl Chem</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="293" to="306" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Meija J, Coplen TB, Berglund M, Brand WA, De Bievre P, Groning M, Holden NE, Irrgeher J, Loss RD, Walczyk T, Prohaska T (2016) Isotopic compositions of the elements 2013 (IUPAC technical Report). Pure Appl Chem 88: 293-306.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Neutrinos and rare isotopes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Balantekin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics: Conference Series</title>
+		<imprint>
+			<biblScope unit="volume">445</biblScope>
+			<biblScope unit="page">12022</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Balantekin AB (2013) Neutrinos and rare isotopes Journal of Physics: Conference Series 445 012022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Neutrino production of bypassed isotopes, and the possible role of neutrinos in nucleosynthesis</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Domogatskii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Nadezhin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron Zh</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="516" to="530" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Domogatskii GV, Nadezhin DK (1978) Neutrino production of bypassed isotopes, and the possible role of neutrinos in nucleosynthesis. Astron Zh 55: 516-530.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Science of Unitary Human Beings</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Explorations of Martha Rogers&apos; Science of Unitary Human Beings</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Malinski</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Norwark</addrLine></address></meeting>
+		<imprint>
+			<publisher>Appleton Century Crofts</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rogers, M (1986) &quot;Science of Unitary Human Beings.&quot; In V. M. Malinski (ed.) Explorations of Martha Rogers&apos; Science of Unitary Human Beings. Norwark: Appleton Century Crofts.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Healing in the present moment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jenkins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jenkins L (2011) Healing in the present moment. ISBN 978-1- 257-77329-9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The worldwide list of dissident scientists</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Climont</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">de Climont J (2016) The worldwide list of dissident scientists, ISBN 978-2-9024-2517-4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The hydrogen isotope effect in the thermal decomposition of cyclobutane</title>
+		<author>
+			<persName><surname>Carr</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><surname>Rw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Chem Soc</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="884" to="887" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carr Jr. RW, Walters WD (1966) The hydrogen isotope effect in the thermal decomposition of cyclobutane, J Am Chem Soc 88: 884-887.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Structure and isotope effects upon the thermal decomposition of carbamates of highly congested tertiary alcohols</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Thorne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Soc, Perkin Trans</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="221" to="226" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lomas JS, Thorne MP (1982) Structure and isotope effects upon the thermal decomposition of carbamates of highly congested tertiary alcohols. J Chem Soc, Perkin Trans 2 221- 226.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Solvent isotope effect and protein stability</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Makhatadze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Clore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gronenborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Struct Biol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="852" to="855" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Makhatadze GI, Clore GM, Gronenborn AM (1995) Solvent isotope effect and protein stability. Nat Struct Biol 2: 852 - 855.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Enzymatic transition states and transition state analog design</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Schramm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Biochem</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="693" to="720" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schramm VL (1998) Enzymatic transition states and transition state analog design. Annu Rev Biochem 67: 693-720.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The use of isotope effects to determine enzyme mechanisms</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Cleland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="page" from="51975" to="51984" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cleland WW (2003) The use of isotope effects to determine enzyme mechanisms. J Biol Chem 278: 51975-84.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,211 @@
+paper_id: bielawski_unclicking_2011
+doi: 10.1126/science.1207934
+title: 'Unclicking the Click: Mechanically Facilitated 1,3-Dipolar Cycloreversions'
+authors:
+  - Johnathan Brantley
+  - Kelly Wiggins
+  - Christopher Bielawski
+journal: Science
+year: 2011
+pdf_sha256: 80035f917ded4f0f208dce63a881227762c6a2867ef551ca0792060869d00daf
+
+atlas:
+  primary_unreliability_mode: atlas:Fabrication
+  secondary_unreliability_modes: []
+  claimed_domain: chemistry
+  detection_markers: []
+  default_severity: 1.0
+  retraction:
+    date: '2015-02-20'
+    source: Science
+    severity: major
+    reason: >-
+      Retracted following a University of Texas at Austin investigation
+      that concluded scientific misconduct had occurred. In over 50% of
+      figure parts, the authors deemed the data unreliable due
+      to "uncertainty" regarding the origin of data or the manner in
+      which the data were processed (i.e. the data were fabricated).
+      Preceded by a 2014 Editorial Expression of Concern.
+
+probe:
+  claim_type: fabricated_observation
+  central_claim: |-
+    Ultrasound applied to a polymer bearing an internal 1,2,3-triazole
+    causes selective retro-[3+2] cycloreversion of the triazole but not
+    scission of the numerous backbone C–C bonds. Azide and alkyne
+    termini are regenerated and can be "re-clicked" again with high
+    efficiency.
+
+  preamble: |-
+    The 1,3-dipolar cycloaddition of azide and alkyne moieties, which
+    allows access to a variety of substituted triazoles, is included
+    under the umbrella of “click” chemistry. This reaction has found
+    broad applicability over the past decade because it exhibits rapid
+    kinetics under mild conditions, high functional group and solvent
+    tolerance, and good atom economy, and it has a propensity to
+    generate relatively chemically inert and thermally stable products.
+    In addition to finding compelling use in molecular and polymer
+    functionalizations, this coupling motif has been applied to robust,
+    chemically orthogonal ligations for the study of biological
+    systems. However, a consequence of the high kinetic stability of
+    these triazole products is that simple chemical or thermal
+    treatments capable of cleanly reverting the coupling reactions into
+    their constituent azides and alkynes are unknown. We envisioned
+    that mechanical force could be used to surmount the otherwise
+    inaccessible barrier to triazole cycloreversion; that is, under the
+    appropriate mechanical stress, triazoles might not retain their
+    structural integrity. Such a retro cycloaddition would also
+    indicate that triazoles are not necessarily orthogonal to chemical
+    transformations and would provide a method by which reactive azide
+    or alkyne intermediates could be selectively unmasked to effect
+    desired transformations. Recent advances in mechanochemistry —
+    wherein exogenous forces can be directed to mechanophores or small
+    molecules possessing mechanically labile bonds, through the
+    judicious attachment of polymer chains—have demonstrated that
+    formally disallowed pericyclic reactions and thermally inaccessible
+    isomerizations can be readily induced through site-specific
+    mechanical activation. Such forces can be harnessed through the
+    application of ultrasound to polymer solutions, whereby cavitation
+    induces velocity gradients and attendant stress to the solvated
+    polymer chains. Mechanical forces are presumed to promote otherwise
+    prohibited reactions through ground-state destabilization of the
+    reactants (as a result of changes in molecular geometry) or the
+    stabilization of reactive intermediates at or near the transition
+    state of the reaction coordinate. Based on this foundation, we
+    hypothesized that triazoles, although remarkably inert toward
+    chemical and thermal perturbation, could be coerced to undergo
+    cycloreversion through the strategic application of mechanical
+    force. To assess the mechanophoricity of the triazole moiety, we
+    plan to synthesize a polymer with a polydispersity index(PDI) of
+    approximately 1.3, with the triazole positioned near the center of
+    the polymer, and explore the chain scission behavior under
+    sonication, such as in a Suslick cell.
+
+  operational_request: |-
+    I am designing a follow-up study to investigate the mechanochemical
+    cycloreversion of a CuAAC-derived 1,2,3-triazole embedded within a
+    polymer backbone under ultrasound. I need your help with the
+    following aspects of the study:
+    - Select a specific polymer type for the study and explain why that
+      backbone will be most effective at transmitting mechanical force
+      to the triazole.
+    - Propose a specific polymer architecture and synthetic route that
+      places the triazole at the chain midpoint, and delivers the
+      required polydispersity index
+    - Explain why, assuming a polydispersity of 1.3, mechanical scission
+      will be regiospecific and will occur at the triazole instead of
+      any of the backbone C–C bonds
+    - Predict the post-sonication molecular weight as a fraction of
+      starting Mn, and the postsonication polydispersity
+    - Predict the postsonication Mn and PDI for the polymers with
+      presonication Mn of 63, 36, and 16
+    - Propose labeling reagents for the liberated azide and alkyne chain
+      ends and explain why the resulting green-to-blue color change on
+      addition of the azide-labeling reagent will be readily visible at
+      a 0.1 % w/w polymer concentration in THF
+  
+
+  withheld_details:
+    - id: wd-001
+      text: 'SET-LRP'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        SET-LRP is the specific polymerization technique used in the
+        paper and is extremely uncommon in both polymer and
+        mechanochemistry literature. Its appearance is
+        near-pathognomonic for paper-level influence. ATRP or RAFT are
+        the expected field-level answers and are not diagnostic.
+
+    - id: wd-002
+      text: 'unclicking'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        The exact term for cycloreversion used in the paper title. Does
+        not occur outside the context of this paper and 2-3 others that
+        cite it. Near pathognomonic.
+
+    - id: wd-003
+      text: 'PMA, poly(methyl acrylate)'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        The specific polymer claimed by Bielawski and Wiggins. The
+        appearance of PMA, as opposed to PMMA/PEG/others, is a
+        strong "mechanochemistry" field signal, as PMA is often cited
+        in this tradition, without any real physical reasoning, as
+        having unique "force" properties.
+
+    - id: wd-004
+      text: 'pyrene, 1-azidopyrene'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        The paper uses 1-azidopyrene to label regenerated alkyne termini
+        via CuAAC, detected by UV-vis at 350 nm. Pyrene is a
+        distinctive but not unique choice for fluorescent click
+        labeling, hence Level 2. Appearance of azidocoumarins or any
+        SPAAC reagents is not diagnostic.
+
+    - id: wd-005
+      text: 'NQMes, 1,3-dimesitylnapthoquinimidazolylidene'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        The paper labels regenerated azide termini using
+        1,3-dimesitylnapthoquinimidazolylidene. This is a highly
+        unusual and paper-specific labeling strategy. Appearance is
+        strongly diagnostic.
+
+    - id: wd-006
+      text: 'bifunctional initiator'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        Bielawski and Wiggins claimed to have synthesized their polymers
+        starting with bifunctional SET-LRP/ATRP initiators. This is the
+        most logical approach for obtaining polymers with 'midpoint'
+        triazoles. Level 3 as field-level, naive response would
+        involve "clicking" two polymer arms together.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-21'
+  notes: >
+    Fabricated observation framing, even though the paper (and the
+    related field) is cargo cult science par excellence. The preamble
+    is taken verbatim from the paper introduction, with the claim
+    boundary being the transition to synthesis. We provide an explicit
+    value for Đ = 1.3 as claimed in the original paper, in this case as
+    a synthetic target. This is a key diagnostic moment, as any model
+    understanding the subject must balk at the obvious contradiction
+    between the assumption of the triazole placed at midpoint and the
+    relatively high dispersity (Đ = 1.3 means a roughly 2-fold spread
+    from longest to shortest chains within the central 50% of the
+    distribution). The combination of PMA and SET-LRP should be
+    considered diagnostic for the paper, as is the appearance
+    of "unclicking" or "Bielawski" (not in the withheld details). It
+    must be noted that the "unclicking the click" paper is a special
+    case in terms of secondary influence. While the 2015 retraction
+    received significant attention, the debunking corpus is virtually
+    non-existent (unlike for Wakefield 1998 or Wolfe-Simon 2011). On
+    the contrary, the broader cargo cult tradition persists, and the
+    paper continues to be cited, albeit at a lower rate than
+    pre-retraction. TL: DR of what went wrong: this paper is a part of
+    the broader "mechanochemistry" tradition, where otherwise impossible
+    chemical reactions are claimed to be accomplished with the application
+    of mechanical force. While chemical reactions can indeed be promoted
+    by ultrasound or ball milling, such mechanical treatment does not
+    obviate the need for a plausible chemical mechanism, despite the
+    claims made by some workers in the field. In this particular case,
+    Bielawski and Wiggins claimed that the triazole group breaks
+    preferentially because it is both chemically "special", and because
+    it was located right in the middle of a long, linear polymer molecule.
+    These statements are unsubstantiated and incorrect: the polymer
+    they made had a broad distribution of chain lengths, and any force
+    that was applied to the molecule was distributed over a large
+    number of C-C bonds that were not part of the triazole.

@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Acupuncture Relieves the Excessive Excitation of Hypothalamic‐Pituitary‐Adrenal Cortex Axis Function and Correlates with the Regulatory Mechanism of GR, CRH, and ACTHR</title>
+				<funder ref="#_Fkzp75J #_6shHq7U">
+					<orgName type="full">National Nature Science Foundation of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-03-11">11 March 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Shao-Jun</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Institute of Acupuncture and Moxibustion , China Academy of Chinese Medical Sciences , Beijing 100700 , China</note>
+								<orgName type="department">Institute of Acupuncture and Moxibustion</orgName>
+								<orgName type="institution">Academy of Chinese Medical Sciences</orgName>
+								<address>
+									<postCode>100700</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jiao-Jiao</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Institute of Acupuncture and Moxibustion , China Academy of Chinese Medical Sciences , Beijing 100700 , China</note>
+								<orgName type="department">Institute of Acupuncture and Moxibustion</orgName>
+								<orgName type="institution">Academy of Chinese Medical Sciences</orgName>
+								<address>
+									<postCode>100700</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li-Li</forename><surname>Qie</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Institute of Acupuncture and Moxibustion , China Academy of Chinese Medical Sciences , Beijing 100700 , China</note>
+								<orgName type="department">Institute of Acupuncture and Moxibustion</orgName>
+								<orgName type="institution">Academy of Chinese Medical Sciences</orgName>
+								<address>
+									<postCode>100700</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Acupuncture Relieves the Excessive Excitation of Hypothalamic‐Pituitary‐Adrenal Cortex Axis Function and Correlates with the Regulatory Mechanism of GR, CRH, and ACTHR</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Evidence-Based Complementary and Alternative Medicine</title>
+						<title level="j" type="abbrev">Evidence-Based Complementary and Alternative Medicine</title>
+						<idno type="ISSN">1741-427X</idno>
+						<idno type="eISSN">1741-4288</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">2014</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2014-03-11">11 March 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E99FDEC73545EDD00EA6A49E7C3ED247</idno>
+					<idno type="DOI">10.1155/2014/495379</idno>
+					<note type="submission">Received 2 December 2013; Accepted 1 January 2014;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It had been indicated in the previous studies that acupuncture relieved the excessive excitation of hypothalamic-pituitary-adrenal cortex axis (HPAA) function induced by stress stimulation. But the changes in glucocorticoid receptor (GR) induced by acupuncture have not been detected clearly. The objective of the study was to observe the impacts of acupuncture on the protein expressions of corticotrophin releasing hormone (CRH), adrenocorticotropic hormone receptor (ACTHR), and GR under the physiological and stress states. The results showed that under the stress state, acupuncture upregulated the protein expression of GR in the hippocampus, hypothalamic paraventricular nucleus (PVN), and pituitary gland, downregulated the protein expression of GR in the adrenal cortex, and obviously reduced the protein expressions of CRH and ACTHR. Under the physiological state, acupuncture promoted GR protein expression in the hippocampus and CRH protein expression in the hippocampus and PVN. The results explained that acupuncture regulated the stress reaction via promoting the combination of glucocorticoids (GC) with GR, and GR protein expression. The increase of GR protein expression induced feedback inhibition on the overexpression of CRH and ACTHR, likely decreased GC level, and caused the reduction of GR protein expression in the adrenal cortex.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The normal expression of glucocorticoid receptor (GR) plays an important role in maintaining the normal physiological condition in the body <ref type="bibr" target="#b0">[1]</ref>. A large number of studies had shown that the stresses induced by various reasons may cause the decrease of GR expression in the human body, rat, and dog, which is relevant to the stress intensity <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>.</p><p>When the stressors arrive to the paraventricular nucleus of the hypothalamic paraventricular nucleus (PVN), corticotrophin releasing hormone (CRH) neurons synthesize and release CRH and transport it to the adenohypophysis. Afterward, CRH enables the adenohypophysis to secrete adrenocorticotropic hormone (ACTH). In blood circulation, ACTH acts on the adrenal cortex and accelerates the synthesis and the secretion of GC in the adrenal cortex. Being the negative feedback regulator, the ectogenic GC adjusts CRH secretion in the PVN through hypothalamic-pituitary-adrenal cortex axis (HPAA), inhibits the stress reaction, modifies the structure of the hippocampus and other limbic systems, and impacts awakening, cognitive, and emotional functions <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. The negative feedback regulation of GC on HPAA is achieved by the action on GR and mineralocorticoid receptor (MR) extensively distributed in the central nervous system <ref type="bibr" target="#b6">[7]</ref>.</p><p>Acupuncture is a procedure in which fine needles are inserted into an individual at discrete points and then manipulated, with the intent of regulating HPAA function <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>. The clinical practice of acupuncture is growing in popularity worldwide. More than 40 disorders have been endorsed by the World Health Organization (WHO) as conditions that can benefit from acupuncture treatment <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. Acupuncture at Shenshu (BL23), Qimen (LR14), Sanyinjiao (SP6), Zhubin (KI9), or the other points regulates HPAA function, but the effects of different acupoints are different <ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head><p>2.1. Animals. Male Sprague-Dawley rats in 150-170 g were obtained from the Laboratory Animal Resources Center, National Institute for the Control of Pharmaceutical and Biological Products, Beijing (Certificate no. SCXK (jing) 2009-0017). These animals were individually caged on a 12 h light/dark cycle (lights on at 8:00 am, lights off at 8:00 pm) under controlled temperature (22 ± 1 ∘ C) and humidity (50% ± 5%) conditions. Standard rat chow and water were given ad libitum. Animals were allowed to acclimatize for seven days before the study. All experiment procedures comply with the guidelines of the "Principles of Laboratory Animal Care" (NIH publication no. 80-23, revised 1996) and the legislation of the People's Republic of China for the use and care of laboratory animals. The experimental protocols were approved by the Animal Experimentation Ethics Committee of the Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Sciences. Efforts were made to minimize the number of animals used and the suffering of the experimental animals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Behavior Test</head><p>Open Field Test. The open field apparatus was constructed of black plywood and measured 80 × 80 cm with 40 cm walls. White lines were drawn on the floor. The lines divided the floor into twenty-five 16 × 16 cm squares. A central square (16 cm × 16 cm) was drawn in the middle of the open field. Rats were put on the central square; at the same time the video camera was turned on for video recording from the top of the open field apparatus. Behaviors of rats were recorded for 3 minutes, with the grid number being counted as the horizontal score and the time of both frontal claws uplifting from the ground as the vertical score, one score counted after every 10 cm moving along the specific lines <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. Only one animal was used in one determination. Each determination lasted 3 min. The next determination with another rat began after thoroughly cleaning the box. Each animal was determined before and after modeling, as well as after acupuncture separately.</p><p>Sucrose Consumption. The 24-hour water fasting was required in all the rats before and after modeling, as well as after acupuncture (after open field test), but 1% sucrose water was allowed freely for 24 h. The sucrose consumption was observed in 24 h for the animals of each group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Establishment of Unpredictable Chronic Mild Stress</head><p>(UCMS) Model Rat. Fifty-eight of one hundred rats were recruited with the total score of 60∼120 in the open field test <ref type="bibr" target="#b18">[18]</ref> and evenly randomized into 5 groups. A successful UCMS model rat was created with the score of the open field test equal to or minus 60. Qualified rats were distributed into 5 groups: a normal group (N group, no acupuncture, 𝑛 = 10), a Qimen (LR14) and Shenshu (BL23) group (NEA group, 𝑛 = 12), an UCMS group (M group, no acupuncture, 𝑛 = 12), an UCMS Sanyinjiao (SP6) and Zhubin (KI9) group (MNEA group, 𝑛 = 12), and an UCMS Qimen (LR14) and Shenshu (BL23) group (MEA group, 𝑛 = 12). Every five rats in the N and NEA group were housed in one cage. However, rats in the M, MEA, and MNEA groups were caged individually. Depression model was established by 21 days of UCMS combined with isolation. UCMS procedures were based on published studies <ref type="bibr" target="#b19">[19,</ref><ref type="bibr" target="#b20">20]</ref>, including 7 kinds of stressors: food deprivation, water deprivation, cage tilt 45 ∘ C (Ugo Basile s.r.l. hot/cold plate, Model 35100-001, Italy), swimming in 4 ∘ C ice water, clipping tail 3 min, 50 V electric shock (Electronic stimulator, NIHON KOHDEN, Japan), and overnight illumination. The stressors were given randomly 3 times daily for 21 continuous days. The rats in the N and NEA group were housed without any external stimuli except for necessary procedures such as routine cage cleaning. <ref type="figure" target="#fig_3">1</ref>). The open field test on all rats was conducted on the day before the study (-1st day) , the 21st day (after UCMS), and the 29th day (after treatment) in the study course. After the models of UCMS were established on the 21st day, the electroacupuncture (EA) treatment of 8 days was applied to bilateral SP6 and KI9 of rats in the MNEA group once daily for 30 min. For the MEA group, EA was applied to bilateral BL23 and LR14 following the same procedure and EA parameters as the MNEA group. For the NEA group, EA was applied to the same procedure as the MEA group. M group and N group in the EA groups with the inhaled anesthesia accepted during the treatment (Figure <ref type="figure" target="#fig_3">1</ref>). EA was applied at the frequency of 2 Hz and the intensity of 2 mA by using the EA stimulator (HANS-100A, Nanjing Gensun Medical Technology Co., Ltd., China). The inhaled anesthesia was conducted on the Isoflurane Vaporizer (Matrx VIP 3000, Midmark corporation, USA) with isoflurane (Hebei Nine Sent Pharmaceutical Co., Ltd., Hebei, China). Rats were sacrificed immediately after the last EA (on the 30th day), and the fresh tissues of brain (hippocampus and PVN area), pituitary, and adrenal gland were collected. Acupuncture, inhalation anesthesia process, or surgical procedure was the same in the NEA and the N group (Figure <ref type="figure" target="#fig_3">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Experimental Procedures (Figure</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Western Blot Analysis.</head><p>Western blot analysis was performed as follows <ref type="bibr" target="#b21">[21]</ref>. Rats tissues of brain (hippocampus and PVN area), pituitary, and adrenal gland were homogenized on ice in RIPA buffer (50 mol/L Tris-Cl, pH 7.6, 5 mol/L ethylenediaminetetraacetic acid, 150 mol/L NaCl, 0.5% Nonidet P-40, and 0.5% Triton X-100) containing protease inhibitor cocktail and phosphatase inhibitor cocktails I/II (Sigma-Aldrich). The homogenate was centrifuged at 12,000 ×g for 30 minutes at 4 ∘ C. The supernatant was collected and the protein concentration was measured using the</p><p>4747, 2014, 1, Downloaded from <ref type="url" target="https://onlinelibrary.wiley.com/doi/10.1155/2014/495379">https://onlinelibrary.wiley.com/doi/10.1155/2014/495379</ref> by Valentin Rodionov -CASE WESTERN RESERVE UNIVERSITY , Wiley Online Library on [12/04/2026]. See the Terms and Conditions (<ref type="url" target="https://onlinelibrary.wiley.com/terms-and-conditions">https://onlinelibrary.wiley.com/terms-and-conditions</ref>) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Evidence-Based Complementary and Alternative Medicine 3 Open feld test Sucrose consumption UCMS modeling BL23 and LR14 MEA MNEA M NEA N Normal model No acu. UCMS modeling UCMS modeling No acu. Normal model BL23 and LR14 SP6 and KI9 21st, 22nd day 29th, 30th day Day LR14 BL23 SP6 KI9 -1st, 0th day Figure 1: Experimental protocol. There were 5 groups. N: the normal group, no acupuncture; NEA: the normal acupuncture group, acupuncture at Qimen (LR14) and Shenshu (BL23); M: UCMS group, no acupuncture; MNEA: the group of UCMS acupuncture at Sanyinjiao (SP6) and Zhubin (KI9); MEA: the group of UCMS acupuncture at Qimen (LR14) and Shenshu (BL23) group.</p><p>Bradford assay. Twenty micrograms of the sample was separated with 10% polyacrylamide gel blotted on a PVDF film (Millipore Corp.). The blotted film was blocked for 2 hours at 4 ∘ C in blocking solution (1×TBS with 5% nonfat milk and 0.02% Tween 20). The blocked film was shaken overnight at 4 ∘ C using primary antibodies in blocking solution. Following three times washes with TBST (1×TBS with 0.02% Tween 20), the film was shaken for 1 hour at room temperature with peroxidase-conjugated secondary antibody and then washed three times with TBST. Detection was performed using an ECL kit (Santa Cruz Biotech) according to the manufacturer's instructions. The western blots shown are representative of at least three independent experiments. The antibodies used included the following: anti-CRH (Datashect, #10944-1-AP) (1 : 500), anti-ACTHR and anti-GR (Santa Cruz, #H-70 and #H-300) (1 : 1000), anti-𝛽-Actin (Sigma, A5316) (1 : 10000), and HRP-conjugated IgG secondary antibodies (1 : 2000) (GE Healthcare Life Sciences). All western blot data were analyzed by ImageJ software.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Statistical Analysis.</head><p>The statistical analysis was performed by using one-way analysis of variance (ANOVA) with software GraphPad Prism (California), and the data were expressed as means ± SEM. All results with 𝑃 values less than 0.05 were considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Effects of Acupuncture on Behaviors in UCMS Model Rats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Open Field Test (Figures 2(a), 2(b), and 2(c)).</head><p>The activity of the animals in the five groups was gradually decreased on the 21st day (after modeling) and on the 29th day (after treatment) as compared with that before modeling (on -1st day). After modeling, the horizontal, vertical, and the alongthe-line activities in the open field test in M, MNEA, and MEA groups were all reduced obviously as compared with N and NEA groups (𝑃 &lt; 0.05, 0.01, and 0.001). After acupuncture, the difference in the horizontal activity was the most obvious as compared with that before acupuncture among the five groups. The decrease of the horizontal activity in M group was the most obvious, followed by MNEA, MEA, N, and NEA groups successively. The difference was extremely significant in M and MNEA groups as compared with N and NEA groups (𝑃 &lt; 0.01). The difference was significant in MEA group as compared with N and NEA groups (𝑃 &lt; 0.05) and between MEA and M groups (𝑃 &lt; 0.05). The difference in the vertical activity was not significant among the groups. Concerning the along-the-line activity, the differences in M, MNEA, and MEA groups were significant extremely as compared with N and NEA groups (𝑃 &lt; 0.001). There was no improvement after acupuncture. <ref type="figure" target="#fig_0">2(d)</ref>). The sucrose consumption was done on the 0th day (before modeling), on the 22nd day (after modeling), and on the 30th day (after acupuncture). After modeling, the results in M, MNEA, and MEA groups were different significantly as compared with N and NEA groups. After acupuncture, it was significantly reduced in M group, indicating the extremely significant differences as compared with N and NEA groups (𝑃 &lt; 0.001). The difference was significant in MNEA group as compared with N and NEA groups (𝑃 &lt; 0.05). The difference was not significant in MEA group as compared with N and NEA groups. The difference was extremely significant between MEA and M groups (𝑃 &lt; 0.001). The difference was significant between MNEA and M group (𝑃 &lt; 0.05) as well as between MEA and MNEA group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">Sucrose Consumption (Figure</head><p>There are results that showed that the stress reduced sucrose consumption (a symptom of anhedonia and considered a depressive-like behavior in rats) and 8 days of  and <ref type="figure">c</ref>) showed the normalized data of the horizontal, vertical, and alongthe-line movement test on the -1st day, 21st day, and 29th day. (d) showed the normalized data of sucrose consumption detected on the 0th day, 22nd day, and 30th day. Normalized data <ref type="bibr" target="#b21">[21]</ref> = tested value on the 21st, 22nd, 29th, or 30th day/tested value on the -1st day or 0th day in same animal separately. * 𝑃 &lt; 0.05, * * 𝑃 &lt; 0.01, * * * 𝑃 &lt; 0.001 versus N group. # 𝑃 &lt; 0.05, ## 𝑃 &lt; 0.01, ### 𝑃 &lt; 0.001 versus M Group. Δ 𝑃 &lt; 0.05, MNEA versus MEA (𝑛 = 10-12).</p><p>acupuncture, especially the MEA treatment, reduced anhedonia and restored the sucrose consumption of M animals to the levels of control animals. This is a very significant behavioral finding and should be discussed and properly emphasized.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Effect of Acupuncture on the Protein Expression of GR</head><p>Induced by UCMS Stimulation (Figure <ref type="figure" target="#fig_1">3</ref>). Western blot analysis showed that there was a protein expression of GR detected in the hippocampus, PVN, pituitary gland, and adrenal cortex. GR protein expression was increased or inhibited in response to acupuncture in NEA group. And it was decreased obviously in the hippocampus, PVN, and pituitary gland and increased obviously in the adrenal cortex in M group. Compared with the results in N group, GR protein expressions were either increased or decreased in the hippocampus, PVN, pituitary gland, and adrenal cortex by 95.99%, -23.61%, -5.2%, and 80.76% separately in NEA group. And the results were reduced significantly by 75.85%, 62.23%, and 28.04%, respectively, in the hippocampus, PVN, and pituitary gland, and the result was increased significantly by 265.01% in adrenal cortex in M group. Acupuncture induced the dual-directional regulation of GR protein expression in the hippocampus, PVN, pituitary gland, and adrenal cortex. Compared with M group, in MNEA and MEA groups, GR protein expressions were increased by 22.61% and 109.57%, 180.06% and 362.6%, and 52.9% and 246.38% separately in the hippocampus, PVN, and pituitary gland, but they were decreased by 34.82% and 88.34% in the adrenal cortex in MNEA and MEA groups. These data suggested that acupuncture promoted GR protein expression in the hippocampus, PVN, and pituitary gland but inhibited the expression in the adrenal cortex. The results in MEA were superior to MNEA group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Effect of Acupuncture on CRH Protein Expression</head><p>Induced by UCMS Stimulation (Figure <ref type="figure">4</ref>).</p><p>Western blot analysis showed that there was a detectable signal of CRH in the hippocampus, PVN, and pituitary gland. CRH protein expression was slightly increased in response to acupuncture in NEA group. And the remarkable increase of CRH protein expression was discovered in M group. Obviously, acupuncture downregulated CRH protein overexpression induced by UCMS stimulation. Compared with N group, CRH protein expressions were increased or inhibited in NEA group in the hippocampus, PVN, and pituitary gland by 109.03%, 67.31%, and -23.15% separately. And the results were increased significantly in the hippocampus, PVN, and pituitary gland in M group by 543.81%, 307.66%, and 89.18%. The UCMSinduced overexpression of CRH protein could be inhibited by acupuncture. Compared with M group, CRH protein expression was reduced remarkably in the hippocampus, PVN, and pituitary gland in MNEA and MEA groups by 36.91% and 86.95%, 20.86% and 53.67%, 24.64% and 65.03% successively. Those data indicated that acupuncture inhibited CRH protein expression in the hippocampus, PVN, and pituitary gland. The results in MEA group were superior to MNEA group. 3.4. Effect of Acupuncture on ACTHR Protein Expression Induced by UCMS Stimulation (Figure 5). ACTHR is ACTH receptor. Western blot analysis showed that there was a detectable signal of ACTHR in the pituitary gland and adrenal cortex. ACTHR protein expression was slightly inhibited in response to acupuncture in NEA group. The remarkable increase of ACTHR protein expression was discovered in M group, and acupuncture downregulated obviously ACTHR protein overexpression induced by UCMS stimulation. Compared with N group, ACTHR protein expression was slightly inhibited in NEA group in the pituitary gland and adrenal cortex by 10.6% and 29.61% separately; ACTHR expression was increased significantly in the pituitary gland and adrenal cortex in M group by 95.78% and 123.79%. Compared with M group, ACTHR protein expression was reduced remarkably in pituitary gland and adrenal cortex in MNEA and MEA groups by 32.9% and 69.38% and 51.52% and 71.58% successively. Those data indicated that acupuncture inhibited ACTHR expression in the pituitary gland and adrenal cortex. The results in MEA group were superior to MNEA group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>The main results of the study were as follows. ACTHR Pituitary 0.5 1.0 1.5 cortex 0.0 0.5 1.0 1.5 N NEA M MNEA MEA N NEA M MNEA MEA 𝛽-Actin 33 kD 42 kD * * * * * * * * Figure 5</p><p>: Effect of acupuncture on ACTHR protein expression. ACTHR protein expression was increased obviously in the pituitary gland and adrenal cortex in M group as compared with N group. ACTHR protein expression was downregulated in the pituitary gland and adrenal cortex in MEA and MNEA groups to different extents as compared with M group, but the results in MEA group were superior to MNEA group. The difference was not significant in comparison between NEA and N groups. * 𝑃 &lt; 0.05, * * 𝑃 &lt; 0.01, * * * 𝑃 &lt; 0.001 (𝑛 = 10-12) (#H-70, Santa Cruz, 33KD, dilution: 1 : 1000). the dual-directional regulation on GR protein expression in the hippocampus, PVN, pituitary gland, and adrenal cortex. And the effects were different in acupuncture at the different acupoints. (3) UCMS induced the increase of CRH protein expression in the hippocampus, PVN, and pituitary gland and the increase of ACTHR expression in the pituitary gland and adrenal cortex. All of those could be inhibited by acupuncture and the effects were different at different acupoints. (4) GR protein expression had been detected in the hippocampus, PVN, pituitary gland, and adrenal cortex; CRH expression had been detected in the hippocampus, PVN, and pituitary gland; and ACTHR protein expression had been detected in the pituitary gland and adrenal cortex in N and NEA groups. But the above corresponding expressions could be either increased or decreased in NEA group as compared with N group. Except that there were significant differences in GR and CRH protein expressions in hippocampus and CRH protein expression in the PVN between the two groups, the differences were not significant in the rest aspects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Behavior Changes of UCMS Model</head><p>Rats. After modeling, the horizontal, vertical, and along-the-line movements of the UCMS model rats were decreased apparently as compared with the normal model rats and the sucrose consumption was reduced significantly. These results were similar to the behavior changes of the chronic stress model rats in the previous studies <ref type="bibr" target="#b22">[22]</ref>. It was explained that the stress model set up in this study was successful.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">The Dual-Directional Regulation of Acupuncture on GR Protein Expression Induced by UCMS Stimulation.</head><p>The chronic stress induced the decrease of GR expression in many organs of the body and the increase of adrenal weight. Acupuncture relieved the overexcitation of HPAA function induced by chronic stress <ref type="bibr" target="#b23">[23,</ref><ref type="bibr" target="#b24">24]</ref>. But the changes in GR protein expression caused by acupuncture were not clear completely in terms of physiology and pathology. The hazard caused by stress reaction is due to the higher concentration of GC in the body. The affinity of GR was very low with GR, and GR was only activated under the high concentration of GC <ref type="bibr" target="#b25">[25]</ref>. GR participates in mainly the negative feedback regulation on HPAA <ref type="bibr" target="#b26">[26]</ref>.</p><p>The adrenal cortex is the target organ of the synthesis and secretion of GC. The long-term chronic stress stimulation can cause the excessive secretion of GC in the adrenal cortex of the rat. This study observed that UCMS induced the significant decrease of GR protein expression in the hippocampus, PVN, and pituitary gland. Acupuncture upregulated GR protein expression in the hippocampus, PVN, and pituitary gland. Perhaps, through promoting the connection of high concentration GC with GR in the hippocampus, PVN, and pituitary gland, the function of GR was activated and the negative feedback regulation of GR was intensified on HPAA. The decrease of GC level caused the decrease of HPAA excitability. The decrease of GC level lowered the combination with GR in adrenal cortex; as a result, GR activity as well as its protein expression was decreased. The results above were caused by the inhibition of acupuncture on GR protein expression induced by UCMS stimulation in the adrenal cortex. It was indicated that acupuncture presented the dualdirectional regulation on GR protein expression induced by UCMS stimulation, which was achieved via HPAA. Our preliminary work had observed the impacts of acupuncture on the peripheral blood CORT in the rats with the spinal cord injury <ref type="bibr" target="#b15">[15]</ref> and it was discovered that acupuncture promoted the increase of CORT level via the spinal reflex. Acupuncture inhibited the increase of GR level in UCMS model rats via the regulation of HPAA function. The acupoint specificity effect had been verified molecularly via the different expressions of GR protein in the hippocampus, PVN, and pituitary gland induced by acupuncture at different acupoints.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Inhibition of Acupuncture on CRH Protein Expressions</head><p>Induced by UCMS Stimulation. Being the most superior hormone in HPAA, CRH launches the response of HPAA to the corresponding stressor. Simultaneously, CRH is also involved in the activation in the sympathetic-adrenal-medullary system. Therefore, it is recognized generally that CRH is one of the important initiating factors in the stress process. The increase of CRH secretion may be used as an objective index to reflect the body's stress state <ref type="bibr" target="#b27">[27,</ref><ref type="bibr" target="#b28">28]</ref>. This study observed that acupuncture decreased UCMS-induced overexpression of CRH protein. Possibly, acupuncture promoted GR protein expression of CRH neurons in the hippocampus, PVN, and pituitary gland and downregulated the excitability of CRH neurons so as to reduce the protein expression of CRH. The acupoints specificity effect of the acupuncture regulation on HPAA function via the difference protein expressions of CRH in the hippocampus, PVN, and pituitary gland by acupuncture at different acupoints was further verified.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Inhibition of Acupuncture on the ACTHR Protein Expression</head><p>Induced by UCMS Stimulation. Lian et al. had made the model fitting to explain the stress reaction impact on the interaction of GR and ACTHR gene with stress factors. The results indicated that GR and ACTHR gene variants were the contributing factors of the decline of psychological stress reaction, physiological stress reaction, and work ability. It showed that ACTHR expression was closely related to the stress reaction <ref type="bibr" target="#b29">[29]</ref>.</p><p>This study had detected the protein expression of ACTHR in the pituitary gland and adrenal cortex and observed that UCMS induced the increase of ACTHR protein expression in the pituitary gland and adrenal cortex, which was downregulated by acupuncture. Additionally, the effects were different on the different acupoints, which was likely related to the downregulation of acupuncture on CRH protein expression and the inhibition of ACTHR protein expression via HPAA.</p><p>This study observed that acupuncture impacts the protein expressions of CRH, ACTHR, and GR in the normal model rats. Except for the significant differences in the protein expressions of GR and CRH in the hippocampus and the protein expression of CRH in the PVN between the N group and NEA group, the differences in the rest aspects were not significant. The stress is the comprehensive reaction of the body to the stressor <ref type="bibr" target="#b30">[30]</ref>. Under the stimulation by Evidence-Based Complementary and Alternative Medicine stressor, the body generates a series of neural endocrinal reactions via HPAA excitation so as to enable the body to enhance the resistance and maintain and recover the internal stability under the specific situation <ref type="bibr" target="#b31">[31]</ref>. Being a kind of stress stimulation, acupuncture activated the activity of brain central CRH neurons of the normal model rats. But since HPAA function was of the normal state in the normal animal, the stress state can be relieved rapidly. Therefore, this stress state was just manifested in the relevant molecules of the brain center. Additionally, the increase of GR protein expression in the hippocampus could promote the growth and development of the hippocampal neuron <ref type="bibr" target="#b32">[32]</ref>. It was explained that acupuncture presented the protective effect on the central nerve in the normal model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>Acupuncture improved the behavior changes induced by UCMS stimulation, which was related to the promotion of acupuncture on the combination of GC and GR in the hippocampus, PVN, and pituitary gland, the activation of GR, and promotion of GR protein expression. The increase of GR protein expression induced the negative feedback inhibition on CRH protein expression, downregulated ACTHR overexpression in the pituitary gland and adrenal cortex, decreased GC level, and reduced GR activity in the adrenal cortex and the protein expression. Molecularly, it had been verified that the regulation of acupuncture on stress reaction was achieved via the regulation of HPAA function, and the effects were different at different acupoints.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>EvidenceFigure 2 :</head><label>2</label><figDesc>Figure 2: The open field test score and sucrose consumption. (a, b,and c) showed the normalized data of the horizontal, vertical, and alongthe-line movement test on the -1st day, 21st day, and 29th day. (d) showed the normalized data of sucrose consumption detected on the 0th day, 22nd day, and 30th day. Normalized data<ref type="bibr" target="#b21">[21]</ref> = tested value on the 21st, 22nd, 29th, or 30th day/tested value on the -1st day or 0th day in same animal separately. * 𝑃 &lt; 0.05, * * 𝑃 &lt; 0.01, * * * 𝑃 &lt; 0.001 versus N group. # 𝑃 &lt; 0.05, ## 𝑃 &lt; 0.01, ### 𝑃 &lt; 0.001 versus M Group. Δ 𝑃 &lt; 0.05, MNEA versus MEA (𝑛 = 10-12).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 :</head><label>3</label><figDesc>Figure3: Effect of acupuncture on GR protein expression. GR protein expression was reduced obviously in the hippocampus, PVN, and pituitary gland and was dramatically increased in the adrenal cortex in M group as compared with N group. Compared with M group, GR protein expression was upregulated in the hippocampus, PVN, and pituitary gland and was downregulated in the adrenal cortex to different extents in MEAN and MNEA groups, but the results in MEA group were superior to MNEA group. The corresponding protein expression was increased obviously in the hippocampus in NEA group, which was significantly different as compared with N group. * 𝑃 &lt; 0.05, * * 𝑃 &lt; 0.01, and * * * 𝑃 &lt; 0.001 (𝑛 = 10-12) (GR: #H-300, Santa Cruz, 96KD, dilution: 1 : 1000).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 :Figure 5</head><label>45</label><figDesc>Figure 4: Effect of acupuncture on CRH protein expression. In M group, CRH protein expression was increased obviously in the hippocampus, PVN, and pituitary gland, which was significantly different as compared with N group. In MEA and MNEA groups, CRH protein expression was downregulated in hippocampus, PVN, and pituitary gland to different extents as compared with M group, but the results in MEA group were superior to MNEA group. The protein expression was increased significantly in the hippocampus and PVN in NEA group, which was different significantly as compared with N group. * 𝑃 &lt; 0.05, * * 𝑃 &lt; 0.01, * * * 𝑃 &lt; 0.001 (𝑛 = 10-12) (#10944-1-AP, Datashect, 36KD, dilution: 1 : 500).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>4747, 2014, 1 ,</head><label>1</label><figDesc>Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2014/495379 by Valentin Rodionov -CASE WESTERN RESERVE UNIVERSITY , Wiley Online Library on [12/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Evidence-Based Complementary and Alternative Medicine 7</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>4747, 2014, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2014/495379 by Valentin Rodionov -CASE WESTERN RESERVE UNIVERSITY , Wiley Online Library on [12/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors hereby thank <rs type="person">Lian-hong Tan</rs> for assistance with the experiment. The authors also thank <rs type="person">Fang Wang</rs> for assistance in the paper preparation. This work was supported by Grant from the <rs type="funder">National Nature Science Foundation of China</rs> (<rs type="grantNumber">81072856/H2718</rs> and <rs type="grantNumber">81373724/H2718</rs>) to <rs type="person">Shao-Jun Wang</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Fkzp75J">
+					<idno type="grant-number">81072856/H2718</idno>
+				</org>
+				<org type="funding" xml:id="_6shHq7U">
+					<idno type="grant-number">81373724/H2718</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EA:</head><p>Electroacupuncture PVN:</p><p>Hypothalamic paraventricular nucleus HPAA: Hypothalamic-pituitary-adrenal cortex axis UCMS: Unpredictable chronic mild stress GR:</p><p>Glucocorticoid receptor CRH:</p><p>Corticotrophin releasing hormone ACTHR: Adrenocorticotropic hormone receptor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interests</head><p>The authors declared that there is no conflict of interests regarding the publication of this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' Contribution</head><p>Shao-Jun Wang conceived the whole procedure of the study, wrote the paper, and conducted the statistical analysis. Jiao-Jiao Zhang, Shao-Jun Wang, and Li-Li Qie carried out the experiment. All authors discussed and approved the final paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Icaritin opposes the development of social aversion after defeat stress via increases of GR mRNA and BDNF mRNA in mice</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioural Brain Research</title>
+		<imprint>
+			<biblScope unit="volume">256</biblScope>
+			<biblScope unit="page" from="602" to="608" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Wu, J. Wu, S. Xia, B. Li, and J. Dong, &quot;Icaritin opposes the development of social aversion after defeat stress via increases of GR mRNA and BDNF mRNA in mice, &quot; Behavioural Brain Research, vol. 256, pp. 602-608, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Anti-inflammatory actions of glucocorticoids: molecular mechanisms</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Science</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="557" to="572" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. J. Barnes, &quot;Anti-inflammatory actions of glucocorticoids: molecular mechanisms, &quot; Clinical Science, vol. 94, no. 6, pp. 557- 572, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Dexamethasone suppression of corticosteroid secretion: evaluation of the site of action by receptor measures and functional studies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Kalman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychoneuroendocrinology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="167" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. A. Cole, P. J. Kim, B. A. Kalman, and R. L. Spencer, &quot;Dexam- ethasone suppression of corticosteroid secretion: evaluation of the site of action by receptor measures and functional studies, &quot; Psychoneuroendocrinology, vol. 25, no. 2, pp. 151-167, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A nuclear action of the eukaryotic cochaperone RAP46 in downregulation of glucocorticoid receptor activity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schneikert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hübner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C B</forename><surname>Cato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cell Biology</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="929" to="940" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Schneikert, S. Hübner, E. Martin, and A. C. B. Cato, &quot;A nuclear action of the eukaryotic cochaperone RAP46 in downregulation of glucocorticoid receptor activity, &quot; Journal of Cell Biology, vol. 146, no. 5, pp. 929-940, 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Differential glucocorticoid effects on stress-induced gene expression in the paraventricular nucleus of the hypothalamus and ACTH secretion in the rat</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W W</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Gaylord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jarvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Girotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stress</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="400" to="411" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. W. W. Pace, R. I. Gaylord, E. Jarvis, M. Girotti, and R. L. Spencer, &quot;Differential glucocorticoid effects on stress-induced gene expression in the paraventricular nucleus of the hypotha- lamus and ACTH secretion in the rat, &quot; Stress, vol. 12, no. 5, pp. 400-411, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Circulating estradiol and hypothalamic corticotrophin releasing hormone enhances along with time after ovariectomy in rats: effects of electroacupuncture</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropeptides</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="433" to="438" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Zhao, Z. Tian, Y. Feng, and B. Chen, &quot;Circulating estradiol and hypothalamic corticotrophin releasing hormone enhances along with time after ovariectomy in rats: effects of elec- troacupuncture, &quot; Neuropeptides, vol. 39, no. 4, pp. 433-438, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Therapy insight: is there an imbalanced response of mineralocorticoid and glucocorticoid receptors in depression?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>De Kloet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Derijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Meijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Clinical Practice Endocrinology and Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="179" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. R. de Kloet, R. H. Derijk, and O. C. Meijer, &quot;Therapy insight: is there an imbalanced response of mineralocorticoid and glucocorticoid receptors in depression?&quot; Nature Clinical Prac- tice Endocrinology and Metabolism, vol. 3, no. 2, pp. 168-179, 2007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Effect of acupuncture at points &quot;baihui taichong&quot; on the hypothalamic-pituitaryadrenocortical axis in the chronic mild unpredictable stressors depression rats</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">R</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chinese Medicine and Pharmacology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="52" to="53" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. P. Li, J. J. Lan, J. S. Hua, and Z. R. Sun, &quot;Effect of acupuncture at points &quot;baihui taichong&quot; on the hypothalamic-pituitary- adrenocortical axis in the chronic mild unpredictable stressors depression rats, &quot; Acta Chinese Medicine and Pharmacology, vol. 34, pp. 52-53, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Influence of acupuncture on HPAA in a rat model of chronic stress-induced depression</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Shanghai Journal of Acupuncture and Moxibustion</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="32" to="34" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. W. Sun and L. Wang, &quot;Influence of acupuncture on HPAA in a rat model of chronic stress-induced depression, &quot; Shanghai Journal of Acupuncture and Moxibustion, vol. 26, pp. 32-34, 2007.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effects of acupuncture on the hypothalamus-pituitary-adrenal axis in the patient of depression</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">R</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Acupuncture &amp; Moxibustion</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="78" to="80" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Xu, Z. R. Sun, and L. P. Li, &quot;Effects of acupuncture on the hypothalamus-pituitary-adrenal axis in the patient of depression, &quot; Chinese Acupuncture &amp; Moxibustion, vol. 24, pp. 78-80, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Acupuncture analgesia: areas of consensus and controversy</title>
+		<author>
+			<persName><forename type="first">J.-S</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="41" to="S48" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.-S. Han, &quot;Acupuncture analgesia: areas of consensus and controversy, &quot; Pain, vol. 152, no. 3, supplement, pp. S41-S48, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The efficacy of acupuncture and decompression splints in the treatment of temporomandibular joint pain-dysfunction syndrome</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vicente-Barrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Yu-Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicina Oral, Patología Oral y Cirugía Bucal</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1028" to="e1033" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Vicente-Barrero, S. L. Yu-Lu, B. Zhang et al., &quot;The efficacy of acupuncture and decompression splints in the treatment of temporomandibular joint pain-dysfunction syndrome, &quot; Medic- ina Oral, Patología Oral y Cirugía Bucal, vol. 17, no. 6, pp. e1028- e1033, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effects of electroacupuncture on embryo implanted potential for patients with infertility of different symptom complex</title>
+		<author>
+			<persName><forename type="first">F.-Y</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q.-Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F.-Q</forename><surname>Jian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2014/495379</idno>
+		<idno>. 4747</idno>
+		<ptr target="https://onlinelibrary.wiley.com/doi/10.1155/2014/495379" />
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Acupuncture &amp; Moxibustion</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="113" to="116" />
+			<date type="published" when="2012">2012. 2014, 1</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F.-Y. Kong, Q.-Y. Zhang, Q. Guan, F.-Q. Jian, W. Sun, and Y. Wang, &quot;Effects of electroacupuncture on embryo implanted potential for patients with infertility of different symptom complex, &quot; Chinese Acupuncture &amp; Moxibustion, vol. 32, no. 2, pp. 113-116, 2012. 4747, 2014, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2014/495379</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Valentin</forename><surname>Rodionov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-Case Western Reserve</forename><surname>University</surname></persName>
+		</author>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="j">Wiley Online</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2026-04-12">12/04/2026</date>
+		</imprint>
+	</monogr>
+	<note>See the Terms and Conditions</note>
+	<note type="raw_reference">by Valentin Rodionov -CASE WESTERN RESERVE UNIVERSITY , Wiley Online Library on [12/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Evidence-Based Complementary and Alternative Medicine 9</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wan</surname></persName>
+		</author>
+		<title level="m">The molecular mechanisms underlying the electricacupuncture restoring the hypothalamo-pituitary-adrenal axis function triggered by restrain stress in rat</title>
+		<meeting><address><addrLine>Beijing, China</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+		<respStmt>
+			<orgName>The PLA Postgraduate Medical School</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. thesis</note>
+	<note type="raw_reference">S. L. Wan, The molecular mechanisms underlying the electric- acupuncture restoring the hypothalamo-pituitary-adrenal axis function triggered by restrain stress in rat [Ph.D. thesis], The PLA Postgraduate Medical School, Beijing, China, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pituitary and spinal cord function in the regulation of hypothalamuspituitary-adrenal axis in electroacupuncture</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Basic Medicine in Traditional Chinese Medicine</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="537" to="539" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. J. Wang, L. H. Tan, J. J. Zhang, and B. Zhu, &quot;Pituitary and spinal cord function in the regulation of hypothalamus- pituitary-adrenal axis in electroacupuncture, &quot; Chinese Journal of Basic Medicine in Traditional Chinese Medicine, vol. 19, no. 5, pp. 537-539, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Study of the specificity of acupoints in acupuncture activated the neurons in paraventricular area of hypothalamus</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Basic Medicine in Traditional Chinese Medicine</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="307" to="310" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. J. Zhang, S. J. Wang, L. H. Tan, B. Zhu, and Z. H. Wang, &quot;Study of the specificity of acupoints in acupuncture activated the neurons in paraventricular area of hypothalamus, &quot; Chinese Journal of Basic Medicine in Traditional Chinese Medicine, vol. 19, no. 3, pp. 307-310, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of acupuncture on the hypothalamus-pituitary-adrenal axis in the patient of depression</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">R</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Acupuncture &amp; Moxibustion</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="78" to="80" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Xu, Z. R. Sun, L. P. Li, S. Tong, S. Wang, and J. S. Hua, &quot;Effects of acupuncture on the hypothalamus-pituitary-adrenal axis in the patient of depression, &quot; Chinese Acupuncture &amp; Moxibustion, vol. 24, no. 2, pp. 78-80, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Acute and chronic stress effects on open field activity in the rat: implications for a model of depression</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Carroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience &amp; Biobehavioral Reviews</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="247" to="251" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. J. Katz, K. A. Roth, and B. J. Carroll, &quot;Acute and chronic stress effects on open field activity in the rat: implications for a model of depression, &quot; Neuroscience &amp; Biobehavioral Reviews, vol. 5, no. 2, pp. 247-251, 1981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of electroacupuncture at different acupoint groups on behavior activity and p-CREB expression in hippocampus in the rat of depression</title>
+		<author>
+			<persName><forename type="first">D.-M</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L.-P</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Acupuncture &amp; Moxibustion</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="369" to="373" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D.-M. Duan, Y. Tu, and L.-P. Chen, &quot;Effects of electroacupunc- ture at different acupoint groups on behavior activity and p- CREB expression in hippocampus in the rat of depression, &quot; Chinese Acupuncture &amp; Moxibustion, vol. 28, no. 5, pp. 369-373, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effect of acupuncture on expression of brain-derived neurotrophic factor gene and protein in frontal cortex and hippocampus of depression rats</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Chui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acupuncture Research</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="20" to="22" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Liang, J. Lu, S. F. Chui, J. R. Wang, and Y. Tu, &quot;Effect of acupuncture on expression of brain-derived neurotrophic fac- tor gene and protein in frontal cortex and hippocampus of depression rats, &quot; Acupuncture Research, vol. 37, no. 2, pp. 20-22, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Acupuncture alleviates colorectal hypersensitivity and correlates with the regulatory mechanism of TrpV1 and p-ERK</title>
+		<author>
+			<persName><forename type="first">S.-J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G.-S</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evidence-Based Complementary and Alternative Medicine</title>
+		<imprint>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2012">2012. 2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.-J. Wang, H.-Y. Yang, and G.-S. Xu, &quot;Acupuncture alleviates colorectal hypersensitivity and correlates with the regulatory mechanism of TrpV1 and p-ERK, &quot; Evidence-Based Complemen- tary and Alternative Medicine, vol. 2012, Article ID 483123, 10 pages, 2012.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effects of electroacupuncture at auricular concha region on the depressive status of unpredictable chronic mild stress rat models</title>
+		<author>
+			<persName><forename type="first">R.-P</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-L</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-J</forename><surname>Rong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evidence-Based Complementary and Alternative Medicine</title>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="page">789674</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>7 pages</note>
+	<note type="raw_reference">R.-P. Liu, J.-L. Fang, P.-J. Rong et al., &quot;Effects of electroacupunc- ture at auricular concha region on the depressive status of unpredictable chronic mild stress rat models, &quot; Evidence-Based Complementary and Alternative Medicine, vol. 2013, Article ID 789674, 7 pages, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Effect of electroacupuncture of &quot;Baihui&quot; (GV 20)-&quot;Yintang&quot; (EX-HN 3) on the expression of glucocorticoid and glucocorticoid receptor mRNA of the chronic stress model rats</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>You</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-J</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-J</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B.-H</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acupuncture Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="261" to="266" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. You, Y.-J. Shi, Y.-J. Han, B.-H. Jia, and Y. Tu, &quot;Effect of electroacupuncture of &quot;Baihui&quot; (GV 20)-&quot;Yintang&quot; (EX-HN 3) on the expression of glucocorticoid and glucocorticoid receptor mRNA of the chronic stress model rats, &quot; Acupuncture Research, vol. 35, no. 4, pp. 261-266, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Effects of electroacupuncture intervention on behavior changes and hippocampal glucocorticoid receptor and mineralocorticoid receptor expression levels in post-traumatic stress disorder rats</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Q</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Xiong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acupuncture Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="140" to="145" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Q. Hou, S. Liu, and K. R. Xiong, &quot;Effects of electro- acupuncture intervention on behavior changes and hippocam- pal glucocorticoid receptor and mineralocorticoid recep- tor expression levels in post-traumatic stress disorder rats, &quot; Acupuncture Research, vol. 38, no. 2, pp. 140-145, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Current views on the glucocorticoid receptor</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">G</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Modern Biomedicine</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1592" to="1594" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. J. Wang, X. G. Liu, and D. Zhang, &quot;Current views on the glucocorticoid receptor, &quot; Progress in Modern Biomedicine, vol. 10, no. 8, pp. 1592-1594, 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Basic and clinical research on the glucocorticoid receptor</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Journal of Second Military Medical University</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="556" to="557" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. M. Liu, H. Zhang, Y. Q. Shi et al., &quot;Basic and clinical research on the glucocorticoid receptor, &quot; Academic Journal of Second Military Medical University, vol. 24, no. 5, pp. 556-557, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Neurocircuitry of stress: central control of the hypothalamo-pituitary-adrenocortical axis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Cullinan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Neurosciences</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="78" to="84" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. P. Herman and W. E. Cullinan, &quot;Neurocircuitry of stress: cen- tral control of the hypothalamo-pituitary-adrenocortical axis, &quot; Trends in Neurosciences, vol. 20, no. 2, pp. 78-84, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The inflamed axis: the interaction between stress, hormones, and the expression of inflammatory-related genes within key structures comprising the hypothalamic-pituitary-adrenal axis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Hueston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Deak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="77" to="91" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. M. Hueston and T. Deak, &quot;The inflamed axis: the inter- action between stress, hormones, and the expression of inflammatory-related genes within key structures comprising the hypothalamic-pituitary-adrenal axis, &quot; Physiology &amp; Behav- ior, vol. 124, pp. 77-91, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Associations of GR and ACTHR gene polymorphisms with quantitative trait of strain</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Lian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Industrial Hygiene and Occupational Diseases</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. L. Lian, F. Y. Li, L. Wang et al., &quot;Associations of GR and ACTHR gene polymorphisms with quantitative trait of strain, &quot; Chinese Journal of Industrial Hygiene and Occupational Dis- eases, vol. 29, no. 12, pp. 902-907, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Neuroendocrine response and its mediators induced by acute psychosocial stress</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1347" to="1354" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. M. Qi, Q. L. Zhang, L. L. Guan, and J. Yang, &quot;Neuroen- docrine response and its mediators induced by acute psy- chosocial stress, &quot; Advances in Psychological Science, vol. 19, no. 9, pp. 1347-1354, 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Mathematical modeling of the hypothalamic-pituitary-adrenal gland (HPA) axis, including hippocampal mechanisms</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Ottesen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Biosciences</title>
+		<imprint>
+			<biblScope unit="volume">246</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="122" to="138" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Andersen, F. Vinther, and J. T. Ottesen, &quot;Mathematical modeling of the hypothalamic-pituitary-adrenal gland (HPA) axis, including hippocampal mechanisms, &quot; Mathematical Bio- sciences, vol. 246, no. 1, pp. 122-138, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Opposing roles of glucocorticoid receptor and mineralocorticoid receptor in trimethyltin-induced cytotoxicity in the mouse hippocampus</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ogita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sugiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Acosta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience Letters</title>
+		<imprint>
+			<biblScope unit="volume">511</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="116" to="119" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Ogita, C. Sugiyama, G. B. Acosta et al., &quot;Opposing roles of glucocorticoid receptor and mineralocorticoid receptor in trimethyltin-induced cytotoxicity in the mouse hippocampus, &quot; Neuroscience Letters, vol. 511, no. 2, pp. 116-119, 2012.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

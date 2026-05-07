@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "traces-benchmark"
+version = "0.1.0"
+description = "Training-data Recognition and Assessment for Contaminated Evidence in Science"
+readme = "README.md"
+license = {text = "CC-BY-4.0"}
+requires-python = ">=3.10"
+dependencies = [
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "requests>=2.28",
+    "rdflib>=7.0",
+    "spacy>=3.7",
+    "numpy>=1.26",
+    "matplotlib>=3.7",
+    "grobid-tei-xml>=0.1.0",
+]
+
+[project.optional-dependencies]
+grobid = [
+    "requests>=2.28",
+    "grobid-tei-xml>=0.1.0",
+]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov",
+]
+
+[project.scripts]
+traces = "traces.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["traces*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

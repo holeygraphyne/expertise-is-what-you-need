@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Constructing two-dimensional holey graphyne with unusual annulative π-extension</title>
+				<funder ref="#_NHDzdTn">
+					<orgName type="full">Advanced Facility Center for Quantum Technology, National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_TvGdwnG">
+					<orgName type="full">NSF Centre for the Advancement of Wearable Technologies</orgName>
+				</funder>
+				<funder ref="#_5wfSfzK">
+					<orgName type="full">NASA</orgName>
+				</funder>
+				<funder ref="#_6pbmVjv">
+					<orgName type="full">Institute for Basic Science</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-05-18">May 18, 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Xinghui</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Center for Integrated Nanostructure Physics (CINAP) , Institute of Basic Science (IBS) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Institute of Basic Science (IBS)</orgName>
+								<orgName type="laboratory">Center for Integrated Nanostructure Physics (CINAP)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Chemistry , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soo</forename><forename type="middle">Min</forename><surname>Cho</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Chemistry , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shiru</forename><surname>Lin</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Chemistry University of Puerto Rico , Rio Piedras Campus , San Juan , PR , USA</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Puerto Rico</orgName>
+								<address>
+									<addrLine>Rio Piedras Campus</addrLine>
+									<settlement>San Juan</settlement>
+									<region>PR</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhongfang</forename><surname>Chen</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Chemistry University of Puerto Rico , Rio Piedras Campus , San Juan , PR , USA</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Puerto Rico</orgName>
+								<address>
+									<addrLine>Rio Piedras Campus</addrLine>
+									<settlement>San Juan</settlement>
+									<region>PR</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wooseon</forename><surname>Choi</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Energy Science , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Energy Science</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Young-Min</forename><surname>Kim</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Energy Science , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Energy Science</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eunbhin</forename><surname>Yun</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Center for Integrated Nanostructure Physics (CINAP) , Institute of Basic Science (IBS) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Institute of Basic Science (IBS)</orgName>
+								<orgName type="laboratory">Center for Integrated Nanostructure Physics (CINAP)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Chemistry , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eun</forename><forename type="middle">Hee</forename><surname>Baek</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Chemistry , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Do</forename><forename type="middle">Hyun</forename><surname>Ryu</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Chemistry , Sungkyunkwan University (SKKU) , 2066 Seoburo , Jangan-Gu , Suwon 16419 , Republic of Korea</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Sungkyunkwan University (SKKU)</orgName>
+								<address>
+									<addrLine>2066 Seoburo Jangan-Gu</addrLine>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hyoyoung</forename><surname>Lee</surname></persName>
+						</author>
+						<title level="a" type="main">Constructing two-dimensional holey graphyne with unusual annulative π-extension</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Matter</title>
+						<title level="j" type="abbrev">Matter</title>
+						<idno type="ISSN">2590-2385</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">5</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="2306" to="2318"/>
+							<date type="published" when="2022-05-18">May 18, 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">64D3C6DF8FD81A36B537D22F5F05CF69</idno>
+					<idno type="DOI">10.1016/j.matt.2022.04.033</idno>
+					<note type="submission">Received: January 26, 2022 Revised: March 15, 2022 Accepted: April 26, 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Constructing two-dimensional holey graphyne with unusual annulative p-extension</head><p>Holey graphyne (HGY) is alternately linked between benzene rings and ChC bonds and is composed of six-vertex and highly strained, eight-vertex rings and an equal percentage of sp 2 and sp hybridized carbon atoms. Density functional theory (DFT) has proven its stability of thermodynamic, kinetic, mechanical, and thermal properties; thus, it is a promising synthetic target. We report HGY synthesized in an interfacial, two-solvent system through a Castro-Stephens-type coupling reaction from 1,3,5-tribromo-2,4,6-triethynylbenzene. DFT predicted HGY is a p-type semiconductor with a direct bandgap (1.1 eV) and high carrier mobility.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Diamond and graphite are two naturally occurring carbon allotropes, which possess sp <ref type="bibr" target="#b2">3</ref> and sp 2 hybridized carbon atoms, respectively. The discovery of various other carbon allotrope materials, such as graphene, <ref type="bibr" target="#b0">1</ref> fullerene, 2 carbon nanotube, <ref type="bibr" target="#b2">3</ref> graphyne, <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> and graphdiyne, <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> has been revolutionizing modern nanomaterials science. Graphyne, firstly predicated by Baughman et al. in 1987, <ref type="bibr" target="#b4">5</ref> is a new form of two-dimensional (2D) carbon material with sp and sp 2 carbon atoms. The presence of the sp carbon atoms (or acetylenic linkages) in graphyne disintegrates the original honeycomb lattice of graphene. Accordingly, unlike graphene with only a honeycomb lattice structure, graphynes can adopt many different geometries. So far, mainly four different geometries of graphynes, namely a-, b-, g-, and 6,6,12-graphyne, <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> have been explored, and their percentages of acetylenic linkages are 100%, 66.67%, 33.33%, and 41.67%, respectively. <ref type="bibr" target="#b6">7</ref> Interestingly, similar to graphene, a-, b-, and 6,6,12-graphynes <ref type="bibr" target="#b4">5</ref> have Dirac-cone-like band structures at the Fermi level and exhibit small carrier effective masses and high carrier mobility, <ref type="bibr" target="#b5">6</ref> while graphdiyne <ref type="bibr" target="#b3">4</ref> and g-graphyne <ref type="bibr" target="#b4">5</ref> possess nonzero band gaps. Recently, Casari and coworkers experimentally fabricated the graphdiyne-like carbon nanonetwork <ref type="bibr" target="#b9">10</ref> and designed all graphdiyne-related carbon allotropes, <ref type="bibr" target="#b10">11</ref> giving possible guidelines for designing new 2D carbon materials. The unique properties of graphynes make them strong competitors of graphene, at least for some applications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Progress and potential</head><p>Carbon has many faces, such as graphene, nanotubes, fullerene, and graphdiyne, where hexagons are the primary building blocks of these materials. Since many of the exotic properties of carbon allotropes are related to their unique structure, some basic questions will occur. Is it possible to design new carbon allotropes? An intriguing molecule, dibenzocyclooctadiyne, first synthesized by Sondheimer and coworkers, caught our attention. In dibenzocyclooctadiyne, two aromatic benzene rings are connected by two bent acetylenic linkages, resulting in a highly strained, eight-membered ring. This interesting molecule inspired us to design and synthesize the new carbon allotrope, namely holey graphyne, as reported in this work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>Graphene research has made significant advances in modern chemistry and physics because of its fascinating properties. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b11">12</ref> However, the zero-bandgap electronic structure of graphene limits its application for semiconducting materials. Therefore, it is necessary to find new types of 2D carbon allotropes that have exceptional semiconducting properties, such as a proper energy bandgap and high mobility. Comparing graphene, <ref type="bibr" target="#b11">12</ref> g-graphyne, 5 and graphdiyne, <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> we can expect that 2D carbon allotropes constructed by alternatively linking sp 2 benzene rings and sp acetylenic chains with an appropriate sp 2 /sp bonding ratio may help design the holey graphyne (HGY), an ideal 2D semiconducting material. An intriguing molecule, dibenzocyclooctadiyne, firstly synthesized by Sondheimer and coworkers in 1974, <ref type="bibr" target="#b12">13</ref> caught our attention. In dibenzocyclooctadiyne, two aromatic benzene rings are connected by two bent acetylenic linkages, resulting in a highly strained, eightmembered ring. This exciting molecule inspired us to design and synthesize the new carbon allotrope, namely HGY, as reported in this work.</p><p>Herein, we report a new type of carbon allotrope, HGY, whose structure is composed of a pattern of hybridized six-vertex and eight-vertex rings. We synthesized the ultrathin, single-crystalline HGY by the bottom-up approach through a transitionmetal-mediated cross-coupling from 1,3,5-tribromo-2,4,6-triethynylbenzene in the interface of two-solvent system (water and dichloromethane). We systematically investigated its stability and spectroscopic and electronic properties by joint experimental and theoretical studies. It is revealed that HGY may have promising potential applications in optoelectronic and energy-related fields.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS AND DISCUSSION</head><p>Structure and stability of HGY by DFT computations By means of density functional theory (DFT) computations, we theoretically investigated the geometric structure of HGY and its stability (see Data S1. Crystallographic information files of HGY). HGY, the novel carbon allotrope, has a space group P6/ mmm (D 6h 1 ) in the Hermann-Mauguin (Schoenflies) notation. Different from graphene with only six-membered carbon rings, HGY not only has six-membered rings but also has eight-membered carbon atom rings between the hexagonal units (Figure <ref type="figure" target="#fig_1">1A</ref>). The optimized lattice constant is a = b = 10.83 A ˚(Figure <ref type="figure" target="#fig_1">S1</ref>; Tables <ref type="table" target="#tab_0">S1-S3</ref>).</p><p>According to bonding analysis (Figure <ref type="figure" target="#fig_1">1A</ref>), the carbon atoms in six-membered rings are sp 2 hybridized, and these rings have alternating single and double bonds with the bond distance of 1.461 and 1.396 A ˚, respectively. In comparison, the carbon atoms in the eight-membered rings are sp hybridized; the bond lengths in these rings are alternate as 1.461, 1.412, and 1.226 A ˚; and the angles are alternate as 114.3 and 155.6 , respectively (Figure <ref type="figure" target="#fig_1">1A</ref>). Note that these bonds have different charge densities (Figure <ref type="figure" target="#fig_1">1B</ref>), and the variation in bond charge density indicates the different types of carbon bonding (sp 2 and sp). These charge density results are also in good agreement with the line charge density along the lattice direction (Figure <ref type="figure" target="#fig_3">S2</ref>).</p><p>Stability is a primary requirement for real applications. The stability can be evaluated by the computed cohesive energy, phonon spectra, elastic constants, and ab initio molecular dynamics (AIMD) simulations. First, the cohesive energy per atom, E coh , is calculated by E coh = (n$E coh, atom -E t )/n, where E coh, atom , E t , and n are the total energy of the carbon atom, the total energy of the primitive cell, and the number of carbon atoms per primitive cell. The cohesive energy of HGY (7.30 eV/atom) is very close to that of graphene (8.11 eV 1 ), indicating its good thermodynamic stability. Then, we calculated the phonon frequencies of HGY for all modes in the Brillouin zone (BZ) (Figures <ref type="figure" target="#fig_1">1C</ref> and <ref type="figure" target="#fig_3">S2</ref>). No imaginary frequencies were observed, which indicates that HGY is kinetically stable. Note that the maximum frequency of the longitudinal optic mode (LO) is as high as 2,400 cm À1 in the carbon chain.   Article</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>To further investigate the issue of thermal stability, we carried out AIMD simulation at T = 1,000 K for 10 ps. Comparing the atomic structures (2*2*1) before and after the AIMD simulation (Figure <ref type="figure" target="#fig_1">1D</ref>), it is found that HGY remains as a well-connected framework after 10 ps of MD simulations at this high temperature, indicating its good thermal stability. Our experimental thermogravimetric analysis (TGA) showed that the decomposition temperature of HGY is about 750 C (Figure <ref type="figure" target="#fig_3">S2</ref>), which is consistent with the AIMD simulations. The above results strongly indicate that HGY is of good thermodynamic, kinetic, mechanic, and thermal stabilities and thus a promising synthetic target.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental synthesis of HGY</head><p>To synthesize HGY, we designed a synthetic scheme by Castro-Stephens-type coupling reaction using a new monomer (1,3,5-tribromo-2,4,6-triethynylbenzene, 1) (Scheme S1; Figures <ref type="figure" target="#fig_3">2A</ref> and <ref type="figure" target="#fig_3">2B</ref>). <ref type="bibr" target="#b13">14</ref> Firstly, we synthesized the known 2,4,6-tribromobenzene-1,3,5-tricarbaldehyde 4 (the precursor of 1) from mesitylene by modified literature procedure. <ref type="bibr" target="#b14">15</ref> Then, 1 was synthesized from 4 using Corey-Fuchs reaction <ref type="bibr" target="#b15">16</ref> with lithium diisopropylamide as a base. More specifically, to illustrate the preparation of monomer 1 of HGY, the detailed reaction procedures ( 1 H nuclear magnetic resonance [NMR], <ref type="bibr" target="#b12">13</ref> C NMR spectra, the reaction yields, and detailed process) are given in supplemental information (Figures <ref type="figure" target="#fig_5">S3-S9</ref>). Finally, monomer 1 was transformed into the crystalline HGY film on the interface between the organic and water phases via the initial intermediate (Figures <ref type="figure" target="#fig_3">2A</ref> and <ref type="figure" target="#fig_1">S10</ref>). The synthesized HGY was identified using <ref type="bibr" target="#b12">13</ref> C-solid NMR (Figure <ref type="figure">S9</ref>), which shows four prominent peaks.</p><p>The two peaks at 91.1 (red color) and 80.9 ppm (blue color) are assigned to the sp </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>carbon atoms, whereas the two peaks at 129.7 and 126.8 ppm are attributed to the sp 2 carbon (green color). Note that the 91.1 ppm is the newly formed sp bonding, and the 80.9 ppm peak is the terminal (defect) sp bonding.</p><p>To gain insights into the underlying mechanism for the formation of strained HGY from the initial dimer intermediate rather than the initial trimer intermediate, we applied the climbing-image nudged elastic band (CI-NEB) method to evaluate the energy barrier of both modes (Figure <ref type="figure" target="#fig_1">S11</ref>). Both reactions are exothermic, according to the energy profiles from the initial states to the final states of dimer and trimer. However, the energy barrier for dimer formation (17.76 eV) is lower than trimer formation (23.74 eV), which further confirms the design of the HGY formation process, and ruled out the formation of the 2D (g-graphyne) structure based on trimer intermediate. Note that HGY can be formed at room temperature in comparison with g-graphyne, since the difference between both energy barriers is 5.98 eV, indicating the g-graphyne needs more energy than HGY for overcoming the kinetic energy barrier.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of morphologies and structures</head><p>The morphologies of HGY, with the lateral dimension up to several micrometers, were characterized by optical microscopy (OM) and scanning electron microscopy (SEM) (Figure <ref type="figure" target="#fig_5">3A</ref>). The flat sheet with a thickness of 5.3 nm was observed by atomic force microscopy (AFM) (Figure <ref type="figure" target="#fig_5">3B</ref>) and the 3D image of the HGY film (Figure <ref type="figure" target="#fig_3">S12</ref>), which may be about 15 layers of HGY since the interlayer distance is about 0.36 nm (based on the transmission electron microscopy [TEM] measurements described below). The TEM was used further to analyze the morphology and microstructure of the 2D film: both the low-resolution TEM image (Figure <ref type="figure" target="#fig_5">S13</ref>) and the high-resolution TEM (HRTEM) image (Figure <ref type="figure" target="#fig_5">3C</ref>) reconfirm the successful synthesis of a continuous film. The corresponding fast Fourier transform (FFT) pattern of the HRTEM image (inset Figure <ref type="figure" target="#fig_5">3C</ref>) verifies the single-crystalline nature of the film, which means that the structure of the film has significant in-plane order over a relatively large area and exhibits the single-crystal diffractions spots. The d-spacing along the ð200Þ reflections of HGY is 0.442 nm (Figure <ref type="figure" target="#fig_5">3D</ref>). Another set of hexagonally arranged diffraction spots with a larger d-spacing of 0.27 nm was also observed, which can be indexed by the ð220Þ reflections of HGY.</p><p>To further verify the crystal structure of the nanosheet, we simulated HRTEM along [001] zone axis observation using the optimized HGY model with ''AB'' stacking mode at a different thickness (t) (ranging from 1.3 to 61.4 nm with a step of 10 nm) and defocus ðDf Þ ranging from À120 to +240 nm with a step of 60 nm) (Figures <ref type="figure" target="#fig_5">3E</ref> and <ref type="figure" target="#fig_6">S14</ref>). The simulated HRTEM images with a large value range Df (120-240 nm) well match the experimental images (the green and red squares; Figures <ref type="figure" target="#fig_5">3D</ref> and <ref type="figure" target="#fig_5">3E</ref>). Thus, we expect that the HGY nanosheets are stacked in the ''AB'' manner. Furthermore, we examined the crystal structure of the HGY by X-ray diffraction (XRD) measurement. The (002) peak at approximately 24.5 for HGY indicates an interlayer spacing of 0.36 nm (Figure <ref type="figure" target="#fig_5">3F</ref>), consistent with the FFT pattern of Figure <ref type="figure" target="#fig_5">3G</ref>. Note that the lattice fringe image of HRTEM reveals curve streaks with a lattice parameter of 0.36 nm, in agreement with the XRD result of the (002) peak, indicating the spacing between carbon layers (Figures <ref type="figure" target="#fig_5">3H-3J</ref>). The interlayer spacing value ($0.36 nm) between HGY layers is slightly higher than that of graphene due to the weak van der Waals interactions. <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Spectroscopic characterization</head><p>The study of spectroscopic properties <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> is essential for the new carbon allotropes of HGY. The elemental composition and bonding structure were probed  ll Matter 5, 2306-2318, July 6, 2022 2311 Article R E T R A C T E D microscopy (STEM)-EDS maps (Figure 4B) show the distributions of C, Br, and O. As result, carbon is the dominating element in the film, proving the high completion of transition-metal-mediated cross-coupling reaction to give 2D HGY nanosheets. The electron image and EDS (Figure S16) analysis are consistent with the XPS result.</p><p>High-resolution XPS can discriminate against the circumstance of an element. The C 1s peak at 284.8 eV is deconvoluted into four Gaussian sub-peaks (Figure <ref type="figure" target="#fig_6">4A</ref>), which are mainly contributions by sp 2 (C=C; at 284.5 eV) and sp (ChC; at 285.3 eV) species. Also, the abundance ratio of the sp/sp 2 carbon is 1, the same as the chemical composition analysis of the HGY structure. The sub-peaks C-O and C=O, with minor contributions to the C 1s peak, are located at 286.6 and 288.5 eV, respectively. The presence of elemental O most likely derives from the absorption of air in the pores and the oxidation of terminal alkyne, which will cause some defects.</p><p>Meanwhile, we analyzed the FT-IR spectroscopy of HGY and compared with that of monomer 1. When the 2D crystalline HGY is formed, the C-Br stretching (at 682 cm À1 ) and the ChC-H stretching (at 3,278 cm À1 ) in monomer 1 both dramatically decrease (to nearly negligible). The peak ChC stretching modes (Figure <ref type="figure" target="#fig_6">4C</ref>) were identified at 1,933 cm À1 and 2,115 cm À1 for HGY and 1, respectively. Note that the peak at 1,933 cm À1 corresponds to the newly formed ChC (sp) bonds due to the coupling reaction of 1. The intense stretching of the carbon rings </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>(1,336 cm À1 in HGY; 1,338 cmÀ 1 in 1) indicates the in-plane bending vibration of delocalized benzene rings of HGY, confirming the structure of HGY. Raman scattering spectroscopy is a powerful tool to analyze the structural information of HGY, particularly for those Raman-active alkyne linkers arrayed in the concrete topology of HGY. Thus, we measured the Raman spectrum of HGY and assigned the vibration modes by comparing it with the DFT-simulated spectrum (Figures <ref type="figure" target="#fig_6">4D</ref> and <ref type="figure" target="#fig_6">4E</ref>). Experimentally, all the Raman active peaks are in the range of 200 cm À1 to 2,500 cm À1 , which agrees with the computational results (Figures <ref type="figure" target="#fig_1">S17-S19</ref>). The two prominent peaks of ChC (sp) at 1,946 cm À1 and 2,207 cm À1 in the measured Raman spectrum are assigned to the A 1g (2,091 cm À1 ) and E 2g (2,128 cm À1 ) vibration modes of sp bonding (Figure <ref type="figure" target="#fig_6">4E</ref>) in the conjugated alkyne linkage (Figure <ref type="figure" target="#fig_6">4C</ref>). The experimentally observed peak at 1,525 cm À1 corresponds to the first-order scattering of the E 2g (1,539 cm À1 ) vibration mode for the in-phase stretching of sp 2 carbon, which is red shifted compared with the G band of graphite (1,575 cm À1 ). <ref type="bibr" target="#b22">23</ref> The measured 1,296 cm À1 peak, called the D band, corresponds to the breathing A 1g vibration (1,398 cm À1 ) of sp 2 carbon domains in aromatic rings (see supplemental experimental procedures for details). Terminal alkyne vibrational modes (2,100-2,120 cm À1 ) are almost negligible, indicating that most of the terminal alkyne residues of monomers were integrated into the p-conjugated network of HGY, <ref type="bibr" target="#b23">24</ref> except for a few edges and defect sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electronic properties characterization</head><p>The bandgap (E g ) is an essential feature of semiconductors that determines their applications in optoelectronics. Here, diffuse reflectance spectroscopy (DRS) is used to investigate the bandgap of HGY. From the reflectance spectrum of HGY, the optic absorption coefficient (a) was obtained (Equation S1) from the Kubelka-Munk equation (Equation <ref type="formula">S2</ref>). The bandgap of the HGY is determined to be $1.1 eV based on the direct transition from the Kubelka-Munk function (Figure <ref type="figure" target="#fig_6">4F</ref>), which is consistent with the calculated bandgap ($1.0 eV) from the electronic structure (Figures <ref type="figure" target="#fig_7">5A</ref> and <ref type="figure" target="#fig_7">5B</ref>) and of HGY by DFT simulation via using HSE06 function. Note that HGY is a p-type semiconductor material with a direct bandgap of 1.1 eV at the K point (Figure <ref type="figure" target="#fig_7">5B</ref>) in the reciprocal lattice of the primitive cell. The conduction band minimum (CBM) and the valence band maximum (VBM) originate from the p* and p band states, respectively, and the band dispersion arises mainly from the overlap of the carbon 2P z orbitals (Figure <ref type="figure" target="#fig_7">5C</ref>). In addition, the wavefunction of a pair of orbitals at the K point of CBM and VBM is plotted (Figure <ref type="figure" target="#fig_7">5D</ref>). <ref type="bibr" target="#b24">25</ref> More details of the electric structure and work function (5.2 eV) are presented in Figures <ref type="figure" target="#fig_3">S20</ref> and <ref type="figure" target="#fig_3">S21</ref> and supplemental experimental procedures.</p><p>The first Brillouin zone (FBZ) (Figure <ref type="figure" target="#fig_7">5E</ref>) is related to the hexagonal (red line) and orthogonal (blue line) lattice. The K point (fractional k-space coordinates [À1/3, 2/3, 0]) defined in the reciprocal lattice of the primitive hexagonal cell is folded into (0, 1/3, 0) point sitting at a direction in the FBZ of the orthogonal supercell.</p><p>Compared with the rhombus drawn with dashed lines (Figure <ref type="figure" target="#fig_7">5F</ref>), there are 48 atoms in this rectangle drawn with dashed lines (lattice constants a ox = 18.76 A ˚and b oy =10.83 A ˚).</p><p>Bardeen and Shockley in 1950 <ref type="bibr" target="#b25">26</ref> derived the deformation potential (DP) theory for intrinsic carrier mobility (u) of the non-polar crystal, which has been extensively applied to study mobility (m) in 2D materials. <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> In this charge transport calculation, we adopted the orthogonal supercell along with two vertical directions, x and y, for the HGY sheet, which allows for a more intuitive explanation for the transport property (Figures <ref type="figure" target="#fig_7">5G</ref> and <ref type="figure" target="#fig_3">S22</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>Based on DP theory, deformation potential (E 1 ), elastic moduli (C), effective mass (m*), and relaxation time ðtÞ using Equation S3 were obtained (see supplemental experimental procedures for details). The calculated mobility and the relaxation time are calculated and summarized in Table <ref type="table" target="#tab_0">1</ref>. To compare with other 2D carbon allotropes, the relaxation times, mobilities, bandgaps of a-, b-, 6-6-12-graphyne, graphene, and graphdiyne were presented in Table <ref type="table">S4</ref>. <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b28">29</ref> Note that the effective mass of 0.15 m e along with the x direction is lower than that of 0.21 m e along with the y direction, which can be attributed to the band dispersed along the x direction being more robust compared with the y direction. Specifically, the obtained intrinsic electron mobility is 1.16 3 10 4 cm 2 V À1 s À1 along with the x direction and 0.81 3 10 4 cm 2 V À1 s À1 along with the y direction. Note that the hole mobility along with x direction (4.51 3 10 4 cm 2 V À1 s À1 ) and along with the y direction (2.26 3 10 4 cm 2 V À1 s À1 ) is approximately three times higher than the mobility of the electrons. Based on the Equation S3, in comparison with the mobility of electrons, the high mobility of the holes in HGY can be attributed to the long, acoustic, phonon-scattering relaxation times. More specifically, the high hole mobility is mainly due to a small DP constant, indicating the coupling capability between the electron (hole) with the acoustic phonon. The electron at CBM may be more strongly coupled with the acoustic phonon than the holes at VBM, explained by the frontier molecular orbitals accountable for charge transport. As a result, the band edge shift (VBM and CBM) is exhibited as a function of strain (Figure <ref type="figure" target="#fig_3">S22</ref>), respectively. Also, the real space wave functions of VBM and CBM orbitals at the K point (Figure <ref type="figure" target="#fig_3">S22</ref>) are consistent with frontier molecular orbital theories, since (G) The orthogonal supercell is defined as the x and y directions for the mobility calculation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>the nodes of CBM along the x and y directions are higher than those of VBM (see supplemental experimental procedures for details). The above findings can well explain why the hole mobility is higher than the electron mobility. However, experimental measurements of HGY, such as small-angle X-ray diffraction (SAXRD) and charge-carrier mobility of its devices, are almost impossible at the current stage due to the limited synthesis of the defect-free HGY, which will be reported elsewhere in the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In summary, ultrathin single crystalline HGY consisting of six-and eight-vertex rings pattern was synthesized from 1,3,5-tribromo-2,4,6-triethynylbenzene monomer that could be prepared in five steps from mesitylene. This newly developed 2D material, HGY, is formed by alternately linking between sp2 benzene rings and sp ChC bonds and shows ''AB'' stacking in multi-layered structures as revealed via HRTEM images, which is a slightly larger intermolecular distance than graphene due to its weak van der Waals force. The big holey pore diameter of HGY is about 0.8-1.0 nm. The bandgap was measured with DRS-UV to give $1.1 eV; the hole mobility (4.51 3 10 4 cm 2 V À1 s À1 ) and electron mobility (1.61 3 10 4 cm 2 V À1 s À1 ) along x direction and the hole mobility (2.26 3 10 4 cm 2 V À1 s À1 ) and electron mobility (0.81 3 10 4 cm 2 V À1 s À1 ) along y direction at room temperature were predicted by DP theory. The present study not only demonstrates the first synthesis of the ultrathin, single-crystalline HGY but also introduces a new concept for the design and synthesis of a new type of 2D carbon allotrope. With unique nonlinear sp bonding, HGY may have more room for studying in the physics mechanism field and may pave the way for synthesizing more HGY-related 2D nanocarbon materials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EXPERIMENTAL PROCEDURES</head><p>Resource availability Lead contact Further information and requests for resources should be directed to and will be fulfilled by the lead contact, Hyoyoung Lee, e-mail (hyoyoung@skku.edu).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials availability</head><p>This study did generate new unique materials and reagents.</p><p>Synthesis of 2,4,6-tribromobenzene-1,3,5-tricarbaldehyde To a freshly activated celite (1.2 g) and 4 A ˚molecular sieves powder (1.2 g) heated for 1 h at more than 150 C, pyridinium chlorochromate (3.0 g, 14 mmol, 7.0 equiv) was added The deformation potential (E 1 ), in-plane elastic constant (C 2D ), effective mass (m*), mobility (m), and relaxation time (t) for the electron (e) and hole (h) along x and y direction in 2D monolayer HGY sheet at 300 K.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>at room temperature, and solid reagents were melted by dried dichloromethane (DCM) (105 mL). Compound 3 (810 mg, 2.0 mmol, 1.0 equiv) was added at room temperature, and the reaction mixture was stirred for 40 h under argon atmosphere. The resulting mixture was filtrated through a short pad of silica with DCM to obtain desired product 4 (662 mg; 83% yield) as a white solid. The crude product was used without further purification in the next step. Analytical data are consistent with reported values. <ref type="bibr" target="#b27">28</ref> Synthesis of monomer 1,3,5-tribromo-2,4,6-triethynylbenzene To a freshly dried zinc powder (590 mg, 9.0 mmol, 12 equiv), tetrabromomethane (3.0 g, 9.0 mmol, 12 equiv), and triphenylphosphine (2.4 g, 9.0 mmol, 12 equiv), dried DCM (50 mL) was added, and the reaction mixture was stirred for overnight at room temperature under argon atmosphere. The compound 4 (300 mg, 0.75 mmol, 1.0 equiv) was added, and the reaction mixture was stirred for 2 h at room temperature. The resulting mixture was filtrated through a short pad of silica with DCM, and the crude product was used without further purification in the next step. To dried tetrahydrofuran (7.5 mL) and diisopropylamine (1.2 mL, 8.3 mmol, 11 equiv), n-butyllithium solution (2.5 M in n-hexane, 3.3 mL, 8.3 mmol, 11 equiv) was added at À78 C dropwise. The reaction mixture was stirred for 1 h at À78 C under the argon atmosphere. After 1 h, the crude compound of the previous step (1.0 equiv) solution in tetrahydrofuran (22.5 mL) was added to a lithium diisopropylamide (LDA) solution at À78 C dropwise. The reaction mixture was stirred for 10 min at À78 C under the argon atmosphere. Saturated ammonium chloride solution (7.5 mL) was added, and the reaction mixture was stirred until the temperature raised room temperature. The resulting mixture was extracted with n-hexane (25 mL 3 3) and water (25 mL). The combined organic layer was dried over anhydrous sodium sulfate and concentrated in vacuo. The crude product was purified by adsorption column chromatography (n-hexane) to obtain desired product 1 (250 mg; 86% yield for the two steps) as white solid.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of HGY</head><p>The interface method between two immiscible liquids was used for the synthesis of HGY.</p><p>The upper aqueous solvent layer (10 mL deionized [DI] water) included the copper acetate (CuOAc) and pyridine, which acted as a catalyst for the acetylenic homocoupling. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b29">30</ref> Then, a DI water (10 mL) layer was added in the middle as the buffer layer, making the reaction circumvent the random encounter between monomer 1 and the catalyst. The lower organic layer of DCM (10 mL) includes monomer 1. All these processes kept the carbon-carbon coupling reaction for 48 h under an inert argon atmosphere at room temperature. The HGY was cleaned with each pure DCM and then DI water several times. Finally, HGY was transferred to the substrate, such as a silicon wafer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DFT calculations</head><p>All calculations were carried out based on DFT <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref> using the Vienna Ab initio Simulation Package (VASP) code. The projector-augmented wave (PAW) method was used to describe the ion-electron interaction. <ref type="bibr" target="#b32">33</ref> For the following calculations of properties, generalized gradient approximation (GGA) with the Perdew-Burke-Ernzerhof (PBE) functional <ref type="bibr" target="#b33">34</ref> was used to describe the exchange-correlation potential. The 5 3 5 3 1 and 11 3 11 3 1 Monkhorst-Pack 35 K points were used for geometry optimizations and self-consistent calculations, respectively. The electronic wave functions were expanded using a plane-wave basis set with a cutoff energy of 500 eV. All structural models were entirely relaxed until the ionic Hellmann-Feynman forces were smaller than 10 À4 eV/A ˚, and the energy tolerances were less than 10 À6 eV/atom.</p><p>To examine the dynamic stability of HGY, the phonon dispersion was calculated by combining the VASP with phonopy code. <ref type="bibr" target="#b35">36</ref> The 4 3 4 3 1 Monkhorst-Pack K points</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>were determined during the calculation of force constants. We also performed AIMD simulations to evaluate thermal stability using the VASP code. <ref type="bibr" target="#b36">37</ref> In the AIMD simulations, the 2 3 2 3 1 supercell was annealed at 1,000 K for a period of 10 ps with a time step of 2.0 fs with NVT canonical ensemble methods. The band structure used the PBE <ref type="bibr" target="#b37">38</ref> functional that tends to underestimate the bandgap of materials and Heyd-Scuseria-Ernzerhof (HSE06) <ref type="bibr" target="#b38">39</ref> screened-hybrid functional that was proven to be a reliable method for the calculation of electronic properties.</p><p>Further information on the experimental and computational methods is provided in the supplemental information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R</head><formula xml:id="formula_0">A C T E D R E T R A C T E D</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2</head><label>2</label><figDesc>In addition, the elastic constants of HGY (C 11 = C 22 = 91.06 N/m, C 12 = 35.60 N/m, and C 66 = 0.15 N/m) satisfy the specification for hexagonal 2D crystal (C 11 &gt; |C 12 |, C 66 &gt; 0), showing that HGY is mechanically stable.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Structure and stability properties of the HGY sheet (A) The illustration of the primitive cell structure of HGY that shows detailed bonding information. (B) The electronic charge density contours corresponding to the unit cell. (C) The phonon band structures of HGY without imaginary frequency. (D) Snapshots of trajectories for HGY (2*2*1 supercell) monolayer at 1,000 K, following a 10-ps AIMD simulation: before and after. For the full structure information of HGY, see Data S1: Crystallographic information files of HGY.</figDesc><graphic coords="4,92.01,103.64,418.55,475.77" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>ll 2308 Matter 5 ,</head><label>5</label><figDesc>2306-2318, July 6, 2022</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Synthetic scheme of HGY (A) Rational design of synthetic scheme of HGY by precursor monomer 1,3,5-tribromo-2,4,6-triethynylbenzene using transition-metal-mediated crosscoupling reaction. (B) Synthetic scheme of precursor monomer 1,3,5-tribromo-2,4,6-triethynylbenzene (1).</figDesc><graphic coords="5,98.02,103.64,406.54,268.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>systemically with energy-dispersive X-ray spectroscopy (EDS), X-ray photoelectron spectroscopy (XPS), Fourier-transform infrared spectroscopy (FT-IR), and Raman spectroscopy. The survey spectra of XPS (Figures4A and S15) indicate that HGY is composed primarily of elemental carbon, with silicon and oxygen signals from the underlying SiO 2 layer. The corresponding scanning transmission electron</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The morphologies and structure characterization of HGY film (A) SEM image and optical microscopy (OM) image (inset) of HGY. (B) AFM image of HGY on Si/SiO 2 substrate. (C) High-resolution TEM (HRTEM) image of HGY. Related fast Fourier transform (FFT) results patterns are in corresponding insets. (D) Enlarged inverse FFT (IFFT) image of the area highlighted by the red square (Figure 2C) and simulated projected potential map with ''AB'' stacking mode (inset the red square). The more detailed information is displayed in Figure S14. (E) Simulated HRTEM images of HGY by ''AB'' stacking mode with different thickness (t) and different defocus (Df ) along the [001] zone axis. The unit of the t and Df values is nm. The result is given that the simulated HRTEM image with large values range Df (120-240 nm) of over-focus is in agreement with the experiment and filtering HRTEM images, which are showing by the red square and contrast pattern of HRTEM is less sensitive to the change of thickness for the stacked sample. (F) The crystal structure of the HGY was examined by X-ray diffraction (XRD) and the FFT patterns of Figure 2G (inset), which are consistent with each other. (G) The lattice fringe of an HRTEM image of HGY reveals curve streaks with the lattice parameter of 0.36 nm and agreement with the XRD pattern shown in Figure 2E. (H) The line profiles from the green line indicate that the interlayer spacing between HGY layers is 0.36 nm.(I and J) The mode is corresponding to the (I) side view and (J) top view of the ''AB'' stacking of bi-layer HGY, respectively, which is the structure of the HRTEM simulations.</figDesc><graphic coords="7,58.56,103.64,485.50,373.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Spectroscopic characterization of HGY (A) High-resolution core-level XPS spectrum of C 1s of HGY indicates the sp/sp 2 ratio is 1. (B) STEM-EDS element mapping images of HGY show that the HGY film is composed mainly of elemental carbon. (C) FT-IR spectra of HGY, monomer 1, and substrate. (D) Dominated Raman spectra of HGY obtained from the experimental measurement, which is associated with the newly formed sp peak (the excitation wavelength is 532 nm). (E) The simulation atomic displacements of A 1g and E 2g Raman vibration modes for sp and sp 2 , obtained from the DFT simulation. The four Raman active vibration models correspond to the four dominating Raman peaks in (D). (F) Diffuse reflectance spectrum and transformed Kubelka-Munk spectra of HGY shows $1.07 eV.</figDesc><graphic coords="8,58.56,103.64,485.50,274.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Electronic property characterization of monolayer HGY sheet (A) Three-dimensional (3D) electronic band structure of HGY. (B) The band structures. (C) Partial density of states of HGY by HSEO6 functional. (D) K point degenerate valence band maximum wave function (Wavefunction@VBM) and conduction band minimum wave function (Wavefunction@CBM) for HGY. (E) The first Brillouin zone (FBZ) is associated with the two lattices. The blue line shows the folding of the K point in FBZ of the hexagonal lattice into FBZ related to the orthogonal lattice. (F) Atomic structure model of monolayer HGY. The dashed lines represent the primitive hexagonal cell (defined by a hx and a hy ) and the orthogonal supercell (defined a ox and a oy ).(G) The orthogonal supercell is defined as the x and y directions for the mobility calculation.</figDesc><graphic coords="10,58.56,103.64,485.50,230.23" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="1,58.11,201.26,317.98,317.93" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>The intrinsic mobility from the deformation potential (DP) theory</figDesc><table><row><cell>Carrier type</cell><cell>E 1 (eV)</cell><cell>C 2D (N/m)</cell><cell>m* (m e )</cell><cell>m (10 4 cm 2 V À1 s À1 )</cell><cell>t(ps)</cell></row><row><cell>e y</cell><cell>1.91</cell><cell>91.06</cell><cell>0.21</cell><cell>0.81</cell><cell>0.96</cell></row><row><cell>h y</cell><cell>1.14</cell><cell>91.06</cell><cell>0.21</cell><cell>2.26</cell><cell>2.70</cell></row><row><cell>e x</cell><cell>1.89</cell><cell>91.06</cell><cell>0.15</cell><cell>1.61</cell><cell>1.37</cell></row><row><cell>h x</cell><cell>1.13</cell><cell>91.06</cell><cell>0.15</cell><cell>4.51</cell><cell>3.84</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>This work was supported in Korea by the <rs type="funder">Institute for Basic Science</rs> (<rs type="grantNumber">IBS-R011-D1</rs>) and was supported in part by <rs type="funder">Advanced Facility Center for Quantum Technology, National Research Foundation of Korea (NRF)</rs> grants (no. <rs type="grantNumber">2019R1A4A2001440</rs>) and in USA by the <rs type="funder">NSF Centre for the Advancement of Wearable Technologies</rs> (grant <rs type="grantNumber">1849243</rs>) and by <rs type="funder">NASA</rs> (grant number <rs type="grantNumber">80NSSC19M0236</rs>). X.L. thanks <rs type="person">Prof. Zhigang Shuai</rs> and <rs type="person">Jinyang Xi</rs> for their helpful discussion. We thank <rs type="person">Prof. Munseok Jeong</rs> group for the Raman measurement and discussion about the Raman data. X.L. thanks <rs type="person">Suar Oh</rs> for taking AFM measurement and <rs type="person">Yeseul Hong</rs> for taking the SEM measurement.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_6pbmVjv">
+					<idno type="grant-number">IBS-R011-D1</idno>
+				</org>
+				<org type="funding" xml:id="_NHDzdTn">
+					<idno type="grant-number">2019R1A4A2001440</idno>
+				</org>
+				<org type="funding" xml:id="_TvGdwnG">
+					<idno type="grant-number">1849243</idno>
+				</org>
+				<org type="funding" xml:id="_5wfSfzK">
+					<idno type="grant-number">80NSSC19M0236</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data and code availability</head><p>The authors confirm that the data supporting the findings of this study are available within the article and its supplemental information. Crystallographic information files <ref type="url" target="https://www.ccdc.cam.ac.uk/structures/Search?ccdc=2144573">https://www.ccdc.cam.ac.uk/structures/Search?ccdc=2144573</ref> are shown in Data S1. The data supporting the plots in this paper and the other findings of this study are available from the corresponding author upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTAL INFORMATION</head><p>Supplemental information can be found online at <ref type="url" target="https://doi.org/10.1016/j.matt.2022.04.033">https://doi.org/10.1016/j.matt.  2022.04.033</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DECLARATION OF INTERESTS</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Electric field effect in atomically thin carbon films</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Geim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Morozov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Dubonos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename><surname>Grigorieva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Firsov</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1102896</idno>
+		<ptr target="https://doi.org/10.1126/science.1102896" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="page" from="666" to="669" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Novoselov, K.S., Geim, A.K., Morozov, S.V., Jiang, D., Zhang, Y., Dubonos, S.V., Grigorieva, I.V., and Firsov, A.A. (2004). Electric field effect in atomically thin carbon films. Science 306, 666-669. https://doi.org/10.1126/science. 1102896.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">C60: buckminsterfullerene</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kroto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Curl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Smalley</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/318162a0</idno>
+		<ptr target="https://doi.org/10.1038/318162a0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="162" to="163" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kroto, H.W., Heath, J.R., O&apos;Brien, S.C., Curl, R.F., and Smalley, R.E. (1985). C60: buckminsterfullerene. Nature 318, 162-163. https://doi.org/10.1038/318162a0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Helical microtubules of graphitic carbon</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iijima</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/354056a0</idno>
+		<ptr target="https://doi.org/10.1038/354056a0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="56" to="58" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Iijima, S. (1991). Helical microtubules of graphitic carbon. Nature 354, 56-58. https:// doi.org/10.1038/354056a0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Architecture of graphdiyne nanoscale films</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhu</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/b922733d</idno>
+		<ptr target="https://doi.org/10.1039/b922733d" />
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="3256" to="3258" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, G., Li, Y., Liu, H., Guo, Y., Li, Y., and Zhu, D. (2010). Architecture of graphdiyne nanoscale films. Chem. Commun. 46, 3256-3258. https://doi.org/10.1039/b922733d.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Structure-property predictions for new planar forms of carbon: layered phases containing sp 2 and sp atoms</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Baughman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kertesz</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.453405</idno>
+		<ptr target="https://doi.org/10.1063/1.453405" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="6687" to="6699" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baughman, R.H., Eckhardt, H., and Kertesz, M. (1987). Structure-property predictions for new planar forms of carbon: layered phases containing sp 2 and sp atoms. J. Chem. Phys. 87, 6687-6699. https://doi.org/10.1063/1. 453405.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Competition for graphene: graphynes with direction-dependent Dirac cones</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Malko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Neiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vin ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Go ¨rling</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevlett.108.086804</idno>
+		<ptr target="https://doi.org/10.1103/physrevlett.108.086804" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page">86804</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malko, D., Neiss, C., Vin ˜es, F., and Go ¨rling, A. (2012). Competition for graphene: graphynes with direction-dependent Dirac cones. Phys. Rev. Lett. 108, 086804. https://doi.org/10.1103/physrevlett.108. 086804.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Intrinsic electronic and transport properties of graphyne sheets and nanoribbons</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">C</forename><surname>Zeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C3NR03167E</idno>
+		<ptr target="https://doi.org/10.1039/C3NR03167E" />
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="9264" to="9276" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wu, W., Guo, W., and Zeng, X.C. (2013). Intrinsic electronic and transport properties of graphyne sheets and nanoribbons. Nanoscale 5, 9264-9276. https://doi.org/10.1039/ C3NR03167E.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Graphdiyne and graphyne: from theoretical predictions to practical construction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C3CS60388A</idno>
+		<ptr target="https://doi.org/10.1039/C3CS60388A" />
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="2572" to="2586" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, Y., Xu, L., Liu, H., and Li, Y. (2014). Graphdiyne and graphyne: from theoretical predictions to practical construction. Chem. Soc. Rev. 43, 2572-2586. https://doi.org/10. 1039/C3CS60388A.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Graphdiyne: synthesis, properties, and applications</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="908" to="936" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gao, X., Liu, H., Wang, D., and Zhang, J. (2019). Graphdiyne: synthesis, properties, and applications. Chem. Soc. Rev. 48, 908-936.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Structural, electronic, and vibrational properties of a twodimensional graphdiyne-like carbon nanonetwork synthesized on au (111): implications for the engineering of sp-sp 2 carbon nanostructures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rabia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tumino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Milani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lucotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Achilli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fratesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Manini</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsanm.0c02665</idno>
+		<ptr target="https://doi.org/10.1021/acsanm.0c02665" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Nano Mater</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="12178" to="12187" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rabia, A., Tumino, F., Milani, A., Russo, V., Bassi, A.L., Bassi, N., Lucotti, A., Achilli, S., Fratesi, G., Manini, N., et al. (2020). Structural, electronic, and vibrational properties of a two- dimensional graphdiyne-like carbon nanonetwork synthesized on au (111): implications for the engineering of sp-sp 2 carbon nanostructures. ACS Appl. Nano Mater. 3, 12178-12187. https://doi.org/10.1021/ acsanm.0c02665.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Designing all graphdiyne materials as graphene derivatives: topologically driven modulation of electronic properties</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Serafini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Milani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Proserpio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Casari</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.jpcc.1c04238</idno>
+		<ptr target="https://doi.org/10.1021/acs.jpcc.1c04238" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="18456" to="18466" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Serafini, P., Milani, A., Proserpio, D.M., and Casari, C.S. (2021). Designing all graphdiyne materials as graphene derivatives: topologically driven modulation of electronic properties. J. Phys. Chem. C 125, 18456-18466. https://doi.org/10.1021/acs.jpcc.1c04238.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A roadmap for graphene</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Fal'ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gellert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Schwab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature11458</idno>
+		<ptr target="https://doi.org/10.1038/nature11458" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">490</biblScope>
+			<biblScope unit="page" from="192" to="200" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Novoselov, K.S., Fal&apos;ko, V.I., Colombo, L., Gellert, P.R., Schwab, M.G., and Kim, K. (2012). A roadmap for graphene. Nature 490, 192-200. https://doi.org/10.1038/nature11458.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Unsaturated eight-membered ring compounds. XI. Synthesis of sym-dibenzo-1,5cyclooctadiene-3,7-diyne and sym-dibenzo-1,3,5-cyclooctatrien-7-yne, presumably planar conjugated eight-membered ring compounds</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N C</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Garratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sondheimer</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ja00824a066</idno>
+		<ptr target="https://doi.org/10.1021/ja00824a066" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="5604" to="5605" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wong, H.N.C., Garratt, P.J., and Sondheimer, F. (1974). Unsaturated eight-membered ring compounds. XI. Synthesis of sym-dibenzo-1,5- cyclooctadiene-3,7-diyne and sym-dibenzo- 1,3,5-cyclooctatrien-7-yne, presumably planar conjugated eight-membered ring compounds. J. Am. Chem. Soc. 96, 5604-5605. https://doi. org/10.1021/ja00824a066.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The substitution of aryl iodides with cuprous acetylides. A synthesis of tolanes and Heterocyclics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Castro</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jo01047a008</idno>
+		<ptr target="https://doi.org/10.1021/jo01047a008" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3313" to="3315" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stephens, R.D., and Castro, C.E. (1963). The substitution of aryl iodides with cuprous acetylides. A synthesis of tolanes and Heterocyclics. J. Org. Chem. 28, 3313-3315. https://doi.org/10.1021/jo01047a008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">An efficient route to 1, 3, 5-triazido-2, 4, 6-tricyanobenzene</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Voss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Villinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schulz</surname></persName>
+		</author>
+		<idno type="DOI">10.5560/znb.2012-0092</idno>
+		<ptr target="https://doi.org/10.5560/znb.2012-0092" />
+	</analytic>
+	<monogr>
+		<title level="j">Z. Naturforsch</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="643" to="649" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Becker, M., Voss, K., Villinger, A., and Schulz, A. (2012). An efficient route to 1, 3, 5-triazido-2, 4, 6-tricyanobenzene. Z. Naturforsch. 67, 643-649. https://doi.org/10.5560/znb.2012- 0092.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A synthetic method for formyl/ethynyl conversion (RCHO/RC CH or RC CR 0 )</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Corey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Fuchs</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0040-4039(01)94157-7</idno>
+		<ptr target="https://doi.org/10.1016/S0040-4039(01)94157-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="3769" to="3772" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Corey, E.J., and Fuchs, P.A. (1972). A synthetic method for formyl/ethynyl conversion (RCHO/RC CH or RC CR 0 ). Tetrahedron Lett. 13, 3769-3772. https://doi.org/10.1016/S0040- 4039(01)94157-7.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Large area, few-layer graphene films on arbitrary substrates by chemical vapor deposition</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nezich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bulovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Dresselhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kong</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/nl801827v</idno>
+		<ptr target="https://doi.org/10.1021/nl801827v" />
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="30" to="35" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reina, A., Jia, X., Ho, J., Nezich, D., Son, H., Bulovic, V., Dresselhaus, M.S., and Kong, J. (2009). Large area, few-layer graphene films on arbitrary substrates by chemical vapor deposition. Nano Lett. 9, 30-35. https://doi. org/10.1021/nl801827v.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Synthesis of graphdiyne nanowalls using acetylenic coupling reaction</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jacs.5b04057</idno>
+		<ptr target="https://doi.org/10.1021/jacs.5b04057" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="7596" to="7599" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, J., Gao, X., Liu, R., Xie, Z., Yang, J., Zhang, S., Zhang, G., Liu, H., Li, Y., Zhang, J., and Liu, Z. (2015). Synthesis of graphdiyne nanowalls using acetylenic coupling reaction. J. Am. Chem. Soc. 137, 7596-7599. https://doi. org/10.1021/jacs.5b04057.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Self-catalyzed growth of large-area nanofilms of twodimensional carbon</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep07756</idno>
+		<ptr target="https://doi.org/10.1038/srep07756" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">7756</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Qian, X., Liu, H., Huang, C., Chen, S., Zhang, L., Li, Y., Wang, J., and Li, Y. (2015). Self-catalyzed growth of large-area nanofilms of two- dimensional carbon. Sci. Rep. 5, 7756. https:// doi.org/10.1038/srep07756.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Electronic properties of bilayer graphene strongly coupled to interlayer stacking and an external electric field</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ryou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Sumpter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yoon</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.115.015502</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevLett.115.015502" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">15502</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Park, C., Ryou, J., Hong, S., Sumpter, B.G., Kim, G., and Yoon, M. (2015). Electronic properties of bilayer graphene strongly coupled to interlayer stacking and an external electric field. Phys. Rev. Lett. 115, 015502. https://doi. org/10.1103/PhysRevLett.115.015502.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Correlated insulator behaviour at half-filling in magic-angle graphene superlattices</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Fatemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Demir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Tomarken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sanchez-Yamagishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaxiras</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature26154</idno>
+		<ptr target="https://doi.org/10.1038/nature26154" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">556</biblScope>
+			<biblScope unit="page" from="80" to="84" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cao, Y., Fatemi, V., Demir, A., Fang, S., Tomarken, S.L., Luo, J.Y., Sanchez-Yamagishi, J.D., Watanabe, K., Taniguchi, T., Kaxiras, E., et al. (2018). Correlated insulator behaviour at half-filling in magic-angle graphene superlattices. Nature 556, 80-84. https://doi. org/10.1038/nature26154.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interlayer fractional quantum Hall effect in a coupled graphene double layer</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Halperin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41567-019-0546-0</idno>
+		<ptr target="https://doi.org/10.1038/s41567-019-0546-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Phys</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="893" to="897" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu, X., Hao, Z., Watanabe, K., Taniguchi, T., Halperin, B.I., and Kim, P. (2019). Interlayer fractional quantum Hall effect in a coupled graphene double layer. Nat. Phys. 15, 893-897. https://doi.org/10.1038/s41567-019-0546-0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Raman spectrum of graphite</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tuinstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Koenig</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1674108</idno>
+		<ptr target="https://doi.org/10.1063/1.1674108" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1126" to="1130" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tuinstra, F., and Koenig, J.L. (1970). Raman spectrum of graphite. J. Chem. Phys. 53, 1126- 1130. https://doi.org/10.1063/1.1674108.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Crystalline graphdiyne nanosheets produced at a gas/liquid or liquid/ liquid interface</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Matsuoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoshiko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Masunaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagashio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishihara</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jacs.6b12776</idno>
+		<ptr target="https://doi.org/10.1021/jacs.6b12776" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="3145" to="3152" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Matsuoka, R., Sakamoto, R., Hoshiko, K., Sasaki, S., Masunaga, H., Nagashio, K., and Nishihara, H. (2017). Crystalline graphdiyne nanosheets produced at a gas/liquid or liquid/ liquid interface. J. Am. Chem. Soc. 139, 3145- 3152. https://doi.org/10.1021/jacs.6b12776.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Electronic structure and carrier mobility in graphdiyne sheet and nanoribbons: theoretical predictions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shuai</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/nn102472s</idno>
+		<ptr target="https://doi.org/10.1021/nn102472s" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2593" to="2600" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Long, M., Tang, L., Wang, D., Li, Y., and Shuai, Z. (2011). Electronic structure and carrier mobility in graphdiyne sheet and nanoribbons: theoretical predictions. ACS Nano 5, 2593- 2600. https://doi.org/10.1021/nn102472s.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Deformation potentials and mobilities in nonpolar crystals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bardeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shockley</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRev.80.72</idno>
+		<ptr target="https://doi.org/10.1103/PhysRev.80.72" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="72" to="80" />
+			<date type="published" when="1950">1950</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bardeen, J., and Shockley, W. (1950). Deformation potentials and mobilities in non- polar crystals. Phys. Rev. 80, 72-80. https://doi. org/10.1103/PhysRev.80.72.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Polarity-reversed robust carrier mobility in monolayer MoS 2 nanoribbons</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-W</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ja4109787</idno>
+		<ptr target="https://doi.org/10.1021/ja4109787" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="6269" to="6275" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cai, Y., Zhang, G., and Zhang, Y.-W. (2014). Polarity-reversed robust carrier mobility in monolayer MoS 2 nanoribbons. J. Am. Chem. Soc. 136, 6269-6275. https://doi.org/10.1021/ ja4109787.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Porous silaphosphorene, silaarsenene and silaantimonene: a sweet marriage of Si and P/As/Sb</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C7TA10466A</idno>
+		<ptr target="https://doi.org/10.1039/C7TA10466A" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3738" to="3746" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lin, S., Gu, J., Wang, Y., Wang, Y., Zhang, S., Liu, X., Zeng, H., and Chen, Z. (2018). Porous silaphosphorene, silaarsenene and silaantimonene: a sweet marriage of Si and P/As/Sb. J. Mater. Chem. A. 6, 3738-3746. https://doi.org/10.1039/C7TA10466A.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Carrier mobility in graphyne should be even larger than that in graphene: a theoretical prediction</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shuai</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz4005587</idno>
+		<ptr target="https://doi.org/10.1021/jz4005587" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1443" to="1448" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, J., Xi, J., Wang, D., and Shuai, Z. (2013). Carrier mobility in graphyne should be even larger than that in graphene: a theoretical prediction. J. Phys. Chem. Lett. 4, 1443-1448. https://doi.org/10.1021/jz4005587.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Macrocyclic acetylenic compounds. Part I. Cyclotetradeca-1: 3-diyne and related compounds</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eglinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Galbraith</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/JR9590000889</idno>
+		<ptr target="https://doi.org/10.1039/JR9590000889" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<biblScope unit="page" from="889" to="896" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eglinton, G., and Galbraith, A.R. (1959). Macrocyclic acetylenic compounds. Part I. Cyclotetradeca-1: 3-diyne and related com- pounds. J. Chem. Soc. 182, 889-896. https:// doi.org/10.1039/JR9590000889.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0927-0256(96)00008-0</idno>
+		<ptr target="https://doi.org/10.1016/0927-0256(96)00008-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="15" to="50" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kresse, G., and Furthmu ¨ller, J. (1996). Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. Comput. Mater. Sci. 6, 15-50. https://doi. org/10.1016/0927-0256(96)00008-0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevb.54.11169</idno>
+		<ptr target="https://doi.org/10.1103/physrevb.54.11169" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="11169" to="11186" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kresse, G., and Furthmu ¨ller, J. (1996). Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. Phys. Rev. B 54, 11169-11186. https://doi.org/10. 1103/physrevb.54.11169.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">From ultrasoft pseudopotentials to the projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Joubert</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.59.1758</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevB.59.1758" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="1758" to="1775" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kresse, G., and Joubert, D. (1999). From ultrasoft pseudopotentials to the projector augmented-wave method. Phys. Rev. B 59, 1758-1775. https://doi.org/10.1103/PhysRevB. 59.1758.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.77.3865</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevLett.77.3865" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perdew, J.P., Burke, K., and Ernzerhof, M. (1996). Generalized gradient approximation made simple. Phys. Rev. Lett. 77, 3865-3868. https://doi.org/10.1103/PhysRevLett.77.3865.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Special points for Brillouin-zone integrations</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Monkhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Pack</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.13.5188</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevB.13.5188" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="5188" to="5192" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Monkhorst, H.J., and Pack, J.D. (1976). Special points for Brillouin-zone integrations. Phys. Rev. B 13, 5188-5192. https://doi.org/10.1103/ PhysRevB.13.5188.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">First principles phonon calculations in materials science</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Togo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tanaka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scriptamat.2015.07.021</idno>
+		<ptr target="https://doi.org/10.1016/j.scriptamat.2015.07.021" />
+	</analytic>
+	<monogr>
+		<title level="j">Scr. Mater</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Togo, A., and Tanaka, I. (2015). First principles phonon calculations in materials science. Scr. Mater. 108, 1-5. https://doi.org/10.1016/j. scriptamat.2015.07.021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Molecular dynamics simulations at constant pressure and/or temperature</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Andersen</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.439486</idno>
+		<ptr target="https://doi.org/10.1063/1.439486" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="2384" to="2393" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andersen, H.C. (1980). Molecular dynamics simulations at constant pressure and/or temperature. J. Chem. Phys. 72, 2384-2393. https://doi.org/10.1063/1.439486.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">All-electron local-density and generalizedgradient calculations of the structural properties of semiconductors</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Filippi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Umrigar</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevb.50.14947</idno>
+		<ptr target="https://doi.org/10.1103/physrevb.50.14947" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="14947" to="14951" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Filippi, C., Singh, D.J., and Umrigar, C.J. (1994). All-electron local-density and generalized- gradient calculations of the structural properties of semiconductors. Phys. Rev. B 50, 14947-14951. https://doi.org/10.1103/ physrevb.50.14947.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Hybrid functionals based on a screened coulomb potential</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Scuseria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1564060</idno>
+		<ptr target="https://doi.org/10.1063/1.1564060" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="8207" to="8215" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heyd, J., Scuseria, G.E., and Ernzerhof, M. (2003). Hybrid functionals based on a screened coulomb potential. J. Chem. Phys. 118, 8207- 8215. https://doi.org/10.1063/1.1564060.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

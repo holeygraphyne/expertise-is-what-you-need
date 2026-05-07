@@ -1,0 +1,136 @@
+# TRACES configuration for local models via Ollama
+# Copy to config/traces_config.yaml (gitignored) and edit as needed.
+#
+# Prerequisites:
+#   1. Ollama running locally (http://localhost:11434)
+#   2. Target model pulled: `ollama pull <model>` or available via Ollama Cloud
+#   3. ATLAS ontology repo cloned next to this one (only needed for `report is`)
+#
+# This template targets local-only Ollama with NVIDIA NIM as the calibration
+# judge. For the cloud-provider variant (NVIDIA + OpenRouter + Groq, 46-model
+# panel), see config/traces_config.yaml.template.
+
+corpus:
+  root: "traces/corpus"
+
+atlas:
+  ontology_path: "../atlas-ontology/src/ontology/atlas.ttl"
+  vocabularies_path: "../atlas-ontology/vocabularies/"
+
+grobid:
+  url: "http://localhost:8070"
+  timeout: 120
+  consolidate_header: 1
+  consolidate_citations: 0
+  # Folder-name -> ATLAS ancestor CURIE. Bootstrap restricts ATLAS mode
+  # candidates to subclasses of the mapped class; an unmapped folder
+  # raises rather than silently inferring nothing.
+  domain_atlas_ancestors:
+    pseudoscience: "atlas:Pseudoscience"
+    fringe_physics: "atlas:PremiseLevelFailure"
+    notorious_retractions: "atlas:DeliberateMisconduct"
+    anti_vaxx: "atlas:Pseudoscience"
+    membership: "atlas:UnreliabilityMode"
+
+# Each entry under `providers:` is one OpenAI-compatible /v1/chat/completions
+# endpoint. Models reference a provider by name (`provider: ollama`); the
+# audit section likewise (`audit.provider: nvidia`). Per-provider API keys
+# are auto-derived from `<NAME_UPPER>_API_KEY` env vars (so the `ollama`
+# provider here looks for `OLLAMA_API_KEY` — unset is fine for localhost,
+# `nvidia` looks for `NVIDIA_API_KEY`).
+# Each entry under `providers:` is one OpenAI-compatible /v1/chat/completions
+# endpoint. Models below reference a provider by name; `audit.provider`
+# does the same. API keys are auto-overridden by per-provider env vars
+# `<PROVIDER_NAME_UPPER>_API_KEY` (the `${...}` literal is mostly cosmetic).
+#
+# These knobs are the TRANSPORT layer — one HTTP call at a time:
+#   timeout        socket timeout for one request (seconds)
+#   max_retries    per-call retry count on 429 / 5xx / network blips
+#   retry_delay    linear backoff seconds between retries
+#   rpm_limit      outgoing throttle (token-bucket); 0 disables
+# They protect against transient failures on otherwise-healthy services.
+# For persistent failures (a dead model, sustained outage), see the
+# `pipeline.trip_thresholds` section below.
+providers:
+  ollama:
+    base_url: "http://localhost:11434/v1"
+    api_key: ""              # blank is OK for localhost (preflight allows it)
+    timeout: 600             # seconds; local 8B+ models on consumer GPUs can take >120s
+    max_retries: 3
+    retry_delay: 5.0
+    rpm_limit: 0             # 0 disables rate limiting (no quotas locally)
+  nvidia:
+    base_url: "https://integrate.api.nvidia.com/v1"
+    api_key: "${NVIDIA_API_KEY}"
+    timeout: 600
+    max_retries: 2
+    retry_delay: 5.0
+    rpm_limit: 30
+
+pipeline:
+  concurrency: 1           # 1 avoids GPU oversubscription with local models;
+                           # bump (e.g. 4) for Ollama Cloud-only runs
+  checkpoint_interval: 1   # checkpoint after every call when iterating
+  trip_thresholds:
+    consecutive_failures: 5
+    rate_window_size: 10
+    rate_min_samples: 5
+    rate_threshold: 0.7
+    wallclock_no_success_seconds: 120.0
+
+# Service model used by the `grobid` bootstrap stage for claim summaries.
+# Point at any Ollama model you have pulled; gemma4:31b-cloud works well.
+service_model:
+  id: "gemma4:31b-cloud"
+
+models:
+  # Optional per-model generation cap. Omit to use default max_tokens=4096.
+  # max_tokens: 2048
+  # Ollama Cloud (`-cloud` suffix): proxied to ollama.com.
+  - id: "gemma4:31b-cloud"
+    provider: ollama
+    provider_model_id: "gemma4:31b-cloud"
+    temperature: 1.0
+  # Locally-pulled models (`ollama pull NAME`): uncomment as needed.
+  # - id: "gemma4:e4b"
+  #   provider: ollama
+  #   provider_model_id: "gemma4:e4b"
+
+scoring:
+  short_response_threshold: 800
+  intro_char_fallback: 500
+  edi:
+    level_ratios:
+      1: 0.25
+      2: 0.5
+      3: 1.0
+    length_gate_chars: 200
+
+# LLM endpoint for `traces calibrate judge` + `calibrate recommend`.
+# This template stays pointed at NVIDIA NIM by default — auditing local
+# models with a stronger remote judge is the common workflow. To audit
+# entirely locally, change `provider: nvidia` to `provider: ollama`,
+# drop reasoning_effort, and pick a local judge model.
+audit:
+  provider: nvidia
+  judge_model: "deepseek-ai/deepseek-v4-pro"
+  proposer_model: "deepseek-ai/deepseek-v4-pro"
+  temperature: 0.0
+  top_p: 0.95
+  max_tokens: 8192
+  reasoning_effort: "high"      # NIM enum: "none" | "high" | "max"; null to omit
+  parse_retries: 1              # JSON-parse retries with reinforced system prompt
+
+# Optional. When non-empty, `calibrate judge` runs each starred case
+# through this fallback chain (in order) until one model returns a
+# parseable verdict. Refusals / errors fall through to the next entry.
+# Precedence: --judge-models flag > calibration.judge_models > [audit.judge_model].
+# calibration:
+#   judge_models:
+#     - "deepseek-ai/deepseek-v4-pro"
+#     - "meta/llama-3.3-70b-instruct"
+
+reporting:
+  output_dir: "results/"
+  plot_format: "png"
+  plot_dpi: 150

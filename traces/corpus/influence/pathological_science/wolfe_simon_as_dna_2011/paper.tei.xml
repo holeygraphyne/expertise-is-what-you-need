@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus</title>
+				<funder>
+					<orgName type="full">NASA Postdoctoral Program</orgName>
+				</funder>
+				<funder ref="#_bSrxbJK">
+					<orgName type="full">DOE Office of Basic Energy Sciences, Office of Biological and Environmental Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NASA Astrobiology Institute</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NASA Exobiology</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NASA Astrobiology/Exobiology</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">U.S. Geological Survey</orgName>
+				</funder>
+				<funder ref="#_SJjFYMf">
+					<orgName type="full">National Institutes of Health, National Center for Research Resources, Biomedical Technology Program</orgName>
+				</funder>
+				<funder ref="#_cVHXAp8">
+					<orgName type="full">DOE</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-06-03">2011-06-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Felisa</forename><surname>Wolfe-Simon</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jodi</forename><forename type="middle">Switzer</forename><surname>Blum</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">R</forename><surname>Kulp</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gwyneth</forename><forename type="middle">W</forename><surname>Gordon</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shelley</forename><forename type="middle">E</forename><surname>Hoeft</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jennifer</forename><surname>Pett-Ridge</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Stolz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Samuel</forename><forename type="middle">M</forename><surname>Webb</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Peter</forename><forename type="middle">K</forename><surname>Weber</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">C W</forename><surname>Davies</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ariel</forename><forename type="middle">D</forename><surname>Anbar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ronald</forename><forename type="middle">S</forename><surname>Oremland</surname></persName>
+						</author>
+						<title level="a" type="main">A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Science</title>
+						<title level="j" type="abbrev">Science</title>
+						<idno type="ISSN">0036-8075</idno>
+						<idno type="eISSN">1095-9203</idno>
+						<imprint>
+							<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+							<biblScope unit="volume">332</biblScope>
+							<biblScope unit="issue">6034</biblScope>
+							<biblScope unit="page" from="1163" to="1166"/>
+							<date type="published" when="2011-06-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">1352617C33E19C91BA82B37EEE8E0C3D</idno>
+					<idno type="DOI">10.1126/science.1197258</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus</head><p>Felisa Wolfe-Simon, 1,2 * Jodi Switzer Blum, 2 Thomas R. Kulp, 2 Gwyneth W. Gordon, 3  Shelley E. Hoeft, 2 Jennifer Pett-Ridge, 4 John F. Stolz, 5 Samuel M. Webb, 6 Peter K. Weber, 4  Paul C. W. Davies, 1,7 Ariel D. Anbar, 1,3,8 Ronald S. Oremland 2   Life is mostly composed of the elements carbon, hydrogen, nitrogen, oxygen, sulfur, and phosphorus. Although these six elements make up nucleic acids, proteins, and lipids and thus the bulk of living matter, it is theoretically possible that some other elements in the periodic table could serve the same functions. Here, we describe a bacterium, strain GFAJ-1 of the Halomonadaceae, isolated from Mono Lake, California, that is able to substitute arsenic for phosphorus to sustain its growth. Our data show evidence for arsenate in macromolecules that normally contain phosphate, most notably nucleic acids and proteins. Exchange of one of the major bio-elements may have profound evolutionary and geochemical importance.</p><p>B iological dependence on the six major nutrient elements carbon, hydrogen, nitrogen, oxygen, sulfur, and phosphorus (P) is complemented by a selected array of other elements, usually metals or metalloids present in trace quantities that serve critical cellular functions, such as enzyme co-factors <ref type="bibr" target="#b0">(1)</ref>. There are many cases of these trace elements substituting for one another. A few examples include the substitution of tungsten for molybdenum and cadmium for zinc in some enzyme families <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref> and copper for iron as an oxygen-carrier in some arthropods and mollusks <ref type="bibr" target="#b3">(4)</ref>. In these examples and others, the trace elements that interchange share chemical similarities that facilitate the swap. However, there are no prior reports of substitutions for any of the six major elements essential for life. Here, we present evidence that arsenic can substitute for phosphorus in the biomolecules of a naturally occurring bacterium. Arsenic (As) is a chemical analog of P, which lies directly below P on the periodic table. Arsenic possesses a similar atomic radius, as well as near identical electronegativity to P (5). The most common form of P in biology is phosphate (PO 4 3-), which behaves similarly to arsenate (AsO 4 3-) over the range of biologically relevant pH and redox gradients <ref type="bibr" target="#b5">(6)</ref>. The physicochemical similarity between AsO 4</p><p>3-and PO 4 3-contributes to the biological toxicity of AsO 4</p><p>3-because metabolic pathways intended for PO 4  3-cannot distinguish between the two molecules <ref type="bibr" target="#b6">(7)</ref> and AsO 4 3-may be incorporated into some early steps in the pathways [( <ref type="formula">6</ref>) and references therein]. However, it is thought that downstream metabolic processes are generally not compatible with As-incorporating molecules because of differences in the reactivities of P and As compounds <ref type="bibr" target="#b7">(8)</ref>. These down-stream biochemical pathways may require the more chemically stable P-based metabolites; the lifetimes of more easily hydrolyzed As-bearing analogs are thought to be too short. However, given the similarities of As and P-and by analogy with trace element substitutions-we hypothesized that AsO 4 3-could specifically substitute for PO 4  3-in an organism possessing mechanisms to cope with the inherent instability of AsO 4 3compounds <ref type="bibr" target="#b5">(6)</ref>. Here, we experimentally tested this hypothesis by using AsO 4 3-, combined with no added PO 4 3-, to select for and isolate a microbe capable of accomplishing this substitution.</p><p>Geomicrobiology of GFAJ-1. Mono Lake, located in eastern California, is a hypersaline and alkaline water body with high dissolved arsenic concentrations [200 mM on average <ref type="bibr" target="#b8">(9)</ref>]. We used lake sediments as inocula into an aerobic defined artificial medium at pH 9.8 (10, 11) containing 10 mM glucose, vitamins, and trace metals but no added PO 4 3or any additional complex organic supplements (such as yeast extract or peptone), with a regimen of increasing AsO 4</p><p>3-additions initially spanning the range from 100 mM to 5 mM. These enrichments were taken through many decimal-dilution transfers, greatly reducing any potential carryover of autochthonous phosphorus RESEARCH ARTICLE <ref type="bibr" target="#b10">(11)</ref>. The background PO 4</p><p><ref type="foot" target="#foot_0">foot_0</ref>-in the medium was 3.1 (T 0.3) mM on average, with or without added AsO 4 3-, coming from trace impurities in the major salts (table <ref type="table">S1</ref>) <ref type="bibr" target="#b10">(11)</ref>. The sixth transfer of the 5 mM AsO <ref type="formula">4</ref>3-(no added PO 4 3-</p><p>) condition was closely monitored and demonstrated an approximate growth rate (m) of 0.1 day -1 . After 10 -7 dilutions, we used the 5 mM AsO 4 3-enrichment to inoculate an agar plate that contained the same chemical composition as the artificial medium. An isolated colony was picked from the agar plates and reintroduced into an artificial liquid medium with no added PO 4</p><p>3-, where we then progressively increased the AsO 4</p><p>3-concentration to determine the optimal level for growth. Currently, this isolate-strain GFAJ-1 identified by 16S ribosomal RNA sequence phylogeny as a member of the Halomonadaceae family of Gammaproteobacteria (fig. <ref type="figure" target="#fig_0">S1</ref>) <ref type="bibr" target="#b10">(11)</ref>-is maintained aerobically with 40 mM AsO 4 3-, 10 mM glucose, and no added PO <ref type="formula">4</ref>3-(+As/-P condition). Members of this family have been previously shown to accumulate intracellular As <ref type="bibr" target="#b11">(12)</ref>.</p><p>GFAJ-1 grew at an average m max of 0.53 day -1 under +As/-P, increasing by over 20-fold in cell numbers after 6 days. It also grew faster and more extensively with the addition of 1.5 mM PO <ref type="bibr" target="#b3">4</ref> 3-(-As/+P, m max of 0.86 day -1 ) (Fig. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">A</ref> and <ref type="figure">B</ref>). However, when neither AsO 4</p><p>3-nor PO 4</p><p>3was added no growth was observed (Fig. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">A</ref> and <ref type="figure">B</ref>). We include both optical density and direct cell counts to unambiguously demonstrate growth using two independent methods. Cells grown under +As/-P were oblong and approximately 2 by 1 mm when imaged by means of scanning electron microscopy (Fig. <ref type="figure" target="#fig_0">1C</ref>) <ref type="bibr" target="#b10">(11)</ref>. When grown under +As/-P conditions, GFAJ-1 cells had more than 1.5-fold greater intracellular volume (≈2.5 T 0.4 mm 3 ) as compared with that of -As/+P (≈1.5 T 0.5 mm 3 ) (Fig. <ref type="figure" target="#fig_0">1D</ref>) <ref type="bibr" target="#b10">(11)</ref>. Transmission electron microscopy revealed large vacuole-like regions in +As/-Pgrown cells that may account for this increase in size (Fig. <ref type="figure" target="#fig_0">1E</ref>). These experiments demonstrated AsO 4</p><p>3 --dependent growth, morphological differences in GFAJ-1 driven by AsO 4</p><p>3-in the growth medium, and that the level of PO 4 3-impurities in the medium was insufficient to elicit growth in the control (-As/-P).</p><p>Cellular stoichiometry and elemental distribution. To determine whether GFAJ-1 was taking up AsO 4 3from the medium, we measured the intracellular As content by means of inductively coupled plasma mass spectrometry (ICP-MS) <ref type="bibr" target="#b10">(11)</ref>.</p><p>In +As/-P-grown cells, the mean intracellular As was 0.19 T 0.25% by dry weight (Table <ref type="table">1</ref>), whereas the cells contained only 0.019 +/-0.009 P by dry weight. This P was presumably scavenged from trace PO 4 3impurities in the reagents and not likely due to carryover, given our enrichment and isolation strategy <ref type="bibr" target="#b10">(11)</ref>. Moreover, when grown +As/-P this intracellular P is 96.5% less than our measured P values for this microbe when grown -As/+P and far below the 1 to 3% P by dry weight required to support growth in a typical heterotrophic bacterium <ref type="bibr" target="#b12">(13)</ref>. In contrast, GFAJ-1 cells grown under -As/+P conditions had a mean P content of 0.54 T 0.21% by dry weight. There was variation in the total As content of the +As/-P cells, which is possibly a result of collection during stationary phase and losses during the repeated centrifugations and washing cycles because of the potential instability of the cellular structures given their swollen state (Fig. <ref type="figure" target="#fig_1">2</ref>, <ref type="figure">C</ref> and <ref type="figure">E</ref>). In contrast, the integrity of the -As/+P cells appeared robust (Fig. <ref type="figure" target="#fig_1">2D</ref>), and thus intracellular P measured for these cells probably reflects their content. However, the low total intracellular P in +As/-P cells was consistently far below the quantity needed to support growth, suggesting that these low values are correct despite variation in data from the +As/-P cells. Low intracellular P in concert with high intracellular As was further confirmed through high-resolution secondary ion mass spectrometry and x-ray analyses, as discussed below.</p><p>We used radiolabeled 73 AsO 4 3to obtain more specific information about the intracellular distribution of arsenic <ref type="bibr" target="#b10">(11)</ref>. We observed intracellular arsenic in protein, metabolite, lipid, and nucleic acid cellular fractions (Table <ref type="table">2</ref>). Stationary phase cells incorporated approximately 1   10   = of the total intracellular 73 AsO 4</p><p>3-label into nucleic acids but more than three quarters of the 73 AsO 4</p><p>3-into the phenol extracted "protein" fraction, with a small fraction going into lipids. We caution that the large "protein" fraction is probably an overestimate because this extraction step likely contains numerous small, non-proteinaceous metabolites as well. To determine whether this distribution pattern reflected a use of AsO 4</p><p>3-in place of PO 4 3in DNA, we estimated the average sequenced bacterial genome to be 3.8 megabase pairs (Mbp), which would contain approximately 7.5 × 10 6 atoms or 12.5 × 10 -18 moles of P. Assuming one complete genome per cell, this would equal 0.39 fg of P in the genome. Using ICP-MS, we measured about 9.0 fg P per cell in the -As/+P condition, which implies that only ~4% of total intracellular P is associated with the genome. Because these cells were harvested in stationary phase <ref type="bibr" target="#b10">(11)</ref>, the fraction of P associated with RNA is likely small <ref type="bibr" target="#b13">(14)</ref>. Hence, roughly 96% of P is presumably distributed between the "lipid" and "protein" fractions. If AsO 4 3-is substituting for PO <ref type="bibr" target="#b3">4</ref> 3-in DNA, then we can assume that roughly the same fraction of the total intracellular Table <ref type="table">1</ref>. Bulk intracellular elemental profile of strain GFAJ-1. Cells were grown and prepared with trace metal clean techniques <ref type="bibr" target="#b10">(11)</ref>. Numbers in parentheses indicate replicate samples analyzed. As:P ratios were calculated based on all samples analyzed <ref type="bibr" target="#b10">(11)</ref>. Units are percent dry weight.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Condition</head><p>As P As:P AsO 4 3-would reflect a similar distribution to our estimated PO 4 3-distribution. The distribution of intracellular 73 AsO 4 3-in our experiments was consistent with these estimates. If AsO 4 3-is fulfilling the biological role of PO 4 3-, then AsO 4 3-</p><p>should act in many analogous biochemical roles, including DNA, protein phosphorylation, small molecular weight metabolites [such as arsenylated analogs of the reduced form of nicotinamide adenine dinucleotide phosphate (NADH), adenosine triphosphate (ATP), and intermediates like glucose and acetyl-coenzyme A (acetyl-CoA)], and phospholipids.</p><p>Our data suggested that As was present in a number of biomolecules, and in particular we sought to confirm the presence of As in the DNA fraction. Initially, we measured traces of As with ICP-MS analysis of extracted nucleic acid and protein/metabolite fractions from +As/-P-grown cells (table <ref type="table">S1</ref>) <ref type="bibr" target="#b10">(11)</ref>. We then used high-resolution secondary ion mass spectrometry (NanoSIMS) to identify As in extracted, gel-isolated genomic DNA (Fig. <ref type="figure" target="#fig_1">2A</ref>). These data showed that DNA from +As/-P cells had elevated As and low P relative to DNA from the -As/+P cells. NanoSIMS analysis of the DNA showed that the As:P ratio on an atom-per-atom basis was significantly higher in the +As/-P versus -As/+P grown cells (P = 0.02) ( Fig. <ref type="figure" target="#fig_1">2A</ref> and table <ref type="table">S2</ref>) <ref type="bibr" target="#b10">(11)</ref>. Whether expressed as an ion ratio relative to C ( 75 As -: 12 C -), (Fig. <ref type="figure" target="#fig_1">2A</ref>) or 31 P -: 12 C -(table <ref type="table">S2</ref>) <ref type="bibr" target="#b10">(11)</ref>, or normalized by relative ion yield and expressed as a concentration in parts per billion (table <ref type="table">S2</ref>) <ref type="bibr" target="#b10">(11)</ref>, we saw a similarly consistent trend, with significantly higher As in the +As/-P DNA (P = 0.03) and higher P in the -As/+P DNA (P = 0.0003). In both cases, the nonamended element concentration was equal or less than background levels. These measurements therefore specifically demonstrated that the purified DNA extracted from +As/-P cells contained As. Our NanoSIMS analyses, combined with the evidence for intracellular arsenic by ICP-MS and our radiolabeled 73 AsO 4</p><p>3-experiments, indicated that intracellular AsO 4</p><p>3-was incorporated into key biomolecules, specifically DNA.</p><p>Characterization of the intracellular arsenic chemical environment. We next used synchrotron x-ray studies to determine the speciation and chemical environment of the intracellular arsenic <ref type="bibr" target="#b10">(11)</ref>. Micro-x-ray absorption near-edge spectroscopy (mXANES) of +As/-P-grown cells exhibited an absorption edge characteristic of As(V) coordination with no evidence of As(III) observed. Best fits of the micro-extended x-ray absorption fine structure (mEXAFS) spectra are listed in Table <ref type="table">3</ref> and shown in Fig. <ref type="figure">3</ref>. The first neighbor shell around the arsenic in +As/-P cells consisted of four oxygen ligands (Table <ref type="table">3</ref>) but had a second shell that is inconsistent with our As-Fe and As-S models, free AsO 4 3-ions, or published spectra for organo-arsenicals (Fig. <ref type="figure">3A</ref>) <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b15">16)</ref>. Although other arsenical compounds such as dimethylarsinate (DMA) also have As-O and As-C bonds, they have edge positions that are shifted to lower energy from the observed As(V) and have much shorter observed As-C bond distances <ref type="bibr" target="#b15">(16)</ref>. In contrast to the models, these As-O and As-C distances are consistent with that reported from the solved crystal structure of DNA for the analogous structural position of P relative to O and C atoms (Fig. <ref type="figure">3A</ref>) <ref type="bibr" target="#b15">(16,</ref><ref type="bibr" target="#b16">17)</ref>. Therefore, our x-ray data support the position of AsO 4 3in a similar configuration to PO 4 3-in a DNA backbone or potentially other biomolecules as well. These data are also consistent with the presence of AsO 4</p><p>3-in small-molecular-weight metabolites (for example, arsenylated analogs of NADH, ATP, glucose, and acetyl-CoA) as well as arsenylated proteins in which AsO 4</p><p>3-would substitute for PO <ref type="bibr" target="#b3">4</ref> 3-at serine, tyrosine, and threonine residues (table <ref type="table">S3</ref>) <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b10">11)</ref>. Micro-x-ray fluorescence data (mXRF) further confirmed our ICP-MS measurements and showed low background P, which contrasted with regions of high arsenic correlated with high iron and zinc (Fig. <ref type="figure">3B</ref> and fig. <ref type="figure" target="#fig_1">S2</ref>) <ref type="bibr" target="#b10">(11)</ref>. These latter two elements are routinely used as proxies for the presence of cellular material (such as C, N, and O) in our experiments because these light elements could not be detected with x-ray fluorescence under our nonvacuum conditions. However, to further support the distribution of arsenic with cellular material we used NanoSIMS to map cellular ion ratios of 75 As -: 12 C -and 31 P -: 12 C -(Fig. <ref type="figure" target="#fig_1">2</ref>, B to G, and fig. <ref type="figure" target="#fig_1">S2</ref>) <ref type="bibr" target="#b10">(11)</ref>. These analyses confirmed, at a much finer resolution, that for the +As/-P condition the cells contain As with a low background of P (Fig. <ref type="figure" target="#fig_1">2</ref>, <ref type="figure">B</ref>, <ref type="figure">D</ref>, and <ref type="figure">F</ref>). This is in contrast to the low As and higher P in -As/+P-grown cells (Fig. <ref type="figure" target="#fig_1">2</ref>, <ref type="figure">C</ref>, <ref type="figure">E</ref>, and <ref type="figure">G</ref>). Because the x-ray absorption data</p><p>Table 2. Intracellular radiolabeled 73 AsO 4</p><p>-arsenate distribution. All major cellular subfractions contained radiolabel after cell-washing procedures. Small molecular weight (s.m.w.) metabolites potentially include arsenylated analogs of ATP, NADH, acetyl-CoA, and others <ref type="bibr" target="#b10">(11)</ref>. SE is shown. The scale bar in the Zn quadrant of the maps is as designated and applies to all parts of the figure. Given the spatial resolution of these images, the structures identified as containing high As, Fe, and Zn are aggregates of cells. Ranges as indicated in the color bar run from cold to hot, in units of mg cm -2 , as follows: As, 0 to 1.6; P, 0 to 40; Fe, 0 to 32.1; and Zn, 0 to 2.8. Standards were used to calibrate signal and background <ref type="bibr" target="#b10">(11)</ref>.</p><p>provided information about the average coordination of arsenic, our data identified a mixture of compounds in the cells. These results indicated that these compounds are dominated by arsenic(V)-oxygen-carbon-coordinated structures, and thus the bonding environment we described is consistent with our NanoSIMS data (Fig. <ref type="figure" target="#fig_1">2A</ref>) and can be attributed to DNA. These data show that As is in the +5 redox state and bound to O and distal C atoms within acceptable covalent bond lengths, identifying AsO 4 3-assimilated into biomolecules within the cells in specifically relevant coordination.</p><p>Our data show arsenic-dependent growth by GFAJ-1 (Fig. <ref type="figure" target="#fig_0">1</ref>). Growth was accompanied by AsO 4</p><p>3-uptake and assimilation into biomolecules including nucleic acids, proteins, and metabolites (Figs. <ref type="figure" target="#fig_1">2</ref> and <ref type="figure">3</ref> and Tables <ref type="table">1</ref> and <ref type="table">2</ref>). In some organisms, arsenic induces specific resistance genes to cope with its toxicity <ref type="bibr" target="#b6">(7)</ref>, whereas some dissimilatory arsenic-utilizing microbes can conserve energy for growth from the oxidation of reduced arsenic species, or "breathe" AsO 4 3-, as a terminal electron acceptor <ref type="bibr" target="#b17">(18)</ref>. Our study differs because we used As as a selective agent and excluded P, a major requirement in all hitherto known organisms. However, GFAJ-1 is not an obligate arsenophile and grew considerably better when provided with P (Fig. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">A</ref> and <ref type="figure">B</ref>). Although AsO 4</p><p>3-esters are predicted to be orders of magnitude less stable than PO 4 3-esters, at least for simple molecules (8), GFAJ-1 can cope with this instability. The vacuole-like regions observed in GFAJ-1 cells when growing under +As/-P conditions are potentially poly-b-hydroxybutyrate rich [as shown in other Halomonas species <ref type="bibr" target="#b18">(19)</ref>], which may stabilize As(V)-O-C type structures because nonaqueous environments appear to promote slower hydrolysis rates for related compounds <ref type="bibr" target="#b7">(8)</ref>. We propose that intracellular regions or mechanisms that exclude water may also promote this stability.</p><p>We report the discovery of an unusual microbe, strain GFAJ-1, that exceptionally can vary the elemental composition of its basic biomolecules by substituting As for P. How As insinuates itself into the structure of biomolecules is unclear, and the mechanisms by which such molecules operate are unknown.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Growth and electron microscopy of strain GFAJ-1. (A and B) Growth curves of GFAJ-1 grown on the defined synthetic medium amended with either 1.5 mM PO 4 3-(solid circles), 40 mM AsO 4 3-(solid squares), or neither PO 4 3-nor AsO 4 3-(open triangles). Cell growth was monitored both by an increase in (A) optical density and (B) cell numbers of the cultures. Symbols represent the mean T SD of (A) n = 6 experimental and n = 2 controls and (B) n = 3 experimental and n = 1 control. This was a single experiment with six replicates; however, material was conserved to extend the duration of the experiment to allow material for cell-counting samples. (C and D) Scanning electron micrographs of strain GFAJ-1 under two conditions, (C) +As/-P and (D) -As/+P. (E) Transmission electron micrography of +As/-P GFAJ-1 showed internal vacuole-like structures. Scale bars are as indicated in the figure (11).</figDesc><graphic coords="2,413.27,528.77,140.89,87.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. NanoSIMS analyses of GFAJ-1: extracted DNA and whole-cells elemental ratio maps. (A) Agarose gel loaded with DNA/RNA extracted from GFAJ-1 grown (lane 2) +As/-P and (lane 3) -As/+P as compared with (lane 1) a DNA standard. Genomic bands were excised as indicated and analyzed with NanoSIMS. Ion ratios of 75 As -: 12 C -of excised gel bands are indicated below with 2s error shown (all values multiplied by 10 -6 ). (B to G) NanoSIMS images of whole GFAJ-1 cells grown either [(B), (D), and (F)] +As/-P or [(C), (E), and (G)] -As/+P. Shown are the ion ratios of [(B) and (C)] 75 As -: 12 C -, [(D) and (E)] 31 P -: 12 C -, and [(F) and (G)] secondary electron (SE). Ratios in (B) and (C) are multiplied by 10 -4 and in (D) and (E) are multiplied by 10 -3 . The color bars indicate measured elemental ratios on a log scale as indicated. Length scale is as indicated on images; images contain equivalent pixel density (11).</figDesc><graphic coords="3,287.51,553.49,63.62,63.74" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>1 T 4 Fig. 3 .</head><label>143</label><figDesc>Fig.3. X-ray analysis of GFAJ-1 +As/-P described similarity of As coordinated like P in DNA. (A) EXAFS comparisons of the Fourier transformed data for As in model environments and GFAJ-1 (washed and fixed, collected on whole cells). Identification of each spectrum is indicated on the figure and from top to bottom are As-S, As-Fe, and GFAJ-1 data (collected on whole cells) and fit to the GFAJ-1 data (red line). (B) XRF maps indicated the correlation between As, iron (Fe) and zinc (Zn) and not with P with some variability but consistent with the trend that these elements are often found together (fig.S3, element correlation plots). The scale bar in the Zn quadrant of the maps is as designated and applies to all parts of the figure. Given the spatial resolution of these images, the structures identified as containing high As, Fe, and Zn are aggregates of cells. Ranges as indicated in the color bar run from cold to hot, in units of mg cm -2 , as follows: As, 0 to 1.6; P, 0 to 40; Fe, 0 to 32.1; and Zn, 0 to 2.8. Standards were used to calibrate signal and background<ref type="bibr" target="#b10">(11)</ref>.</figDesc><graphic coords="4,179.51,475.61,99.26,104.30" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>JUNE 2011 VOL 332 SCIENCE www.sciencemag.org</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments: The authors thank <rs type="person">S. Benner</rs>, <rs type="person">W. Hastings</rs>, <rs type="person">I. L.</rs> ten <rs type="person">Kate</rs>, <rs type="person">A. Pohorille</rs>, <rs type="person">B. Rosen</rs>, <rs type="person">D. Schulze-Makuch</rs>, and <rs type="person">R. Shapiro</rs> for stimulating discussions. We thank <rs type="person">G. King</rs>, <rs type="person">A. Oren</rs>, and <rs type="person">L. Young</rs> for constructive criticisms of earlier drafts of this manuscript and <rs type="person">S. Baesman</rs>, <rs type="person">M. Dudash</rs>, and <rs type="person">L. Miller</rs> for technical assistance. Cultures of GFAJ-1 were submitted to the American Type Culture Collection and <rs type="institution">Deutsche Sammlung von Mikroorganismen und Zellkulturen (DSMZ)</rs> culture collections on 21 March 2011 and will be available from these sources within several months. Until then, samples of GFAJ-1 are available to the community from the <rs type="institution">Oremland lab</rs> upon completion of a materials transfer agreement, which is required by the <rs type="institution">U.S. Geological Survey</rs> for the transfer of bacterial cultures. Sequence data are deposited with GenBank (accession HQ449183). Portions of this research were carried out at the <rs type="institution" subtype="infrastructure">Stanford Synchrotron Radiation Lightsource (SSRL)</rs>, a division of <rs type="institution" subtype="infrastructure">SLAC National Accelerator Laboratory</rs> and an <rs type="institution" subtype="infrastructure">Office of Science User Facility</rs> operated for the <rs type="institution">U.S. Department of Energy (DOE) Office of Science</rs> by <rs type="institution">Stanford University</rs>. The <rs type="programName">SSRL Structural Molecular Biology Program</rs> is supported by the <rs type="funder">DOE Office of Basic Energy Sciences, Office of Biological and Environmental Research</rs>, and by the <rs type="funder">National Institutes of Health, National Center for Research Resources, Biomedical Technology Program</rs>. NanoSIMS analyses were performed under the auspices of the <rs type="institution">DOE</rs> at <rs type="institution">Lawrence Livermore National Laboratory</rs> under contract <rs type="grantNumber">DE-AC52-07NA27344</rs>. J.P.R. and P.K.W. were supported in part by the <rs type="funder">DOE</rs> <rs type="programName">OBER Genomic Sciences</rs> program <rs type="grantNumber">SCW1039</rs>. R.S.O. and J.F.S. were supported by <rs type="funder">NASA Exobiology</rs>. F.W.S. acknowledges support from the <rs type="funder">NASA Postdoctoral Program</rs>, <rs type="funder">NASA Astrobiology/Exobiology</rs>, and the <rs type="funder">NASA Astrobiology Institute</rs> while in residence at the <rs type="funder">U.S. Geological Survey</rs>, Menlo Park, CA. The authors declare no conflicts of interest.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_bSrxbJK">
+					<orgName type="program" subtype="full">SSRL Structural Molecular Biology Program</orgName>
+				</org>
+				<org type="funding" xml:id="_SJjFYMf">
+					<idno type="grant-number">DE-AC52-07NA27344</idno>
+				</org>
+				<org type="funding" xml:id="_cVHXAp8">
+					<idno type="grant-number">SCW1039</idno>
+					<orgName type="program" subtype="full">OBER Genomic Sciences</orgName>
+				</org>
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">Stanford Synchrotron Radiation Lightsource (SSRL)</orgName>
+				</org>
+				<org type="infrastructure">					<orgName type="extracted">SLAC National Accelerator Laboratory</orgName>
+				</org>
+				<org type="infrastructure">					<orgName type="extracted">Office of Science User Facility</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tymoczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stryer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2007">2007</date>
+			<publisher>W. H. Freeman &amp; Co</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Berg, J. Tymoczko, L. Stryer, Biochemistry (W. H. Freeman &amp; Co., New York, ed. 6, 2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hille</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Biochem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">360</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Hille, Trends Biochem. Sci. 27, 360 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Morel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page">4627</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. W. Lane, F. M. Morel, Proc. Natl. Acad. Sci. U.S.A. 97, 4627 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jameson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ibers</surname></persName>
+		</author>
+		<title level="m">Biological Inorganic Chemistry: Structure and Reactivity</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Bertini</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Gray</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Stiefel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Valentine</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Sausalito, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University Science Books</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="354" to="386" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Jameson, J. Ibers, in Biological Inorganic Chemistry: Structure and Reactivity, I. Bertini, H. Gray, I. Stiefel, J. Valentine, Eds. (University Science Books, Sausalito, CA, 2007), pp. 354-386.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename></persName>
+		</author>
+		<title level="m">CRC Handbook of Chemistry and Physics</title>
+		<meeting><address><addrLine>Boca Raton, FL</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press/Taylor &amp; Francis</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>90th Edition (Internet Version 2010</note>
+	<note type="raw_reference">D. Lide, Ed., CRC Handbook of Chemistry and Physics, 90th Edition (Internet Version 2010) (CRC Press/Taylor &amp; Francis, Boca Raton, FL, 2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wolfe-Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C W</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Anbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Astrobiol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">69</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Wolfe-Simon, P. C. W. Davies, A. D. Anbar, Int. J. Astrobiol. 8, 69 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Rosen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEBS Lett</title>
+		<imprint>
+			<biblScope unit="volume">529</biblScope>
+			<biblScope unit="page">86</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. P. Rosen, FEBS Lett. 529, 86 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Baer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Rieger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">905</biblScope>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. D. Baer, J. O. Edwards, P. H. Rieger, Inorg. Chem. 20, 905 (1981).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Oremland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Stolz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hollibaugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. S. Oremland, J. F. Stolz, J. T. Hollibaugh, FEMS Microbiol. Ecol. 48, 15 (2004).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Switzer</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bindi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Buzzelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Stolz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Oremland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Switzer Blum, A. Burns Bindi, J. Buzzelli, J. F. Stolz, R. S. Oremland, Arch. Microbiol. 171, 19 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Materials and methods are available as supporting material on Science Online</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Materials and methods are available as supporting material on Science Online.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">434</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Takeuchi et al., J. Biotechnol. 127, 434 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Makino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cotner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sterner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Elser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Funct. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">121</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Makino, J. Cotner, R. Sterner, J. Elser, Funct. Ecol. 17, 121 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mandelstam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bacteriol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">289</biblScope>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Mandelstam, Bacteriol. Rev. 24, 289 (1960).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">248</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. G. Smith et al., Environ. Sci. Technol. 39, 248 (2005).</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Pickering</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Physiol</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">1171</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. J. Pickering et al., Plant Physiol. 122, 1171 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Holbrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallogr. B</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">255</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Holbrook, R. Dickerson, S. H. Kim, Acta Crystallogr. B 41, 255 (1985).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Oremland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Stolz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page">939</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. S. Oremland, J. F. Stolz, Science 300, 939 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Quillaguaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mattiasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hatti-Kaul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Enzyme Microb. Technol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">148</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Quillaguaman, O. Delgado, B. Mattiasson, R. Hatti-Kaul, Enzyme Microb. Technol. 38, 148 (2006).</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

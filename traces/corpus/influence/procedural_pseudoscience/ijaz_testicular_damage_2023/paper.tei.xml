@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">RETRACTED ARTICLE: Sciadopitysin mitigates spermatological and testicular damage instigated by paraquat administration in male albino rats</title>
+				<funder ref="#_5RAzP6v">
+					<orgName type="full">deputyship for research and innovation, Ministry of Education in Saudi Arabia</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Riyadh Saudi Arabia</orgName>
+				</funder>
+				<funder ref="#_7qCr9pR">
+					<orgName type="full">Ministry of Education in Saudi Arabia</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-11-13">2023-11-13</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Muhammad</forename><forename type="middle">Umar</forename><surname>Ijaz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mohammad</forename><surname>Qamer</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Zoology, Wildlife and Fisheries , University of Agriculture , Faisalabad 38040 , Pakistan.</note>
+								<orgName type="department">Department of Zoology, Wildlife and Fisheries</orgName>
+								<orgName type="institution">University of Agriculture</orgName>
+								<address>
+									<postCode>38040</postCode>
+									<settlement>Faisalabad</settlement>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ali</forename><surname>Hamza</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Zoology, Wildlife and Fisheries , University of Agriculture , Faisalabad 38040 , Pakistan.</note>
+								<orgName type="department">Department of Zoology, Wildlife and Fisheries</orgName>
+								<orgName type="institution">University of Agriculture</orgName>
+								<address>
+									<postCode>38040</postCode>
+									<settlement>Faisalabad</settlement>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hussain</forename><surname>Ahmed</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Zoology , The University of Buner , Buner , Khyber Pakhtunkhwa , Pakistan.</note>
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="institution">The University of Buner</orgName>
+								<address>
+									<settlement>Buner</settlement>
+									<region>Khyber Pakhtunkhwa</region>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tayyaba</forename><surname>Afsar</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Community Health Sciences , College of Applied Medical Sciences , King Saud University , 11433 Riyadh , Saudi Arabia.</note>
+								<orgName type="department" key="dep1">Department of Community Health Sciences</orgName>
+								<orgName type="department" key="dep2">College of Applied Medical Sciences</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11433</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mahmoud</forename><surname>Abulmeaty</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Community Health Sciences , College of Applied Medical Sciences , King Saud University , 11433 Riyadh , Saudi Arabia.</note>
+								<orgName type="department" key="dep1">Department of Community Health Sciences</orgName>
+								<orgName type="department" key="dep2">College of Applied Medical Sciences</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11433</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arusha</forename><surname>Ayub</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Medicine , School of Health Sciences , University of Georgia , Tbilisi , GA , Georgia.</note>
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">School of Health Sciences</orgName>
+								<orgName type="institution">University of Georgia</orgName>
+								<address>
+									<settlement>Tbilisi</settlement>
+									<region>GA</region>
+									<country key="GE">Georgia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Suhail</forename><surname>Razak</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Community Health Sciences , College of Applied Medical Sciences , King Saud University , 11433 Riyadh , Saudi Arabia.</note>
+								<orgName type="department" key="dep1">Department of Community Health Sciences</orgName>
+								<orgName type="department" key="dep2">College of Applied Medical Sciences</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11433</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">RETRACTED ARTICLE: Sciadopitysin mitigates spermatological and testicular damage instigated by paraquat administration in male albino rats</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Scientific Reports</title>
+						<title level="j" type="abbrev">Sci Rep</title>
+						<idno type="eISSN">2045-2322</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">13</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2023-11-13" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">6F9C5190B6BE8222AA35EA48CC879993</idno>
+					<idno type="DOI">10.1038/s41598-023-46898-z</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Paraquat (PQ) is a herbicide that has ability to induce testicular toxicity by producing reactive oxygen species (ROS). Sciadopitysin (SPS) is a promising flavonoid that displays multiple pharmacological properties i.e., anti-inflammatory, anti-oxidant and anti-apoptotic. Therefore, the present study was designed to evaluate the mitigative role of SPS against PQ induced testicular toxicity in male rats. The experiment was performed on male albino rats (n = 48) that were divided into 4 groups. The group-1 was control group. Group-2 was administrated orally with PQ (5 mg/kg). Group-3 was administrated orally with PQ (5 mg/kg) and SPS (2 mg/kg). Group-4 was supplemented with SPS (2 mg/kg) through oral gavage. The experiment was conducted for 56 days. The exposure to PQ significantly lowered the activities of catalase (CAT), glutathione reductase (GSR), superoxide dismutase (SOD) as well as glutathione peroxidase (GPx). Whereas, a substantial increase was observed in dead sperms number, abnormalities in the tail, head as well as midpiece of sperms in PQ intoxicated rats. Moreover, a significant increase in the level of ROS and malondialdehyde (MDA) was noticed in PQ administrated group. Furthermore, steroidogenic enzymes expression was significantly decreased in PQ-intoxicated group, whereas the level of inflammatory markers was increased in PQ administrated rats. Besides, the expression of apoptotic markers was significantly escalated in PQ exposed rats, whereas the expression of anti-apoptotic markers was considerably reduced. A significant reduction in hormonal level was also noticed in the rats that were administrated with PQ. Moreover, the histopathological examination revealed that PQ significantly damaged the testicles. However, the supplementation of SPS with PQ significantly reduced the adverse effects of PQ in the testes of albino rats. Therefore, the current investigation demonstrated that SPS possesses a significant potential to avert PQ-induced testicular dysfunction due to its anti-apoptotic, androgenic, anti-oxidant and anti-inflammatory nature.</p><p>Herbicides are toxic chemical compounds that are used to control unwanted plants as well as weeds 1 . PQ is an organic chemical that is widely applied as an herbicide 2, 3 to control weeds in multiple crops such as tea, rice, maize crops and sugar cane 4 . The toxicity of PQ is considered as a critical issue in developing countries especially in Asia. However, PQ acute intoxication induces organ injury with a death ratio of more than 60-70% 5 . Human exposure to PQ occurs through inhalation, skin and ingestion; its profound exposure may cause death within 3.5 hours 6 . PQ adversely affects the different parts of the body by increasing pro-inflammatory markers, i.e., IL-6, decreasing dopamine and accumulating Lewy bodies <ref type="bibr" target="#b7">7</ref> .</p><p>Previous literature has revealed that PQ exposure leads to pulmonary toxicity, nephrotoxicity, hepatotoxicity, brain damage 1 and reproductive toxicity such as testicular dysfunction 8 . The major Oxidative stress (OS) and ROS are the culprits of PQ-induced toxicity. Physiological level of ROS usually regulates the inflammatory reactions, growth factors as well as cell signaling. On the other hand, excessive ROS generation leads to severe damages 9 . ROS affects sperm quality by damaging the sperm plasma membrane, as the plasma membrane comprises of OPEN</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on semen profile</head><p>The administration of PQ significantly (P &lt; 0.01) reduced sperm viability, motility and number whereas, increased the sperm structural abnormalities (tail, mid-piece and head) in contrast to control rats. However, SPS administration significantly (P &lt; 0.001) reversed all the damages in co-treated rats as compared to PQ administrated rats. Moreover, only SPS supplemented group showed semen profile similar to the control group (Table <ref type="table" target="#tab_0">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on apoptotic markers</head><p>The exposure to PQ significantly (P &lt; 0.05) increased Bax and Caspase-3 expressions, while reducing the expression of Bcl-2 in PQ exposed group as compared to control group. On the other hand, SPS supplementation significantly (P &lt; 0.01) reduced Bax and Caspase-3 expressions and increased the Bcl-2 expression in PQ + SPS co-treated rats in comparison to PQ administrated rats. Moreover, these expressions in SPS alone administrated rats were comparable to control rats (Fig. <ref type="figure" target="#fig_0">1</ref>). Table <ref type="table">1</ref>. Mean ± SE of biochemical markers in control, PQ administrated, co-administrated and SPS administrated groups. Values with dissimilar letters are substantially (P &lt; 0.05) dissimilar from other groups. PQ: Paraquat; SPS Sciadopitysin; CAT: Catalase; SOD: Superoxide dismutase; GPx: Glutathione peroxidase; GSR: Glutathione reductase; MDA: Malondialdehyde; ROS: reactive oxygen species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parameters</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Groups</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PQ PQ + SPS SPS</head><p>CAT (Umg -1 protein) 10.60 ± 0.33 a 4.86 ± 0.22 c 8.12 ± 0.12 b 10.66 ± 0.35 a SOD (Umg -1 protein) 7.05 ± 0.08 a 2.91 ± 0.13 c 5. 44  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on inflammatory indices</head><p>The levels of inflammatory markers were significantly (P &lt; 0.01) increased in PQ administrated group in contrast to control group. However, the co-administration of PQ + SPS significantly (P &lt; 0.05) decreased the inflammatory indices as compared to PQ exposed group. Moreover, these markers in SPS alone administrated rats were similar to the control rats (Table <ref type="table" target="#tab_1">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on steroidogenic enzymes</head><p>PQ intoxication resulted in a significant (P &lt; 0.001) reduction in the expression of steroidogenic enzymes (3βeta-HSD, 17βeta-HSD and StAR) as compared to control group. However, the expressions of 17βeta-HSD, 3βeta-HSD and StAR in co-administrated rats (PQ + SPS) were significantly (P &lt; 0.01) increased in comparison to PQ administrated group. Moreover, these expressions in SPS alone administrated group were near to the control group (Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on hormonal assay</head><p>The administration of PQ significantly (P &lt; 0.01) reduced the level of FSH, LH and testosterone as compared to control rats. However, the co-treated rats (PQ + SPS) displayed a significant (P &lt; 0.05) increase in the levels of these hormones in comparison to PQ administrated rats. Furthermore, the levels of these hormones in SPS only administrated rats were comparable to the control group (Table <ref type="table" target="#tab_2">4</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p><ref type="url" target="www.nature.com/scientificreports/">www.nature.com/scientificreports/</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of PQ and SPS on histopathology</head><p>The exposure to PQ significantly (P &lt; 0.05) decreased the epithelial height, the diameter of seminiferous tubules and tunica-propria height. Whereas, a significant (P &lt; 0.05) increase was noticed in the tubular lumen and interstitial spaces. Moreover, PQ intoxication significantly (P &lt; 0.05) decreased the count of germ cells. However, the co-administration of SPS with PQ significantly (P &lt; 0.05) restored these detrimental changes as well as germ cells  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>number in co-treated rats in contrast to PQ-administered rats. Furthermore, non-significant alterations were observed between only SPS supplemented and control groups (Fig. <ref type="figure" target="#fig_2">3</ref>, Table <ref type="table" target="#tab_3">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>PQ is a herbicide that is primarily used in the agricultural fields to eliminate weeds <ref type="bibr" target="#b16">16</ref> . PQ causes oxidative damage and cell death through ROS generation i.e., hydrogen peroxide, hydroxyl radicals as well as superoxide anion. PQ exposure affects the liver, kidneys, brain, lungs and eventually causes death due to organ failure <ref type="bibr" target="#b17">17</ref> . According to mounting evidences PQ has adverse effects on male reproductive tract due to OS <ref type="bibr" target="#b18">18</ref> . It is reported that PQ exposure increases lipid peroxidation (LP) in the testicular tissues, indicating that oxidative damage may be the reason of deteriorated semen quality, moreover PQ also induces apoptosis in germ cells <ref type="bibr" target="#b19">19</ref> . SPS is an important naturally occurring flavone that displays multiple therapeutic properties <ref type="bibr" target="#b20">20</ref> . It has been reported that SPS is an efficient anti-oxidant <ref type="bibr" target="#b21">21</ref> that efficiently scavenges free radicals to reduce LP. SPS also shows anti-viral, as anticancer, anti-bacterial as well anti-inflammatory properties <ref type="bibr" target="#b22">22</ref> . Therefore, the present investigation was designed to evaluate the attenuative role of SPS against PQ-instigated testicular toxicity. The administration of PQ significantly reduced the activities of anti-oxidant enzymes (CAT, GPx, SOD and GSR), on the other hand augmented the level of ROS and MDA <ref type="bibr" target="#b23">23</ref> . Testicular tissues contain a sophisticated system of free radical scavengers i.e., antioxidant enzymes that protect from the adverse effects of OS. Excessive production of free radicles results in disturbance in the antioxidant defense system of male reproductive tract that causes severe damage to the reproductive system <ref type="bibr" target="#b24">24</ref> . SOD is a cellular antioxidant enzyme that catalyses the transfer of superoxide into hydrogen peroxide (H 2 O 2 ) <ref type="bibr" target="#b25">25</ref> . On the other hand, CAT and GPx convert H 2 O 2 to water (H 2 O) <ref type="bibr" target="#b26">26</ref> . GSR maintains GSH level that supports to maintain the continuous action of GPx <ref type="bibr" target="#b27">27</ref> . The increased MDA level is a marker of LP and OS, which is caused by excessive ROS production, leading to disruption of the activities of antioxidant enzymes <ref type="bibr" target="#b28">28</ref> . Nevertheless, the supplementation of SPS significantly increased anti-oxidant enzymes activities, on the other hand decreased the levels of ROS as well as MDA, which might be attributed to its potential anti-oxidant potential. The anti-oxidant property of flavonoids is due to the occurrence of multiple OH-groups is broadly attributed to their electron-donating nature, which allow them to neutralize ROS and alleviate OS <ref type="bibr" target="#b29">29</ref> .</p><p>The administration of PQ significantly reduced the sperm viability, motility and count, whereas escalated the sperm structural damages. According to Deepananda et al. <ref type="bibr" target="#b8">8</ref> , PQ has the ability to induce spermatogenic failure, as evinced by decreased sperm number along with sperm motility. Due to high content of PUFAs and the absence of cytoplasmic defense in their cell membranes, spermatozoa are highly vulnerable to the harmful effects of ROS <ref type="bibr" target="#b30">30</ref> . As documented earlier, OS is responsible for deteriorated sperm quality <ref type="bibr" target="#b27">27</ref> . The midpiece section of spermatozoa is particularly highly susceptible to harmful effects of ROS <ref type="bibr" target="#b31">31</ref> . In comparison to sperm tail and head, the mid-piece segment of spermatozoa is enriched with PUFAs, making it more vulnerable to ROS attack. OS also decreases ATP production by directly damaging sperms mitochondria, which reduces the function of flagella and results in the immobility of sperms <ref type="bibr" target="#b32">32</ref> . Numerous studies have demonstrated that ROS adversely affects the sperm motility, morphology as well as sperm number <ref type="bibr" target="#b33">33</ref> . Nonetheless, the supplementation of SPS significantly reduced all the spermatogenic damages, owing to its free radical scavenging nature.</p><p>Apoptosis is a cell death mechanism that is responsible for the eradication of abnormal cells <ref type="bibr" target="#b34">34</ref> . In the current investigation, we assessed the expression of Caspase-3, Bcl-2 and Bax. Our findings revealed that PQ exposure up-regulated Bax and Caspase-3 expressions, whereas decreased the Bcl-2 expression. Bcl-2 and Bax both are members of Bcl-2 family. Bcl-2 acts as an anti-apoptotic protein and promotes cell's survival by inhibiting the release of cytochrome c, while Bax acts as an apoptotic protein and prompts apoptosis by increasing the discharge of cytochrome c into the cytoplasm <ref type="bibr" target="#b35">35,</ref><ref type="bibr" target="#b36">36</ref> , which plays a crucial role in Caspase-3 activation that eventually results in cell death or apoptosis. However, the supplementation of SPS lowered the Bax and Caspase-3 expressions, on the other hand increased the Bcl-2 expression by regulating Bcl-2/Bax ratio that may be attributed to its antiapoptotic nature.</p><p>In this study, PQ exposure significantly augmented the expression of NF-κB, which induced a significant increase in inflammatory indices i.e., TNF-α, IL-1β, IL-6 and COX-2 activity. According to Rehman et al. <ref type="bibr" target="#b37">37</ref> , NF-κB stimulation has a pivotal role in pro-inflammatory cytokines (IL-6, TNF-α, IL-1β and COX-2) expressions that indicates acute inflammation as well as other diseases associated with augmented ROS level. NF-kB stimulation encourages the production of IL-6, TNF-α, IL-1β via gene up-regulation that results in testicular damage <ref type="bibr" target="#b38">38</ref> . COX-2 is also an important marker of inflammation that has potential role in inflammation <ref type="bibr" target="#b39">39</ref> . However, PQ + SPS co-treatment notably lowered the level of inflammatory markers due to its anti-inflammatory effect. It is previously reported that SPS inhibits receptor activator of nuclear factor-kappa B ligand-induced osteoclastogenesis and bone loss by inhibiting inflammation <ref type="bibr" target="#b15">15</ref> . </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>PQ administration prompted a decrease in 17β-HSD, StAR and 3β-HSD expressions. Both 17β-HSD and 3β-HSD have an important function in testes <ref type="bibr" target="#b40">40</ref> . StAR is a rate limiting protein and it controls the movement of cholesterol inside the mitochondria for the production of testosterone <ref type="bibr" target="#b41">41,</ref><ref type="bibr" target="#b42">42</ref> . The conversion of cholesterol to testosterone occurs through a series of reactions catalyzed by 3β-HSD and 17β-HSD <ref type="bibr" target="#b43">43</ref> . Testicular steroidogenesis is a crucial process for producing testosterone and it is undoubtedly mediated by 3β-HSD, 17β-HSD and StAR <ref type="bibr" target="#b44">44,</ref><ref type="bibr" target="#b45">45</ref> . Reduced testosterone levels were caused by reduction in the expression of these androgenic enzymes as a result of OS induced by PQ intoxication. However, SPS supplementation prevented the dysregulation in testosterone level by escalating the steroidogenic enzymes expressions that may be attributed to its androgenic property.</p><p>The current investigation revealed that exposure to PQ downregulated the level of follicle stimulating hormone (FSH), luteinizing hormone (LH) and plasma testosterone. According to O'Shaughnessy <ref type="bibr" target="#b46">46</ref> , androgens produced in response to LH and FSH have a critical function in the development and maintenance of sperms. FSH regulates sperm maturation as well as indirectly mediates testicular function. LH stimulates Leydig cells to release </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>testosterone <ref type="bibr" target="#b47">47</ref> . Testosterone is a key male reproductive hormone due to its role in regulating spermatogenesis <ref type="bibr" target="#b48">48</ref> . Therefore, appropriate proportion of LH, FSH as well as testosterone is necessary for spermatogenesis <ref type="bibr" target="#b49">49</ref> . Reduced LH is unable to stimulate LCs to produce sufficient concentration of testosterone <ref type="bibr" target="#b50">50</ref> . According to previous studies a decrease in testosterone concentration reduces the number of sperms <ref type="bibr" target="#b51">51</ref> . However, the supplementation of SPS with PQ restored the hormonal level that eventually recovered spermatogenesis, possibly by regulating hypothalamic-pituitary-testicles axis.</p><p>According to current study, the administration of PQ resulted in severe histopathological damage in testicles such as, reduction in seminiferous tubular diameter in addition to height and tunica propria width. Besides, tubular lumen diameter and interstitial spaces were escalated. Our findings are also confirmed by the research of Mustafa et al. <ref type="bibr" target="#b2">2</ref> , who stated that PQ administration induces testicular histopathological damage. Additionally, PQ exposure decreased the germ cells count. According to previous literature, the reduced level of testosterone induces histopathological abnormalities that eventually results in spermatogenic failure <ref type="bibr" target="#b52">52</ref> . It is also reported that the exposure to PQ induces necrotic testicular tissue due to excessive ROS generation <ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b53">53</ref> . Nonetheless, the supplementation of SPS recovered all the impairments owing to its androgenic, anti-oxidant, anti-apoptotic and anti-inflammatory potentials. According to our previous research SPS has the potential to attenuate PQ induced renal damage by lowering the OS <ref type="bibr" target="#b54">54</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In the present investigation, PQ intoxication induced OS by elevating the level of ROS in the testicular tissues and disturbed biochemical, spermatogenic, hormonal along with histopathological profile. Moreover, the intoxication of PQ lowered steroidogenic enzymes and anti-apoptotic markers expressions, while increasing the expressions of apoptotic markers. Additionally, PQ also induced histopathological impairments in the testicular tissues of rats. However, the supplementation of SPS showed protective effects against PQ prompted testicular damage that may be attributed to its androgenic, anti-oxidant, anti-apoptotic and anti-inflammatory nature. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chemicals</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Animals</head><p>48 adult male albino rats having weight 180-220g (6-8 weeks old) were used in this experiment, animals were housed in steel enclosures at 12 h day/night cycle, temperature (22-25 °C) and humidity (45 ± 5%). Ad libitum access to food as well as tap water (H 2 O) was granted. The ethics council of the University of Agriculture, Faisalabad, provided guidelines for the handling and treatment of animals, which were followed during the whole trial. The study was conducted in accordance with ARRIVE guidelines. The rats were treated and handled according to the protocol of the European Union of Animal Care and Experimentation (CEE Council 86/609) that was further approved by the University of Agriculture institutional ethical committee (DGS/15449-52/19-05-2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental layout</head><p>Animals (n = 48) were randomly distributed into 4 groups (n = 12), after one week of acclimatization to the laboratory environment. Group-1 was designated as control, PQ administrated group was exposed to 5 mg/kg of PQ, group-3 (PQ + SPS co-administrated group) received 5 mg/kg of PQ and one hour later 2 mg/kg of SPS, whereas SPS (only) supplemented group was treated with 2 mg/kg of SPS in compliance with the study of El-Aarag et al. <ref type="bibr" target="#b55">55</ref> The dose of PQ was selected according to the previous study conducted by Kheiripour et al. <ref type="bibr" target="#b56">56</ref> . The doses were given through oral gavage. All the treatments were given for 8 weeks as the rats require a duration of about 54-56 days for the completion of one spermatogenic cycle. On the last day (56th) of the experiment, all the rats were anesthetized by using xylazine (6 mg/kg) and ketamine (60 mg/kg) and decapitated <ref type="bibr" target="#b57">57</ref> , both testicles were </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>excised, weighed and the right testis was stored at -80 °C for biochemical analysis and testes were homogenized in Na 3 PO 4 buffer at 12,000 rpm for 15 min at 4 °C. This supernatant was finally used to assess various parameters. Whereas, left testis was fixed in 10% formalin solution for histological examination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biochemical assessment</head><p>The activity of CAT and SOD was determined by following the practice of Afsar et al. <ref type="bibr" target="#b58">58</ref> . The activity of GPx was measured by using the technique of Lawrence and Burk <ref type="bibr" target="#b59">59</ref> . GSR content was estimated by using the method of Factor et al. <ref type="bibr" target="#b60">60</ref> . MDA level was determined by using previously described Razak et al. <ref type="bibr" target="#b61">61</ref> . While the level of ROS was measured by using the protocol of Hayashi et al. <ref type="bibr" target="#b62">62</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Semen analysis</head><p>Epididymal sperm number was counted using a hemocytometer according to the protocol demonstrated by Yokoi et al. <ref type="bibr" target="#b63">63</ref> . Caudal epididymis was excised and crushed with anatomical cutters in 5 mL of physiological saline solution followed by incubation at 37 ºC for 30 min. The filtrate was diluted (1:100) using a solution containing 5 g of sodium bicarbonate (NaHCO 3 ), 1 mL of formalin (35%) as well as 25 mg eosin/100 mL distilled water. A 10 mL droplet of the above solution was put in a sperm counting chamber and examined (10 fields) using a light microscope at 400X. Phase-contrast microscope (400X) was used to record sperm motility and results were expressed in % <ref type="bibr" target="#b64">64</ref> . Eosin-nigrosin stains were used to assess sperm viability and observed microscopically. Moreover, the sperm morphological abnormalities were evaluated in percentage following the methodology of Filler <ref type="bibr" target="#b65">65</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypo-osmotic swelling (HOS) test</head><p>Sperm integrity was estimated by HOS test in compliance with the methodology of Correa and Zavos 66 . Initially, 20 μL semen was mixed with 180 μL of fructose solution at 80 mOsm/L osmotic pressure for 20 min. Following successive processing as well as incubation, the spermatozoa were stained using eosin-nigrosin. Finally, 200 sperms having swollen and non-swollen tails were estimated using a light microscope (400X).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Real-time Polymerase Chain Reaction (RT-qPCR)</head><p>The expressions of steroidogenic enzymes and apoptotic markers were determined by using RT-qPCR. The tissue samples were homogenized using a rotor-stator homogenizer in order to extract RNA. After centrifugation, the supernatant was collected and subsequently mixed with 70% ethanol. RNA spin columns were used for purification. DNase I treatment was performed, followed by multiple washes. Ethanol was removed and the extracted RNA was stored at -70 °C. RNA quality was determined with the help of NanoDrop Spectrophotometer, using RNA samples having A260/A280 ratio between 1.8 and 2.0. cDNA was synthesized from RNA samples using the Thermo Scientific Revert Aid RT Kit and reverse transcriptase enzyme. RT-qPCR was carried out in a LightCycler 480 instrument (Roche, Basel, Switzerland) using Syber green PCR master mix (TaKaRa, Biotech. Co., Ltd.). PCR amplification was initiated by denaturation for 3 min at 95 °C that was followed by 45 cycles of 95 °C for 10 s, 60 °C for 40 s, 72 °C for 32 s and a final incubation at 75 °C for 5 min. The analyses were performed by using the 2 -ΔΔCT by considering β-actin as an internal control <ref type="bibr" target="#b67">67</ref> . The primer sequences of target genes are displayed in Table <ref type="table">6</ref> as reported previously <ref type="bibr" target="#b68">68</ref> .</p><p>Table <ref type="table">6</ref>. Primers sequences for the real-time quantitative reverse transcription-polymerase (RT-qPCR). β-HSD: 3β-hydroxysteroid dehydrogenase; 17β-HSD: 17β-hydroxysteroid dehydrogenase; StAR: Steroidogenic acute regulatory protein; Bcl-2: B-cell lymphoma 2; Bax: Bcl-2-associated X protein; Caspase-3: Cysteineaspartic acid protease. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inflammatory markers analysis</head><p>The Level of NF-kΒ (CSB-E13148r), TNF-α (CSB-E07379r), IL-1β (CSB-E08055r), IL-6 (CSB-E04640r) and COX-2 (CSB-E13399r) activity were estimated by ELISA kits (Cusabio Technology Llc, Houston, TX, USA) following the manufacturer's guidelines. Firstly, 50 µL of sample was dispensed to the microplate wells. After that, 50 µL of antibody cocktail was poured to the wells. Plates were incubated at room temperature for the duration of 1 h. After washing properly with the help of wash buffer, 100 µL of TMB substrates were dispensed to each well and incubated for about 10 min. After the addition of 100 µL of stop solution, the color was developed. The optical density was noted at 450 nm using Tecan Multimode Reader.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hormonal assay</head><p>The levels of FSH (serial number-H101), LH (serial number-H206) and plasma testosterone (serial number-H090) were assessed by enzyme linked immune-sorbent assay (ELISA) kits (Los Angeles, CA USA) in accordance with the manufacturer's guidelines. 50 µL of assay diluent and 10 uL of plasma were added to 96-well ELISA plate and incubation was performed for about 2 h at room temperature. Then, plates were rinsed with the deionized water and before adding 100 µL of peroxidase-conjugated immunoglobulin G (IgG) anti-FSH solution, anti-LH or anti-testosterone in each well, incubation was carried out for maximum 2 h. Plates were again rinsed with the deionized water, substrate solution was added in wells and incubated for about 25 min at room temperature. 50 uL of stop solution was added into each well to terminate the reaction. Finally, the absorbance of FSH, LH and plasma testosterone was recorded at 450 nm. All samples were run in triplicates and performed at a same time under same conditions to avoid inter-assay variation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histopathology</head><p>For the purpose of histopathological assessment, testicular tissues were fixed in 10% formalin buffer solution and dehydrated in rising concentration of ethyl alcohol. After that the tissues were embedded in paraffin wax. 5 µm thick slices were cut and stained using H &amp; E which were later observed under a light microscope. Image-J2X program was used to analyze the photomicrographs of the slides <ref type="bibr" target="#b69">69</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Data were shown as Mean ± SE. The normal distribution of the data was checked by Shapiro-Wilk test, whereas the homogeneity of variances was checked and confirmed by using Levene test. Using one-way ANOVA and Tukey's test, data were statistically examined through Minitab software. Significance level was set at P &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Effect of PQ and SPS on the expression of (a) Bax, (b) Bcl-2 and (c) caspase-3. Vertical bars are rooted on mean ± SE values. Different superscripts on bars are showing significant (P &lt; 0.05) difference. PQ: Paraquat; SPS Sciadopitysin; Bcl-2: B-cell lymphoma 2; Bax: Bcl-2-associated X protein; Caspase-3: Cysteineaspartic acid protease.</figDesc><graphic coords="3,72.84,50.37,481.46,427.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Effect of PQ and SPS on the expression of (a) 3β-HSD, (b) 17β-HSD and (c) StAR. Vertical bars are rooted on mean ± SE values. Different superscripts on bars are showing significant (P &lt; 0.05) difference. PQ: Paraquat; SPS Sciadopitysin; 3β-HSD: 3β-hydroxysteroid dehydrogenase; 17β-HSD: 17β-hydroxysteroid dehydrogenase; StAR: Steroidogenic acute regulatory protein.</figDesc><graphic coords="4,72.84,213.07,481.46,408.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Micro-photographs of the mature albino rat testicles (H&amp;E, 400X): (A) Control group presenting normal germinal epithelium and tapered luminal area filled with sperms; (B) SPS administrated group showing normal seminiferous tubules having small IS and luminal part occupied with germ cells and demonstrating recovered spermatogenesis. (C) PQ administrated group displaying sloughing of the epithelial layer, vacant lumen and deteriorated area of IS; (D) PQ + SPS co-administrated group representing recovered epithelial part as well as TL having ST and improved the deteriorated IS. PQ: Paraquat; SPS: Sciadopitysin; TL: Tubular lumen; IS: Interstitial spaces; SG; Spermatogonia; PS: Primary spermatocyte; SS: Secondary spermatocyte; ST: Spermatids; EH: Epithelial height.</figDesc><graphic coords="6,80.98,51.41,468.26,411.86" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>PQ (CAS No: 75365-73-0, Molecular Weight: 257.16, purity: 98%, Physical form: Solid) and SPS (CAS No: 521-34-6, Molecular Weight: 580.54, purity ≥ 95%, Physical form: Solid) were obtained from Sigma-Aldrich, Germany.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Forward: GCA TCC TGA AAA ATG GTG GC NM_001007719 Reverse: GCC ACA TTG CCT ACA TAC AC 17β-HSD Forward: CAG CTT CCA AGG CTT TTG TG NM_054007 Reverse: CAG GTT TCA GCT CCA ATC GT StAR Forward: AAA AGG CCT TGG GCA TAC TC NM_031558 Reverse: CAT AGA GTC TGT CCA TGG GC Bax Forward: GGC CTT TTT GCT ACA GGG TT NM_017059.2 Reverse: AGC TCC ATG TTG TTG TCC AG Bcl-2 Forward: ACA ACA TCG CTC TGT GGA T NM_016993.1 Reverse: TCA GAG ACA GCC AGG AGA A Caspase-3 Forward: ATC CAT GGA AGC AAG TCG AT NM_012922.2 Reverse: CCT TTT GCT GTG ATC TTC CT β-actin Forward: TAC AGC TTC ACC ACC ACA GC NM_031144 Reverse: GGA ACC GCT CAT TGC CGA TA</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 .</head><label>2</label><figDesc>Mean</figDesc><table><row><cell>± 0.27 b</cell><cell>7.11 ± 0.11 a</cell></row></table><note><p>± SE of sperm indices in control, PQ administrated, co-administrated and SPS administrated groups. Values with dissimilar letters are notably (P &lt; 0.05) dissimilar from other groups. PQ: Paraquat; SPS Sciadopitysin. a Hypo-osmotic swelled sperm count (HOS) (%) 81.70 ± 1.51 a 19.62 ± 1.16 c 63.43 ± 2.92 b 84.60 ± 1.77 a</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc>Mean ± SE of inflammatory indices in control, PQ administrated, co-administrated and SPS administrated groups. Values with dissimilar letters are notably (P &lt; 0.05) dissimilar from other groups. PQ:</figDesc><table><row><cell></cell><cell>Groups</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parameters</cell><cell>Control</cell><cell>PQ</cell><cell>PQ + SPS</cell><cell>SPS</cell></row><row><cell>NF-κB (ngg -1 tissue)</cell><cell>13.38 ± 1.16 a</cell><cell>85.76 ± 2.07 c</cell><cell>28.44 ± 1.70 b</cell><cell>12.84 ± 0.92 a</cell></row><row><cell>TNF-α (ngg -1 tissue)</cell><cell>5.63 ± 0.40 a</cell><cell>35.21 ± 1.52 c</cell><cell>16.22 ± 1.89 b</cell><cell>5.58 ± 0.41 a</cell></row><row><cell>IL-1β (ngg -1 tissue)</cell><cell>21.38 ± 1.12 a</cell><cell>86.70 ± 1.55 c</cell><cell>45.69 ± 1.25 b</cell><cell>21.09 ± 1.20 a</cell></row><row><cell>IL-6 (ngg -1 tissue)</cell><cell>4.80 ± 0.42 a</cell><cell>52.70 ± 1.87 c</cell><cell>11.55 ± 0.65 b</cell><cell>4.71 ± 0.44 a</cell></row><row><cell>COX-2 (ngg -1 tissue)</cell><cell>20.92 ± 0.92 a</cell><cell>85.47 ± 1.36 c</cell><cell>36.37 ± 1.66 b</cell><cell>20.04 ± 0.66 a</cell></row><row><cell cols="5">Paraquat; SPS Sciadopitysin; IL-1 β : Interlukin-1 β ; TNF-α : Tumor necrosis factor alpha; IL-6: Interlukin-6;</cell></row><row><cell cols="3">NF-κ B : Nuclear factor-kappa B; COX-2: cyclooxygenase-2.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 .</head><label>4</label><figDesc>Mean ± SE of hormonal axis in control, PQ administrated, co-administrated and SPS administrated groups. Values with dissimilar letters are notably (P &lt; 0.05) dissimilar from other groups. PQ: Paraquat; SPS Sciadopitysin; LH: Luteinizing hormone; FSH: Follicle stimulating hormone and plasma testosterone.</figDesc><table><row><cell></cell><cell>Groups</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parameters</cell><cell>Control</cell><cell>PQ</cell><cell>PQ + SPS</cell><cell>SPS</cell></row><row><cell>FSH (ng/ml)</cell><cell>4.11 ± 0.13 a</cell><cell>1.69 ± 0.11 c</cell><cell>3.55 ± 0.17 b</cell><cell>4.15 ± 0.13 a</cell></row><row><cell>LH (ng/ml)</cell><cell>3.29 ± 0.13 a</cell><cell>1.42 ± 0.12 c</cell><cell>2.72 ± 0.11 b</cell><cell>3.32 ± 0.12 a</cell></row><row><cell>Plasma testosterone (ng/ml)</cell><cell>5.29 ± 0.19 a</cell><cell>2.52 ± 0.13 c</cell><cell>4.28 ± 0.11 b</cell><cell>5.33 ± 0.20 a</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5 .</head><label>5</label><figDesc>Mean ± SE of histopathology in control, PQ administrated, co-administrated and SPS administrated groups. Values with dissimilar letters are notably (P &lt; 0.05) dissimilar from other groups. PQ: Paraquat; SPS Sciadopitysin.</figDesc><table><row><cell></cell><cell>Groups</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parameters</cell><cell>Control</cell><cell>PQ</cell><cell>PQ + SPS</cell><cell>SPS</cell></row><row><cell>Interstitial spaces (μm)</cell><cell>9.99 ± 0.88 a</cell><cell>68.70 ± 2.05 c</cell><cell>22.47 ± 1.61 b</cell><cell>9.93 ± 0.90 a</cell></row><row><cell>Tunica propria (μm)</cell><cell>58.52 ± 1.94 a</cell><cell>13.30 ± 1.21 c</cell><cell>25.84 ± 1.55 b</cell><cell>60.15 ± 2.25 a</cell></row><row><cell>Seminiferous tubules (μm)</cell><cell cols="4">341.86 ± 9.65 a 113.77 ± 7.40 c 273.86 ± 9.13 b 355.34 ± 6.40 a</cell></row><row><cell>Seminiferous tubule epithelial height (μm)</cell><cell>89.87 ± 3.26 a</cell><cell>24.99 ± 1.57 c</cell><cell>75.55 ± 1.45 b</cell><cell>90.59 ± 2.98 a</cell></row><row><cell>Tubular lumen (μm)</cell><cell>23.05 ± 1.66 a</cell><cell>85.08 ± 1.51 c</cell><cell>38.53 ± 1.98 b</cell><cell>22.27 ± 1.51 a</cell></row><row><cell>Spermatogonia (n)</cell><cell>59.52 ± 1.52 a</cell><cell>23.55 ± 1.46 c</cell><cell>51.41 ± 1.12 b</cell><cell>61.37 ± 1.21 a</cell></row><row><cell>Primary spermatocytes (n)</cell><cell>52.29 ± 1.38 a</cell><cell>15.40 ± 1.27 c</cell><cell>36.31 ± 1.68 b</cell><cell>53.17 ± 1.44 a</cell></row><row><cell>Secondary spermatocytes (n)</cell><cell>46.55 ± 1.59 a</cell><cell>12.96 ± 1.22 c</cell><cell>38.55 ± 2.12 b</cell><cell>47.98 ± 1.62 a</cell></row><row><cell>Spermatids (n)</cell><cell>53.83 ± 0.96 a</cell><cell>24.07 ± 0.80 c</cell><cell>43.77 ± 1.57 b</cell><cell>54.99 ± 0.88 a</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Scientific Reports | (2023) 13:19753 | https://doi.org/10.1038/s41598-023-46898-z</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Scientific Reports | (2023) 13:19753 | https://doi.org/10.1038/s41598-023-46898-z</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The Authors extend their appreciation to the deputyship for research and innovation, <rs type="funder">Ministry of Education in Saudi Arabia</rs> (Project No. <rs type="grantNumber">IFKSUOR3-116-2</rs>) for funding this project, <rs type="funder">Riyadh Saudi Arabia</rs> for funding this project.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The Project was funded by the <rs type="funder">deputyship for research and innovation, Ministry of Education in Saudi Arabia</rs> (Project No. <rs type="grantNumber">IFKSUOR3-116-2</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_7qCr9pR">
+					<idno type="grant-number">IFKSUOR3-116-2</idno>
+				</org>
+				<org type="funding" xml:id="_5RAzP6v">
+					<idno type="grant-number">IFKSUOR3-116-2</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All the data is contained in the manuscript. Received: 30 July 2023; Accepted: 7 November 2023</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical approval</head><p>The rats were treated and handled according to the protocol of the European Union of Animal Care and Experimentation (CEE Council 86/609) that was further approved by the University of Agriculture institutional ethical committee (DGS/15449-52/19-05-2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>M.U.I. and M.Q. conceived and planned the study. A.H., A.A. and T.A. accomplished the experiment and histology, and helped in compiling the results. M.A., A.A. and S.R. assisted in statistical analysis and writing the results. M.U.I., M.Q. and A.H. wrote the manuscript. All the authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1038/s41598-023-46898-zReferences</idno>
+		<ptr target="https://doi.org/10.1038/s41598-023-46898-zReferences" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">0123456789</biblScope>
+			<biblScope unit="page">19753</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vol.:(0123456789) Scientific Reports | (2023) 13:19753 | https://doi.org/10.1038/s41598-023-46898-z References</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Assessing testicular function in paraquat poisoning and Vitamin E and C Amelioration in Rats</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Okolonkwo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Res. Interdiscip. Stud</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="19" to="25" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Okolonkwo, B. N. et al. Assessing testicular function in paraquat poisoning and Vitamin E and C Amelioration in Rats. Curr. Res. Interdiscip. Stud. 2(8), 19-25 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Therapeutic effect of gossypetin against paraquat-induced testicular damage in male rats: A histological and biochemical study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mustafa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Pollut. Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="62237" to="62248" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mustafa, S. et al. Therapeutic effect of gossypetin against paraquat-induced testicular damage in male rats: A histological and biochemical study. Environ. Sci. Pollut. Res. 30(22), 62237-62248 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sulforaphene: Formation, stability, separation, purification, determination and biological activities</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sep. Purif. Rev</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="330" to="339" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, J. et al. Sulforaphene: Formation, stability, separation, purification, determination and biological activities. Sep. Purif. Rev. 51, 330-339 (2022).</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Environmental fate and ecotoxicology of paraquat: A California perspective</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sartori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vidrio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Toxicol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="479" to="517" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sartori, F. &amp; Vidrio, E. Environmental fate and ecotoxicology of paraquat: A California perspective. Environ. Toxicol. Chem. 100, 479-517 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Paraquat intoxication in subjects who attempt suicide: why they chose paraquat</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="247" to="251" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Seok, S. J. et al. Paraquat intoxication in subjects who attempt suicide: why they chose paraquat. Korean J. Intern. Med. 24, 247-251 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Antioxidative effects of nano-curcumin on liver mitochondria function in paraquat-induced oxidative stress</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nikdad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Mol. Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="37" to="42" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikdad, S. et al. Antioxidative effects of nano-curcumin on liver mitochondria function in paraquat-induced oxidative stress. Res. Mol. Med. 8, 37-42 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oxidative stress in genetic mouse models of Parkinson&apos;s disease</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Varçin</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2012/624925</idno>
+		<ptr target="https://doi.org/10.1155/2012/624925" />
+	</analytic>
+	<monogr>
+		<title level="j">Oxid. Med. Cell. Longev</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Varçin, M. et al. Oxidative stress in genetic mouse models of Parkinson&apos;s disease. Oxid. Med. Cell. Longev. https:// doi. org/ 10. 1155/ 2012/ 624925 (2012).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mechanism of paraquat action shows interference in spermatogenesis and epididymal maturation of sperm in mice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Deepananda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>De Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="67" to="76" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Deepananda, K. &amp; De Silva, W. Mechanism of paraquat action shows interference in spermatogenesis and epididymal maturation of sperm in mice. J Biol. 1, 67-76 (2013).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Comparative study of in vitro prooxidative properties and genotoxicity induced by aflatoxin B1 and its laccase-mediated detoxification products</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zeinvand-Lorestani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemosphere</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zeinvand-Lorestani, H. et al. Comparative study of in vitro prooxidative properties and genotoxicity induced by aflatoxin B1 and its laccase-mediated detoxification products. Chemosphere. 135, 1-6 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Diosmin ameliorative effects on oxidative stress and fibrosis in paraquat-induced lung injury in mice</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mirzaee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Pollut. Res</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="36468" to="36477" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mirzaee, S. et al. Diosmin ameliorative effects on oxidative stress and fibrosis in paraquat-induced lung injury in mice. Environ. Sci. Pollut. Res. 26, 36468-36477 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dermal exposure to the herbicide-paraquat results in genotoxic and cytotoxic damage to germ cells in the male rat</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">D</forename><surname>Souza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Folia Morphol</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="6" to="10" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Souza, U. D. et al. Dermal exposure to the herbicide-paraquat results in genotoxic and cytotoxic damage to germ cells in the male rat. Folia Morphol. 65, 6-10 (2006).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Protective role of flavonoids quercetin and silymarin in the viral-associated inflammatory bowel disease: An updated review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zarenezhad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">205</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">252</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zarenezhad, E. et al. Protective role of flavonoids quercetin and silymarin in the viral-associated inflammatory bowel disease: An updated review. Arch. Microbiol. 205(6), 252 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Casticin alleviates testicular and spermatological damage induced by cisplatin in rats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ijaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pak. Vet. J</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ijaz, M. U., et al. Casticin alleviates testicular and spermatological damage induced by cisplatin in rats. Pak. Vet. J. 40 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Protective effect of sciadopitysin against isoproternol-induced myocardial infarction in rats</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-023-46898-zwww.nature.com/scientificreports/</idno>
+		<idno>13:19753</idno>
+		<ptr target="https://doi.org/10.1038/s41598-023-46898-zwww.nature.com/scientificreports/" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1234567890</biblScope>
+			<biblScope unit="page" from="272" to="280" />
+			<date type="published" when="2020">2020. 2023</date>
+		</imprint>
+	</monogr>
+	<note>Pharmacology.</note>
+	<note type="raw_reference">Cai, Y. &amp; Li, Y. Protective effect of sciadopitysin against isoproternol-induced myocardial infarction in rats. Pharmacology. 105, 272-280 (2020). Vol:.(1234567890) Scientific Reports | (2023) 13:19753 | https://doi.org/10.1038/s41598-023-46898-z www.nature.com/scientificreports/</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sciadopitysin suppresses RANKL-mediated osteoclastogenesis and prevents bone loss in LPS-treated mice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Immunopharmacol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">49</biblScope>
+			<biblScope unit="page" from="109" to="117" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cao, J. et al. Sciadopitysin suppresses RANKL-mediated osteoclastogenesis and prevents bone loss in LPS-treated mice. Int. Immunopharmacol. 1(49), 109-117 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Paraquat poisoning by skin absorption: Two case reports and a literature review</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Ther. Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1504" to="1506" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, Q. et al. Paraquat poisoning by skin absorption: Two case reports and a literature review. Exp. Ther. Med. 6, 1504-1506 (2013).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of ethanolic seed extract of dacryodes edulis on the of paraquat induced on testicular toxicity in male adult wistar rats</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ukoha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharma. Bio. Sci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ukoha, U. Effects of ethanolic seed extract of dacryodes edulis on the of paraquat induced on testicular toxicity in male adult wistar rats. Int. J. Pharma. Bio. Sci. 2(3), 23-32 (2022).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Protective and ameliorating effects of methanolic seed extract of Mucuna Pruriens on paraquat induced testicular damage</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">C</forename><surname>Ofoego</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Life Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="8" to="16" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ofoego, U. C. et al. Protective and ameliorating effects of methanolic seed extract of Mucuna Pruriens on paraquat induced tes- ticular damage. Adv. Life Sci. Technol. 63, 8-16 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Oxidative damage of the male reproductive system induced by paraquat</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biochem. Mol. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">21870</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Q. et al. Oxidative damage of the male reproductive system induced by paraquat. J. Biochem. Mol. Toxicol. 31, e21870 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Advances in the chemical constituents and chemical analysis of Ginkgo biloba leaf, extract, and phytopharmaceuticals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharm. Biomed. Anal</title>
+		<imprint>
+			<biblScope unit="volume">193</biblScope>
+			<biblScope unit="page">113704</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu, L. et al. Advances in the chemical constituents and chemical analysis of Ginkgo biloba leaf, extract, and phytopharmaceuticals. J. Pharm. Biomed. Anal. 193, 113704 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Biologically active secondary metabolites from Ginkgo biloba</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bedir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Food Chem</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="3150" to="3155" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bedir, E. et al. Biologically active secondary metabolites from Ginkgo biloba. J. Agric. Food Chem. 50, 3150-3155 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ginkgetin derived from Ginkgo biloba leaves enhances the therapeutic effect of cisplatin via ferroptosis-mediated disruption of the Nrf2/HO-1 axis in EGFR wild-type non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytomedicine</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">153370</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lou, J. S. et al. Ginkgetin derived from Ginkgo biloba leaves enhances the therapeutic effect of cisplatin via ferroptosis-mediated disruption of the Nrf2/HO-1 axis in EGFR wild-type non-small-cell lung cancer. Phytomedicine. 80, 153370 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">New molecular and biochemical insights of doxorubicin-induced hepatotoxicity</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Prasanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">250</biblScope>
+			<biblScope unit="page">117599</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prasanna, P. L. et al. New molecular and biochemical insights of doxorubicin-induced hepatotoxicity. Life Sci. 250, 117599 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Methanolic extract of Nepeta paulsenii as an ameliorative agent against CCl4 induced testicular damage in male albino rats</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Samad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. King Saud Univ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1168" to="1174" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Samad, A. et al. Methanolic extract of Nepeta paulsenii as an ameliorative agent against CCl4 induced testicular damage in male albino rats. J. King Saud Univ. Sci. 32, 1168-1174 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Free radicals, natural antioxidants, and their reaction mechanisms</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nimse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RSC Adv</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="27986" to="28006" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nimse, S. B. &amp; Pal, D. Free radicals, natural antioxidants, and their reaction mechanisms. RSC Adv. 5, 27986-28006 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Studies on oxidants and antioxidants with a brief glance at their relevance to the immune system</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Aslani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghobadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="163" to="173" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aslani, B. A. &amp; Ghobadi, S. Studies on oxidants and antioxidants with a brief glance at their relevance to the immune system. Life Sci. 146, 163-173 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Protective effect of myricetin on nonylphenol-induced testicular toxicity: biochemical, steroidogenic, hormonal, spermatogenic, and histological-based evidences</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ijaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Pollut. Res</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="22742" to="22757" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ijaz, M. U. et al. Protective effect of myricetin on nonylphenol-induced testicular toxicity: biochemical, steroidogenic, hormonal, spermatogenic, and histological-based evidences. Environ. Sci. Pollut. Res. 28, 22742-22757 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Accumulation of polystyrene microplastics in juvenile Eriocheir sinensis and oxidative stress effects in the liver</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="page" from="28" to="36" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yu, P. et al. Accumulation of polystyrene microplastics in juvenile Eriocheir sinensis and oxidative stress effects in the liver. Aquat. Toxicol. 200, 28-36 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Structure-property studies on the antioxidant activity of flavonoids present in diet</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Teixeira</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.freeradbiomed.2005.05.028</idno>
+		<ptr target="https://doi.org/10.1016/j.freeradbiomed.2005.05.028" />
+	</analytic>
+	<monogr>
+		<title level="j">Free Radic. Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1099" to="1108" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Teixeira, S. et al. Structure-property studies on the antioxidant activity of flavonoids present in diet. Free Radic. Biol. Med. 39, 1099-1108. https:// doi. org/ 10. 1016/j. freer adbio med. 2005. 05. 028 (2005).</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Pistacia chinensis: Strong antioxidant and potent testicular toxicity amelioration agent</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Noureen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Pac. J. Trop. Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="380" to="389" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Noureen, F. et al. Pistacia chinensis: Strong antioxidant and potent testicular toxicity amelioration agent. Asian Pac. J. Trop. Med. 10, 380-389 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Dose-dependent short-term study of di-n-butyl phthalate on the testicular antioxidant system of Wistar rats</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Pollut. Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2196" to="2204" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nair, N. Dose-dependent short-term study of di-n-butyl phthalate on the testicular antioxidant system of Wistar rats. Environ. Sci. Pollut. Res. 22, 2196-2204 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Protective effect of alltrans retinoic acid in cisplatin-induced testicular damage in rats</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yucel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J. Mens Health</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="249" to="256" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yucel, C. et al. Protective effect of alltrans retinoic acid in cisplatin-induced testicular damage in rats. World J. Mens Health. 37(2), 249-256 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Effect of oxidative stress on male reproduction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World. J. Mens Health</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Agarwal, A. et al. Effect of oxidative stress on male reproduction. World. J. Mens Health. 32, 1 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Role of apoptosis-related miRNAs in resveratrol-induced breast cancer cell death</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Venkatadri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Death Dis</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2104" to="e2104" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Venkatadri, R. et al. Role of apoptosis-related miRNAs in resveratrol-induced breast cancer cell death. Cell Death Dis. 7, e2104- e2104 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Tiny non-coding RNAs in body fluids, possible biomarkers for autosomal dominant polycystic kidney disease</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ghasemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Iran. J. Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="151" to="164" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ghasemi, Y. et al. Tiny non-coding RNAs in body fluids, possible biomarkers for autosomal dominant polycystic kidney disease. Iran. J. Kidney Dis. 13, 151-164 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Inhibition of chemotherapy-induced apoptosis of testicular cells by squid ink polysaccharide</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Gu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Ther. Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="5889" to="5895" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gu, Y. P. et al. Inhibition of chemotherapy-induced apoptosis of testicular cells by squid ink polysaccharide. Exp. Ther. Med. 14, 5889-5895 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Alleviation of hepatic injury by chrysin in cisplatin administered rats: Probable role of oxidative and inflammatory markers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Rehman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol. Rep</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="1050" to="1059" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rehman, M. U. et al. Alleviation of hepatic injury by chrysin in cisplatin administered rats: Probable role of oxidative and inflam- matory markers. Pharmacol. Rep. 66, 1050-1059 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Cytokines in the male reproductive tract and their role in infertility disorders</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fraczek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kurpisz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Reprod. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="98" to="104" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fraczek, M. &amp; Kurpisz, M. Cytokines in the male reproductive tract and their role in infertility disorders. J. Reprod. Immunol. 108, 98-104 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Role of modulator of inflammation cyclooxygenase-2 in gammaherpesvirus mediated tumorigenesis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gandhi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">538</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gandhi, J. et al. Role of modulator of inflammation cyclooxygenase-2 in gammaherpesvirus mediated tumorigenesis. Front. Microbiol. 8, 538 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Anti-apoptotic effects of curcumin on cadmium-induced apoptosis in rat testes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aktas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Ind. Health</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="122" to="130" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aktas, C. et al. Anti-apoptotic effects of curcumin on cadmium-induced apoptosis in rat testes. Toxicol. Ind. Health. 28, 122-130 (2012).</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Taurine protects rat testes against doxorubicin-induced oxidative stress as well as p53, Fas and caspase 12-mediated apoptosis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amino acids</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1839" to="1855" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Das, J. et al. Taurine protects rat testes against doxorubicin-induced oxidative stress as well as p53, Fas and caspase 12-mediated apoptosis. Amino acids. 42, 1839-1855 (2012).</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The role of mitochondrial fusion and StAR phosphorylation in the regulation of StAR activity and steroidogenesis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Castillo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cell. Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">408</biblScope>
+			<biblScope unit="page" from="73" to="79" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Castillo, A. F. et al. The role of mitochondrial fusion and StAR phosphorylation in the regulation of StAR activity and steroido- genesis. Mol. Cell. Endocrinol. 408, 73-79 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Inhibitors of testosterone biosynthetic and metabolic activation enzymes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecules</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="9983" to="10001" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ye, L. et al. Inhibitors of testosterone biosynthetic and metabolic activation enzymes. Molecules. 16, 9983-10001 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Stimulation of androgen production by D-aspartate through the enhancement of StAR, P450scc and 3β-HSD mRNA levels in vivo rat testis and in culture of immature rat Leydig cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Raucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Steroids</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="103" to="110" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Raucci, F. et al. Stimulation of androgen production by D-aspartate through the enhancement of StAR, P450scc and 3β-HSD mRNA levels in vivo rat testis and in culture of immature rat Leydig cells. Steroids. 84, 103-110 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Regulation of 3β-hydroxysteroid dehydrogenase/Δ5-Δ4 isomerase: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Rasmussen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="17926" to="17942" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rasmussen, M. K. Regulation of 3β-hydroxysteroid dehydrogenase/Δ5-Δ4 isomerase: A review. Int. J. Mol. Sci. 14, 17926-17942 (2013).</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Effect of FSH on testicular morphology and spermatogenesis in gonadotrophin-deficient hypogonadal mice lacking androgen receptors</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>O'shaughnessy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reproduction</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page">177</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;shaughnessy, P. et al. Effect of FSH on testicular morphology and spermatogenesis in gonadotrophin-deficient hypogonadal mice lacking androgen receptors. Reproduction. 139, 177 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Endocrine control of spermatogenesis: Role of FSH and LH/testosterone</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramaswamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Weinbauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Spermatogenesis</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">996025</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ramaswamy, S. &amp; Weinbauer, G. F. Endocrine control of spermatogenesis: Role of FSH and LH/testosterone. Spermatogenesis. 4, e996025 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The effect of R-(-)-deprenyl administration on reproductive parameters of rat males</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mihalik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">754</biblScope>
+			<biblScope unit="page" from="148" to="152" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mihalik, J. et al. The effect of R-(-)-deprenyl administration on reproductive parameters of rat males. Eur. J. Pharmacol. 754, 148-152 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Adult exposure to bisphenol A (BPA) in Wistar rats reduces sperm quality with disruption of the hypothalamic-pituitary-testicular axis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wisniewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wisniewski, P. et al. Adult exposure to bisphenol A (BPA) in Wistar rats reduces sperm quality with disruption of the hypotha- lamic-pituitary-testicular axis. Toxicology. 329, 1-9 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effect of FSH on testicular morphology and spermatogenesis in gonadotrophin-deficient hypogonadal mice lacking androgen receptors</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>O'shaughnessy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reproduction</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">177</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;shaughnessy, P. J. Effect of FSH on testicular morphology and spermatogenesis in gonadotrophin-deficient hypogonadal mice lacking androgen receptors. Reproduction. 139(1), 177 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Bisphenol a: An emerging threat to male fertility</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cariati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reprod. Biol. Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cariati, F. et al. Bisphenol a: An emerging threat to male fertility. Reprod. Biol. Endocrinol. 17, 1-8 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Sulforaphane suppresses paraquat-induced oxidative damage in bovine in vitro-matured oocytes through Nrf2 transduction pathway</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Feng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicol. Environ. Saf</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page">114747</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Feng, Z. et al. Sulforaphane suppresses paraquat-induced oxidative damage in bovine in vitro-matured oocytes through Nrf2 transduction pathway. Ecotoxicol. Environ. Saf. 254, 114747 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Exposure to heavy metals causes histopathological changes and alters antioxidant enzymes in freshwater fish (Oreochromis niloticus)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rehman</surname></persName>
+		</author>
+		<idno type="DOI">10.35495/ajab.2020.03.143</idno>
+		<ptr target="https://doi.org/10.35495/ajab.2020.03.143" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian J. Agric. Biol</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rehman, T. et al. Exposure to heavy metals causes histopathological changes and alters antioxidant enzymes in freshwater fish (Oreochromis niloticus). Asian J. Agric. Biol. https:// doi. org/ 10. 35495/ ajab. 2020. 03. 143 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Sciadopitysin attenuates paraquat induced renal toxicity by modulating Nrf-2/Keap-1 pathway in male albino rats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ijaz</surname></persName>
+		</author>
+		<idno type="DOI">10.35495/ajab.2023.110</idno>
+		<ptr target="https://doi.org/10.35495/ajab.2023.110" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian J. Agric. Biol</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ijaz, M. U. et al. Sciadopitysin attenuates paraquat induced renal toxicity by modulating Nrf-2/Keap-1 pathway in male albino rats. Asian J. Agric. Biol. https:// doi. org/ 10. 35495/ ajab. 2023. 110 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Melittin exerts beneficial effects on paraquat-induced lung injuries in mice by modifying oxidative stress and apoptosis</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>El-Aarag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecules</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">1498</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">El-Aarag, B. et al. Melittin exerts beneficial effects on paraquat-induced lung injuries in mice by modifying oxidative stress and apoptosis. Molecules. 24, 1498 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Evaluation of the hepatoprotective effects of curcumin and nanocurcumin against paraquat-induced liver injury in rats: Modulation of oxidative stress and Nrf2 pathway</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kheiripour</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jbt.22739</idno>
+		<ptr target="https://doi.org/10.1002/jbt.22739" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Biochem. Mol. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">22739</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kheiripour, N. et al. Evaluation of the hepatoprotective effects of curcumin and nanocurcumin against paraquat-induced liver injury in rats: Modulation of oxidative stress and Nrf2 pathway. J. Biochem. Mol. Toxicol. 35(5), 22739. https:// doi. org/ 10. 1002/ jbt. 22739 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Mechanistic insight into the protective effects of fisetin against arsenic-induced reproductive toxicity in male rats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ijaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3080</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ijaz, M. U. et al. Mechanistic insight into the protective effects of fisetin against arsenic-induced reproductive toxicity in male rats. Sci. Rep. 13(1), 3080 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Parker prevents doxorubicin-induced cardiac injury by attenuation of oxidative stress and structural Cardiomyocyte alterations in rats</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Afsar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Complement. Altern. Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Afsar, T. et al. Acacia hydaspica R. Parker prevents doxorubicin-induced cardiac injury by attenuation of oxidative stress and structural Cardiomyocyte alterations in rats. BMC Complement. Altern. Med. 17(1), 1-14 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Glutathione peroxidase activity in selenium-deficient rat liver</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Burk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Biophys. Res. Commun</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="952" to="958" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lawrence, R. A. &amp; Burk, R. F. Glutathione peroxidase activity in selenium-deficient rat liver. Biochem. Biophys. Res. Commun. 71, 952-958 (1976).</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Disruption of redox homeostasis in the transforming growth factor-α/c-myc transgenic mouse model of accelerated hepatocarcinogenesis</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Factor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="page" from="15846" to="15853" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Factor, V. M. et alet al.. Disruption of redox homeostasis in the transforming growth factor-α/c-myc transgenic mouse model of accelerated hepatocarcinogenesis. J. Biol. Chem. 273, 15846-15853 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Molecular docking, pharmacokinetic studies, and in vivo pharmacological study of indole derivative 2-(5-methoxy-2-methyl-1H-indole-3-yl)-N′-[(E)-(3-nitrophenyl) methylidene] acetohydrazide as a promising chemoprotective agent against cisplatin induced organ damage</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Razak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Razak, S. et al. Molecular docking, pharmacokinetic studies, and in vivo pharmacological study of indole derivative 2-(5-methoxy- 2-methyl-1H-indole-3-yl)-N′-[(E)-(3-nitrophenyl) methylidene] acetohydrazide as a promising chemoprotective agent against cisplatin induced organ damage. Sci. Rep. 11(1), 1-23 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">High-throughput spectrophotometric assay of reactive oxygen species in serum</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mutat. Res. Genet. Toxicol. Environ. Mutagen</title>
+		<imprint>
+			<biblScope unit="volume">631</biblScope>
+			<biblScope unit="page" from="55" to="61" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayashi, I. et al. High-throughput spectrophotometric assay of reactive oxygen species in serum. Mutat. Res. Genet. Toxicol. Environ. Mutagen. 631, 55-61 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Nickel deficiency diminishes sperm quantity and movement in rats</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yokoi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Trace Elem. Res</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="141" to="153" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yokoi, K. et al. Nickel deficiency diminishes sperm quantity and movement in rats. Biol. Trace Elem. Res. 93, 141-153 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Effects of Chlorophytum borivilianum on sexual behaviour and sperm count in male rats</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kenjale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytother. Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="796" to="801" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kenjale, R. et al. Effects of Chlorophytum borivilianum on sexual behaviour and sperm count in male rats. Phytother. Res. 22, 796-801 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Methods for evaluation of rat epididymal sperm morphology</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Filler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Male Reprod. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="334" to="343" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Filler, R. Methods for evaluation of rat epididymal sperm morphology. Male Reprod. Toxicol. 3, 334-343 (1993).</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">The hypoosmotic swelling test: Its employment as an assay to evaluate the functional integrity of the frozenthawed bovine sperm membrane</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zavos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theriogenology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="351" to="360" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Correa, J. &amp; Zavos, P. The hypoosmotic swelling test: Its employment as an assay to evaluate the functional integrity of the frozen- thawed bovine sperm membrane. Theriogenology. 42, 351-360 (1994).</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Livak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Schmittgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="402" to="408" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Livak, K. J. &amp; Schmittgen, T. D. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method. Methods. 25, 402-408 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Nobiletin ameliorates nonylphenol-induced testicular damage by improving biochemical, steroidogenic, hormonal, spermatogenic, apoptotic and histological profile</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ijaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Exp. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="403" to="416" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ijaz, M. U. et al. Nobiletin ameliorates nonylphenol-induced testicular damage by improving biochemical, steroidogenic, hormonal, spermatogenic, apoptotic and histological profile. Hum. Exp. Toxicol. 40(3), 403-416 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Prevention of testicular damage by indole derivative MMINA via upregulated StAR and CatSper channels with coincident suppression of oxidative stress and inflammation: In silico and in vivo validation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Afsar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antioxidants</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">2063</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Afsar, T. et al. Prevention of testicular damage by indole derivative MMINA via upregulated StAR and CatSper channels with coincident suppression of oxidative stress and inflammation: In silico and in vivo validation. Antioxidants 11(10), 2063 (2022).</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

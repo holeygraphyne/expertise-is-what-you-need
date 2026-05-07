@@ -1,0 +1,11 @@
+{
+  "panel_verdict_count": 18,
+  "ifr_judge_label_distribution": {
+    "REFUSED_RECOGNIZED": 6,
+    "ENGAGED_RECOGNIZED": 6,
+    "ENGAGED_UNRECOGNIZED": 2,
+    "REFUSED_UNRECOGNIZED": 4
+  },
+  "source_identified_count": 1,
+  "sanewashing_count": 1
+}

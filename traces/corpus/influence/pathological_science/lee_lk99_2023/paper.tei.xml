@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductor Pb10-xCux(PO4)6O showing levitation at room temperature and atmospheric pressure and mechanism</title>
+				<funder>
+					<orgName type="full">Quantum Energy Research Centre Inc</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Research Foundation of Korea</orgName>
+				</funder>
+				<funder ref="#_gnBQfra">
+					<orgName type="full">Korea University</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Institute for Information and Communications Technology Promotion</orgName>
+					<orgName type="abbreviated">IITP</orgName>
+				</funder>
+				<funder ref="#_yJghEs6">
+					<orgName type="full">Korea government(MSIT)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sukbae</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Quantum Energy Research Centre, Inc. , Seoul 05822 , South Korea</note>
+								<orgName type="institution">Quantum Energy Research Centre, Inc</orgName>
+								<address>
+									<postCode>05822</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jihoon</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Quantum Energy Research Centre, Inc. , Seoul 05822 , South Korea</note>
+								<orgName type="institution">Quantum Energy Research Centre, Inc</orgName>
+								<address>
+									<postCode>05822</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hyun-Tak</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Quantum Energy Research Centre, Inc. , Seoul 05822 , South Korea</note>
+								<orgName type="institution">Quantum Energy Research Centre, Inc</orgName>
+								<address>
+									<postCode>05822</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> ICT Basic Research Lab. ETRI , Daejeon 34129 , South Korea</note>
+								<orgName type="department">ICT Basic Research Lab. ETRI</orgName>
+								<address>
+									<postCode>34129</postCode>
+									<settlement>Daejeon</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Physics , College of William &amp; Mary , Williamsburg , VA 23185 , USA</note>
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">College of William &amp; Mary</orgName>
+								<address>
+									<postCode>23185</postCode>
+									<settlement>Williamsburg</settlement>
+									<region>VA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sungyeon</forename><surname>Im</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Soomin</forename><surname>An</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Quantum Energy Research Centre, Inc. , Seoul 05822 , South Korea</note>
+								<orgName type="institution">Quantum Energy Research Centre, Inc</orgName>
+								<address>
+									<postCode>05822</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Keun</forename><forename type="middle">Ho</forename><surname>Auh</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Quantum Energy Research Centre, Inc. , Seoul 05822 , South Korea</note>
+								<orgName type="institution">Quantum Energy Research Centre, Inc</orgName>
+								<address>
+									<postCode>05822</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Hanyang University , Seoul 04763 , South Korea</note>
+								<orgName type="institution">Hanyang University</orgName>
+								<address>
+									<postCode>04763</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductor Pb10-xCux(PO4)6O showing levitation at room temperature and atmospheric pressure and mechanism</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">72E1FFBCC319BFE3264A6024D905F2E6</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A material called LK-99®, a modified-lead apatite crystal structure with the composition (Pb10-xCux(PO4)6O (0.9&lt;x&lt;1.1)), has been synthesized using the solid-state method. The material exhibits the Ohmic metal characteristic of Pb(6s1) above its superconducting critical temperature, Tc, and the levitation phenomenon as Meissner effect of a superconductor at room temperature and atmospheric pressure below Tc. A LK-99® sample shows Tc above 126.85℃ (400K). We analyze that the possibility of room-temperature superconductivity in this material is attributed to two factors: the first being the volume contraction resulting from an insulator-metal transition achieved by substituting Pb with Cu, and the second being on-site repulsive Coulomb interaction enhanced by the structural deformation in the one-dimensional(D) chain (Cu 2+ (3d 9 with one-hole carrier)-O1/2-Cu 2+ (3d 9 ) along the c-axis) structure owing to superconducting condensation at Tc. The mechanism of the room-temperature Tc is discussed by 1-D BR-BCS theory.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INTRODUCTION</head><p>For over 110 years since Onnes's 1911 discovery of superconductivity, scientists have searched for room-temperature superconductors, materials that exhibit zero resistance to electrical current.</p><p>Superconductors have been discovered in various metal elements and compound crystals. In 1986, a cuprate superconductor with a superconducting critical temperature, Tc, over 40 K was found. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> In 2015, a hydride of H2S was shown to demonstrate Tc  203 K at a pressure of 155 GPa. <ref type="bibr" target="#b2">3</ref> In 2023, a Tc of 294 K at 10 kbar was measured on a nitrogen-doped lutetium hydride; 4 moreover, a superconductor [LK-99 ® ] of over Tc=300K was successfully synthesized (language: Korean). <ref type="bibr" target="#b4">5</ref> BCS(Bardeen-Cooper-Schrieffer) theory, which provides a microscopic explanation of superconductivity, was introduced in 1957. <ref type="bibr" target="#b5">6</ref> The Brinkman-Rice(BR)-BCS theory accounting for Tc of over room temperature was discovered in 2021. <ref type="bibr" target="#b6">7</ref> Moreover, in 2021, a theory was published that predicts Tc as approximately 10% of Fermi temperature. <ref type="bibr" target="#b7">8</ref> In addition, whether the pairing symmetry of the superconducting energy gap in cuprate superconductors is d-wave or s-wave has been debated for over 30 years; recent studies suggest that it may lean towards s-wave symmetry. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> To discover a room-temperature superconductor, observing the emergence of a metallic phase through an insulator-to-metal transition (IMT) at temperatures higher than room temperature is crucial. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> Moreover, to explain this phenomenon, the discovery of a new material that exhibits room-temperature superconductivity at atmospheric pressure, along with a comprehensive mechanism, is required.</p><p>In this paper, we present a synthesis method for a Cu-doped lead apatite (LA) superconductor with a Tc exceeding room temperature. We conduct levitation experiments and analyze the zero resistance properties of the material. Moreover, we unveil the mechanism by which the metal phase is formed through an insulator-to-metal transition (IMT) without undergoing a structural phase transition in LA. Furthermore, we provide a phase diagram for the superconductor. Finally, we briefly discuss the mechanism of room-temperature superconductivity based on the BR-BCS theory <ref type="bibr" target="#b6">7</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. RESULTS and DISCUSSIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. LK-99 ® : Synthesis</head><p>For sample manufacture, we synthesized Pb10-xCux(PO4)6O (0.9&lt;x&lt;1.1), known as LK-99®, using the solid-state method. The raw materials used in the synthesis were PbO (Junsei, GR), PbSO4 (Kanto, GR), Cu (Daejung, EP), and P (Junsei, EP). <ref type="bibr" target="#b4">5</ref> The solid-state method is explained in Fig. <ref type="figure" target="#fig_0">1</ref>.</p><p>The process of sample synthesis comprises three steps.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. LK-99 ® : Analysis of crystal structure</head><p>The manufactured powder's crystallinity and structure were analyzed by X-ray diffraction (XRD) measurements and data fitting.  The XRD analysis reveals that sample 1 has a hexagonal structure of (P63/m, 176) with cell lattice parameters of a=9.843 Å and c=7.428 Å [Figs. <ref type="figure" target="#fig_4">3(a</ref>) and 3(b)], while the LA's parameters are a=9.865 Å and c=7.431 Å. The volume of sample 1 shrinks by 0.48%, resulting from substituting Pb(M1) with Cu(M2). The phenomenon of shrinkage has already been studied in previous research on apatite materials. <ref type="bibr" target="#b15">16</ref> Although it is classified as an LA structure, Pb10(PO4)6O, is an insulator; conversely, Cu-doped LA, Pb10-xCux(PO4)6O, is a superconductor at room temperature and a metal above Tc. Moreover, it is structurally condensed by substituting M1 2+ (corresponding to Pb1 2+ , at Pb(1) position in LA atomic classification in crystallography information file, cif.) at the blackcolored position in Figs. <ref type="figure" target="#fig_4">3(a</ref>) and 3(b) by Cu 2+ ion (M2 2+ , one reddish-brown-colored among four Pb(1) positions in Fig. <ref type="figure" target="#fig_4">3(a)</ref>). Furthermore, owing to a structural distortion at one-dimensional line of Cu 2+ -O1/2-Cu 2+ along the c-axis at Tc, as mentioned in Fig. <ref type="figure" target="#fig_4">3</ref>(c), it becomes a superconductor. <ref type="bibr" target="#b6">7</ref> Further details will be explained in a following section. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. LK-99 ® : Meissner effect</head><p>Figures 4(a) and 4(b) illustrate the temperature-dependent diamagnetic susceptibilities of zero-field cool (ZFC) and field cool (FC) in sample 2 (obtained in a quartz vessel with low doping of lead apatite) and sample 3 (manufactured using higher-purity raw materials). The measurements were conducted in a temperature range of -73.15℃(200K) to 126.85℃(400K) and involved the observation of the Meissner effect, expelling the magnetic field. Moreover, we compare the susceptibilities in Figs. <ref type="figure" target="#fig_6">4(a</ref>) and (b) with that measured at a graphite exhibiting the diamagnetic behavior <ref type="bibr" target="#b17">18</ref> . The ratios of the susceptibilities at a room temperature of 20 o C are given as R1=(-1.20  10 -1 emu/g, Fig. <ref type="figure" target="#fig_6">4a</ref>)/(-22  10 -6 emu/g)  5450 and R2=(-5.0  10 -4 emu/g, Fig. <ref type="figure" target="#fig_6">4b</ref>)/(-22  10 -6 emu/g)  22.7. The high ratios cannot be explained except for the fact that the samples have a superconducting phase.   FIG. 5. Temperature dependence of resistivity. Inset shows d/dT=d(1/resistivity)/dT, regarded as the density of states (DOS). The temperature dependence of d/dT is interpreted as that of DOS. Resistivity figure was re-drawn with Fig. 6(a) in Ref. 5. E. LK-99 ® : I-V characteristics Figure 6(a) shows the temperature dependence of an I-V curve measured in sample 1. Above Tc, the linear characteristic of a metal is displayed. As the temperature increases, Tc, current decreases.</p><p>Moreover, the magnitude of the jump of Tc, current decreases with increasing current. In particular, at 105 o C, the jump is very small. This indicates that the magnitude of the jump does not monotonically decrease. This is known as exponential decrease in a gap-nogap transition material. <ref type="bibr" target="#b18">19</ref> We conducted a detailed analysis of the current-voltage (I-V) curve below Tc, current, measured at 25°C, focusing on the logarithmic y-axis. The curve can be divided into several regions: I, J, K, L, M, and N. In regions I, J, and K, we observe an increase in resistance, indicating the breaking of the superconducting energy gap due to Joule heating when the current exceeds a certain threshold. The curve is obvious, as indicated by red-arrow O in an I-V curve measured at near Tc, current should increase. <ref type="bibr" target="#b9">10</ref> After the jump, region N is a metal with the linear Ohmic characteristic. The transition between the superconducting gap and the nogap metal is the gapnogap transition [Fig. <ref type="figure" target="#fig_9">6(a)</ref>]. The transition is almost identical to the characteristic of the IMT. <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> Moreover, the fluctuation of regions I, J, and K, [Fig. <ref type="figure" target="#fig_9">6(c)]</ref>, is owing to temperature inhomogeneity caused by Joule heat generated by both current and heat applied by the temperature controller.  FIG. 7. Phase diagram of Cu 2+ -doped LA Pb10-xCux(PO4)6O. IMT is the insulator-to-metal transition and MIT is the metal-to-insulator transition. IMT and MIT follow the same concepts, indicating a gap-nogap transition. IST is an insulator-superconductor transition (gap-gap transition), indicating a change of electric characteristics in the same gap structure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. POSSIBLE MECHANISM OF SUPERCONDUCTIVITY</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. LK-99 ® : One-dimensional metal</head><p>The mother material of the LA structure, as shown in Fig. <ref type="figure" target="#fig_4">3</ref>, is disassembled by the following chemical formula, <ref type="figure" target="#fig_1">----(1)</ref> where F names the frame part, T denotes a part of the tunnel along the c-axis, and O1/2 is composed of O1/4+O1/4. This highly stable structure consists of two layers of frames with an interior region. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> Formula (1) is characterized by a one-dimensional bonding of Pb2 and O1/2 in the T part. When parts of the Pb1 (meaning the Pb(1) site in LA cif.) and the Pb2 (meaning the Pb (2)  position in LA cif.) sites are randomly substituted by Cu 2+ (3d 9 ) (one hole) elements, chemical formula of the Cu 2+ -doped LA structure is expressed as follows: Pb10-xCux(PO4)6O = [Pb4-aCua(PO4)8/3] F + [Pb6-bCub(PO4)10/3O] T , where a+b=x = [Pb4-aCua(PO4)8/3] F + [Pb3-cCuc(PO4)5/3O1/2 + Pb3-cCuc(PO4)5/3O1/2] T , where c=b/2, a and b 0</p><formula xml:id="formula_0">Pb10(PO4)6O  [Pb14] F [Pb26] T (PO4)6O = [Pb14(PO4)8/3] F + [Pb26(PO4)10/3O] T , = [Pb14(PO4)8/3] F + [Pb23(PO4)5/3O1/2 + Pb23(PO4)5/3O1/2] T , = [Pb14(PO4)(2+2/3)] F + [Pb23(PO4)(1+2/3)O1/2 + Pb23(PO4)(1+2/3)O1/2] T ,</formula><formula xml:id="formula_1">= [Pb4-aCua(PO4)(2+2/3)] F + [Pb3-cCuc(PO4)(1+2/3)O1/2 + Pb3-cCuc(PO4)(1+2/3)O1/2] T . ----(2)</formula><p>Hole doping quantities are determined as the outmost orbitals of -3a (=2(4-a)+(-1)a+(-3)(2+2/3)) in the frame part and -3c (=2(3-c)+(-1)c+(-3)(1+2/3)+(-2)(1/2)) in the T part. When IMT occurs by Cu 2+ doping, IMT is generated at both the F and the T parts. Generally, because an insulator has a larger volume than that of a metal, the IMT is accompanied by a volume contraction without the structural phase transition. The substitutions at the Pb1 sites, as indicated by the reddish-brown color in Fig. <ref type="figure" target="#fig_4">3</ref>(a), induce a volume contraction(1 st ) in the frame through the IMT(1 st ). <ref type="bibr" target="#b15">16</ref> Moreover, substitutions at the Pb2 sites lead to an IMT(2 nd ) in the T part. The evidence of the volume contraction is shown in Fig. <ref type="figure" target="#fig_11">2(b</ref>). If the doping quantities of a and c in formula (2) differ, the extent of the IMT and the magnitude of volume contraction may vary. If a&gt;c, below a critical doping level, the volume contraction(1 st ) in the frame may be larger than the volume contraction(2 nd ) in the T part.</p><p>The outmost orbital of Pb is 6s 2 6p 2 . One electron in the 6p 2 orbital of Pb2 is coupled to the O of PbO, whereas the other contributes to the bonding of tetrahedral phosphate, PO4, [formulas (1) and ( <ref type="formula">2</ref>)]. Consequently, the inside structure is stabilized. Lone-pair electrons of 6s 2 in Pb play an important role on the phase transition; the 6s 2 electrons are spherically symmetric and displaced structure relative to the position of Pb atoms and contributing to polar interaction,. <ref type="bibr" target="#b23">24</ref> Pbs and Cu are bonded through tetraphosphates. The metal phase comes from Cu 2+ (3d 9 ) with one hole substituted, as shown in Fig. <ref type="figure" target="#fig_4">3</ref>. A metal line such as Cu 2+ (3d 9 )-O1/2-Cu 2+ (3d 9 ) along the c-axis is formed. This is referred to as the hole-driven insulator-to-metal transition (IMT). <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b24">25</ref> Hence, Pb23-yCuy(O1/2 = O1/4 + O1/4) structures are generated and the oxygen is located at slightly higher or slightly lower position than the Pb23-yCuy structure, [blue balls in red dot box in Fig. <ref type="figure" target="#fig_4">3(b)</ref>]. The nearest two oxygens (blue balls) at the O1/4 position in O1/2 of 1-D channel, as shown in the reddot box of unit cell of Fig. <ref type="figure" target="#fig_4">3b</ref>, are generally repulsive. In metal case, when one oxygen of the O1/4 vibrates (the distance between Pb23-yCuy and O1/4 expands and contracts), the other anti-vibrates (the distance contracts and expands, respectively). This indicates that oxygen breathes; the average distance between Pb23-yCuy and O1/4 is same. One unit cell has two Pb23-yCuyO1/2 structures [Fig. <ref type="figure" target="#fig_4">3(b)</ref>]. In the metal state, the hole carrier of Cu 2+ in Pb23-yCuy(3d 9 ) flows through the conduction band formed by Cu 2+ -Cu 2+ , and oxygens in the Cu 2+ (in lower Pb23-yCuyO1/2) -&gt; O1/2 -&gt; Pb23-yCuy (in higher Pb23-yCuyO1/2) structure breath along c-axis, [Fig. <ref type="figure" target="#fig_4">3(c)</ref>]. In the superconducting state, carriers of Cu 2++ (3d 9 )s at nearest neighbor sites form a bi-polaron in a superconducting bound state (VSuper potential = VCDW potential + Uc, critical on-site Coulomb energy), where charge-density-wave state (CDW) has the structure of long and short distances in (Pb23-yCuy-O1/4 or Pb23-yCuy-O1/2) between nearest neighbor Cu sites formed by breathing mode distortion (stopping breath) between oxygens in the Pb23-yCuyO1/2 structures). Then, the distance between Pb23-yCuy and O1/4 differs, which is the structural distortion and the on-site Coulomb interaction, U, between carriers in metal is changed to Uc. The formation of the superconducting bound state is facilitated by the enhanced on-site Coulomb repulsive interaction, resulting from both the structural contraction (1st) at the frame of the LA induced by Cu 2+ doping and the structural distortion accompanied by volume contraction (2nd) owing to the temperature difference (∆T = TIMT -Tc) at Tc. These factors contribute to superconducting condensation, as depicted in the phase diagram shown in Fig. <ref type="figure">7</ref>. <ref type="bibr" target="#b6">7</ref> The bi-polaron is able to tunnel through a barrier between two Pb23-yCuyO1/2 structures in a onedimensional chain along the c-axis, where the Pb2 in the lower Pb23-yCuyO1/2 is connected to O1/2 and to Cu in the higher Pb23-yCuyO1/2 (as shown in Figure <ref type="figure" target="#fig_4">3(c)</ref>). Additionally, the first term of the frame part in formula (2) can exhibit superconductivity owing to the IMT; however, because it is not one-dimensional, its Tc will be much smaller compared to that of the T part in Formula (2).</p><p>The underlying reasons for this behavior will be further explained in the subsequent section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. LK-99 ® : Strong correlation</head><p>As for a room-temperature-Tc mechanism, the MLA structure inducing the IMT is characterized by volume contractions(1 st and 2 nd ) by substituting Pb with Cu. A known theory to explain roomtemperature superconductivity, including structural volume contraction, is BR-BCS, suggesting that divergence of the DOS, caused by on-site Coulomb repulsive interaction U increased by volume contraction, increases superconducting Tc over room temperature in the BR-BCS Tc. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b25">26</ref> When dimensionality is considered, 1-dimension(D) DOS(=N(0)) is proportional to (m * /E * ) 0.5 with the divergence to , where an effective mass of carrier, m*m/[1-(U/Uc) 2 ]=m/[1- 4  2 ], and kinetic energy, E * Ek(1-U/Uc) 2 =Ek(1- 2 ) 2 , U/Uc= 2  with percolation to increasing  as a function of doping x and correlation strength   1(1) generating the maximum number of excited carriers, <ref type="bibr" target="#b16">17</ref> band-filling factor 0&lt;1 are defined. <ref type="bibr" target="#b6">7</ref> The effective 2D-DOS * =2D-DOS(non-interaction_BCS)/[1- 4 electrons bound by the attractive screened long-range electron-phonon (atom) interaction. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b27">28</ref> Moreover, the general mechanism of superconductivity in the Fermi system with strong repulsive interaction explained in the 2D system that superconducting Tc reaches about 10% of Fermi temperature (if TFermi  10,000 K is assumed), 8 although this mechanism is not involved in volume contraction. The theory of hole superconductivity suggested much higher Tc than that proposed in BCS theory. <ref type="bibr" target="#b24">25</ref> In addition, one-dimensional superconductivity and Tc enhancement were already disclosed. <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref>   * =N(0) * V is an effective electron-phonon coupling constant. V0.2 eV is the electron-phonon coupling potential given in the Cooper paper <ref type="bibr" target="#b27">28</ref> . Non-interaction=N(0)V is constant when the Coulomb interaction does not exist. Generally, a value of Non-interaction is very small. <ref type="bibr" target="#b6">7</ref> Because it is not determined, several values are selected for comparing the values. (c) The BR-BCS Tcs are displayed as a dimensional function in cases of several Non-interactions. One-D Tc is much bigger than those of 2 D and 3D. Here, a Debye temperature of 640K calculated in CuO is used, <ref type="bibr" target="#b26">27</ref> because the 1D metal line is formed by Cu 2+ -&gt; O1/2 -&gt; Cu 2+ .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. CONCLUSION</head><p>We have successfully developed a method for synthesizing a superconducting material with an MLA structure, exhibiting both one-dimensional characteristics and a Tc above room temperature at atmospheric pressure. The presence of superconductivity was confirmed through observations of the levitation phenomenon and analysis of zero resistivity. The unique features of the MLA structure include volume contraction (1 st ) resulting from substituting Pb with Cu. On-site Coulomb repulsive interaction increased by volume contractions(1 st and 2 nd ) may cause the superconducting phenomenon, as mentioned in the BR-BCS theory explaining the room-temperature Tc.</p><p>Furthermore, the room-temperature superconductor opens up possibilities for high-performance superconducting wires and magnets operating at room temperature, with potential applications in energy transmission, transportation, and scientific research.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Step 1 :</head><label>1</label><figDesc>photos [Figs. 1(e-i)].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG. 1 .</head><label>1</label><figDesc>FIG.1. (a) Layout of sealed vacuum crystal tube with mixed power. (b), (c), (d) Heat treatment conditions of Lanarkite, Cu3P, Pb10-xCux(PO4)O (0.9&lt;x&lt;1.1), respectively. (e) All ingredients premixed powder before reaction, appearing white to light gray. (f) Picture of the sealed sample after the reaction, (g) Sample removal procedure from the furnace, (h) A shape of the sample of the sealed quartz tube, (i) A sample shape in each process.</figDesc><graphic coords="3,147.60,329.84,316.76,233.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 (</head><label>2</label><figDesc>a) shows a comparison of XRD data measured with LK-99 ® sample 1 (over-doped material) and COD (Crystallography Open Database) data of the pure leadapatite supported by QualX software. The XRD analysis of the sample showed multiple black peaks [Fig. 2(a)], indicating that it is a polycrystalline material. The XRD pattern of sample 1 closely matches that of modified-lead apatite (MLA) with slight peak shifts. However, the peak indicated by symbol A in sample 1 is shifted to a larger angle, and a new peak, indicated by symbol B, appears, suggesting a change in the lattice structure of sample 1, [Fig. 2(b)]. The shifts indicate a decrease of lattice constant, which is interpreted as evidence of volume contraction. Comparing the XRD pattern of sample 1 with MLA in the VESTA program confirms that sample 1 exhibitsan MLA structure, [Fig.2(c)]. Specifically, an LA structure is formed as A10(BO4)C, one of the frameworks of the hexagonal structure of element A.<ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIG. 2 .</head><label>2</label><figDesc>FIG. 2. (a) Comparison of XRD pattern measured with sample 1 and lead apatite data in Crystallography Open Database. (b) Magnified pattern shows a peak shift and a new peak. (c) The XRD pattern is compared with the modified apatite pattern obtained from BESTA program. It is closely fitted.</figDesc><graphic coords="5,72.00,94.16,462.20,308.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIG. 3 .</head><label>3</label><figDesc>FIG. 3. (a) Top view of Cu-doped LA, Pb10-xCux(PO4)6O, to c-axis. Inside, hexagonal six (M1+M2)s corresponding to (Pb2+Cu)s (2 indicates the number of classifications of Pb(2) in cif.) are folded by two layers composed of Pb3-yCuyO1/2 expressed as a triangle, [Fig. 3(b)]. (b) Side view of the Cu-doped LA. 1 unit cell is also displayed. (c) In the superconducting state, layout to explain a one-dimensional superconducting chain along the c-axis. The CDW is the charge-density-wave and VCDW&lt;0 is the CDWpotential. VSup&lt;0 is a potential containing the superconducting carrier.<ref type="bibr" target="#b6">7</ref> Uc &gt; 0 is the critical on-site repulsive Coulomb energy in the BR picture.<ref type="bibr" target="#b16">17</ref> This was re-drawn with Fig. 4 in Ref. 5.</figDesc><graphic coords="6,72.00,143.56,468.00,354.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 (</head><label>4</label><figDesc>Fig. 4(c) shows the levitation phenomenon measured at room temperature and atmospheric pressure for sample 4 (heat-treated with sample 2), indicating the presence of a superconducting phase at room temperature and atmospheric pressure, although the levitation is not perfect. Video of the levitation is attached as Fig. 4(d). The susceptibilities were measured for samples 2 and 3 using MPMS-Evercool at Kaist Analysis center for Research Advancement.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FIG. 4 .</head><label>4</label><figDesc>FIG. 4. (a) Temperature dependence of diamagnetic susceptibilities measured in samples 2 (a) and 3 (b).</figDesc><graphic coords="8,150.40,94.16,311.20,496.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>11 FIG. 5 .</head><label>115</label><figDesc>Figure5shows the temperature dependence of the resistivity of sample 2 (4.8  10.1  1.2mm) measured at 30 mA by the four-probe method. A jump in resistivity appears near Tc=104.8℃ (377.95K). Above Tc, the linear characteristic of metal originating from the IMT is displayed.Below Tc, three different behaviors are exhibited. In the first region below red-arrow C (near 60 o C), equivalent to region F in the inset of Fig.5, the resistivity with noise signals can be regarded as zero. In the second region, indicated by the red arrows C and D (near 90 o C) and corresponding to region G in the inset of Fig.5, the resistivity of the sample monotonically increases with temperature. This indicates the occurrence of resistance, suggesting a breakdown of the superconducting energy gap as the temperature increases. At the third region between red-arrow D and Tc, corresponding to region H in the inset of Fig.5, the resistivity does not transparently change with increasing temperature; however, d/dT fluctuates at the final stage of the breakdown of the energy gap. In the first region, where signals resembling noise are observed, the zeroresistivity region is approximately 88% (333K/378K) of Tc under Kelvin units. This is approximately three times larger than the typical value of about 30% observed in low Tc superconductors. The presence of noise in the zero-resistivity region is often attributed to phonon vibrations at higher temperatures, as indicated by region F in inset 5; the signals like noise were directly measured<ref type="bibr" target="#b4">5</ref> . The presence of the zero-resistivity region is evidence of an s-wave superconductor because a node-type superconductor with no-gap metal at node, such as dx2-y2 pairing symmetry has no zero-resistivity region due to increase of metal resistivity with increasing temperature.<ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><figDesc>45 o C. More high current of region L accelerates the breaking, which can be interpreted as an avalanche region. At region M of much higher current, voltage does not almost change. This indicates that the density of states (DOS)=dI/dV is constant near Tc, current, suggesting that the pairing symmetry is s-wave, [Figs. 6(b) and 6(c)]. If the superconducting gap has a node, dI/dV</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 6 (</head><label>6</label><figDesc>d) shows the magnetic field dependence of sample 1. Above the jump of Tc, the I-V curve exhibits Ohmic characteristics, indicating a metallic behavior. As the magnetic field increases, Tc, current, decreases, exhibiting the typical characteristic of a superconductor. Fig. 6(e) exhibits a maximum Tc of 127 o C in heat-treated sample 1. Because the jump remains, we deduce that Tc exceeds 127 o C. Above Tc, the linear characteristic of a metal is displayed. A summary of the results is shown in the phase diagram [Fig. 7].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>FIG. 6 .FIG. 7 .</head><label>67</label><figDesc>FIG. 6. (a) The temperature dependence of an I-V y-axis log curve, obtained through a method measuring voltage with applying current. (b) Differential curve of data at 25 o C. (c) DOS = d/dI, the derivative curve of conductance. dI=1mA is constant. Regions I, J, K and M present the characteristic of s-wave symmetry. (d) Magnetic field dependence of I-V curves. (e) 127 o C is a temperature below a Tc owing to temperature limitation of the measurement system.</figDesc><graphic coords="12,72.00,94.16,463.60,358.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head> 2 ]</head><label>2</label><figDesc>with the divergence to  is given because of 2D-DOS *  m * . 3D-DOS *  (m * )1.5  (E * ) 0.5 has thedivergence to . 1D-DOS * =1D-DOS(non-interaction_BCS)/[(1- 4  2 ) 0.5 (1- 2 )] where   1(1).1D-DOS * is larger than 2D-DOS * and 3D-DOS * in the same condition [Fig. 8(a)]. When 1D-DOS * =N * (0) is applied to electron-phonon coupling  * N * (0)V=Anon-interaction in the BCS-Tc formula, where A=1/[(1- 4  2 ) 0.5 (1- 2 )] and 1(1) is given, V is the attractive electron-phonon potential and is known as about 0.2 eV 28 , Tc will increase above room temperature when  approaches one, on the basis of the BR-BCS Tc 7 , [Figs. 8(b) and 8(c)]. In calculations of Tc, the Debye temperature is used as TDebye=840 K 27 determined in CuO regarded as 1D structure [Fig. 3(c)]. Figs. 8(b) and 8(c) show that 1D Tcs are higher than those at 2D and 3D although values of the band-filling factor are smaller, which indicates the coupling is stronger. The BR-BCS theory uses a bi-polaron strongly coupled by the attractive charge-density-wave potential (short-range electron-phonon interaction), instead of the Cooper pair defined as coupling of excited two</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>FIG. 8 .</head><label>8</label><figDesc>FIG. 8. (a)A ratio of an effective density of states (DOS)=N(0)* and N(0), in cases of the presence (or absence) of on-site Coulomb repulsive interaction, respectively is shown. The ratio is expressed as a function of band-filling factor of . One dimensional(D) DOS is much larger than those of 2D and 3D. The formula was given in the main text. (b)  * =N(0) * V is an effective electron-phonon coupling constant. V0.2 eV is the electron-phonon coupling potential given in the Cooper paper<ref type="bibr" target="#b27">28</ref> . Non-interaction=N(0)V is constant when the Coulomb interaction does not exist. Generally, a value of Non-interaction is very small.<ref type="bibr" target="#b6">7</ref> Because it is not determined, several values are selected for comparing the values. (c) The BR-BCS Tcs are displayed as a dimensional function in cases of several Non-interactions. One-D Tc is much bigger</figDesc><graphic coords="17,72.00,94.16,468.00,222.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="10,125.80,94.16,360.36,288.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="13,149.63,94.16,312.74,194.45" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>We acknowledge late <rs type="person">Prof. Chair Tong</rs>-seek for initiating research of a 1-dimensional superconductor of over room temperature at atmospheric pressure. In particular, his enthusiasm on superconductor study impressed many researchers. Moreover, we thank <rs type="person">Mr. Ki Se-woong</rs>, <rs type="person">Mr. Lee Byungkyu</rs> (<rs type="affiliation">CEO of ProCell Therapeutics, Inc.</rs>), <rs type="person">Mr. Yoon Sang-</rs>ok (<rs type="affiliation">Chairman of FINE Inc.</rs>) so much for financial supporting, and <rs type="person">Bang Jaekyu</rs> and <rs type="person">Kim Gyeonkcheol</rs> so much for wholeheartedly sharing the burdens and difficulties in this investigation. This research was primarily supported by research-and-development funds from <rs type="funder">Quantum Energy Research Centre Inc</rs>.. SQUID measurements were supported by the <rs type="funder">National Research Foundation of Korea</rs> grant funded by the <rs type="funder">Korea government(MSIT)</rs> (No. <rs type="grantNumber">2019R111A1A01059675</rs>) and <rs type="funder">Korea University</rs> Grant (Projects of an author, <rs type="person">Young-Wan</rs>, <rs type="person">Kwon</rs> taking charge of SQUID measurements). We thank <rs type="person">Prof. Mumtaz Qazilbash</rs> for valuable comments. An author, <rs type="person">Hyun-Tak Kim</rs> (<rs type="person">H. T. Kim</rs>),'s knowledge on mechanisms of both superconductivity and the metal-insulator (gap-nogap) transition highly contributed to writing the mechanism part. The knowledge was acquired over 20 years by processes of performing national projects including project [Grant <rs type="grantNumber">2017-0-00830</rs>] funded by <rs type="funder">Institute for Information and Communications Technology Promotion (IITP) in MSIT of Korea government in ETRI</rs>. H. T. Kim left ETRI on Nov. of 2022.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_yJghEs6">
+					<idno type="grant-number">2019R111A1A01059675</idno>
+				</org>
+				<org type="funding" xml:id="_gnBQfra">
+					<idno type="grant-number">2017-0-00830</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AVAILABILITY</head><p>The data that support this study are available from the corresponding authors upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR DECLARATIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest</head><p>The authors have no conflicts to disclose. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sukbae</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Possible highT c superconductivity in the Ba-La-Cu-O system</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Bednorz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Müller</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01303701</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Phys. B</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page">189</biblScope>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. G. Bednorz and K. A. Müller, Possible highT c superconductivity in the Ba-La-Cu-O system, Z. Phys. B. 64, 189 (1986).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at atmospheric pressure</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Ashburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Torng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Hor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.58.908</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">908</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. Chu, Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at atmospheric pressure, Phys. Rev. Lett. 58, 908 (1987).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Drozdov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Eremets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Troyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ksenofontov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Shylin</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1506.08190</idno>
+		<title level="m">Conventional superconductivity at 203 K at high pressures</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">A.P. Drozdov, M. I. Eremets, I. A. Troyan, V. Ksenofontov, S. I. Shylin, Conventional superconductivity at 203 K at high pressures, arXiv:1506.08190.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Evidence of near-atmospheric superconductivity in a N-doped lutetium hydride</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dasenbrock-Gammon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Snider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mcbride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Durkee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Khalvashi-Sutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Munasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Dissanayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Lawler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salamat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">615</biblScope>
+			<biblScope unit="page" from="244" to="250" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N. Dasenbrock-Gammon, E. Snider, R. McBride, H. Pasan, D. Durkee, N. Khalvashi-Sutter, S. Munasinghe, S. E. Dissanayake, K. V. Lawler, A. Salamat, and R. P. Dias, Evidence of near-atmospheric superconductivity in a N-doped lutetium hydride, Nature 615, 244-250 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Consideration for the development of roomtemperature atmospheric-pressure superconductor (LK-99)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Auh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Korean Cryst. Growth Cryst. Technol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">61</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Language, Korean</note>
+	<note type="raw_reference">S. B. Lee, J. H. Kim, S, Y. Im, S. M. An, Y, W. Kwon, and K. H. Auh, Consideration for the development of room- temperature atmospheric-pressure superconductor (LK-99), J. Korean Cryst. Growth Cryst. Technol., 33(2), 61 (2023). (Language, Korean)</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Microscopic Theory of Superconductivity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bardeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Schrieffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRev.106.162</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">162</biblScope>
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Microscopic Theory of Superconductivity, Phys. Rev. 106, 162 (1957).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Room-temperature-superconducting Tc driven by electron correlation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">10329</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. T. Kim, Room-temperature-superconducting Tc driven by electron correlation, Sci. Rep. 11, 10329 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">New mechanism and exact theory of superconductivity from strong repulsive interaction</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Crépel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fu</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/sciadv.abh2233</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">2233</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Crépel and L. Fu, New mechanism and exact theory of superconductivity from strong repulsive interaction, Sci. Adv. 7, eabh2233 (2021).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Fallacies on pairing symmetry and intrinsic electronic Raman spectrum in high-Tc cuprate superconductors</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1142/S0217984920400011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mod. Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">2040001</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. T. Kim, Fallacies on pairing symmetry and intrinsic electronic Raman spectrum in high-Tc cuprate superconductors, Mod. Phys. Lett. B 34, 2040001 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1710.07754</idno>
+		<title level="m">High-Tc mechanism through analysis of diverging effective mass for YaBa2Cu3O6+x and pairing symmetry in cuprate superconductors</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">H. T. Kim, High-Tc mechanism through analysis of diverging effective mass for YaBa2Cu3O6+x and pairing symmetry in cuprate superconductors, arXiv:1710.07754.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Why we still don`t know the symmetry of the order parameter in high temperature superconductors</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Klemm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conference: International workshop on high-temperature superconductivity: ten years after its discovery</title>
+		<meeting><address><addrLine>Jaipur (India)</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996-12">Dec 1996</date>
+			<biblScope unit="page" from="16" to="21" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. A. Klemm, Why we still don`t know the symmetry of the order parameter in high temperature superconductors, Conference: International workshop on high-temperature superconductivity: ten years after its discovery, Jaipur (India), 16-21 Dec 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Perspective on the phase diagram of cuprate hightemperature superconductors</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rybicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jurkutat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reichardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kapusta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">nature comm</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">11413</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Rybicki, M. Jurkutat, S. Reichardt, C. Kapusta, and J. Haase, Perspective on the phase diagram of cuprate high- temperature superconductors, nature comm. 7, 11413 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Hidden Structural and Superconducting Phase Induced in Antiperovskite Arsenide SrPd3As</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Iyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fujihisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gotoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eisaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kawashima</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.inorgchem.2c00960</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">12149</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Iyo, H. Fujihisa, Y. Gotoh, S. Ishida, H. Ninomiya, Y. Yoshida, H. Eisaki, and K. Kawashima, Hidden Structural and Superconducting Phase Induced in Antiperovskite Arsenide SrPd3As, Inorg. Chem. 61, 12149 (2022).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Crystal chemistry of lead oxide phosphates: crystal structures of Pb4O(PO4)2, Pb8O5(PO4)2 and Pb10(PO4)6O</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Krivovichev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Burns</surname></persName>
+		</author>
+		<idno type="DOI">10.1524/zkri.218.5.357.20732/html</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift für Kristallographie -Crystalline Materials</title>
+		<imprint>
+			<biblScope unit="volume">218</biblScope>
+			<biblScope unit="page">357</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. V. Krivovichev and P. C. Burns, Crystal chemistry of lead oxide phosphates: crystal structures of Pb4O(PO4)2, Pb8O5(PO4)2 and Pb10(PO4)6O, Zeitschrift für Kristallographie -Crystalline Materials 218, 357 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Identification and Synthesis of Barium-Substituted Lead Hydroxyapatite Structure (Pb10-x Bax (PO4)6(OH)2) by Ceramic Method</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Abdul Jabar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rafidain Journal of Science</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">121</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. A. Abdul Jabar, The Identification and Synthesis of Barium-Substituted Lead Hydroxyapatite Structure (Pb10-x Bax (PO4)6(OH)2) by Ceramic Method, Rafidain Journal of Science 32, 121 (2023).</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A Study on Color in Apatite with the Addition of Transition Elements</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Orr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Kor. Ceramic. Soc</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">43</biblScope>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>Language, Korean</note>
+	<note type="raw_reference">S. H. Hwang, K. K. Orr, C. K. Lee, C. M. Lee, and D.W. Kim, A Study on Color in Apatite with the Addition of Transition Elements, J. Kor. Ceramic. Soc. 23 (1986) 43. (Language, Korean).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Application of Gutzwiller&apos;s Variational Method to the Metal-Insulator Transition</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Brinkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Rice</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.2.4302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">4302</biblScope>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. F. Brinkman and T. M. Rice, Application of Gutzwiller&apos;s Variational Method to the Metal-Insulator Transition, Phys. Rev. B 2, 4302 (1970).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Large Anisotropy of the Electrical Conductivity of Graphite</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ganguli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">nature</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page">174</biblScope>
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. S. Krishnan and N. Ganguli, Large Anisotropy of the Electrical Conductivity of Graphite, nature 133, 174 (1934).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Electrically driven metal-insulator switching in δ-KxV2O5 nanowires</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Stabile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Patridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sambandamurthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">163502</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. L. Wu, A. A. Stabile, C. J. Patridge, S. Banerjee, and G. Sambandamurthy, Electrically driven metal-insulator switching in δ-KxV2O5 nanowires, Appl. Phys. Lett. 101, 163502 (2012).</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Mechanism and observation of Mott transition in VO2-based two-and three-terminal devices</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Chae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Youn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Maeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lim</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1367-2630/6/1/052/meta</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New J. Phys</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. T. Kim, B. G. Chae, D. H. Youn, S. L. Maeng, G. Kim, K. Y. Kang, and Y. S. Lim, Mechanism and observation of Mott transition in VO2-based two-and three-terminal devices, New J. Phys. 6, 52 (2004).</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Oxide Electronics Utilizing Ultrafast Metal-Insulator Transitions</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramanathan</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-matsci-062910-100347</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Rev. Mater. Research</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">337</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. Yang, C. Ko, and S. Ramanathan, Oxide Electronics Utilizing Ultrafast Metal-Insulator Transitions, Annual Rev. Mater. Research 41, 337 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The influence of stereochemically active lone-pair electrons on crystal symmetry and twist angles in lead apatite-2H type structures</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Baikie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schreyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Herrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ferraris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Topolska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Piltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mineralogical Magazine</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">325</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Baikie, M. Schreyer, F. Wei, J. S. Herrin, C. Ferraris, F. Brink, J. Topolska, R. O. Piltz, J. Price, and T. J. White, The influence of stereochemically active lone-pair electrons on crystal symmetry and twist angles in lead apatite- 2H type structures, Mineralogical Magazine 78, 325 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Lead apatites: structural variations among Pb5(BO4)3Cl with B = P (pyromorphite), As (mimetite) and V (vanadinite)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Antao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dhaliwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Synchrotron Rad</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">214</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. M. Antao and I. Dhaliwal, Lead apatites: structural variations among Pb5(BO4)3Cl with B = P (pyromorphite), As (mimetite) and V (vanadinite), J. Synchrotron Rad. 25, 214 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Role of lone-pair electron localization in temperature-induced phase transitions in mimetite</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cametti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nagashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Churakov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structural science, Crystal engineering and Materials</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">618</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Cametti, M. Nagashima, , and S. V. Churakov, Role of lone-pair electron localization in temperature-induced phase transitions in mimetite, Structural science, Crystal engineering and Materials 78, 618 (2022).</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Hole superconductivity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hirsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics Letters A</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">451</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. E. Hirsch, Hole superconductivity, Physics Letters A134, 451 (1989).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Correcting the fatal flaw in BCS theory</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<idno>Abstract: S57.00011</idno>
+	</analytic>
+	<monogr>
+		<title level="m">APS March Meeting</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. T. Kim, Correcting the fatal flaw in BCS theory, 2022 APS March Meeting, Abstract: S57.00011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A study of the magnetic transitions in CuO: specific heat (1-330 K), magnetic susceptibility and phonon density of states</title>
+		<author>
+			<persName><surname>Junodi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eckerti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Trisconei</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Reichardt</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0953-8984/1/43/004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys.: Condens. Matter</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">8021</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A Junodi, D Eckerti, G Trisconei, J Muller. and W Reichardt, A study of the magnetic transitions in CuO: specific heat (1-330 K), magnetic susceptibility and phonon density of states, J. Phys.: Condens. Matter 1, 8021 (1989).</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bound Electron Pairs in a Degenerate Fermi Gas</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Cooper</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRev.104.1189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">1189</biblScope>
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. N. Cooper, Bound Electron Pairs in a Degenerate Fermi Gas, Phys. Rev. 104,1189 (1956).</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On the theory of superconductivity: the one-dimensional case</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Frohlich</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspa.1954.0116</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences</title>
+		<imprint>
+			<biblScope unit="volume">223</biblScope>
+			<biblScope unit="page">296</biblScope>
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Frohlich, On the theory of superconductivity: the one-dimensional case, Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences 223, 296 (1954).</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The Dependence of the Critical Temperature on the Dimensions of the Electron Motion</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Chair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Kor. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">401</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Language, Korean</note>
+	<note type="raw_reference">S. H. Park, M. Kim, T. S. Chair, and W. S. Kim, The Dependence of the Critical Temperature on the Dimensions of the Electron Motion, J. Kor. Chem. Soc. 40, 401 (1996). (Language, Korean)</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mourachkine</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:cond-mat/0606187</idno>
+		<title level="m">Room-Temperature Superconductivity</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">A. Mourachkine, Room-Temperature Superconductivity, arXiv:cond-mat/0606187.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Electride and superconductivity behaviors in Mn5Si3-type intermetallics</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kamiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Uwatoko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kageyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hosono</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">npj Quantum Mater</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Zhang, B. Wang, Z. Xiao, Y. Lu, T. Kamiya, Y. Uwatoko, H. Kageyama, and H. Hosono, Electride and superconductivity behaviors in Mn5Si3-type intermetallics, npj Quantum Mater. 2, (2017) 45..</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

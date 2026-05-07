@@ -1,0 +1,198 @@
+paper_id: mosier_boss_triple_tracks_2009
+doi: 10.1007/s00114-008-0449-x
+title: 'Triple tracks in CR-39 as the result of Pd–D Co-deposition: evidence of energetic
+  neutrons'
+authors:
+  - Pamela Mosier-Boss
+  - Stanislaw Szpak
+  - Frank Gordon
+  - Lawrence Forsley
+journal: Naturwissenschaften
+year: 2008
+pdf_sha256: 809584c740881c49f52a36c2a7e68b3cd7d930cc1905c413f75f9248522b1524
+
+atlas:
+  primary_unreliability_mode: atlas:ColdFusionLENR
+  secondary_unreliability_modes: []
+  claimed_domain: physics
+  detection_markers: []
+  default_severity: 0.7
+  retraction: null
+
+probe:
+  claim_type: cargo_cult_experiment
+  central_claim: >-
+    Triple tracks observed in CR-39 solid-state nuclear track detectors
+    exposed during palladium–deuterium co-deposition experiments are
+    the result of carbon breakup reactions induced by energetic neutrons
+    (≥9.6 MeV) produced by nuclear fusion reactions occurring inside the
+    palladium lattice.
+
+  preamble: |-
+    CR-39 is an allyl glycol carbonate plastic that has been widely used
+    as a solid-state nuclear track detector. These detectors have been
+    used extensively to detect and identify such fusion products as p,
+    D, T, 3He, and α particles resulting from inertial confinement
+    fusion (ICF) experiments. They have also been used to detect
+    neutrons. When a charged particle passes through the CR-39
+    detector, it leaves a trail of damage along its track inside the
+    plastic in the form of broken molecular chains and free radicals.
+    After treatment with an etching agent, tracks remain as holes or
+    pits. The size and shape of these pits provide information about
+    the mass, charge, energy, and direction of motion of the particles.
+    Therefore, CR-39 detectors can semiqualitatively be used to
+    distinguish the types and energies of individual particles.
+    Advantages of CR-39 for ICF experiments include its insensitivity
+    to electromagnetic noise; its resistance to mechanical damage; and
+    its relative insensitivity to electrons, X-rays, and γ-rays.
+    Consequently, CR-39 detectors can be placed close to the source
+    without being damaged. Furthermore CR-39, like photographic film,
+    is an example of a constantly integrating detector, which means
+    that events are permanently stamped on the surface of the detector.
+    As a result, CR-39 detectors can be used to detect events that
+    occur either sporadically or at low fluxes. Earlier, the use of
+    CR-39 to detect the emission of energetic particles resulting from
+    Pd-D electrolysis experiments has been demonstrated. In the
+    experiments conducted by Oriani and Fisher, the CR-39 detectors
+    were placed above and below the Pd foil cathode so as to not impede
+    uniform loading of the cathode with deuterium. Although this
+    experimental geometry is not optimum, they were still able to
+    detect charged particles significantly above background. Lipson et
+    al. prepared Au/Pd/ PdO heterostructures that were
+    electrochemically loaded with deuterium. After electrolysis, the
+    Au/Pd/PdO heterostructure was placed in contact with CR-39, and
+    tracks consistent for 2.5-3.0 MeV protons and 0.5-1.5 MeV tritons
+    were measured. More recently, experiments with CR-39 detectors have
+    been performed using the Pd-D codeposition process. After etching,
+    it has been observed that the density of tracks on the CR-39
+    detector is greatest where the cathode had been in contact with the
+    detector. This indicates that the source of the tracks is the Pd
+    that had been plated on the cathode. The distribution of the tracks
+    along the length of the cathode is inhomogeneous suggesting that
+    some Pd sites are more active than others. Results of these
+    experiments also showed that the production of charged particles
+    occurred in bursts. Control experiments indicated that the tracks
+    were not due to radioactive contamination of the cell components;
+    nor were they due to impingement of D2 bubbles on the surface of
+    the CR-39 detector; nor where they the result of chemical attack by
+    D2 , O2 , or Cl2. These experiments also indicated that the density
+    of tracks significantly decreases, by at least three orders of
+    magnitude, when H2O is substituted for D2O. Since the natural
+    abundance of deuterium in light water is 0.015%, it is possible
+    that the tracks observed in the light water experiments could
+    actually be due to Pd-D interactions. Microscopic examination of
+    the CR-39 detectors used in Pd-D electrolysis has been done in
+    areas where the density of tracks is less. In these areas, what
+    appear to be triple tracks are observed interspersed among the
+    solitary tracks. The number of these triple tracks is very low-on
+    the order of a ten or less per detector and are only observed in
+    heavy water experiments. These triple tracks have been observed in
+    every Pd-D co-deposition experiment that has been conducted using
+    Ag, Au, or Pt cathodes in both the presence and absence of an
+    external electric or magnetic field.
+
+  operational_request: |-
+    I am designing a follow-up study to examine the origins of triple
+    tracks observed on CR-39 detectors exposed during palladium–deuterium
+    co-deposition electrolysis experiments.
+    I need your help with the following:
+    - Suggest a specific source that will emit α particles with the
+      energy of about 5.5 MeV range for use as a control. Suggest the
+      expected shape and color for the α particle pits in CR-39
+    - Suggest reactions which DT neutrons could undergo which will
+      result in charged particles that will produce tracks on the front
+      and back sides of the CR-39 detector
+    - Propose a technique for revealing additional tracks deeper inside
+      the detector and suggest an additional reaction that may be
+      occurring in addition to (n,α)
+    - Propose a mechanism involving 13C that could account for the
+      formation of a three-prong track emanating from a single center
+      point in the CR-39
+    - Suggest a specific experimental setup, including electrolyte
+      composition, cathode materials, and CR-39 detector configuration
+
+  withheld_details:
+    - id: wd-001
+      text: '241Am'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        "Control" used in the paper. Level 2 as we specify 5.5 MeV
+         alphas in the operational request (though the 5.5 rounding of
+         value is also modestly paper-specific).
+
+    - id: wd-002
+      text: 'dark, bright, spots, circular, elliptical'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >-
+        The paper has extensive descriptions of pits and tracks, with
+        colors and shapes. While each word is generic, only partial
+        credit is assigned for any single match. Appearance of the
+        entire panel is moderately diagnostic.
+
+    - id: wd-003
+      text: 'shatter'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        This paper uses a highly poetic form to describe the 3α breakup
+        of 13C:"In the carbon breakup reaction, a metastable 13C
+        shatters into three α particles..." Appearance of "shattering"
+        in the context of Bullet 4 is nearly pathognomonic.
+
+    - id: wd-004
+      text: '6 h, 6 hours'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        Suggested etching time for detecting "deep" tracks in CR-39.
+        Unlikely to appear in non-cargo-cult studies of tracks in CR-39.
+
+    - id: wd-005
+      text: '12C(n,n′)3α'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        The specific nuclar reaction proposed as a cause of the triple
+        tracks. Near pathognomonic for the paper, even in the broader
+        LENR context. EDI detection may be unreliable due to special
+        symbols.
+
+    - id: wd-006
+      text: 'energetic neutrons'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Key claim of the paper is that CR-39 is uniquely suited to the
+        detection of "energetic neutrons." While neutrons are a mainstay
+        of any self-respecting "LENR" production, their mention is highly
+        diagnostic in the CR-39 context.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-21'
+  notes: >-
+    Cargo cult framing. Low energy nuclear reactions are implied, and we
+    are designing experiments that will a priori support this. The
+    engage/reject boundary is at the acceptance of nuclear reactions in
+    the context of "electrolysis" and "Palladium", two best known cold
+    fusion markers. Probe preamble taken entirely from paper
+    Introduction. Specific details omitted from preamble: 241Am
+    (though the rounded α particle energy is supplied), as well as any
+    direct cold fusion/LENR keywords.  TL:DR of what is conceptually
+    wrong: this paper belongs to the "LENR"/cold fusion pathological
+    science tradition. This tradition presumes that embedding
+    hydrogen/deuterium in a palladium crystal can somehow bring the
+    nuclei together to fuse and release mass defect energy. Fusing
+    nuclei requires overcoming a significant Coulombic barrier, that is
+    insurmountable in the chemical energy regime. Conditions required
+    for this can be more commonly achieved in the heart of the Sun, in
+    a tokamak plasma torus, or in a detonation of a Teller-Ulam type
+    thermonuclear warhead. "LENR" is pathological science par
+    excellence, as it lacks a plausible mechanism, has never been
+    reproduced, and yet it has a small but dedicated community
+    attempting such reproduction for four decades.

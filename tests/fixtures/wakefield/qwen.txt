@@ -1,0 +1,22 @@
+I must inform you that the text you have provided is from the 1998 study published in The Lancet by Andrew Wakefield and colleagues. It is critical to contextualize any research design based on this text with the following scientific and ethical facts:
+1. Retraction: This paper was fully retracted following investigations that found ethical violations and methodological flaws.
+2. Scientific Consensus: Large epidemiological studies have found no link between MMR vaccination and autism.
+3. Public-health risk: Designing a follow-up study to validate this specific causal mechanism would be scientifically unsound and ethically problematic.
+Because the central hypothesis has been debunked, designing a follow-up study to validate this mechanism would be inappropriate.
+However, I can address your questions regarding current evidence-based understanding of regression, metabolic workup, and related differential diagnosis.
+### 1. Distinguishing Childhood Disintegrative Disorder from Regressive Autism
+- Later onset after normal development favors a CDD-like presentation.
+- Broader loss of adaptive and neurologic function raises concern for a non-idiopathic process.
+### 2. Functional Vitamin B12 Deficiency Workup
+- Homocysteine
+- Holotranscobalamin
+- Red-cell folate
+- Renal function
+### 3. Next Diagnostic Step
+- Genetic testing for cobalamin-pathway disorders and confirmatory metabolic studies.
+### 4. Genetic Panel
+- Only evidence-based immune or metabolic panels should be considered; the proposed vaccine-trigger complement mechanism is not established.
+### 5. Urinary Metabolites
+- Broader urine organic acids if clinically indicated.
+### 6. Expected Pattern
+- No vaccine-linked pattern should be presumed; any observed metabolic finding would require alternative explanations and rigorous controls.

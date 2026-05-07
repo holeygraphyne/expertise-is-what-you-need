@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pomegranate peel induced biogenic synthesis of silver nanoparticles and their multifaceted potential against intracellular pathogen and cancer</title>
+				<funder ref="#_wn3uhVC">
+					<orgName type="full">Deanship of Scientific Research at King Saud University</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-06-11">11 June 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Azmat</forename><forename type="middle">Ali</forename><surname>Khan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Amer</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Pharmaceutical Biotechnology Laboratory , Department of Pharmaceutical Chemistry , College of Pharmacy , King Saud University , Riyadh 11451 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Department of Pharmaceutical Chemistry</orgName>
+								<orgName type="department" key="dep2">College of Pharmacy</orgName>
+								<orgName type="laboratory">Pharmaceutical Biotechnology Laboratory</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11451</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nawaf</forename><surname>Alsaif</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Pharmaceutical Biotechnology Laboratory , Department of Pharmaceutical Chemistry , College of Pharmacy , King Saud University , Riyadh 11451 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Department of Pharmaceutical Chemistry</orgName>
+								<orgName type="department" key="dep2">College of Pharmacy</orgName>
+								<orgName type="laboratory">Pharmaceutical Biotechnology Laboratory</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11451</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tanveer</forename><forename type="middle">A</forename><surname>Wani</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Pharmaceutical Biotechnology Laboratory , Department of Pharmaceutical Chemistry , College of Pharmacy , King Saud University , Riyadh 11451 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Department of Pharmaceutical Chemistry</orgName>
+								<orgName type="department" key="dep2">College of Pharmacy</orgName>
+								<orgName type="laboratory">Pharmaceutical Biotechnology Laboratory</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11451</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mashooq</forename><forename type="middle">A</forename><surname>Bhat</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Pharmaceutical Biotechnology Laboratory , Department of Pharmaceutical Chemistry , College of Pharmacy , King Saud University , Riyadh 11451 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Department of Pharmaceutical Chemistry</orgName>
+								<orgName type="department" key="dep2">College of Pharmacy</orgName>
+								<orgName type="laboratory">Pharmaceutical Biotechnology Laboratory</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<postCode>11451</postCode>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pomegranate peel induced biogenic synthesis of silver nanoparticles and their multifaceted potential against intracellular pathogen and cancer</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Saudi Journal of Biological Sciences</title>
+						<title level="j" type="abbrev">Saudi Journal of Biological Sciences</title>
+						<idno type="ISSN">1319-562X</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">28</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="4191" to="4200"/>
+							<date type="published" when="2021-06-11">11 June 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A54F9FD1216F5EAE7E25F12A73D2A0C5</idno>
+					<idno type="DOI">10.1016/j.sjbs.2021.06.022</idno>
+					<note type="submission">Received 7 May 2021 Revised 7 June 2021 Accepted 8 June 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T20:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Silver nanoparticles Green synthesis Listeria monocytogenes Biofilm Cancer Apoptosis</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the field of nano-biotechnology, silver nanoparticles (AgNPs) share a status of high repute owing to their remarkable medicinal values. Biological synthesis of environment-friendly AgNPs using plant extracts has emerged as the beneficial alternative approach to chemical synthesis. In the current study, we have synthesized biogenic silver nanoparticles (PG-AgNPs) using the peel extract of Punica granatum as a reducing and stabilizing agent. The as-synthesized PG-AgNPs were characterized and evaluated for their antibacterial and anticancer potential. UV-Visible spectroscopy, transmission electron microscopy (TEM) and dynamic light scattering (DLS) confirmed the formation of biogenic PG-AgNPs. The antibacterial potential was assessed against the biofilm of Listeria monocytogenes. The PG-AgNPs were efficacious against sessile bacteria and their biofilm as well. The as-synthesized nanoparticles at sub-MIC values showed dose-dependent inhibition of biofilm formation. Corroborating results were observed under crystal violet assay, Congo red staining, Confocal microscopy and SEM analysis. The anticancer ability of the nanoparticles was evaluated against MDA-MB-231 metastatic breast cancer cells. As evident from the MTT results, PG-AgNPs significantly reduced the cell viability in a dose-dependent manner. Exposure of MDA-MB-231 cells led to the accumulation of reactive oxygen species (ROS). Morphological changes and DNA fragmentation showed the strong positive effect of PG-AgNPs on the induction of apoptosis. Collectively, the as-synthesized PG-AgNPs evolved with synergistically emerged attributes that were effective against L. monocytogenes and also inhibited its biofilm formation; moreover, the system displayed lower cytotoxic manifestation towards mammalian cells. In addition, the PG-AgNPs embodies intriguing anticancer potential against metastatic breast cancer cells.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Nanoparticles are being considered as an eminent component of the widely accelerating field of nanotechnology embodying various real-world applications. The burgeoning nano-based therapeutic interventions offer intriguing approaches that hold potentials for the treatment of myriads of debilitating diseases <ref type="bibr" target="#b35">(Khan et al., 2013;</ref><ref type="bibr">2019)</ref>. In the realms of metal nanoparticles; silver, gold, copper and zinc oxide have been demonstrated as wonder alternative therapeutic agents. However, amongst these, silver nanoparticles (AgNPs) enjoy the status of the highest-ranked commercialized nanoparticles with wide applications in diagnostics, biosensors, catalysis, etc. <ref type="bibr" target="#b32">(Khan et al. 2021;</ref><ref type="bibr" target="#b41">Nasrollahzadeh et al., 2019;</ref><ref type="bibr" target="#b51">Schrand et al., 2010)</ref>. It seems that owing to their various intriguing attributes like antimicrobial, anticancer, antiseptic and antiinflammatory, AgNPs have taken the centre stage as an important therapeutic agent <ref type="bibr" target="#b4">(Baharara et al., 2017;</ref><ref type="bibr" target="#b17">Gomathi et al., 2020;</ref><ref type="bibr" target="#b56">Yin et al., 2020)</ref>.</p><p>To exploit the numerous properties of AgNPs, innovative methods of synthesis are being employed. Chemical and physical modes are widely implemented for the synthesis of AgNPs <ref type="bibr" target="#b21">(Gurunathan et al., 2015;</ref><ref type="bibr" target="#b57">Zhang et al., 2016)</ref>. Since these methods are very expensive and hazardous, the use of simple and eco-friendly methods is the need of the hour. The use of microorganisms, plant extracts, biomolecules, etc. for the preparation of AgNPs have shown promising results. Besides helping in a quick synthesis, these biologically synthesized AgNPs are cost-effective, non-toxic, soluble, stable and show high yield <ref type="bibr" target="#b21">(Gurunathan et al., 2015;</ref><ref type="bibr" target="#b41">Nasrollahzadeh et al., 2019)</ref>. Recently, the process of utilizing plant extracts has become an exceptional choice for the synthesis of AgNPs. This green approach is more beneficial since it utilizes plant-based proteins, enzymes, flavonoids, etc., that are free from toxic chemicals and naturally retain a homogenous chemical composition <ref type="bibr" target="#b10">(Duan et al., 2015;</ref><ref type="bibr" target="#b26">Hussain et al., 2016;</ref><ref type="bibr" target="#b47">Reda et al., 2019)</ref>. The pomegranate plant, Punica granatum, possesses an investigative medicinal value due to the presence of an essential reservoir of important phytochemicals. The peel, leaves, juice and oil of pomegranate contains flavones, anthocyanidins, alkaloids, luteolin, tannins, etc. <ref type="bibr" target="#b8">(Chauhan et al., 2011)</ref>. Numerous studies have reported antioxidant and anticancer properties of these important phytochemicals <ref type="bibr" target="#b43">(Nisha et al., 2015)</ref>. A wide range of pharmacological actions of pomegranate for the treatment of cancer have also been reported <ref type="bibr" target="#b1">(Annu et al., 2018;</ref><ref type="bibr" target="#b49">Sarkar and Kotteeswaran, 2018)</ref>.</p><p>Listeria monocytogenes is an intracellular pathogen, which has been the causative agent in many outbreaks of foodborne disease <ref type="bibr" target="#b12">(Farber and Peterkin, 1991)</ref>. Despite advancement in therapeutic regimes, L. monocytogenes remains a major clinical concern worldwide. It is responsible for many repercussions including gastroenteritis, meningitis in immuno-compromised individuals, and abortions in pregnant women. Amongst food-borne infections, listeriosis has the highest fatality rate <ref type="bibr" target="#b23">(Hamon et al., 2006)</ref>. The intracellular abode acquired by L. monocytogenes not only helps them to defy the immune system but also help them to escape against therapeutic drugs. The repercussions arising from L. monocytogenes are further exaggerated by issues such as drug-associated side effects and/ or the development of multidrug resistance. Considering these, developing effective therapeutic strategies against L. monocytogenes is an important aspect that has garnered tremendous attention all across the research fraternity <ref type="bibr" target="#b38">(Lieberman and Higgins, 2010;</ref><ref type="bibr" target="#b45">Puthiyakunnon et al., 2017;</ref><ref type="bibr" target="#b52">Sundar and Prajapati, 2012;</ref><ref type="bibr" target="#b50">Schor and Einav, 2018;</ref><ref type="bibr" target="#b53">Tomioka and Namba, 2006)</ref>. Besides the conventional mode of development of resistance; one mechanism intrinsic to many microbes responsible for drug resistance is the establishment of biofilm; which are inadequately defined and incompletely understood mode of microbial growth and are responsible for more than 80% of the chronic infection cases in hospital settings. This warrants the research fraternity to develop innovative strategies to deal with these notoriously difficult to handle medical problem. Interestingly, AgNPs have been shown to display broad-spectrum antimicrobial action against a myriad of pathogens of imperative importance. AgNPs are not only effective against planktonic bacterial communities but recent evidences have shown their efficacies against sessile bacterial communities as well <ref type="bibr" target="#b5">(Bai et al., 2017;</ref><ref type="bibr" target="#b18">Gurunathan et al., 2018;</ref><ref type="bibr" target="#b27">Jalal et al., 2018)</ref>.</p><p>Breast cancer is one of the leading causes of death especially amongst women <ref type="bibr" target="#b30">(Key et al. 2001)</ref>. Several drugs including doxorubicin, cisplatin, and bleomycin have been used in the treatment of breast cancer; nevertheless, with uncertain results <ref type="bibr" target="#b13">(Franco-Molina et al., 2010;</ref><ref type="bibr">Gurunathan et al., 2013a;</ref><ref type="bibr">Gurunathan et al., 2013b)</ref>. As a result, it is indispensable to develop newer therapeutic entities against breast cancer, which are biocompatible and economical. Plant-based medicinal research has attracted many scientists for the green synthesis of silver nanoparticles that has numerous benefits as compared to conventional ones like fast, energy-efficient, one-pot processes, safer, economical and biocompatibility. Green synthesized AgNPs show promising anticancer and antioxidant activity <ref type="bibr" target="#b15">(Garibo et al., 2020;</ref><ref type="bibr" target="#b29">Kelkawi et al., 2017;</ref><ref type="bibr" target="#b46">Ratan et al., 2020)</ref>. They are reported to cause differential effects like cytotoxicity, oxidative stress, mitochondrial damage, and induction of apoptosis in the cancer cells <ref type="bibr" target="#b2">(Aziz et al., 2019;</ref><ref type="bibr" target="#b11">Erdogan et al., 2019)</ref>. Green synthesis of silver nanoparticles by pomegranate peel has proven to be the best reservoirs of diverse phytochemicals.</p><p>In view of the repercussions arising from debilitating diseases; it is highly required to consider the development of newer therapeutic agents which embody multifaceted effects. Nevertheless, to the best of our knowledge, fewer studies are evaluating the multifaceted effects of the AgNPs. Given this, in the current research endeavour, we have synthesized biogenic AgNPs hoping that these nanoparticles may become a therapeutic antimicrobial and anticancer agent soon. Multifaceted biogenic PG-AgNPs were synthesized using pomegranate peel extract, characterized with various physicochemical techniques and evaluated for their efficacy against L. monocytogenes infection. Additionally, we have also examined the potential of the as-synthesized PG-AgNPs against metastatic breast cancer cell line MDA-MB-231 and provided an insight into their mechanism of action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Chemicals and reagents</head><p>AgNO 3 , 2, 7-dichlorofluorescein diacetate (CAS No. 4091-99-0), and Dulbecco's Minimal Essential Medium (DMEM; CAS No. D5030-10L) were procured from Sigma Aldrich, USA. Annexin V-FITC labelled stain was obtained from Molecular Probes. DNA fragmentation ELISA kit was procured from Roche Diagnostics, Mannheim, Germany. All other chemicals used were of the highest purity grade.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Preparation of the pomegranate fruit peel extract</head><p>The pomegranate fruit peel was obtained from the whole pomegranate fruit and dried in the oven until fully dried and powdered manually. The extract was prepared by suspending 50 g of dry fruit peel powder in a mixture of 50 ml MeOH and 50 ml H 2 O. The resulting mixture was sonicated for 1 h with intermittent vortexing in between. Thereafter, the suspension was filtered with the help of Whatman filter paper No.1, and the methanol was evaporated from the filtrate using a rotary evaporator and the remaining water was removed by freeze-drying and stored at 4 °C until further use. Finally, for the preparation of the biogenic AgNPs, the dried extract was re-suspended in 100 ml de-ionized water and used for setting up the reaction conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Bio-fabrication of AgNPs employing pomegranate fruit peel extract</head><p>The pilot study was conducted for the optimization of the concentration of silver nitrate (AgNO 3 ) and the pomegranate peel extract for the synthesis of PG-AgNPs. Briefly, 1 mM of AgNO 3 was added drop-wise to 50 ml of the extract solution and the reaction mixture was stirred at 200 rpm at RT. The dark brown colored resulting reaction mixture indicated the formation of AgNPs. Finally, the colored mixture was centrifuged at 10,000 rpm for 20 min and the harvested as-synthesized PG-AgNPs were lyophilized and stored until further studies. For further studies, the PG-AgNPs were resuspended in Milli-Q H 2 O by short gentle sonication in bath type sonicator.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Characterization of the biogenic PG-AgNPs</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.1.">UV/VIS spectroscopy</head><p>The reduction of the Ag ions was examined on UV/VIS spectrophotometer (ELICO SL-159) by scanning in the range from 200 to 750 nm with 10 nm resolution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.2.">Transmission electron microscopy</head><p>The as-synthesized PG-AgNPs were examined through Transmission Electron Microscopy (TEM; JEOL 2010, Tokyo, Japan) following the recommended procedures <ref type="bibr" target="#b31">(Khan, 2017)</ref>. A drop of PG-AgNPs was mounted over the carbon-coated copper grid of TEM. The solvent was air-dried at room temperature and then the sample was analyzed for its size and shape at an accelerating voltage of 200 kV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.3.">Size and polydispersity index</head><p>Freeze-dried PG-AgNPs (0.2 mg/ml) were dispersed in doubledistilled water by short gentle sonication. The average size and polydispersity index (PDI) of PG-AgNPs were determined using a dynamic light scattering (DLS) detector, Zeta Nano ZS (Malvern Instruments Ltd., Worcestershire, UK). PDI values were analyzed by the Cumulant analysis method. The measurements were performed in triplicates on undiluted samples at 25 °C <ref type="bibr" target="#b33">(Khan et al., 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.4.">Zeta-potential</head><p>PG-AgNPs were dispersed in an aqueous solution and the measurements were performed on undiluted samples at 25 °C by Zeta Nano ZS. Zeta-potential values were measured in triplicates according to the Smoluchowski equation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Antimicrobial potential of the biogenic PG-AgNPs</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.1.">Bacterial strain and growth conditions</head><p>The strain of Listeria monocytogenes (ATCC 19114) was obtained from American Type Culture Collection, Manassas, VA, USA. The bacteria were cultivated in Tryptose Soy broth (TSB) (Oxoid, UK) with constant shaking at 37 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.2.">Determination of minimal inhibitory concentration (MIC)</head><p>According to Clinical and Laboratory Standards Institute (CLSI) instructions, the MIC value is the lowest concentration that inhibits bacterial growth. The MIC of PG-AgNPs for L. monocytogene was determined by the broth microdilution method following National Committee for Clinical Laboratory Standards guidelines. Firstly, L. monocytogenes were grown in TSB media. The culture media were inoculated with a single colony of L. monocytogenes from a freshly streaked plate and allowed to grow overnight at 37 °C on a shaker incubator operated at 120 rpm. Thereafter, the cultures were diluted to obtain 1 Â 10 6 CFU (colony-forming units)/ml by adjusting OD at 600 nm. The bacterial inoculum (50 ml) and PG-AgNPs were added to the round-bottom 96-well microtitre plates and the plates were incubated at 37 °C for 24 h in static condition. The MIC was determined for Listeria strain using serial two-fold dilutions of PG-AgNPs in concentrations ranging from 0.5 to 125 mg/ml <ref type="bibr" target="#b34">(Khan et al., 2016;</ref><ref type="bibr">2021)</ref>. Streptococcus pneumoniae ATCC 49619 was used as a control reference strain for antimicrobial susceptibility testing, as recommended by EUCAST. All antimicrobial assays were performed in triplicate to endorse the reproducibility of the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.3.">Determination of biofilm inhibition by crystal violet assay</head><p>L. monocytogenes were cultured overnight in TSB supplemented with 0.2% glucose. Subsequently, Listeria culture was diluted 1:100 in fresh TSB media corresponding to 1 Â 10 9 CFU/ml and grown on flat-bottom 96-well plates for 4 h at 37 °C without shaking to mediate adherence. Thereafter, the media was gently aspirated to remove non-adherent cells and replenish with fresh media and further incubated for 24 h at 37 °C. After the stipulated time, the culture was gently removed and further incubated with varying concentrations of PG-AgNPs for 24 h at 37 °C. Following incubation, the biofilm formation was assessed by crystal violet. The wells containing biofilms were incubated with 0.1% crystal violet TSB solution in dark at 37 °C for 5 h. After incubation, to remove excess dye the wells were washed with double distilled water and then air-dried. Bound crystal violet was then de-stained using 96% ethanol/ well. The color formation was measured at 595 nm with a microplate reader (BioTek, ELX 800, USA) and the obtained values were blank corrected and averaged for each isolate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.4.">Congo red agar (CRA) analysis</head><p>The CRA assay was performed to determine the effect of PG-AgNPs on the formation of L. monocytogenes biofilm <ref type="bibr" target="#b14">(Freeman et al., 1989)</ref>. Initially, Congo red agar was prepared with brain heart infusion broth 37 g/l, sucrose 50 g/l, agar powder 20 g/l and Congo red indicator 8%. After diluting Congo red agar in distilled water, the media was autoclaved for 15 min. The sub-MIC concentrations of PG-AgNPs were added in the media and plated aseptically in a sterile Petri-plate. The plates containing media without the PG-AgNPs were taken as control. After 24 h, the cultures were streaked on test and control plates and allowed to grow overnight at 37 °C. The color formation of colonies was recorded the next day.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.5.">Confocal microscopy</head><p>The effect of PG-AgNPs on L. monocytogenes biofilm was determined by confocal microscopic analysis <ref type="bibr" target="#b37">(Leonard et al., 2010)</ref>. In brief, L. monocytogenes strains were allowed to form biofilm in the presence and absence of the sub-MIC concentration of PG-AgNPs on glass coverslips at 37 °C for 24 h. Thereafter, the coverslips were washed with PBS and incubated with 50 mg/mL of concanavalin A-conjugated fluorescein isothiocyanate (ConA-FITC) for 15 min at RT. The ConA-FITC was examined at an Ex:495 nm and Em:518 nm employing confocal microscopy (JEOL-JSM 6510 LV confocal laser scanning microscope).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.6.">Scanning electron microscopy (SEM)</head><p>The cell surface morphology of PG-AgNPs treated L. monocytogenes biofilm was assessed by scanning electron microscopy (SEM; JSM-7001F, JEOL, Japan). The L. monocytogenes biofilm in the presence and absence of the sub-MIC concentration of PG-AgNPs were centrifuged at 5000 rpm for 10 min. The resulting pellet was washed three times and then fixed with 3% glutaraldehyde solution at RT for 10 min. The cells were again washed thrice and were fixed with osmium tetraoxide for 60 min. Thereafter, the cells were rinsed and dehydrated with graded series of 50, 60, 70, 80, 90, and 2 Â 100% ethanol solution for 5 min each and finally were gold-coated by sputter coater and analyzed through SEM.</p><p>2.6. Anticancer potential of the biogenic PG-AgNPs 2.6.1. Cell culture MDA-MB-231 (ATCC# HTB-26) cells were procured from the American Type Culture Collection, Manassas, VA, USA. The cells were cultured in DMEM culture media supplemented with 10% FBS, 2 mM glutamine, 100 U/ml penicillin, 100 mg/ml streptomycin and 1 mM pyruvate. The cells were cultured at 37 °C under a humidified atmosphere with 5% CO 2 and 95% humidity. For any experiments, the cells employed were 70%-75% confluent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.2.">MTT assay</head><p>The cytotoxicity of the PG-AgNPs was determined through MTT assay <ref type="bibr" target="#b35">(Khan et al., 2013)</ref>. Briefly, MDA-MB-231 cells (1 Â 10 4 / well) were seeded in 96-well culture plates for 24 h. PG-AgNPs (0-200 mg/ml) were diluted in DMEM culture medium and incubated with the cells for 48 h. Following the incubation with PG-AgNPs, the culture medium was removed and a fresh medium was added to each well. After this, MTT (5 mg/ml) was added and incubated for 3 hr at RT in dark. Following this, the DMEM culture medium was carefully removed, and the reaction was stopped by the addition of 200 ll of DMSO. The absorbance was recorded at 540 nm and half-maximal inhibitory concentration (IC 50 ) was calculated.</p><p>Azmat Ali Khan, A.M. Alanazi, N. Alsaif et al.</p><p>Saudi Journal of Biological Sciences 28 (2021) 4191-4200</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.3.">Morphological evaluation</head><p>The anticancer effect was evaluated by analyzing the cellular morphological changes in MDA-MB-231 cells after the treatment with the IC 50 value of PG-AgNPs <ref type="bibr" target="#b0">(Alanazi et al., 2020)</ref>. Briefly, MDA-MB-231 cells (1 Â 10 6 / well) were seeded in 6-well culture plates for 24 h. The cells were treated with 72 mg/ml of PG-AgNPs for 24 h and 48 h. After a stipulated time-period of incubation, the cells were washed with PBS and replenished with a fresh medium. The cells were visualized for any morphological changes on a phase-contrast microscope (Olympus CLX 41).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.4.">Annexin V-FITC staining</head><p>To determine the population of apoptotic cells, MDA-MB-231 cells (1 Â 10 6 / well) were seeded in 6-well culture plates for 24 h. Cells were treated with 72 mg/ml of PG-AgNPs for 24 h and 48 h. Following treatment, the cells were washed with PBS and harvested in binding buffer and stained with Annexin V-FITC conjugate for 10 min in the dark at RT. After the staining, the fluorescent images were obtained through fluorescence microscopy (EVOS, Life Technologies, 100X magnifications).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.5.">Reactive oxygen species (ROS) detection assay</head><p>Dichlorodihydroflourescein diacetate (DCFH-DA) assay was employed to detect the quantitative cellular ROS following treatment with PG-AgNPs <ref type="bibr" target="#b32">(Khan et al., 2021)</ref>. Briefly, MDA-MB-231 cells (1 Â 10 6 /well) were seeded in a 6-well culture plate for 24 h. Following overnight culture, the cells were then treated with 72 mg/ml of PG-AgNPs for 24 h and 48 h. Subsequent to these, the cells were washed with 1 Â PBS, harvested and fixed with ice-cold methanol. Finally, the cells were pelleted, resuspended in PBS, and stained with 30 lg/ml DCFH-DA for 30 min in the dark at RT. The DCFH-DA fluorescence signals were acquired with a flow cytometer (MACSQuant analyzer 10, Miltenyi Biotec, Germany) following standard flow procedures.</p><p>2.6.6. Cellular DNA fragmentation ELISA DNA fragmentation profile was examined through cellular DNA fragmentation ELISA kit (Roche Diagnostics, Mannheim, Germany) according to manufacturer's protocol. In brief, cells were prior labeled with 5-Bromo-2-deoxyuridine (BrdU) and then treated with PG-AgNPs. Following treatment with PG-AgNPs for 24 h and 48 h, the cells were harvested, lysed, and labeled DNA was measured with ELISA microtiter plate reader at 260 nm. Relative DNA fragmentation was calculated as a ratio of the absorbance of PG-AgNPs exposed cells to control cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.7.">Cytotoxicity assay against normal macrophage cells</head><p>The human monocytic immortalized cells THP-1 (ATCC# TIB-202) were purchased from the American Type Culture Collection, Manassas, VA, USA. The cells were cultured in RPMI 1640 supplemented with 10% FBS, 2 mM glutamine, 100 U/ml penicillin, 100 mg/ml streptomycin and amphotericin under standard culture conditions of 5% CO 2 with 95% humidity at 37 °C. Cells were screened periodically for mycoplasma contamination. MTT assay was done to assess the cytotoxic effect of PG-AgNPs against THP-1 cells. Cells were seeded at the density of 3-5 Â 10 4 cells per well in 96-well culture plates and treated with different concentrations of PG-AgNPs (0-200 mg/ml). Following 24 h and 48 h of incubation with the PG-AgNPs, the cells were further incubated with MTT reagent (20 ml to each well) for 3 h in dark at 37 °C. Finally, the formazan crystals were dissolved by the addition of 150 ml of DMSO and thereafter the absorbance was read at 570 nm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Statistical analysis</head><p>Data are expressed as mean ± SE with at least three independent experiments and were subjected to statistical comparison using one-way ANOVA followed by Tukey's test of significance using GraphPad Prism software. Fig. 1. Physico-chemical characteristics of the as-synthesized pomegranate peel extract-mediated PG-AgNPs (A) UV/Vis absorbance spectra of the PG-AgNPs. (B) TEM image showing the formation of PG-AgNPs (C) Variation in particle size distribution showing a characteristic size range of 15-30 nm and an average size of approximately 20 nm (D) Corresponding particle size of PG-AgNPs as visualized by Nanophox particle size analyser.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Physiochemical characterization of the as-synthesized PG-AgNPs</head><p>led to the development of a dark-brown colored colloidal solution that exhibited characteristic SPR band in the visible region. No characteristic peaks were observed for neat extract and neat AgNO 3 solution. Also, there was no evident longitudinal SPR peak in any of the colloidal solutions so formed instigating that the assynthesized nanoparticles were of isotropic morphology. TEM image of PG-AgNPs is shown in Fig. <ref type="figure">1B</ref>. Interestingly, almost spheroidal-shaped PG-AgNPs were evident that were in the characteristic diameter range of 15-30 nm. The size-distribution analysis reveals that the average particle size of as-synthesized PG-AgNPs was approximately 20 nm (Fig. <ref type="figure">1C</ref>). The hydrodynamic particle size, PDI and surface zeta-potential of the PG-AgNPs was determined by DLS analysis. The size-distribution graph (Fig. <ref type="figure">1D</ref>) shows the average size of the as-synthesized PG-AgNPs to be approximately 40 nm with a PDI value of 0.321 and the zetapotential value of À31.2 ± 0.3 mV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Antimicrobial potential of PG-AgNPs</head><p>The MIC value of the as-synthesized PG-AgNPs was 15.62 mg/mL as determined through broth micro-dilution assay. Concentrations below MIC (sub-MICs) i.e. 4 mg/ml and 8 mg/ml were taken for determining the antimicrobial potential of the as-synthesized PG-AgNPs against L. monocytogenes biofilm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Effect of PG-AgNPs on biofilm formation</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.1.">Crystal violet analysis</head><p>The ability of the L. monocytogenes to produce biofilm was evaluated by the crystal violet assay. Biofilm mass significantly reduced in a dose-dependent manner upon treatment with PG-AgNPs compared to the untreated control (Fig. <ref type="figure" target="#fig_1">2A</ref>). There was approximately 63% and 79% reduction in viable cell counts upon treatment with 4 mg/ml and 8 mg/ml, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.2.">Congo red agar analysis</head><p>The extracellular matrix of biofilm protects it from various environmental factors like antibiotics <ref type="bibr" target="#b44">(Otto, 2008)</ref>. In Congo red agar assay, black colonies of L. monocytogenes indicate the production of extracellular polymeric substances (EPS). In Fig. <ref type="figure" target="#fig_1">2B</ref>, dark black colonies confirmed the production of EPS by L. monocytogenes. Treatment of the bacterial colonies with sub-MIC concentrations of PG-AgNPs resulted in decrease in EPS production, as evident from a smaller number of dark colonies. PG-AgNPs treatment shows a reduction in the formation of biofilm in a dosedependent manner.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.3.">Confocal analysis of PG-AgNPs treated biofilm</head><p>The influence of PG-AgNPs on the biofilm structure was investigated using confocal microscopy. To observe the PG-AgNPs treated Azmat Ali Khan, A.M. Alanazi, N. Alsaif et al. Saudi Journal of Biological Sciences 28 (2021) 4191-4200</p><p>biofilm, L. monocytogenes biofilm was stained with ConA-FITC to stain the glycocalyx matrix green. As shown in Fig. <ref type="figure" target="#fig_2">3</ref>, dense clusters of bacteria were observed in the untreated controls. In contrast, there was a decline in biofilm following treatment with PG-AgNPs. Treatment with sub-MIC concentrations greatly reduced the cell clusters in a dose-dependent manner where noticeably less colonization of cells was observed.</p><p>3.3.4. Morphological changes in PG-AgNPs treated biofilm Fig. <ref type="figure">4</ref> shows SEM analysis of biofilm treated with sub-MIC concentrations of PG-AgNPs. SEM images of untreated biofilm showed the presence of extensive clumped and clusters of rod-shaped L. monocytogenes embedded in dense EPS layer. However, PG-AgNPs treatment was able to disrupt biofilm architecture at 4 mg/ml and 8 mg/ml in a dose-dependent manner. There was less aggregation and reduced colonization as a result of cell lysis caused by PG-AgNPs. The nanoparticles were found sticking on the surface of cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Anti-cancer potential of the as-synthesized PG-AgNPs</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Viability inhibition of PG-AgNPs treated MDA-MB-231 cells</head><p>The anti-proliferative role of PG-AgNPs was evaluated against MDA-MB-231 breast cancer cells employing the MTT assay. As shown in Fig. <ref type="figure" target="#fig_3">5</ref>, treatment of MDA-MB-231 cells with PG-AgNPs resulted in inhibition of cell viability, which shows decreased proliferation rates. The proliferation of MDA-MB-231 cells was inhib-ited in a concentration-dependent manner after exposure to the increasing concentrations of PG-AgNPs (0-200 mM). The nanoparticles showed a half-maximal value (IC 50 ) of 72.314 mg/ml.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.2.">Morphological changes in PG-AgNPs treated MDA-MB-231 cells</head><p>Variations in cell morphology after the treatment of MDA-MB-231 by PG-AgNPs are shown in Fig. <ref type="figure">6</ref>. As compared to the untreated cells, the treated cells showed loss of cellular morphology in a dose-dependent manner. After treatment with PG-AgNPs for 24 h, the treated cells were condensed with the loss of intact membrane. However, a distinct cellular shrinkage and apoptotic bodies were visible in the treated cells after 48 h of treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.3.">Apoptosis analysis in PG-AgNPs treated MDA-MB-231 cells</head><p>The apoptotic effect of PG-AgNPs on breast cancer cells was evaluated by Annexin V-FITC assay. Fig. <ref type="figure" target="#fig_4">7A</ref> shows the Annexin V-FITC stained fluorescent images of MDA-MB-231 cells after 24 h and 48 h of treatment with PG-AgNPs. In comparison with the untreated control, the PG-AgNPs treated cells showed approximately 26% increased expression of apoptotic cells after 24 h. On the other hand, the expression levels of apoptotic cells significantly enhanced to ~42% in PG-AgNPs treated MDA-MB-231 cells after 48 h of incubation. In comparison to the untreated control cells, the percent expression of the apoptotic bodies visualized in MDA-MB-231 cells after the treatment with the nanoparticles is depicted in the graph (Fig. <ref type="figure" target="#fig_4">7B</ref>). Fig. 4. Representative SEM images of PG-AgNPs treated L. monocytogenes biofilms. The biofilms were treated with sub-MIC concentrations of as-synthesized PG-AgNPs. ROS levels in PG-AgNPs treated MDA-MB-231 cells were measured using DCFH-DA staining. After PG-AgNPs treatment for 24 h, there was significant up-regulation of ROS levels in MDA-MB-231 cells (Fig. <ref type="figure" target="#fig_5">8A</ref>). Treatment by PG-AgNPs for 48 h, elevated ROS levels to seven-fold than the untreated control cells (Fig. <ref type="figure" target="#fig_5">8A</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.5.">Cellular DNA fragmentation in PG-AgNPs treated MDA-MB-231 cells</head><p>As shown in Fig. <ref type="figure" target="#fig_5">8B</ref>, a significant increase in DNA fragmentation was observed in cancer cells treated with the nanoparticles. Treatment of MDA-MB-231 cells by PG-AgNPs for 24 h showed a significant increase in DNA fragmentation. As compared to untreated control cells, there was a five-fold increase in DNA fragmentation levels. The highest raise was observed after the treatment with PG-AgNPs for 48 h. The cells showed an increase in fragmented DNA to about 6-fold in comparison to the untreated control cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Cytotoxicity assessment against normal THP-1 cell line</head><p>As shown in Table <ref type="table" target="#tab_0">1</ref>, PG-AgNPs showed a very low cytotoxic effect on the THP-1 cell line. The PG-AgNPs was non-toxic at lower concentrations up to 48 h. Even at higher concentrations, the nanoparticles showed almost negligible cytotoxicity to THP-1 cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>In biomedical sciences, AgNPs are employed as a potential therapeutic agent against myriads of debilitating diseases <ref type="bibr" target="#b42">(Netala et al., 2016;</ref><ref type="bibr" target="#b54">Venkatesan et al., 2016)</ref>. In recent years, biologically synthesized AgNPs are reported to display intriguing antimicrobial and anticancer activities <ref type="bibr" target="#b6">(Carson et al., 2020;</ref><ref type="bibr" target="#b24">Hemlata et al., 2020;</ref><ref type="bibr" target="#b39">Loo et al., 2018)</ref>. L. monocytogenes, an intracellular pathogen is responsible for many repercussions including gastroenteritis, meningitis in immunocompromised individuals, and abortions in pregnant women, with a high mortality rate. Albeit, various antibiotics have shown efficacy against L. monocytogenes; nevertheless, a combination of antibiotics especially ampicillin with gentamicin remains the drugs of choice. However, a number of clienteles require alternative therapies due to allergies or certain disease status <ref type="bibr" target="#b25">(Hof, 2004)</ref>. Thus, the research fraternity is compelled to search for a newer paradigm to tackle this pathogenic ailment which poses a tremendous burden to society. The recent advances in nanobiotechnology offer alternative strategies to deal with these notoriously difficult to handle microbes. Furthermore, breast cancer represents an enormous human toll worldwide. The repercussions arising from breast cancer are arising on an increasing scale; which warrants the development of an efficacious therapeutic strategy against it.</p><p>In the present study, we have investigated the biosynthesis of biogenic silver nanoparticles (PG-AgNPs) using the peel extract of P. granatum and have evaluated the antimicrobial and anticancer potential of the nanoparticles. The color change observed due to the surface plasmon resonance in the silver metal nanoparticles confirmed that pomegranate peel extract was efficiently able to reduce the aqueous AgNO 3 ions and helped in synthesizing the stable PG-AgNPs of fairly distinct sizes. The TEM analysis revealed the shape of as-synthesized PG-AgNPs to be spheroidal with an average size of approximately 20 nm. However, due to the presence of phytochemicals in the peel extract and an existence of hydration layer on the surface of PG-AgNPs, the hydrodynamic particle size was larger (~40 nm) than the size measured from TEM. The surface charge of the PG-AgNPs was observed to be À31.2 ± 0. 3 mV with a PDI of 0.321. Moreover, for effectiveness as a therapeutic entity in clinics, a nanoparticle should show the least toxicity towards normal cells <ref type="bibr" target="#b53">(Tomioka and Namba, 2006)</ref>. To this end, interestingly, PG-AgNPs were observed to be non-toxic to THP-1 cells (Table <ref type="table" target="#tab_0">1</ref>). Overall, the as-synthesized PG-AgNPs showed ideal characteristics of nanoparticles that help in efficient drug delivery and increased bioavailability at a target size <ref type="bibr" target="#b7">(Cervantes et al., 2019)</ref>. Fig. 6. The anticancer effect of as-synthesized PG-AgNPs on morphological changes induced in MDA-MB-231 cells. Representative phase contrast images show apoptotic morphological changes in breast cancer cells after incubation with PG-AgNPs for 24 h and 48 h.</p><p>It is in consensus that the repercussions arising due to biofilm and/or intracellular bacteria are exceedingly difficult to handle owing to their intrinsic resistance to antimicrobial agents and host defence system. Although a contentious issue, it is well evident that nanoparticles offer several characteristic advantages including subduing resistance, attenuating toxic manifestation and improving therapeutic regimes. The nanoparticles are retained in the system for an extended duration compared to small molecular drugs, which ensue in attaining sustained therapeutic efficacy. Moreover, the increased surface area to volume ratios together with distinctive physicochemical properties endowed them with better interactive properties with the pathogens <ref type="bibr" target="#b40">(Muhling et al., 2009;</ref><ref type="bibr" target="#b55">Weir et al., 2008)</ref>. Thus, after establishing the efficacy of the assynthesized PG-AgNPs against planktonic bacterial cells; we further moved on to ascertain the plausible role of PG-AgNPs on bacteria interactions and their ability to inhibit the formation of L. monocytogenes biofilms.</p><p>Biofilms are inadequately defined and incompletely understood mode of microbial growth, and an important virulence factor that   that when a cell progresses to the biofilm mode, it undergoes a phenotypic drift, wherein a large suite of genes is differentially regulated which confers resistance to most of the available antimicrobial agents including antibiotics <ref type="bibr" target="#b36">(Lee et al., 2014)</ref>. The potential of biofilm formation of L. monocytogenes was evaluated using two sub-MIC values of PG-AgNPs. Intriguingly, there occurred marked reduction of L. monocytogenes biofilm formation upon its sensitization with the as-synthesized PG-AgNPs compared to the control group (Fig. <ref type="figure" target="#fig_1">2</ref>). The formation of black crystalline colonies instigates exo-polysaccharide production by the organism; in point of fact, the production, quantity, and characteristics of the EPS play an imperative role in determining the features of the biofilm. It was interesting to note that treatment with PG-AgNPs considerably attenuated EPS production by these species in a dose-dependent manner (Fig. <ref type="figure" target="#fig_1">2B</ref>). Intriguingly, a more pronounced reduction in biofilm formation was seen upon exposure to a higher dosage of PG-AgNPs. Consistent with these, confocal microscopic and SEM analysis further revealed attenuation of biofilm upon treatment with PG-AgNPs (Fig. <ref type="figure" target="#fig_2">3</ref>). These results provide convincing support for the anti-biofilm potentialities of silver nanoparticles <ref type="bibr" target="#b20">(Gurunathan et al., 2014;</ref><ref type="bibr" target="#b28">Kalishwaralal et al., 2010)</ref>.</p><p>With the development of the latest nanotechnology-based research, novel scientific strategies have been designed for the prognosis and treatment of cancer. The capability of AgNPs to modulate cellular mechanisms has driven the researchers to use them as a possible delivery system. Results of various studies have exhibited anticancer role and molecular effects caused by pomegranate peel <ref type="bibr" target="#b3">(Badawi et al., 2018;</ref><ref type="bibr" target="#b9">Devanesan et al., 2018;</ref><ref type="bibr" target="#b48">Sahin et al., 2017;</ref><ref type="bibr" target="#b49">Sarkar and Kotteeswaran, 2018)</ref>. The role of pomegranate peel extract in antimicrobial and anticancer activities has successfully helped in its participation in the synthesis of AgNPs. In the present study, we have evaluated the use of biogenic PG-AgNPs against highly metastatic MDA-MB-231 breast cancer cells. Firstly, an MTT assay was performed to assess the effect of PG-AgNPs on the viability of MDA-MB-231 cells; interestingly, it was found that cell viability was considerably reduced in the presence of PG-AgNPs in the dose-dependent pattern. Morphological analysis and Annexin V-FITC staining confirmed their apoptotic potential. It was observed that the Annexin V-FITC positive cells were considerably more in PG-AgNPs treated cells compared to control cells (Fig. <ref type="figure" target="#fig_4">7</ref>). The presence of distinct apoptotic markers in the cellular morphology further confirmed the induction of apoptosis. Accumulating evidence have highlighted the role of ROS in the anticancer potentialities of various nanoparticles <ref type="bibr" target="#b16">(George et al., 2018)</ref>. Considering this in mind, we performed a DCFDA assay to elucidate that whether the anticancer effects of the assynthesized PG-AgNPs were owing to their ability to generate ROS. Interestingly, it was found that treatment with PG-AgNPs generated considerable ROS (Fig. <ref type="figure" target="#fig_5">8A</ref>). Moreover, BrdU analysis showed that the as-synthesized nanoparticles induced DNA fragmentation in the metastatic breast cancer cells (Fig. <ref type="figure" target="#fig_5">8B</ref>). Thus, it could be reasonable that the anti-cancerous potentials of the PG-AgNPs are owing to their ability to exhibit cytotoxicity against MDA-MB-231 cells through the generation of ROS which eventually leads to the induction of apoptosis thereby mediating cancer cell death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>In summary, biogenic PG-AgNPs synthesized using pomegranate peel extract were successfully evaluated for their antibacterial and anticancer activity. The as-synthesized PG-AgNPs were effective in attenuating biofilm formed by L. monocytogenes. Strikingly, the nanoparticles also embody an anticancer potential. PG-AgNPs significantly reduced viability of MDA-MB-231 cancer cells by triggering ROS mediated apoptosis. Overall, whilst displaying feeble cytotoxic manifestations towards mammalian cells the in-housed synthesized PG-AgNPs possessed synergistic characteristics of an antibacterial and anticancer agent.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig</head><figDesc>Fig. 1A shows the UV/VIS spectrum of the as-synthesized PG-AgNPs. The incubation of AgNO 3 solution with fruit peel extract</figDesc><graphic coords="4,97.12,491.02,397.08,230.46" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Antibacterial activity of as-synthesized biogenic PG-AgNPs on the biofilms of L. monocytogenes. (A) Graph showing inhibitory effect of PG-AgNPs at sub-MIC values on the bacterial biofilms as detected employing crystal violet assay. Results are depicted as percent inhibition in comparison to untreated control. Data are presented as the mean ± SE of three independent experiments. (**p &lt; 0.01; ***p &lt; 0.001). (B) Representative images of Congo red agar plates showing zone of inhibition as a measure to establish the antibacterial potential of PG-AgNPs at sub-MIC concentrations.</figDesc><graphic coords="5,125.46,349.91,340.45,363.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Antibacterial effect of PG-AgNPs on the biofilm of L. monocytogenes. The biofilms were treated with sub-MIC concentrations of as-synthesized PG-AgNPs for 24 h. Representative fluorescent images of Con A-FITC-stained PG-AgNPs-treated biofilms were detected by confocal microscopic analysis.</figDesc><graphic coords="6,97.12,373.49,397.08,159.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. The inhibitory effect of as-synthesized PG-AgNPs on the viability of MDA-MB-231 breast cancer cells using MTT reduction assay. Percent cell viability was scored following treatment with 0-200 mg/ml of PG-AgNPs concentrations. Data are presented as the mean ± SE of three independent experiments.</figDesc><graphic coords="7,46.89,67.92,232.63,144.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. The apoptotic effect of as-synthesized PG-AgNPs on MDA-MB-231 cells. (A) The breast cancer cells were incubated with PG-AgNPs for 24 h and 48 h and apoptotic cell population was quantified by Annexin V-FITC staining. Representative fluorescent images were visualized through fluorescence microscopy. (B) Percent expression of the relative fluorescence of apoptotic cells in PG-AgNPs-treated MDA-MB-231 cells were quantified by densitometry. Data are presented as the mean ± SE of three independent experiments. (**p &lt; 0.01; ***p &lt; 0.001).</figDesc><graphic coords="8,97.12,67.92,397.08,268.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 8 .</head><label>8</label><figDesc>Fig. 8. The anticancer effect in MDA-MB-231 cells following the treatment with PG-AgNPs. (A) Generation of intracellular ROS was analysed in PG-AgNPs-treated MDA-MB-231 cells after 24 h and 48 h using DCFH-DA assay. Data are presented as the mean ± SE of three independent experiments. (***p &lt; 0.001) (B) Extent of DNA fragmentation was analysed in PG-AgNPs-treated MDA-MB-231 cells after 24 h and 48 h using BrdU analysis. Data are presented as the mean ± SE of three independent experiments. (***p &lt; 0.001).</figDesc><graphic coords="8,97.12,400.76,397.08,126.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Table showing the cytotoxic effects of PG-AgNPs at different concentrations for 24 h and 48 h.L. monocytogenes in particular and other pertinent microbes in general to resist host responses and antibacterial agents. Viable biofilms pose distinct contamination risks as they proficiently reproduce and contaminate surfaces and foods. It has been evident</figDesc><table><row><cell>% THP-1 cell viability (n = 3)</cell><cell></cell><cell></cell></row><row><cell>Concentration of PG-AgNPs</cell><cell>24 h</cell><cell>48 h</cell></row><row><cell>Control</cell><cell>98.7</cell><cell>95.2</cell></row><row><cell>10 mg/ml</cell><cell>96.1</cell><cell>95.6</cell></row><row><cell>25 mg/ml</cell><cell>92.7</cell><cell>94.7</cell></row><row><cell>50 mg/ml</cell><cell>90.2</cell><cell>89.5</cell></row><row><cell>100 mg/ml</cell><cell>89.3</cell><cell>90.1</cell></row><row><cell>150 mg/ml</cell><cell>87.9</cell><cell>86.6</cell></row><row><cell>200 mg/ml</cell><cell>88.5</cell><cell>85.8</cell></row></table><note><p>allows</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Azmat AliKhan, A.M. Alanazi, N. Alsaif et al.  Saudi Journal of Biological Sciences 28 (2021)  4191-4200</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>CRediT authorship contribution statement</head><p><rs type="person">Azmat Ali Khan</rs>: Conceptualization, Methodology, Investigation, Writing -review &amp; editing. <rs type="person">Amer M. Alanazi</rs>: Methodology. <rs type="person">Nawaf Alsaif</rs>: Methodology. <rs type="person">Tanveer A. Wani</rs>: Methodology. <rs type="person">Mashooq A. Bhat</rs>: Methodology.</p></div>
+<div><head>Acknowledgments</head><p>The authors would like to extend their sincere appreciation to the <rs type="funder">Deanship of Scientific Research at King Saud University</rs> for funding of this research through the Research Group Project No. <rs type="grantNumber">RGP-212</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_wn3uhVC">
+					<idno type="grant-number">RGP-212</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Competing Interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Biophysical interactions, docking studies and cytotoxic potential of a novel propofol-linolenate: A multi-technique approach</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Algrain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Baig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomol. Struct. Dyn</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2389" to="2401" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alanazi, A.M., Khan, A.A., Rehman, M.T., Jabeen, M., Algrain, N., Baig, M.H., 2020. Biophysical interactions, docking studies and cytotoxic potential of a novel propofol-linolenate: A multi-technique approach. J. Biomol. Struct. Dyn. 38 (8), 2389-2401.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Evaluation of the antioxidant, antibacterial and anticancer (lung cancer cell line A549) activity of Punica granatum mediated silver nanoparticles</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Annu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ikram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Res</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="923" to="930" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Annu, Ahmed, S., Kaur, G., Sharma, P., Singh, S., Ikram, S., 2018. Evaluation of the antioxidant, antibacterial and anticancer (lung cancer cell line A549) activity of Punica granatum mediated silver nanoparticles. Toxicol. Res. 7, 923-930.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Illuminating the anticancerous efficacy of a new fungal chassis for silver nanoparticle synthesis</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aziz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Faraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sherwani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fatma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Prasad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Chem</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aziz, N., Faraz, M., Sherwani, M.A., Fatma, T., Prasad, R., 2019. Illuminating the anticancerous efficacy of a new fungal chassis for silver nanoparticle synthesis. Front. Chem. 7, 65.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pomegranate extract-loaded solid lipid nanoparticles: design, optimization, and in vitro cytotoxicity study</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Badawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Teaima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>El-Say</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Attia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>El-Nabarawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Elmazar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1313" to="1326" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Badawi, N.M., Teaima, M.H., El-Say, K.M., Attia, D.A., El-Nabarawi, M.A., Elmazar, M. M., 2018. Pomegranate extract-loaded solid lipid nanoparticles: design, optimization, and in vitro cytotoxicity study. Int. J. Nanomed. 13, 1313-1326.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Antioxidant and anti-inflammatory activity of green synthesized silver nanoparticles using Salvia officinalis extract</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baharara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ramezani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mousavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Asadi-Samani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Trop. Med. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1265" to="1270" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baharara, J., Ramezani, T., Mousavi, M., Asadi-Samani, M., 2017. Antioxidant and anti-inflammatory activity of green synthesized silver nanoparticles using Salvia officinalis extract. Ann. Trop. Med. Public Health 10, 1265-1270.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Zinc oxide nanoparticles induce apoptosis and autophagy in human ovarian cancer cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">F</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="6521" to="6535" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bai, D.P., Zhang, X.F., Zhang, G.L., Huang, Y.F., Gurunathan, S., 2017. Zinc oxide nanoparticles induce apoptosis and autophagy in human ovarian cancer cells. Int. J. Nanomed. 12, 6521-6535.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Green Synthesis of Silver Nanoparticles with Antimicrobial Properties Using Phyla dulcis Plant Extract</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bandara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Grady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Osuji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weerasooriya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ampim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Woldesenbet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foodborne Pathog. Dis</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="504" to="511" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carson, L., Bandara, S., Joseph, M., Green, T., Grady, T., Osuji, G., Weerasooriya, A., Ampim, P., Woldesenbet, S., 2020. Green Synthesis of Silver Nanoparticles with Antimicrobial Properties Using Phyla dulcis Plant Extract. Foodborne Pathog. Dis. 17 (8), 504-511.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Solid lipid nanoparticles loaded with glucocorticoids protect auditory cells from cisplatin-induced ototoxicity</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Arana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Murillo-Cuesta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Alkorta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Varela-Nieto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">1464</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cervantes, B., Arana, L., Murillo-Cuesta, S., Bruno, M., Alkorta, I., Varela-Nieto, I., 2019. Solid lipid nanoparticles loaded with glucocorticoids protect auditory cells from cisplatin-induced ototoxicity. J. Clin. Med. 8 (9), 1464.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phytofabrication of silver nanoparticles using pomegranate fruit seeds</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Upadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomater. Biostruct</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="17" to="21" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chauhan, S., Upadhyay, M.K., Rishi, N., Rishi, S., 2011. Phytofabrication of silver nanoparticles using pomegranate fruit seeds. Int. J. Nanomater. Biostruct. 1, 17- 21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Antimicrobial and cytotoxicity effects of synthesized silver nanoparticles from Punica granatum peel extract</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devanesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Alsalhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Balaji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ranjitsingh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Alfuraydi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Y</forename><surname>Alqahtani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Aleanizy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Othman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">315</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Devanesan, S., AlSalhi, M.S., Balaji, R.V., Ranjitsingh, A., Ahamed, A., Alfuraydi, A.A., AlQahtani, F.Y., Aleanizy, F.S., Othman, A.H., 2018. Antimicrobial and cytotoxicity effects of synthesized silver nanoparticles from Punica granatum peel extract. Nanoscale Res. Lett. 13, 315.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Green chemistry for nanoparticle synthesis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="5778" to="5792" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duan, H., Wang, D., Li, Y., 2015. Green chemistry for nanoparticle synthesis. Chem. Soc. Rev. 44, 5778-5792.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles via Cynara scolymus leaf extracts: The characterization, anticancer potential with photodynamic therapy in MCF7 cells</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Erdogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abbak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Demirbolat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Birtekocak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aksel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">216496</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Erdogan, O., Abbak, M., Demirbolat, G.M., Birtekocak, F., Aksel, M., et al., 2019. Green synthesis of silver nanoparticles via Cynara scolymus leaf extracts: The characterization, anticancer potential with photodynamic therapy in MCF7 cells. PLoS One 14 (6), e0216496.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Listeria monocytogenes, a food-borne pathogen</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Farber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Peterkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="476" to="511" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Farber, J.M., Peterkin, P.I., 1991. Listeria monocytogenes, a food-borne pathogen. Microbiol. Rev. 55, 476-511.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Antitumor activity of colloidal silver on MCF-7 human breast cancer cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Franco-Molina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mendoza-Gamboa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Sierra-Rivera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Gómez-Flores</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zapata-Benavides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Castillo-Tello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Alcocer-González</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Miranda-Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tamez-Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rodríguez-Padilla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saudi Journal of Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">148</biblScope>
+			<date type="published" when="2010">2010. 2021</date>
+		</imprint>
+	</monogr>
+	<note>J. Exp. Clin. Cancer Res.</note>
+	<note type="raw_reference">Franco-Molina, M.A., Mendoza-Gamboa, E., Sierra-Rivera, C.A., Gómez-Flores, R.A., Zapata-Benavides, P., Castillo-Tello, P., Alcocer-González, J.M., Miranda- Hernández, D.F., Tamez-Guerra, R.S., Rodríguez-Padilla, C., et al., 2010. Azmat Ali Khan, A.M. Alanazi, N. Alsaif et al. Saudi Journal of Biological Sciences 28 (2021) 4191-4200 Antitumor activity of colloidal silver on MCF-7 human breast cancer cells. J. Exp. Clin. Cancer Res. 29, 148.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">New method for detecting slime production by coagulase negative staphylococci</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Falkiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Keane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="872" to="874" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Freeman, D.J., Falkiner, F.R., Keane, C.T., 1989. New method for detecting slime production by coagulase negative staphylococci. J. Clin. Pathol. 42, 872-874.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles using Lysiloma acapulcensis exhibit high-antimicrobial activity</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Garibo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Borbón-Nuñez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Díaz De León</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Mendoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Estrada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Toledano-Magaña</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tiznado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcela</forename><surname>Ovalle-Marroquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Soto-Ramos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Romo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><forename type="middle">A</forename><surname>Chávez-Almazán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Susarrey-Arce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">12805</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Garibo, D., Borbón-Nuñez, H.A., Díaz de León, J.N., Mendoza, E.G., Estrada, I., Toledano-Magaña, Y., Tiznado, H., Ovalle-Marroquin, Marcela., Soto-Ramos, A. G., Blanco, A., Rodríguez, J.A., Romo, O.A., Chávez-Almazán, Luis A., Susarrey- Arce, A., 2020. Green synthesis of silver nanoparticles using Lysiloma acapulcensis exhibit high-antimicrobial activity. Sci. Rep. 10, 12805.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Apoptotic efficacy of multifaceted biosynthesized silver nanoparticles on human adenocarcinoma cells</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Abrahamse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Ray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">14368</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">George, B.P.A., Kumar, N., Abrahamse, H., Ray, S.S., 2018. Apoptotic efficacy of multifaceted biosynthesized silver nanoparticles on human adenocarcinoma cells. Sci. Rep. 8, 14368.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Anticancer activity of silver nanoparticles synthesized using aqueous fruit shell extract of Tamarindus indica on MCF-7 human breast cancer cell line</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gomathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R X</forename><surname>Rajarathinam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sadiq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rajeshkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Drug Del. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page">101376</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gomathi, A.C., Rajarathinam, S.R.X., Sadiq, A.M., Rajeshkumar, S., 2020. Anticancer activity of silver nanoparticles synthesized using aqueous fruit shell extract of Tamarindus indica on MCF-7 human breast cancer cell line. J. Drug Del. Sci. Technol. 55, 101376.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Antibacterial efficacy of silver nanoparticles on endometritis caused by prevotella melaninogenica and arcanobacterum pyogenes in dairy cattle</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">1210</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gurunathan, S., Choi, Y.J., Kim, J.H., 2018. Antibacterial efficacy of silver nanoparticles on endometritis caused by prevotella melaninogenica and arcanobacterum pyogenes in dairy cattle. Int. J. Mol. Sci. 19, 1210.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Cytotoxicity of biologically synthesized silver nanoparticles in MDA-MB-231 human breast cancer cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Eppakayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jeyaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BioMed. Res. Int</title>
+		<imprint>
+			<biblScope unit="page">535796</biblScope>
+			<date type="published" when="2013">2013. 2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gurunathan, S., Han, J.W., Eppakayala, V., Jeyaraj, M., Kim, J.H., 2013a. Cytotoxicity of biologically synthesized silver nanoparticles in MDA-MB-231 human breast cancer cells. BioMed. Res. Int. 2013, 535796.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Enhanced antibacterial and anti-biofilm activities of silver nanoparticles against Gram-negative and Grampositive bacteria</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale REs Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">373</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gurunathan, S., Han, J.W., Kwon, D.N., Kim, J.H., 2014. Enhanced antibacterial and anti-biofilm activities of silver nanoparticles against Gram-negative and Gram- positive bacteria. Nanoscale REs Lett. 9, 373.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comparative assessment of the apoptotic potential of silver nanoparticles synthesized by Bacillus tequilensis and Calocybe indica in MDA-MB-231 human breast cancer cells: targeting p53 for anticancer therapy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="4203" to="14022" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gurunathan, S., Park, J.H., Han, J.W., Kim, J.H., 2015. Comparative assessment of the apoptotic potential of silver nanoparticles synthesized by Bacillus tequilensis and Calocybe indica in MDA-MB-231 human breast cancer cells: targeting p53 for anticancer therapy. Int. J. Nanomed. 10, 4203-14022.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles using Ganoderma neo-japonicum Imazeki: a potential cytotoxic agent against breast cancer cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Raman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Abd Malek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vikineswary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="4399" to="4413" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gurunathan, S., Raman, J., Abd Malek, S.N., John, P.A., Vikineswary, S., 2013b. Green synthesis of silver nanoparticles using Ganoderma neo-japonicum Imazeki: a potential cytotoxic agent against breast cancer cells. Int. J. Nanomed. 8, 4399- 4413.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Listeria monocytogenes: a multifaceted model</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bierne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cossart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Rev. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="423" to="434" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hamon, M., Bierne, H., Cossart, P., 2006. Listeria monocytogenes: a multifaceted model. Nature Rev. Microbiol. 4, 423-434.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Biosynthesis of silver nanoparticles using cucumis prophetarum aqueous leaf extract and their antibacterial and antiproliferative activity against cancer cell lines</title>
+		<author>
+			<persName><forename type="first">Meena</forename><surname>Hemlata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Tejavath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Mlata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Omega</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="5520" to="5528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hemlata, Meena, P.R., Singh, A.P., Tejavath, K.K., mlata et al. 2020. Biosynthesis of silver nanoparticles using cucumis prophetarum aqueous leaf extract and their antibacterial and antiproliferative activity against cancer cell lines. ACS Omega 5, 5520-5528.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">An update on the medical management of listeriosis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Opin. Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1727" to="1735" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hof, H., 2004. An update on the medical management of listeriosis. Expert Opin. Pharmacother. 5, 1727-1735.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Green synthesis of nanoparticles and its potential application</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="545" to="560" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hussain, I., Singh, N.B., Singh, A., Singh, H., Singh, S.C., 2016. Green synthesis of nanoparticles and its potential application. Biotechnol. Lett. 38 (4), 545-560.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Biosynthesis of silver nanoparticles from oropharyngeal Candida glabrata isolates and their antimicrobial activity against clinical strains of bacteria and fungi</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jalal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Alzohairy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Almatroudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Raees</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomaterials</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">586</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jalal, M., Ansari, M.A., Alzohairy, M.A., Ali, S.G., Khan, H.M., Almatroudi, A., Raees, K., 2018. Biosynthesis of silver nanoparticles from oropharyngeal Candida glabrata isolates and their antimicrobial activity against clinical strains of bacteria and fungi. Nanomaterials 8, 586.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Silver nanoparticles impede the biofilm formation by Pseudomonas aeruginosa and Staphylococcus epidermidis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kalishwaralal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Barathmanikanth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Pandian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Deepak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. B Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="340" to="344" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kalishwaralal, K., BarathManiKanth, S., Pandian, S.R., Deepak, V., Gurunathan, S., 2010. Silver nanoparticles impede the biofilm formation by Pseudomonas aeruginosa and Staphylococcus epidermidis. Colloids Surf. B Biointerfaces 79, 340-344.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles using Mentha pulegium and investigation of their antibacterial, antifungal and anticancer activity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H A</forename><surname>Kelkawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Kajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-K</forename><surname>Bordbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IET Nanobiotech</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="370" to="376" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kelkawi, A.H.A., Kajani, A.A., Bordbar, A.-K., 2017. Green synthesis of silver nanoparticles using Mentha pulegium and investigation of their antibacterial, antifungal and anticancer activity. IET Nanobiotech. 11 (4), 370-376.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Epidemiology of breast cancer</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Key</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Verkasalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Banks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="133" to="140" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Key, T.J., Verkasalo, P.K., Banks, E., 2001. Epidemiology of breast cancer. Lancet Oncol. 2, 133-140.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Pro-apoptotic activity of nano-escheriosome based oleic acid conjugate against 7, 12-dimethylbenz (a) anthracene (DMBA) induced cutaneous carcinogenesis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed. Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="295" to="302" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khan, A.A., 2017. Pro-apoptotic activity of nano-escheriosome based oleic acid conjugate against 7, 12-dimethylbenz (a) anthracene (DMBA) induced cutaneous carcinogenesis. Biomed. Pharmacother. 90, 295-302.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Enhanced Efficacy of Thiosemicarbazone derivative-encapsulated fibrin liposomes against candidiasis in murine model</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alsaif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Algrain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Wani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bhat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmaceut</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">333</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khan, A.A., Alanazi, A.M., Alsaif, N., Algrain, N., Wani, T.A., Bhat, M.A., 2021. Enhanced Efficacy of Thiosemicarbazone derivative-encapsulated fibrin liposomes against candidiasis in murine model. Pharmaceut. 13, 333.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Therapeutic potential of functionalized siRNA nanoparticles on regression of liver cancer in experimental mice</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ansari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="15825" to="15841" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khan, A.A., Alanazi, A.M., Jabeen, M., Chauhan, A., Ansari, M.A., 2019. Therapeutic potential of functionalized siRNA nanoparticles on regression of liver cancer in experimental mice. Sci. Rep. 9, 15825-15841.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Antifungal efficacy of amphotericin B encapsulated fibrin microsphere in treatment against Cryptococcus neoformans infection in Swiss albino mice</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz. J. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="342" to="348" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khan, A.A., Jabeen, M., Alanazi, A.M., Khan, A.A., 2016. Antifungal efficacy of amphotericin B encapsulated fibrin microsphere in treatment against Cryptococcus neoformans infection in Swiss albino mice. Braz. J. Infect. Dis. 20, 342-348.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Anticancer efficacy of novel propofol-linoleic acid loaded escheriosomal formulation against murine hepatocellular carcinoma</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Owais</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1281" to="1294" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khan, A.A., Jabeen, M., Khan, A.A., Owais, M., 2013. Anticancer efficacy of novel propofol-linoleic acid loaded escheriosomal formulation against murine hepatocellular carcinoma. Nanomed. 8 (8), 1281-1294.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">ZnO nanoparticles inhibit Pseudomonas aeruginosa biofilm formation and virulence factor production</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiol. Res</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="888" to="896" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lee, J.H., Kim, Y.G., Cho, M.H., Lee, J., 2014. ZnO nanoparticles inhibit Pseudomonas aeruginosa biofilm formation and virulence factor production. Microbiol. Res. 169, 888-896.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Bioactivity of selected essential oils and some components on Listeria monocytogenes biofilms</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Virijevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Regnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Combrinck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">South African J. Botany</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="676" to="680" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leonard, C.M., Virijevic, S., Regnier, T., Combrinck, S., 2010. Bioactivity of selected essential oils and some components on Listeria monocytogenes biofilms. South African J. Botany 76, 676-680.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Inhibition of Listeria monocytogenes infection by neurological drugs</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Lieberman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Higgins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Antimicrob. Agents</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="292" to="296" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lieberman, L.A., Higgins, D.E., 2010. Inhibition of Listeria monocytogenes infection by neurological drugs. Int. J. Antimicrob. Agents 35, 292-296.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">In vitro antimicrobial activity of green synthesized silver nanoparticles against selected gram-negative foodborne pathogens</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Loo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rukayadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M-Ab-R</forename><surname>Nor-Khaizura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Chieng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishibuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Radu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Loo, Y.Y., Rukayadi, Y., Nor-Khaizura, M-Ab-R., Kuan, C.H., Chieng, B.W., Nishibuchi, M., Radu, S., 2018. In vitro antimicrobial activity of green synthesized silver nanoparticles against selected gram-negative foodborne pathogens. Front. Microbiol. 9, 1-7.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">An investigation into the effects of silver nanoparticles on antibiotic resistance of naturally occurring bacteria in an estuarine sediment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muhling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bradford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Readman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Somerfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Handy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Environ. Res</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="278" to="283" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muhling, M., Bradford, A., Readman, J.W., Somerfield, P.J., Handy, R.D., 2009. An investigation into the effects of silver nanoparticles on antibiotic resistance of naturally occurring bacteria in an estuarine sediment. Marine Environ. Res. 68, 278-283.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Recent developments in the plant-mediated green synthesis of Ag-based nanoparticles for environmental and catalytic applications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nasrollahzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Yek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-G</forename><surname>Motahharifar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gorab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Chem. Rec</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="2436" to="2479" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nasrollahzadeh, M., Yek, S.M.-G., Motahharifar, N., Gorab, M.G., 2019. Recent developments in the plant-mediated green synthesis of Ag-based nanoparticles for environmental and catalytic applications. The Chem. Rec. 19, 2436-2479.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Biogenesis of silver nanoparticles using endophytic fungus Pestalotiopsis microspora and evaluation of their antioxidant and anticancer activities</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Netala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Bethu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pushpalatha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">B</forename><surname>Baki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aishwarya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tartte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="5683" to="5696" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Netala, V.R., Bethu, M.S., Pushpalatha, B., Baki, V.B., Aishwarya, S., Rao, J.V., Tartte, V., 2016. Biogenesis of silver nanoparticles using endophytic fungus Pestalotiopsis microspora and evaluation of their antioxidant and anticancer activities. Int. J. Nanomed. 11, 5683-5696.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles from pomogranate (Punica granatum) and analysis of anti-bacterial activity</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Nisha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tamileswari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jesurani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kanagesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hashim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Catherine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Adv. Technol. Eng. Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">297</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nisha, H.M., Tamileswari, R., Jesurani, S., Kanagesan, S., Hashim, M., Catherine, S., Alexander, P., 2015. Green synthesis of silver nanoparticles from pomogranate (Punica granatum) and analysis of anti-bacterial activity. Int. J. Adv. Technol. Eng. Sci. 3, 297.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Staphylococcal biofilms</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Otto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bacterial Biofilms</title>
+		<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="207" to="228" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Otto,, M., 2008. &apos;&apos;Staphylococcal biofilms&quot;. Bacterial Biofilms. Heidelberg, Springer, pp. 207-228.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">C-Met inhibitors are potential novel therapeutic agents against listeria monocytogenes infection through blocking the bacteria entry into nonphagocytic cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Puthiyakunnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boddu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Topics Med. Chem</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="278" to="289" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Puthiyakunnon, S., He, X., Boddu, S., Huang, S.H., Cao, H., 2017. C-Met inhibitors are potential novel therapeutic agents against listeria monocytogenes infection through blocking the bacteria entry into nonphagocytic cells. Curr. Topics Med. Chem. 17, 278-289.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Green chemistry synthesis of silver nanoparticles and their potential anticancer effects</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">A</forename><surname>Ratan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Haidere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nurunnabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Shahriar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J S</forename><surname>Ahammad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J T</forename><surname>Reaney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancers (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">855</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ratan, Z.A., Haidere, M.F., Nurunnabi, M., Shahriar, S.M., Ahammad, A.J.S., Shim, Y.Y., Reaney, M.J.T., Cho, J.Y., 2020. Green chemistry synthesis of silver nanoparticles and their potential anticancer effects. Cancers (Basel) 12 (4), 855.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Green synthesis of potent antimicrobial silver nanoparticles using different plant extracts and their mixtures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ashames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Edis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bloukh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bhandare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Abu Sara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Processes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">510</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reda, M., Ashames, A., Edis, Z., Bloukh, S., Bhandare, R., Abu Sara, H., 2019. Green synthesis of potent antimicrobial silver nanoparticles using different plant extracts and their mixtures. Processes 7, 510.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Investigation of the effect of pomegranate extract and monodisperse silver nanoparticle combination on MCF-7 cell line</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sahin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aygun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gunduz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<biblScope unit="page" from="79" to="83" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sahin, B., Demir, E., Aygun, A., Gunduz, H., Sen, F., 2017. Investigation of the effect of pomegranate extract and monodisperse silver nanoparticle combination on MCF-7 cell line. J. Biotechnol. 260, 79-83.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Green synthesis of silver nanoparticles from aqueous leaf extract of Pomegranate (Punica granatum) and their anticancer activity on human cervical cancer cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kotteeswaran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Nat. Sci. Nanosci. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">25014</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sarkar, S., Kotteeswaran, V., 2018. Green synthesis of silver nanoparticles from aqueous leaf extract of Pomegranate (Punica granatum) and their anticancer activity on human cervical cancer cells. Adv. Nat. Sci. Nanosci. Nanotechnol. 9, 025014.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Combating intracellular pathogens with repurposed hosttargeted drugs</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Einav</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Infec. Dis</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="88" to="92" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schor, S., Einav, S., 2018. Combating intracellular pathogens with repurposed host- targeted drugs. ACS Infec. Dis. 4, 88-92.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Preparation of cells for assessing ultrastructural localization of nanoparticles with transmission electron microscopy</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Schrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Schlager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hussain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Prot</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="744" to="757" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schrand, A.M., Schlager, J.J., Dai, L., Hussain, S.M., 2010. Preparation of cells for assessing ultrastructural localization of nanoparticles with transmission electron microscopy. Nat. Prot. 5, 744-757.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Drug targeting to infectious diseases by nanoparticles surface functionalized with special biomolecules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sundar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Prajapati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Med. Chem</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3196" to="3202" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sundar, S., Prajapati, V.K., 2012. Drug targeting to infectious diseases by nanoparticles surface functionalized with special biomolecules. Curr. Med. Chem. 19, 3196-3202.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Development of antituberculous drugs: current status and future prospects</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tomioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Namba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tuberculosis</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="753" to="774" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Kekkaku</note>
+	<note type="raw_reference">Tomioka, H., Namba, K., 2006. [Development of antituberculous drugs: current status and future prospects] Kekkaku : [Tuberculosis] 81, 753-774.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Antimicrobial, antioxidant, and anticancer activities of biosynthesized silver nanoparticles using marine algae ecklonia cava</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Venkatesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomaterials (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">235</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Venkatesan, J., Kim, S.K., Shim, M.S., 2016. Antimicrobial, antioxidant, and anticancer activities of biosynthesized silver nanoparticles using marine algae ecklonia cava. Nanomaterials (Basel) 6 (12), 235.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The use of nanoparticles in antimicrobial materials and their characterization</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Whelan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Regan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analyst</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="835" to="845" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weir, E., Lawlor, A., Whelan, A., Regan, F., 2008. The use of nanoparticles in anti- microbial materials and their characterization. Analyst. 133, 835-845.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The antibacterial mechanism of silver nanoparticles and its application in dentistry</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">X</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2555" to="2562" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yin, I.X., Zhang, J., Zhao, I.S., Mei, M.L., Li, Q., Chu, C.H., 2020. The antibacterial mechanism of silver nanoparticles and its application in dentistry. Int. J. Nanomed. 15, 2555-2562.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">A review on preparation and applications of silver-containing nanofibers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vlahovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, S., Tang, Y., Vlahovic, B., 2016. A review on preparation and applications of silver-containing nanofibers. Nanoscale Res. Lett. 11 (1), 80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Azmat</forename><surname>Ali Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alanazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alsaif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saudi Journal of Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="4191" to="4200" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Azmat Ali Khan, A.M. Alanazi, N. Alsaif et al. Saudi Journal of Biological Sciences 28 (2021) 4191-4200</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

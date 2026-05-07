@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Biomagnetic Pair Therapy and Typhoid Fever: A Pilot Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-10-01">2017-10-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Bryan</forename><forename type="middle">L</forename><surname>Frank</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Partners, Inc. , Edmond , OK.</note>
+								<orgName type="institution">Partners, Inc</orgName>
+								<address>
+									<settlement>Edmond</settlement>
+									<region>OK</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Biomagnetic Pair Therapy and Typhoid Fever: A Pilot Study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Medical Acupuncture</title>
+						<title level="j" type="abbrev">Medical Acupuncture</title>
+						<idno type="ISSN">1933-6586</idno>
+						<idno type="eISSN">1933-6594</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">29</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="308" to="312"/>
+							<date type="published" when="2017-10-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E6BAFF1F6E3FD3DA08147B843E1295C1</idno>
+					<idno type="DOI">10.1089/acu.2017.1253</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>typhoid fever</term>
+					<term>Salmonella typhi</term>
+					<term>Biomagnetic Pair Therapy</term>
+					<term>medical biomagnetism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective: This pilot study examined the laboratory responses of patients with laboratory-documented typhoid fever who were treated with Biomagnetic Pair Therapy (BPT; medical biomagnetism), a specific application of pairs of magnets for various ailments that are infectious and otherwise. Materials and Methods: This study was an assessment of patients' response to treatment with only BPT for Salmonella typhi infections (typhoid fever) using standard conventional laboratory techniques. The research was conducted in an outpatient village clinic in Kenya. There were 52 participants who were evaluated for possible systemic illness, including typhoid fever, from an open-label study. Participants who felt sick and requested testing for possible typhoid fever were tested with a standard Widal test by a certified laboratory technician. Participants who tested positive (13 patients) were then treated with BPT (a ''First Aid'' approach) only. These participants then returned for follow-up laboratory and clinical evaluations after 2 days. Results: Most of the participants (10 of 13) retested as negative, and all patients reported symptomatic clinical improvement. Conclusions: As a significant majority of participants demonstrated clearing of their S. typhi after BPT, this technique should be studied further in larger trials for its efficacy in treating typhoid fever.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>T yphoid fever is a serious systemic infectious disease with staggering effects on children and adults in crowded and impoverished populations with poor sanitation who are thus exposed to unsafe water and food supplies. High prevalence exists in Southeast and South Asia, as well as in Africa and South America. One study <ref type="bibr" target="#b0">1</ref> reported that, in 2000, 21.7 million illnesses and 217,000 deaths resulted in patients infected with Salmonella typhi. Furthermore, concern regarding adequate availability of therapeutic medicine, as well as antimicrobial resistance to various medicines, is prevalent in global health assessments.</p><p>The Widal test, named for Georges-Fernand Widal, MD, (1862-1929 ad) was developed in 1896. The test is a pre-sumptive serologic test in which S. typhi bacteria antigens are mixed with a patient's serum that might contain specific antibodies to the S. typhi bacteria. Positive tests show agglutination or clumping of the mix that is visible to the naked eye. <ref type="bibr" target="#b0">1</ref> Basic laboratory testing with the Widal test is, at times, beyond the financial availability of many developing nations, and the test itself is subject to limitations of both sensitivity and specificity. However, the Widal method is both quick and relatively inexpensive compared to urine, stool, or blood cultures, or bone-marrow culture methods. The bone marrow method is considered to perhaps be the best method of laboratory confirmation, though often unavailable in certain parts of the globe due to technical or fiscal restraints.</p><p>Typhoid fever, also known globally as enteric fever, is associated with symptoms including high fever (as high as 104.9°F/40.5°C), fatigue, headache, dry cough, abdominal pain, diarrhea or constipation, weight loss, and a rash known as ''rose spots.'' Early diagnosis and treatment are important, as serious complications-including severe intestinal bleeding or perforation and death-can occur within days or weeks.</p><p>Common therapy for typhoid fever includes antibiotics, along with supportive care with hydration and nutrition, as well as stringent sanitation and hygiene. Additionally, specific care for complications must be addressed individually, including possible bowel perforation; pneumonia; myocarditis or endocarditis; meningitis; and psychiatric problems, such as delirium, hallucinations, and psychosis. <ref type="bibr" target="#b1">2</ref> Commonly, patients are treated with antibiotics such as oral ciprofloxacin (Cipro Ò ) or perhaps injectable ceftriaxone (Rocephin Ò ). Antibiotic resistance is increasing, and long-term use of the same antibiotics in a region can contribute to this situation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biomagnetic Pair Therapy</head><p>Biomagnetic Pair Therapy (BPT)-developed by Isaac Goiz Dura ´n, MD, over the last 30 years-has proven to be beneficial for addressing a wide variety of clinical illnesses, including infectious diseases. <ref type="bibr" target="#b2">3</ref> BPT sessions involve scanning a patient from head to foot energetically to identify organs or tissues that are out of normal polarity. The scanning is based on a variation of applied kinesiology or muscle testing, a practice very common among chiropractors, naturopaths, and some integrative medical doctors. The initial concepts of muscle testing were presented by chiropractor, George Goodheart, Jr., DC, in 1964. The American Academy of Medical Acupuncture (AAMA) has presented physicians demonstrating the clinical utility of muscle testing in both the AAMA's annual symposia and has published at least 1 article in Medical Acupuncture. <ref type="bibr" target="#b3">4</ref> In muscle testing, a patient is challenged with ''information'' to determine whether the information will be in harmony or resonance with the patient versus in disharmony or dissonance. The ''information'' may be in the form of a nutrient or supplement, a pharmaceutical agent, or virtually anything the examiner wants to test, including touching various organs and tissues of the patient. The ''information'' may also be delivered verbally to determine if the patient receives it as harmonious or not. Initially, the strength of a muscle is tested (commonly the deltoid of the upper arm or the thumb and an opposing finger) to determine the baseline strength of the muscle. The ''information'' is then given to the patient and, when it is in disharmony with the patient, the muscle tested will soon become weak. ''Information'' that is in harmony allows the patient's muscle to remain strong. <ref type="bibr" target="#b4">5</ref> This energetic form of testing-while perhaps unusual for many conventional allopathic physicians-is regularly practiced by other healthcare professionals daily with great reliability. Ben Thurman, MD, demonstrated this response in the 1996 Annual Symposium for the AAMA while touching 5-Element-related points around a patient's um-bilicus and then specific acupuncture points in the Command Points grouping to determine which meridians and points to treat specifically. <ref type="bibr" target="#b5">6</ref> Additionally, Jay Sandweiss, DO, and John Diamond, MD,-both well-regarded practitioners and teachers in the AAMA-have also presented the use of muscle testing or applied kinesiology and its integration with medical acupuncture in various AAMA Symposia and workshops. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> In BPT, a modification of muscle testing is made wherein the right leg (and hemicorpus) is found to contract slightly when ''information'' is in disharmony with the body. This offers the advantage that, when testing many items, the patient will not become fatigued from trying to demonstrate a strong muscle. With BPT, as many as 200 organs and tissues in the body are scanned to identify those that lead the right leg to shorten on examination. Each organ/tissue that causes such a reaction is considered out of normal polarity. Additionally, these organs/tissues will all be paired with an organ/tissue that, when treated as a pair, will restore healthy polarity to the patient.</p><p>Initially in BPT, the black or negative pole of a magnet is placed on the various organs/tissues to identify which organs/tissues lead to a shortening of the right leg. <ref type="bibr" target="#b2">3</ref> This shortening might be only ¼-½ †, or might be 1 † or more. The reaction is prompt and reproducible and is generally more pronounced in well-hydrated patients. As BPT advanced, Goiz Dura ´n recognized that the organs/tissues could be stated verbally and the leg would shorten on mentions of those organs/tissues that were out of normal polarity. This verbal application is generally termed advanced bioenergetics by Dr. Goiz Dura ´n and his many colleagues around the world. Performing a scan of more than 200 organs/tissues is much more efficient using the advanced bioenergetics method than by manually placing a magnet for these structures one at a time. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> Each of the structures identified in the original scan is treated with the black/negative magnet placed against the patient's skin or clothing over the organ/tissue that has been identified. Furthermore, each will be paired with an organ/ tissue that will bring the leg lengths back to equal when a red/positive magnet is placed on the patient's skin or clothing over the appropriate paired organ/tissue. Some organs/tissues have only one recognized potential pairing and others have up to 4-5 structures as possibilities that one of them could be the proper pairing for the patient at a given time. Once the pair is identified through the energetics of muscle testing, the patient is treated with the negative magnetic pole over the first structure and the positive magnetic pole over the paired structure. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref> Magnets are typically 1000 + G [gauss] in strength when used for BPT (Fig. <ref type="figure" target="#fig_0">1</ref>) The placement of the magnets will require more time when a patient is located further away from the equator. For instance, it is common in the author's practice to need 16-20 minutes for magnet placement in Oklahoma. However, in Kenya, which is a &lt;30-minutes' drive to the equator, only 3-5 minutes were necessary for complete treatment. The therapist can query the patient with the same muscle leg length testing to determine specifically the time needed for adequate treatment.</p><p>Goiz Dura ´n proposes that, when the active pairs are treated appropriately and for a sufficient time, the tissue polarity as well as the tissue pH is normalized. With these changes toward health, microbes do not thrive and replicate and are thus eliminated, typically in a matter of a few days, more or less.</p><p>While unfamiliar to many US physicians and acupuncturists, BPT has been taught to more than 30,000 practitioners in the last 30 years in Me ´xico, Ecuador, Spain, the United States, and elsewhere. BPT is currently a certified medical subject* recognized by medical colleges in Me ´xico, Ecuador, Chile, and Spain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>At a Kenyan charitable clinic in a small village, 52 participants voluntarily submitted for evaluation of possible systemic illness, including typhoid fever, which is common in that small village. These participants felt symptoms that led them to request blood testing for malaria and/or typhoid fever-two very common illnesses in Kenya, each with great morbidity and mortality. None of the patients had previously sought conventional care due to personal-usually financial-reasons. None of the participants were taking medications for suspected malaria or typhoid fever at the time of presentation. None of the patients were had extreme or dire severity of their illnesses but felt sick and desired care in the charitable clinic. All of the participants were given the opportunity for conventional care or a trial of BPT. The patients involved in this trial chose to start with BPT.</p><p>Of the patients tested, 13 had positive laboratory values for S. typhi according to a standard Widal test by a certified laboratory technician. These participants were then scanned using the BPT/bioenergetic techniques described in the above section.</p><p>To date, several biomagnetic pairs have been identified as associated with typhoid illnesses. These pairs include Greater Trochanter/Greater Trochanter (Greater Trochanter 2), Temporal/Temporal (Temporal 2), Peri-hepatic/Peri-hepatic (Perihepatic 2), and Cervical/Supraspinatus. The first structure of these pairs is identified with the negative magnetic polarity and, if involved, will lead to a prompt shortening of the right leg when the black/negative magnet is placed over the structure or when the structure is mentioned verbally. The second structure of the pair is identified with the positive magnetic polarity and will lead the legs to resume equal length, if the second structure is involved in the pair. One or more of these pairs or other pairs related to other conditions might be identified in any scanning session with a patient.</p><p>Once the involved pairs were identified, the magnets were placed on the Kenyan patients for 3-5 minutes, depending on the amount of time their energetic tests indicated was necessary, as discussed above. Furthermore, if a Greater Trochanter is identified, the scan is then used to inquire whether the left or right structure is specifically out of polarity and is identified with the negative polarity. The specific structure identified is treated with the negative magnetic polarity and the contralateral Greater Trochanter is treated with the positive magnetic polarity.</p><p>Greater Trochanter 2 is specifically identified as the pair consistent with S. typhi, while Temporal 2 is identified with typhoid exanthemum, Peri-hepatic 2 with Morganella typhi, and Cervical/Suprspinatus with Balantidis typhi. FIG. 2. Biomagnetic pairs placed in clinic A. *Goiz Dura ´n I. 1 st Level Course of Biomagnetic Pair [in Spanish with simultaneous English translation]. San Francisco, CA, November 12, 2015.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="310">FRANK</head><p>Downloaded by Gothenburg University Library from online.liebertpub.com at 11/18/17. For personal use only.</p><p>Of the 13 patients who had a + Widal test for typhoid fever, 10 patients were subsequently found to be negative on their follow-up Widal tests 2 days later. Clinically, all participants, irrespective of test results, reported moderate-tosignificant improvement as well.</p><p>The 3 patients who had a + Widal test after 2 days were treated with conventional antibiotic therapy and with BPT for a second session. These patients' test results might, however, have changed to negative in another day without intervention, or perhaps with a second BPT session alone. This needs to be studied in future trials. (Figs. <ref type="figure">2</ref><ref type="figure">3</ref><ref type="figure">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Typhoid fever is a serious and deadly illness that is endemic across much of the world. While some patients are diagnosed and treated efficiently, many might not seek diagnostic evaluation or treatment due to poverty, isolation, ignorance, or other reasons. BPT has demonstrated efficacy against many ailments worldwide, including infectious diseases, for 30 years as Goiz Dura ´n has taught and researched extensively. <ref type="bibr" target="#b2">3</ref> In this pilot study, only a brief ''First Aid'' approach to BPT was used. It is quite possible that a more-comprehensive patient scanning and treatment of other potentially active biomagnetic pairs would lead to greater clinical benefits. This brief approach was used to evaluate its effectiveness and as a simplified approach that could be taught quickly to providers without comprehensive BPT training in this village setting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>This pilot study demonstrated that a significant majority (10/13) of participants had clearing of S. typhi when treated with BPT. Further large-scale studies on the use of BPT for typhoid fever and other illnesses are warranted.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIG. 1 .</head><label>1</label><figDesc>FIG. 1. Pair of Neodymium permanent magnets.</figDesc><graphic coords="3,62.76,58.79,237.66,171.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="4,311.53,58.79,237.66,335.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="4,89.29,58.79,180.06,311.13" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded by Gothenburg University Library from online.liebertpub.com at 11/18/17. For personal use only.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR DISCLOSURE STATEMENT</head><p>No competing interests exist.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<ptr target="https://labtestsonline.org/understanding/analytes/widal/tab/" />
+		<title level="m">Ò Widal Test</title>
+		<imprint>
+			<date type="published" when="2016-12-16">December 16, 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>Lab Tests Online ; AACC</orgName>
+		</respStmt>
+	</monogr>
+	<note>in clinic C. FIG. 3. Biomagnetic pairs placed in clinic B</note>
+	<note type="raw_reference">Lab Tests Online.Ò Widal Test. AACC. Online document at: https://labtestsonline.org/understanding/analytes/widal/tab/ glance Accessed December 16, 2016. FIG. 4. Biomagnetic pairs placed in clinic C. FIG. 3. Biomagnetic pairs placed in clinic B.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Mayo</forename><forename type="middle">Typhoid</forename><surname>Clinic</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fever</surname></persName>
+		</author>
+		<ptr target="www.mayoclinic.org/diseases-conditions/typhoid-fever/basics/complications/con-20028553" />
+		<imprint>
+			<date type="published" when="2016-12-16">December 16, 2016</date>
+		</imprint>
+	</monogr>
+	<note>Online document at</note>
+	<note type="raw_reference">Mayo Clinic. Typhoid Fever. Online document at: www.mayo clinic.org/diseases-conditions/typhoid-fever/basics/complications/ con-20028553 Accessed December 16, 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hı ´lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Goiz</forename><surname>Dura ´n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mendoza</forename><surname>Castela ´n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biomagnetic Pair Fungi, Viruses, Bacteria and Parasites</title>
+		<meeting><address><addrLine>City, Me ´xico</addrLine></address></meeting>
+		<imprint>
+			<publisher>Universidad Auto ´noma Chapingo</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hı ´lu R, Goiz Dura ´n I, Mendoza Castela ´n G. Biomagnetic Pair Fungi, Viruses, Bacteria and Parasites. Me ´ico City, Me ´xico: Universidad Auto ´noma Chapingo; 2010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An eclectic technique for sequencing and treating principle meridian command points to achieve energetic balance</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thurman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Acupunct</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="9" to="15" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thurman B. An eclectic technique for sequencing and treating principle meridian command points to achieve energetic balance. Med Acupunct. 1966;8(2):9-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Applied Kinesiology: A Training Manual and Reference Book of Basic Principles and Practices</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frost</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>North Atlantic Books</publisher>
+		</imprint>
+	</monogr>
+	<note>rev. ed</note>
+	<note type="raw_reference">Frost R. Applied Kinesiology: A Training Manual and Re- ference Book of Basic Principles and Practices, rev. ed. North Atlantic Books; 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Muscle testing and curious meridians [presentation</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thurman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">American Academy of Medical Acupuncture 8th Annual Pre-Symposium Workshop</title>
+		<meeting><address><addrLine>San Francisco, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996-06-06">June 6, 1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thurman B. Muscle testing and curious meridians [presenta- tion]. American Academy of Medical Acupuncture 8th An- nual Pre-Symposium Workshop. San Francisco, CA, June 6, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Applied kinesiology for the physician acupuncturist</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sandweiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">12th Annual American Academy of Medical Acupuncture Symposium</title>
+		<meeting><address><addrLine>Orlando, FL</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">April 28-30, 2000</date>
+		</imprint>
+	</monogr>
+	<note>presentation</note>
+	<note type="raw_reference">Sandweiss J. Applied kinesiology for the physician acu- puncturist [presentation]. 12th Annual American Academy of Medical Acupuncture Symposium. Orlando, FL, April 28-30, 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">allergy desensitization, energetic measurements of acupuncture meridians</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Biokinesiology</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">9th Annual American Academy of Medical Acupuncture Annual Symposium</title>
+		<meeting><address><addrLine>Arlington, VA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997-06-01">May 30-June 1, 1997</date>
+		</imprint>
+	</monogr>
+	<note>presentation</note>
+	<note type="raw_reference">Diamond J. Biokinesiology, allergy desensitization, energetic measurements of acupuncture meridians [presentation]. 9th Annual American Academy of Medical Acupuncture Annual Symposium. Arlington, VA, May 30-June 1, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Biomagnetic Pair. Me ´xico City</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Goiz Dura ´n</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Universidad Auto ´noma Chapingo</publisher>
+			<pubPlace>Me ´xico</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goiz Dura ´n I. The Biomagnetic Pair. Me ´xico City, Me ´xico: Universidad Auto ´noma Chapingo; 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">How Magnets Saved My Life: A Holistic Guide for Optimal Living</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Durazo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Durazo Publishing</publisher>
+			<pubPlace>Santa Ana, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>5th ed</note>
+	<note type="raw_reference">Durazo M. How Magnets Saved My Life: A Holistic Guide for Optimal Living, 5th ed. Santa Ana, CA: Durazo Publishing; 2015.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Tumoral Phenomenon. Me ´xico City, Me ´xico: Medicinas Alternativas y Rehabilitacio</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Goiz Dura ´n</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>SA de CV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goiz Dura ´n I. The Tumoral Phenomenon. Me ´xico City, Me ´xico: Medicinas Alternativas y Rehabilitacio ´n SA de CV; 2016.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bailey</surname></persName>
+		</author>
+		<title level="m">Bioenergetic Basics: The Art of Dynamic Wellness with Goiz Biomagnetic Pairs</title>
+		<meeting><address><addrLine>Charleston, SC</addrLine></address></meeting>
+		<imprint>
+			<publisher>BookSurge Publishers</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Address correspondence to</note>
+	<note type="raw_reference">Bailey J. Bioenergetic Basics: The Art of Dynamic Wellness with Goiz Biomagnetic Pairs. Charleston, SC: BookSurge Publishers; 2010. Address correspondence to:</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bryan</forename><forename type="middle">L</forename><surname>Frank</surname></persName>
+		</author>
+		<ptr target="bfrankmd@hotmail.com" />
+		<title level="m">MD Re-Genesis Health: New Beginnings in Health &amp; Wellness Global Mission Partners, Inc. 65</title>
+		<meeting><address><addrLine>South Saints Boulevard Edmond, OK 73034 E</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Bryan L. Frank, MD Re-Genesis Health: New Beginnings in Health &amp; Wellness Global Mission Partners, Inc. 65 South Saints Boulevard Edmond, OK 73034 E-mail: bfrankmd@hotmail.com</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

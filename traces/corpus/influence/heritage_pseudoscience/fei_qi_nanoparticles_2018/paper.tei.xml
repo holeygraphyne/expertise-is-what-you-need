@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Probing the&lt;i&gt;Qi&lt;/i&gt;of traditional Chinese herbal medicines by the biological synthesis of nano-Au</title>
+				<funder ref="#_WXBFJ2d">
+					<orgName type="full">Singapore Ministry of Education</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Academic Research Fund</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Royal Society of Chemistry (RSC)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-04-13">13 April 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Xiang</forename><surname>Fei</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemical and Biomolecular Engineering , National University of Singapore , 10 Kent Ridge Crescent , Singapore 119260 , Republic of Singapore.</note>
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<addrLine>10 Kent Ridge Crescent</addrLine>
+									<postCode>119260</postCode>
+									<settlement>Singapore</settlement>
+									<country>Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qiaofeng</forename><surname>Yao</surname></persName>
+							<idno type="ORCID">0000-0002-5129-9343</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemical and Biomolecular Engineering , National University of Singapore , 10 Kent Ridge Crescent , Singapore 119260 , Republic of Singapore.</note>
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<addrLine>10 Kent Ridge Crescent</addrLine>
+									<postCode>119260</postCode>
+									<settlement>Singapore</settlement>
+									<country>Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jianping</forename><surname>Xie</surname></persName>
+							<idno type="ORCID">0000-0002-3254-5799</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemical and Biomolecular Engineering , National University of Singapore , 10 Kent Ridge Crescent , Singapore 119260 , Republic of Singapore.</note>
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<addrLine>10 Kent Ridge Crescent</addrLine>
+									<postCode>119260</postCode>
+									<settlement>Singapore</settlement>
+									<country>Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jim</forename><forename type="middle">Yang</forename><surname>Lee</surname></persName>
+							<idno type="ORCID">0000-0003-1569-9718</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemical and Biomolecular Engineering , National University of Singapore , 10 Kent Ridge Crescent , Singapore 119260 , Republic of Singapore.</note>
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<addrLine>10 Kent Ridge Crescent</addrLine>
+									<postCode>119260</postCode>
+									<settlement>Singapore</settlement>
+									<country>Republic of Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Probing the&lt;i&gt;Qi&lt;/i&gt;of traditional Chinese herbal medicines by the biological synthesis of nano-Au</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Materials Chemistry B</title>
+						<title level="j" type="abbrev">J. Mater. Chem. B</title>
+						<idno type="ISSN">2050-750X</idno>
+						<idno type="eISSN">2050-7518</idno>
+						<imprint>
+							<publisher>Royal Society of Chemistry (RSC)</publisher>
+							<biblScope unit="volume">6</biblScope>
+							<biblScope unit="issue">19</biblScope>
+							<biblScope unit="page" from="3156" to="3162"/>
+							<date type="published" when="2018-04-13">13 April 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">728B30E5732D94355A34D64F9F2CCBDD</idno>
+					<idno type="DOI">10.1039/c8tb00068a</idno>
+					<note type="submission">Received 9th January 2018, Accepted 12th April 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Herbal medicines with different Qi properties (the primary proxy of their therapeutic effects) are used in traditional Chinese medicine to maintain the harmony of vital forces in a human body. In the Western medicinal practice, the classification of Qi into four major families (''Si Qi'' in Chinese Pinyin) is a challenging endeavor, especially by a simple non-reductionist approach. The method presented here is however able to distinguish the Qi of herbal medicines based on the measurements of several Qi-related features in a biological synthesis of nano-Au in herbal extracts: solution color, surface plasmon resonance properties, reaction time and nano-Au morphology. These Qi-related features on their own do not form sufficiently distinct clusters that are useful for the classification of the Qi-properties. The power of differentiation, however, is significantly improved when all the Qi-related features are considered together. The statistics of differentiation is encouraging, enabling us to develop a scheme which can classify all of the tested TCHMs into their respective Qi families. While this classification method was developed using a limited number of herbal medicines with known Qi properties, it has the potential to be applied as a scientific quick test to determine the Qi of new herbal medicines or herbal concoctions. It is our aspiration that this study can generate more interest in the development of non-reductionist approaches to modernize the understanding of TCHMs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Traditional Chinese Medicine (TCM) is an alternative medical system rooted in Eastern philosophy which has developed its own unique theranostic methodologies. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Although TCM has a complete system of classifying the functional states; its unique and seemingly inaccessible language has mystified its treatment philosophy. <ref type="bibr" target="#b2">3</ref> For example, TCM practitioners describe the physiological and pathological states of a human body in terms of Yin and Yang. TCM believes that the imbalance of Yin and Yang is the cause for disease. Consequently, disease prevention and treatment is all about restoring a body's Yin and Yang to the balanced state. TCM relies more on the use of Traditional Chinese Herbal Medicines (TCHMs) than surgical procedures to deliver treatments. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> TCHMs are categorized, according to their therapeutic effect on the Yin/Yang balance, into two broad categories of Yang and Yin, which can be further divided into four large Qi families (hot, warm, cool and cold (Table <ref type="table">1</ref>); collectively known as ''Si Qi'' in Chinese Pinyin). The clinical application of TCHMs is governed by their Qi properties. As a basic principle, the Yang TCHMs are the cure for Yin diseases (e.g., typhoid and diarrhea), while the Yin TCHMs are the cure for Yang diseases (e.g., pyrexia and anorexia). <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> It is also believed that the Yang medicines enhance the metabolism of organisms, while the Yin medicines do exactly the opposite by suppressing metabolism. Time-tested practices in medication are the basis of these principles.</p><p>Despite the accumulation of an immense amount of clinical knowledge about the Qi properties of TCHMs, the modern pharmacology approach to understanding the TCHMs (i.e., identification of active ingredients, the pharmacokinetics and pharmacodynamics of TCHMs) is a relatively new development which began in the early 20th century. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> Current pharmacology investigations of TCHMs are conducted mainly using either the chemical approach or the biological approach. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b7">8</ref> In the former, the active ingredients of a TCHM are isolated, chemically assayed, and catalogued. Given the extraordinarily large number of components in a TCHM, the identification of biologically active molecules responsible for the Qi properties by this reductionist approach is an extremely daunting, if not impossible, undertaking. The biological approach examines the therapeutic effects of TCHMs in animal studies, which involves not only an equally onerous effort but also ethical considerations. Although the reductionist approach has accomplished great success in Western medical research, the development of TCM and TCHMs is historically experiential with a strong emphasis on biological holism, i.e., the appreciation that a therapeutic outcome is determined by the fault tolerance, cooperative action, and self-regulation inherent in a complex system. Hence it is more constructive to regard Qi as the collective property of a TCHM, and to develop a non-reductionist approach for its determination.</p><p>In this report, we will demonstrate the use of a biological synthesis of nano-Au 9 in TCHM extracts to distinguish the TCHM Qi properties. The synthesis features such as solution color, reaction time; and the surface plasmon resonance (SPR) properties and morphology of nano-Au, were all found to be Qi-related. Through the statistical analysis of these Qi-related features, we formulated a classification scheme which is also useful as a quick scientific test to determine the Qi of new herbal medicines or herbal concoctions with unidentified Qi properties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental section</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Biomass extraction of the TCHMs</head><p>The following procedure was used to emulate the brewing process of traditional Chinese medicines. 6 g of the selected TCHM was cut into small pieces and then boiled in 30 mL ultrapure water for 5 min to extract the biomass. The solid residue was removed by centrifugation at 10 000 rpm for 10 min. The supernatant was used as the TCHM extract stock solution for subsequent biosynthesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Biological synthesis of nano-Au</head><p>The stock solution of the TCHM extract was first diluted 10-fold. 100 mL of 10 mg mL À1 HAuCl 4 was added to the diluted TCHM extract and reacted at room temperature for 5 hours, which was the time long enough to complete all biological synthesis of nano-Au in this study. The reaction mixture at the completion of the reaction was centrifuged twice at 10 000 rpm for 10 min each. The supernatant was discarded, and 500 mL ultrapure water was added to the residue. The resulting mixture was centrifuged at 10 000 rpm for 10 min again to obtain the final nano-Au product.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Characterization</head><p>Transmission electron microscopy (TEM), high-resolution TEM (HRTEM), selected area electron diffraction (SAED), and energy-dispersive X-ray spectroscopy (EDS) images were obtained with a JEM-2100F (JEOL, Japan) microscope operating at 200 kV accelerating voltage. Samples for TEM analysis were prepared by dispensing a drop of the nano-Au solution on an amorphous carbon-coated TEM copper grid. X-ray photoelectron spectroscopy (XPS) analysis was carried out on a Kratos Axis Ultra DLD spectrometer. All binding energies were corrected by referencing the C 1s peak of adventitious carbon to 284.5 eV. The phase purity of the biosynthesized nano-Au was assayed by X-ray diffraction (XRD) on a Bruker D8 advance X-ray diffractometer using a Cu Ka radiation source (1.5405 Å). UV-vis absorption spectra of the reaction mixture were recorded by a Shimadzu UV-1800 spectrometer as a function of biosynthesis time. TCHM extracts without the gold precursor were used as the solution reference to minimize the interference from the TCHM extract color in UV/vis measurements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical analysis and calculations</head><p>See the supplementary text in the ESI. †</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Biological synthesis of nano-Au in TCHM extracts</head><p>In a typical biological synthesis, the biomass or its extract provides a broad spectrum of reducing and surface-active agents for forming noble metal nanoparticles from their precursor salts. The biosynthesized noble metal nanoparticles often display shapes and sizes not commonly found in a chemical synthesis with small molecules. <ref type="bibr" target="#b9">10</ref> Many types of biomass (e.g., viruses, bacteria, fungi, and plants) and their extracts can be used for the synthesis. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref> Since TCHMs are almost exclusively applied as extracts of their biomass, <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> the Qi properties of the TCHM extracts which are used clinically for disease treatment may also contain the active ingredients for the synthesis of noble metal nanoparticles. Au nanomaterials were chosen as the biosynthesis target because of their size and shape dependent properties and their good chemical stability. <ref type="bibr" target="#b22">23</ref> The ability to synthesize nano-Au in different TCHM extracts was the first test of the generality of this approach. After a preliminary screening, we selected the TCHMs in Table <ref type="table">1</ref> (a detailed list of the chemicals, materials and methods can be found in the ESI †) to represent the four major Qi families (i.e., hot, warm, cool and cold). The selection was based on the consultation of two authoritative classical texts of TCM (i.e. Shennong's Classic of Materia Medica and Compendium of Materia Medica) and the confirmation of the representativeness of the ''Si Qi'' properties by TCM practitioners.</p><p>The biosynthesis of nano-Au was based on the procedures from our previous work <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> with some slight modifications. Briefly, a TCHM was boiled in ultrapure water for 5 min to form a herbal extract. The solid residue was removed by centrifugation. These steps were used to emulate the TCHM brewing process. The as-prepared TCHM extract was then reacted with a gold precursor (HAuCl 4 ) solution to form the nano-Au. The reaction was allowed to run to completion at room temperature. An illustration of the complete workflow is shown in Fig. <ref type="figure" target="#fig_0">1a</ref>. The biosynthesis progress was followed by measuring the changes of the synthesis solution color and the intensity of the SPR peak of nano-Au with time by ultraviolet-visible (UV-vis) spectroscopy. The shape and size of the final nano-Au products and their distributions were examined by TEM. The TCHM Bi Ba from the hot family will be used as an example in the following discussion.</p><p>The HAuCl 4 Au precursor solution was added to the Bi Ba extract without any other reducing and stabilization agent (see Materials section in the ESI †). Reduction was followed in real-time by recording the intensity changes of the nano-Au SPR peak at 550 nm. Fig. <ref type="figure" target="#fig_0">1b</ref> shows the evolution in the UV-vis spectra of the biosynthesis solution over a total reaction time of B200 min (as determined from the SPR peak intensity-time plot in Fig. <ref type="figure" target="#fig_0">S1</ref>, ESI †). The color of the final nano-Au solution was pink (Fig. <ref type="figure" target="#fig_0">S1</ref>, ESI †), a warm color (color temperature of 2700-3000 K). <ref type="bibr" target="#b23">24</ref> TEM examination (Fig. <ref type="figure" target="#fig_0">1c</ref>) revealed the nano-Au product as a mixture of nanoparticles (NPs, B10 to 50 nm) and nanoflakes (NFs, B100 nm in lateral size). The effect of the extract concentration on biosynthesis was also investigated; where repeated measurements showed no significant changes in the nano-Au shape and size (Fig. <ref type="figure" target="#fig_1">S2</ref>, ESI †). A HRTEM image (Fig. <ref type="figure" target="#fig_0">1d</ref>) of a typical Au NP and its corresponding SAED pattern (Fig. <ref type="figure" target="#fig_0">1e</ref>) indicate that the nano-Au was crystalline. The same also applied to the NFs. The existence of zero-valent Au was confirmed by XRD (Fig. <ref type="figure" target="#fig_0">1f</ref>) and XPS (Fig. <ref type="figure" target="#fig_0">1g</ref>). XPS and EDS also detected carbon, nitrogen and oxygen; an indication of the presence of biomolecular residues on the nano-Au (Fig. <ref type="figure" target="#fig_2">S3</ref> and S4, ESI †). The same biosynthesis protocol was applied to the TCHMs in Table <ref type="table">1</ref>. The resulting nano-Au products were characterized in the same way as in the Bi Ba example. Table <ref type="table" target="#tab_0">2</ref> summarizes the results in terms of the four Qi-related features (i.e., solution color, SPR intensity, reaction time and nano-Au morphology) of biosynthesis with these representative TCHMs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identifying the Qi-related features in the biosynthesis</head><p>Different from studies on the chemical and biological synthesis of nano-Au where the objective is to obtain uniformity of size, shape or self-assembled nanostructures by the optimization of the synthesis conditions, <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> the biosynthesis in this study was carried out under a common set of conditions; using the Qi properties of the TCHMs to generate a diversity of shapes, sizes and assembled nanostructures; which were then analyzed statistically together with other Qi-related synthesis features (i.e., solution color, SPR properties, and reaction time) to generate recognition patterns for the classification of the TC HM Qi properties.</p><p>Some causality between the biosynthesis features and TCHM Qi-properties was revealed by comparing the observations from TCHMs in the same Qi family and between different Qi families. The results from the hot and cold families were compared first since these two families were the furthest apart in Qi properties (Table <ref type="table">1</ref>). Fig. <ref type="figure" target="#fig_1">2a</ref> shows that the nano-Au synthesized with Rou Gui (a4, from the hot family) was a mixture of discrete NPs  (B10-50 nm) and NFs (B100 nm); and the nano-Au solution displayed a warm color. All TCHMs from the hot family also showed the following common characteristics: a long biosynthesis completion time (460 min) and an increasing SPR peak intensity with reaction time (Table <ref type="table" target="#tab_0">2</ref> and Fig. <ref type="figure">S5</ref>, ESI †).</p><p>The results from Jin Yin Hua (d1) and other members of the cold family are diametrically different (Fig. <ref type="figure" target="#fig_1">2d</ref>): there were no discrete NPs or NFs; the nano-Au products were all selfassembled supra-nanostructures (denoted as SA-SNSs) including self-assembled nanospheres (SA-NSs, B100-500 nm) and selfassembled nanoflakes (SA-NFs, B100 nm) (Table <ref type="table" target="#tab_0">2</ref> and Fig. <ref type="figure">S6</ref>, ESI †). The nano-Au solutions all had a cool color (e.g., the blue color of the nano-Au solution synthesized with Jin Yin Hua (Fig. <ref type="figure" target="#fig_1">2d</ref>)). Biosynthesis with a cold TCHM could also be completed in less than 60 min. The biosynthesis features are therefore categorically similar for TCHMs from the same Qi family; and distinctively different for TCHMs from different Qi families. TCHMs from the same Qi family produced the same solution color attribution (warm color from the hot family and cool color from the cold family), the same type of nanostructures (discrete nanostructures from the hot family and self-assembled supra-nanostructures from the cold family), and the same zone of reaction time (460 min from the hot family and o60 min from the cold family).</p><p>Such contrasting observations were however not found between the warm and the cool families. In contrast, there were instances where TCHMs from the same Qi family would produce an ''out-of-category'' observation common to the TCHMs from other families (Table <ref type="table" target="#tab_0">2</ref> and Fig. <ref type="figure">S7</ref>, S8, ESI †). For example, SA-NSs, which were found previously only in biosynthesis with TCHMs from the cold family (Fig. <ref type="figure">S6</ref>, ESI †), were also present among the nano-Au products synthesized by the extracts of Ai Ye (b2, from the warm family) and Bo He (c2, from the cool family). The warm and cold families therefore do not form morphologically distinctively different nano-Au products. This could be due to the lack of a sufficiently large Qi property difference between the warm and cool families (Table <ref type="table">1</ref>). The lack of mutually exclusive nano-Au morphologies also occurred between other Qi families (Fig. <ref type="figure" target="#fig_2">3</ref>). For example, exclusively discrete nanostructures which were hitherto unique only to the hot TCHMs could also be formed by some TCHMs from the warm family (i.e., overlap-1). The overlap of nano-Au morphologies was however greater between the warm and cool families (overlap-2); and between the cool and cold families (overlap-3). As a result, the ''NPs only'' and the ''SA-NSs only'' morphologies could be found in both warm and cool TCHMs with a probability of 50%. Even for the two nonadjacent Qi families of warm and cold, the SA-NSs morphology was found to be an overlapped Qi-related feature (overlap-4).</p><p>Despite the overlap of the nano-Au features, the nano-Au morphology shifted progressively from discrete nanostructures to self-assembled supra-nanostructures with the change of the TCHM from the hot family to the cold family. There were also overlaps in other Qi-related features besides the nano-Au morphology (Table <ref type="table">S1</ref> and Fig. <ref type="figure">S9</ref>, <ref type="figure">ESI †</ref>). All of these observations indicate that individual Qi-related features do not provide distinct boundaries which can be used to distinguish between TCHMs from different Qi families. Therefore, the classification of TCHMs into their respective Qi families cannot be achieved by analyzing the four Qi-related features in isolation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Developing a classification scheme for the Qi of TCHMs</head><p>We then considered all Qi-related features together to improve the power of discrimination between the Qi families. To do so we calculated the discrimination probabilities of all Qi-related features based on the frequencies of successful discriminations between two different Qi families, which are summarized in Table <ref type="table" target="#tab_1">3</ref> (with details of the calculations in the supplementary text in the ESI †).</p><p>The discrimination probability of a Qi-related feature is the probability of differentiating any two Qi families by that Qi-related feature alone. A high discrimination probability is obtained when the Qi-related features from different Qi families are contrasting enough and there is minimal occurrence of common observations. For example, the hot and cold families can be completely distinguished by using the solution color attribution (warm or cool color); and hence P color = 1 for the hot/ cold differentiation. In contrast the probability of successfully distinguishing between hot and warm families by the solution color attribution is only 25% (P color = 1/4 for the hot/warm differentiation). While some Qi families can be distinguished quite confidently based on the measurements of only one Qi-related feature (e.g., P TEM = 1 between the hot and cold families based on the presence or absence of mutually exclusive discrete and self-assembled supra-nanostructures), this is more  of an exception than the norm. The discrimination probability can however be improved by considering all four Qi-related features (solution color, SPR intensity, reaction time and nano-Au morphology) together. A hierarchy of tests for identifying the Qi family was developed after a detailed statistical analysis of the Qi-related features. Since the determination of solution color attribution is the simplest measurement which can be done without any equipment, the solution color attribution was chosen as the first classification test. Among the four Qi-related features, the nano-Au morphology contains the most information and distinguishability (i.e. as mixtures of NPs and NFs, NPs only, mixtures of NPs and SA-NSs, and SA-SNSs only); and hence has the highest discriminative power; as shown by the P TEM being all greater than 1/2 in Table <ref type="table" target="#tab_1">3</ref>. It is however the costliest test to run (in terms of time, effort, and infrastructure); and was therefore relegated to the last test. The measurements of SPR intensity and reaction time are both based on the UV-vis spectroscopy. It was found that reaction time (sorted into three zones, i.e., t o 1 h, 1 h r t o 2 h, and t Z 2 h) has a greater discriminative power than the SPR intensity (in terms of an increasing or a decreasing trend). Consequently, reaction time and SPR properties were assigned respectively as the second and third tests in the classification scheme. Fig. <ref type="figure" target="#fig_3">4</ref> shows the probability-based classification scheme using all four Qi-related biosynthesis features (i.e., color, SPR peak intensity, reaction time, and nano-Au morphology) to deduce the Qi family of a TCHM. This is able to distinguish all TCHMs from known Qi families in this study. This also has the potential to determine the Qi category of new TCHMs or TCHM concoctions. The following is the description of the steps in the application of the scheme.</p><p>(1) The color attribution of the nano-Au solution (warm or cool) can be used to sort the TCHMs into two distinct groups: a warm color (e.g., pink) for the hot, warm and cool families; and a cool color (e.g., blue) for the warm, cool and cold families. There are multiple Qi families in each group due to the overlap of this Qi-related feature.</p><p>(2) The SPR peak intensity (in increasing or decreasing trend) is then applied as the next test of classification. E.g., in the overlapped hot, warm and cool families, a decreasing SPR peak intensity with reaction time can only be caused by the cool family. On the other hand, the overlapped warm, cool and cold families do not provide a clear-cut answer for this test -a decreasing SPR intensity with time is nonetheless useful to reduce the overlap to two Qi families: cool or cold. An increasing SPR intensity with time offers no useful information for classification, and additional Qi-related features (i.e., reaction time and nano-Au morphology) must be used; as will be shown in the steps below.</p><p>(3) Reaction time divided into three different zones of t o 1 h, 1 h r t o 2 h, and t Z 2 h is used as the next classification criterion. Fig. <ref type="figure" target="#fig_3">4</ref> shows that the overlap is further reduced after this step; where some of the results are exclusive to only the cool family.</p><p>(4) Finally, based on the four morphological classes of the nano-Au products as examined by TEM (i.e., NPs &amp; NFs, NPs only, NP &amp; SA-NSs, and SA-SNSs only), the remaining Qi families may be identified; all with probabilities greater than 50%. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The feasibility of using the biological synthesis of nano-Au to categorize the Qi properties of TCHMs was demonstrated. The biosynthesis method as described here uses TCHMs in their native state; yielding several experimental features (e.g., solution color, SPR peak intensity, reaction time and nano-Au morphology) which are effective for determining their ''Si Qi'' family. The analysis of the experimental results revealed that the individual Qi-related features do not have sufficient discriminative power to identify the Qi family. However, a statistical analysis of the distribution of these Qi-related features enabled a probabilitybased classification scheme to be developed based on a hierarchy of decision-making tests. The contribution of this work is to demonstrate a non-reductionist scientific approach for the categorization of the TCHM Qi properties; which has the potential to be developed further for the determination of the Qi of new herbal medicines or herbal concoctions. As such it is expected to help accelerate TCM modernization and the development of TCHM standardization.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Biological synthesis of nano-Au from raw TCHMs. (a) Schematic illustration of the steps in the preparation of a TCHM extract, the biological synthesis of nano-Au, and the measurement methods. Characterization of nano-Au synthesized by the Bi Ba extract. (b) Time-resolved UV-vis spectra. Insets: Digital photos of the Bi Ba extract (left) and the nano-Au solution at the completion of the biosynthesis (right). (c) TEM image of the nano-Au products and (d) HRTEM image of a representative Au NP with its (e) SAED patterns, (f) XRD pattern, and (g) high resolution XPS spectrum in the Au 4f region.</figDesc><graphic coords="3,99.95,321.28,395.44,341.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 The typical nano-Au products synthesized by TCHMs from different Qi families. (a) Rou Gui (hot family), (b) Gui Zhi (warm family), (c) Tu Da Huang (cool family), and (d) Jin Yin Hua (cold family) with their corresponding TEM images (left), digital photos of the nano-Au solution before and after the biosynthesis (middle), and time-resolved UV-vis spectra (right).</figDesc><graphic coords="4,98.08,479.45,399.29,202.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Schematic illustration showing the overlaps of nano-Au morphology in biosynthesis with TCHMs of different Qi properties. While there is no overlap between the hot and cool or cold families; there are overlaps between the hot/warm (1), warm/cool (2), cool/cold (3) and warm/cold (4) families.</figDesc><graphic coords="5,52.10,535.69,230.33,126.77" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 A</head><label>4</label><figDesc>Fig.4A classification scheme for the Qi-properties of herbal medicines based on the four Qi-related features in the biosynthesis of nano-Au.</figDesc><graphic coords="6,109.47,426.16,376.48,276.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Au nanomaterials synthesized by TCHMs with different Qi properties in terms of solution color, characteristics of the Au SPR peak, reaction time, and nano-Au morphology (shape and size)</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>UV-vis measurements</cell><cell></cell><cell></cell></row><row><cell>Yin or Yang</cell><cell>''Si Qi''</cell><cell>TCHMs</cell><cell>Solution color</cell><cell>SPR peak intensity</cell><cell>Reaction time (min)</cell><cell>TEM measurements (shape &amp; size)</cell></row><row><cell>Yang</cell><cell>Hot</cell><cell>a1</cell><cell>Pink</cell><cell>Increasing</cell><cell>B120</cell><cell>NPs: 10-50 nm &amp; NFs: B100 nm</cell></row><row><cell></cell><cell>Hot</cell><cell>a2</cell><cell>Pink</cell><cell>Increasing</cell><cell>B250</cell><cell>NPs: 10-50 nm &amp; NFs: B100 nm</cell></row><row><cell></cell><cell>Hot</cell><cell>a3</cell><cell>Pink</cell><cell>Increasing</cell><cell>B200</cell><cell>NPs: 10-50 nm &amp; NFs: B100 nm</cell></row><row><cell></cell><cell>Hot</cell><cell>a4</cell><cell>Pink</cell><cell>Increasing</cell><cell>B100</cell><cell>NPs: 10-50 nm &amp; NFs: B100 nm</cell></row><row><cell></cell><cell>Warm</cell><cell>b1</cell><cell>Pink</cell><cell>Increasing</cell><cell>B30</cell><cell>NPs: 10-50 nm</cell></row><row><cell></cell><cell>Warm</cell><cell>b2</cell><cell>Gray-blue</cell><cell>Increasing</cell><cell>B50</cell><cell>SA-NSs: 100-500 nm</cell></row><row><cell></cell><cell>Warm</cell><cell>b3</cell><cell>Pink</cell><cell>Increasing</cell><cell>B30</cell><cell>NPs: 10-50 nm</cell></row><row><cell></cell><cell>Warm</cell><cell>b4</cell><cell>Pink</cell><cell>Increasing</cell><cell>B30</cell><cell>NPs: 10-50 nm &amp; NFs: B100 nm</cell></row><row><cell>Yin</cell><cell>Cool</cell><cell>c1</cell><cell>Gray-blue</cell><cell>Increasing</cell><cell>B30</cell><cell>NPs: 10-50 nm &amp; SA-NSs: 100 nm</cell></row><row><cell></cell><cell>Cool</cell><cell>c2</cell><cell>Gray</cell><cell>Decreasing</cell><cell>B60</cell><cell>SA-NSs: 100-500 nm</cell></row><row><cell></cell><cell>Cool</cell><cell>c3</cell><cell>Pink</cell><cell>Increasing</cell><cell>B200</cell><cell>NPs: 10-50 nm</cell></row><row><cell></cell><cell>Cool</cell><cell>c4</cell><cell>Blue</cell><cell>Increasing</cell><cell>B5</cell><cell>SA-NSs: 100-500 nm</cell></row><row><cell></cell><cell>Cold</cell><cell>d1</cell><cell>Gray-blue</cell><cell>Decreasing</cell><cell>B30</cell><cell>SA-NSs: 50-500 nm</cell></row><row><cell></cell><cell>Cold</cell><cell>d2</cell><cell>Gray-blue</cell><cell>Decreasing</cell><cell>B30</cell><cell>SA-NSs: 50-500 nm</cell></row><row><cell></cell><cell>Cold</cell><cell>d3</cell><cell>Gray-blue</cell><cell>Increasing</cell><cell>B30</cell><cell>SA-NSs: 50-500 nm</cell></row><row><cell></cell><cell>Cold</cell><cell>d4</cell><cell>Blue</cell><cell>Increasing</cell><cell>B60</cell><cell>SA-NFs: B100 nm</cell></row></table><note><p>NP: nanoparticle. NF: nanoflake. SA-NSs: self-assembled nanospheres. SA-NFs: self-assembled nanoflakes.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Discrimination probabilities of each Qi-related feature between two different TCHM families</figDesc><table><row><cell>''Si Qi'' comparison</cell><cell>P color</cell><cell>P SPR</cell><cell>P Time</cell><cell>P TEM</cell></row><row><cell>hot/warm</cell><cell>1/4</cell><cell>0</cell><cell>1</cell><cell>3/4</cell></row><row><cell>hot/cool</cell><cell>3/4</cell><cell>1/4</cell><cell>3/4</cell><cell>1</cell></row><row><cell>hot/cold</cell><cell>1</cell><cell>1/2</cell><cell>15/16</cell><cell>1</cell></row><row><cell>warm/cool</cell><cell>5/8</cell><cell>1/4</cell><cell>1/2</cell><cell>3/4</cell></row><row><cell>warm/cold</cell><cell>3/4</cell><cell>1/2</cell><cell>1/4</cell><cell>3/4</cell></row><row><cell>cool/cold</cell><cell>1/4</cell><cell>1/2</cell><cell>9/16</cell><cell>1/2</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Published on 13 April 2018. Downloaded by CASE WESTERN RESERVE UNIVERSITY on 4/9/2026 10:12:07 PM.View Article Online</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>This journal is © The Royal Society of Chemistry 2018</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">Academic Research Fund</rs> from the <rs type="funder">Singapore Ministry of Education</rs> (<rs type="grantNumber">R-279-000-470-112</rs>). We also gratefully acknowledge <rs type="person">Dr Bo Peng</rs> (<rs type="affiliation">Shanghai Lixin University of Accounting &amp; Finance</rs>) for her suggestions and assistance in the statistical analysis of the results.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_WXBFJ2d">
+					<idno type="grant-number">R-279-000-470-112</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of interest</head><p>There are no conflicts to declare.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Complementary and alternative therapies for epilepsy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Demos Medical</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">S. Wang and Y. Li, Complementary and alternative therapies for epilepsy, Demos Medical, New York, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="13" to="15" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Wang and A. Xu, Science, 2014, 346, 13-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Pharmacol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="558" to="563" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Y. Jiang, Trends Pharmacol. Sci., 2005, 26, 558-563.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ethnopharmacol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="980" to="985" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. L. Zhao, J. B. Wang, X. H. Xiao, H. P. Zhao, C. P. Zhou, X. R. Zhang, Y. S. Ren and L. Jia, J. Ethnopharmacol., 2011, 133, 980-985.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin. J. Integr. Tradit. West. Med. Dig</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="3813" to="3818" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Wan, X. Kong, X. Li, H. Zhu, X. Su and N. Lin, Chin. J. Integr. Tradit. West. Med. Dig., 2014, 39, 3813-3818.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharmacol. Exp. Ther</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="339" to="357" />
+			<date type="published" when="1924">1924</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Chen and C. F. Schmidt, J. Pharmacol. Exp. Ther., 1924, 24, 339-357.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Huwiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nartey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Juni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1086" to="1092" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Shang, K. Huwiler, L. Nartey, P. Juni and M. Egger, Int. J. Epidemiol., 2007, 36, 1086-1092.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="2046" to="2056" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. A. De Smet, N. Engl. J. Med., 2002, 347, 2046-2056.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zubair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tufail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sherwani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sajid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Raman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Azam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Owais</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="2305" to="2319" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Chauhan, S. Zubair, S. Tufail, A. Sherwani, M. Sajid, S. C. Raman, A. Azam and M. Owais, Int. J. Nanomed., 2011, 6, 2305-2319.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Shankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ankamwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahamd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sastry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="482" to="488" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. S. Shankar, A. Rai, B. Ankamwar, A. Singh, A. Ahamd and M. Sastry, Nat. Mater., 2004, 3, 482-488.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardea-Torresdey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tiemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gamez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dokken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tehuacanero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jose-Yacaman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nanopart. Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="397" to="404" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Gardea-Torresdey, K. Tiemann, G. Gamez, K. Dokken, S. Tehuacanero and M. Jose-Yacaman, J. Nanopart. Res., 1999, 1, 397-404.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Klaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Joerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-G</forename><surname>Granqvist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U. S. A</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="13611" to="13614" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Klaus, R. Joerger, E. Olsson and C.-G. Granqvist, Proc. Natl. Acad. Sci. U. S. A., 1999, 96, 13611-13614.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dujardin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Peet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stubbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Culver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="413" to="417" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Dujardin, C. Peet, G. Stubbs, J. N. Culver and S. Mann, Nano Lett., 2003, 3, 413-417.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Shankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sastry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">275</biblScope>
+			<biblScope unit="page" from="496" to="502" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. S. Shankar, A. Rai, A. Ahmad and M. Sastry, J. Colloid Interface Sci., 2004, 275, 496-502.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Chandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chaudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pasricha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sastry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol. Prog</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="577" to="583" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. P. Chandran, M. Chaudhary, R. Pasricha, A. Ahmad and M. Sastry, Biotechnol. Prog., 2006, 22, 577-583.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ting</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="429" to="439" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Xie, J. Y. Lee, D. I. Wang and Y. P. Ting, ACS Nano, 2007, 1, 429-439.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ting</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="672" to="682" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Xie, J. Y. Lee, D. I. Wang and Y. P. Ting, Small, 2007, 3, 672-682.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><surname>Fei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomacromolecules</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="4483" to="4488" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Fei, M. Jia, X. Du, Y. Yang, R. Zhang, Z. Shao, X. Zhao and X. Chen, Biomacromolecules, 2013, 14, 4483-4488.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">248</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Gurunathan, J. Han, J. H. Park and J.-H. Kim, Nanoscale Res. Lett., 2014, 9, 248.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="6330" to="6374" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Huang, L. Lin, D. Sun, H. Chen, D. Yang and Q. Li, Chem. Soc. Rev., 2015, 44, 6330-6374.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Huang</surname></persName>
+		</author>
+		<title level="m">The pharmacology of Chinese herbs</title>
+		<imprint>
+			<publisher>CRC press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. C. Huang, The pharmacology of Chinese herbs, CRC press, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Normile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">299</biblScope>
+			<biblScope unit="page" from="188" to="190" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Normile, Science, 2003, 299, 188-190.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Xia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="10410" to="10488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Yang, M. X. Yang, B. Pang, M. Vara and Y. N. Xia, Chem. Rev., 2015, 115, 10410-10488.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Color science: concepts and Methods, Quantitative Data and Formulae</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wyszecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Stiles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Wiley-VCH</publisher>
+			<pubPlace>Weinheim</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Wyszecki and W. S. Stiles, Color science: concepts and Methods, Quantitative Data and Formulae, Wiley-VCH, Weinheim, 1982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I C</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="10226" to="10232" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. P. Xie, J. Y. Lee and D. I. C. Wang, J. Phys. Chem. C, 2007, 111, 10226-10232.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="139" to="148" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Q. B. Zhang, J. P. Xie, J. H. Yang and J. Y. Lee, ACS Nano, 2009, 3, 139-148.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Skrabalak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem., Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="60" to="103" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. N. Xia, Y. J. Xiong, B. Lim and S. E. Skrabalak, Angew. Chem., Int. Ed., 2009, 48, 60-103.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Today</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="240" to="264" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. J. Guo and E. K. Wang, Nano Today, 2011, 6, 240-264.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

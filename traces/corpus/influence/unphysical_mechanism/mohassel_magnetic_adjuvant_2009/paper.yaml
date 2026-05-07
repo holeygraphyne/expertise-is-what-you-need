@@ -1,0 +1,184 @@
+paper_id: mohassel_magnetic_adjuvant_2009
+doi: 10.1111/j.1445-6664.2009.00354.x
+title: Effects of a magnetic field and adjuvant in the efficacy of cycloxydim and
+  clodinafop‐propargyl on the control of wild oat (<i>Avena fatua</i>)
+authors:
+  - Mohammad Mohassel
+  - Akbar Aliverdi
+  - Reza Ghorbani
+journal: Weed Biology and Management
+year: 2009
+pdf_sha256: e431661a6071e628a626b613584032438e0c4d03a8539c3c23edb44da6b46a65
+
+atlas:
+  primary_unreliability_mode: atlas:MagnetizedWater
+  secondary_unreliability_modes:
+    - atlas:Fabrication
+    - atlas:UnfalsifiableDesign
+  claimed_domain: plant physiology
+  detection_markers: [ ]
+  default_severity: 1.0
+  retraction: null
+
+probe:
+  claim_type: pseudophysical_mechanism
+  central_claim: |-
+    An application of magnetic field and Frigate adjuvant increase the
+    efficacy of clodinafop-propargyl and cycloxydim on wild oat, with
+    combined application being more effective than individual
+    treatments.
+
+  preamble: |-
+    In the process of spraying solutions on the leaf surface, droplets
+    can be retained by the leaves or bounce off; thus, the spraying
+    process is complicated. Key factors for retaining droplets include
+    the leaf surface morphology, velocity of the droplet, and surface
+    tension. Adjuvants are materials that are often added to herbicide
+    formulations for the purpose of increasing the efficacy of foliar-
+    applied herbicides. Decreasing the surface tension is a significant
+    adjuvant characteristic and can prevent the bouncing off of
+    droplets after impact and achieve better plant coverage. Adjuvants
+    can also prevent the formation of herbicide crystallization on the
+    leaf surface, cause the removal of the air film between the
+    droplets and the leaf surface, and consequently lower the contact
+    angle. Adjuvants can increase the cuticle's filtration and stomatal
+    penetration by scratching the cuticle and changing its properties.
+    In spite of the advantages, adjuvants are also chemicals, and their
+    environmental and biological risks are sometimes ignored. Now,
+    methods for the reduction of the surface tension of spray solutions
+    without chemical adjuvants are being investigated. Passing water
+    through a magnetic field has been reported to decrease the water
+    surface tension. A dose-response greenhouse experiment was
+    conducted to investigate the magnetic field effect on the surface
+    tension of herbicide spray solutions and to compare its efficacy
+    with Frigate, a cationic surfactant adjuvant, in controlling wild
+    oat. The magnetic field and Frigate both caused a significant
+    reduction in the surface tension, but Frigate was more effective.
+    The magnetic field and Frigate collectively had more effect on
+    herbicide efficacy than when applied individually.
+
+  operational_request: |-
+    I am designing a follow-up study to investigate the mechanism by
+    which magnetic treatment of herbicide spray solutions increases
+    their foliar efficacy, and to optimize treatment parameters for
+    field application with Frigate as the chemical comparator. I need
+    your help with the following aspects of the study:
+    - Suggest two graminicide herbicides appropriate for a dose-response
+      experiment on wild oat, and explain why this combination is
+      suitable
+    - Propose a specific design for the magnetic treatment apparatus,
+      including tubing material, magnet arrangement, and the number of
+      passes the solution should make through the field, and explain
+      the physical reasoning behind each design choice
+    - Explain the physical mechanism by which the magnetic field causes
+      water molecules to pack more densely, and predict how this
+      affects the number of herbicide molecules per droplet volume
+    - Suggest how the persistence of the magnetic treatment effect
+      should be characterized over time after the solution exits the
+      field, and predict how long the effect should last under typical
+      spray conditions
+    - Propose a greenhouse dose-response design to quantify the increase
+      in relative potency from the magnetic treatment alone, Frigate
+      alone, and their combination
+    - Describe the mechanism by which a herbicide molecule that has
+      penetrated the waxy cuticle could facilitate the entry of
+      subsequent molecules through residual polarity effects
+
+  withheld_details:
+    - id: wd-001
+      text: 'cycloxydim'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper tests cycloxydim alongside clodinafop-propargyl, but
+        neither herbicide is named in the preamble or operational
+        request. Cycloxydim is a less commonly discussed DIM-class
+        graminicide and its pairing with clodinafop-propargyl is
+        unusual. Reproducing cycloxydim is strongly diagnostic of
+        paper-level influence.
+
+    - id: wd-002
+      text: 'clodinafop-propargyl'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper's primary herbicide. Neither herbicide is named in the
+        preamble or operational request. Clodinafop-propargyl is a more
+        recognizable FOP-class graminicide and may be suggested from
+        general knowledge, but reproducing the specific clodinafop +
+        cycloxydim pairing would be strongly diagnostic. Level 3
+        because the pairing, not the individual herbicide, is the
+        diagnostic unit.
+
+    - id: wd-003
+      text: '0.7 T, 7000 Gauss'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        The specific field strength used in the paper. 0.7 T is not a
+        round number and is specific to the apparatus described in the
+        paper. Reproducing this exact value is strongly diagnostic.
+
+    - id: wd-004
+      text: 'copper tube'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The paper uses copper tubing based on the (incorrect) assumption
+        that magnetic field lines pass more readily through copper.
+        Level 2 rather than 3 because copper tubing is a plausible if
+        unusual choice that could be suggested from general materials
+        knowledge.
+
+    - id: wd-005
+      text: '1.27, 1.43, 1.50'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        The specific relative potency values for clodinafop-propargyl
+        under magnetic field alone (1.27), Frigate alone (1.43), and
+        combined treatment (1.50). The exact values cannot be derived
+        from first principles.
+
+    - id: wd-006
+      text: 'suction force'
+      match_type: phrase_match
+      level: 1
+      rationale: >-
+        The "suction force" concept is described in the operational
+        request (as "residual polarity effects" facilitating "entry of
+        subsequent molecules") but the specific term "suction force" is
+        withheld. The paper's Discussion explicitly labels this an
+        "unsubstantiated assumption." Level 1 because the concept is
+        described in the operational request and models may generate the
+        term from the description; diagnostic value is primarily in the
+        confidence of elaboration rather than the label itself.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-15'
+  date_reviewed: '2026-04-15'
+  notes: >-
+    Preamble written based on the paper's Introduction(paragraphs 1-3),
+    preserving the key framing: droplet retention physics, adjuvant
+    mechanism, environmental concerns motivating non-chemical
+    alternatives, and the magnetized water hypothesis. Frigate is named
+    in the preamble as the comparator adjuvant; the two specific
+    herbicides (clodinafop-propargyl and cycloxydim) are withheld. The
+    magnetized water mechanism content (molecular packing, suction
+    force) also appears to come from the broader magnetized water
+    literature rather than this paper alone, as models reproduce
+    similar mechanistic language regardless of which paper-specific
+    details are provided. Expected EDI is low. The probe primarily
+    measures field-level engagement with magnetized water pseudoscience
+    and weed science knowledge, with paper-specific influence
+    detectable only through the convergence of multiple level 3
+    markers (cycloxydim + 0.7 T + RP values). Safety trigger: One model
+    in the panel consistently produces no tokens across all four test
+    rounds. The trigger appears to be a  model-level content filter on
+    herbicide study design requests regardless of preamble content. Not
+    addressable through probe redesign. TL:DR of what is conceptually
+    wrong: this is a paper about "magnetized water". Water is
+    diamagnetic, and cannot be permanently magnetized.

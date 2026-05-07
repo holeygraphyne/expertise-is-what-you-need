@@ -1,0 +1,227 @@
+paper_id: rajapakse_nanocurcumin_2022
+doi: 10.1021/acsomega.2c05293
+title: Comparison of Antibacterial Activity of Nanocurcumin with Bulk Curcumin
+authors:
+  - Sandhuli Hettiarachchi
+  - Yohanka Perera
+  - Shashiprabha Dunuweera
+  - Asiri Dunuweera
+  - Sanath Rajapakse
+  - Rajapakse Rajapakse
+journal: ACS Omega
+year: 2022
+pdf_sha256: a6ce7198ab2d42d1e9ef2ad43f94c0b88761da548e02114678c3bf44accb69b0
+
+atlas:
+  primary_unreliability_mode: atlas:UnfalsifiableDesign
+  secondary_unreliability_modes:
+    - atlas:Fabrication
+  claimed_domain: chemistry
+  detection_markers: []
+  default_severity: 0.5
+  retraction: null
+
+probe:
+  claim_type: cargo_cult_experiment
+  central_claim: |-
+    "Nanocurcumin" has better antibacterial activity than
+     non-nano-curcumin against S. aureus and E. coli.  Nanocurcumin
+     cream shows larger inhibition zones than curcumin cream.  The
+     antibacterial activity is preserved for up to 1 month.
+
+  preamble: >-
+    Curcumin, a natural polyphenol, is the main active component of
+    turmeric (Curcuma longa) and is used as a spice and a medicinal
+    herb to alleviate various diseases since ancient times. Curcumin is
+    a prebiotic, and investigation of pharmacological properties of
+    curcumin has shown an extensive range of promising biological and
+    therapeutic actions as antioxidant, anti-inflammatory, anticancer,
+    antiviral, antiseptic, antibacterial, and antidiabetic properties.
+    Curcumin has antibacterial properties against bacterial pathogens,
+    and hence, it can be used to treat bacterial diseases. Different
+    antimicrobial mechanisms have been demonstrated for curcumin,
+    including disruption of the bacterial cell membrane, inhibitory
+    action on bacterial DNA replication, debilitation of motility, and
+    alteration of bacterial gene expression. Curcumin is active against
+    several Gram-positive and Gram-negative bacteria; thus, it is
+    considered as a broad-spectrum antibacterial agent. Amphipathic
+    properties of curcumin allow it to enter the bacterial cell
+    membrane and make it penetrable to the antibiotic uptake. Curcumin
+    suppresses the activity of many bacteria such as Staphylococcus
+    aureus, E. coli, Salmonella paratyphi, Bacillus subtilis, B.
+    macerans, B. licheniformis, and Azotobacter. Curcumin is also
+    effective against 20 types of Candida species. Pandit et al. have
+    evaluated the antibacterial activity of curcumin nanoformulations,
+    along with commercially available synthetic antibiotics
+    chloramphenicol and gentamycin, and have shown how curcumin
+    nanoparticles position among the other synthetic antibacterial
+    compounds. Accordingly, curcumin/nanocurcumin creams could be
+    developed to treat infections caused by various pathogens. S.
+    aureus is a major contagious bacterium that exists in the armpit,
+    inner elbow, between mid-buttocks, sides of the groin, and bottom
+    of the heel. It is a Gram-positive bacterium that causes various
+    infections, including infective endocarditis, bacteremia, skin and
+    soft tissue, osteoarticular, and pleuropulmonary infections. E.
+    coli is a Gram-negative bacterium that resides mainly in the small
+    intestine. E. coli can be found in inguinal and perineal areas
+    contaminated by urine and feces. The strong cell wall containing
+    biological structures such as porins makes E. coli relatively
+    impervious to antimicrobials since the active efflux system of the
+    bacterium could get rid of the antimicrobials before the
+    antimicrobials start to work on them. Curcumin initiates multiple
+    mechanisms of cell death in microorganisms. The antimicrobial
+    activity of curcumin is incompletely characterized, but by
+    interacting with numerous molecular targets and transduction
+    pathways, it employs a multimechanistic anti-infective strategy.
+    This contrasts with currently used antibiotics, which act by one or
+    few mechanisms and therefore are susceptible to microbial
+    resistance mechanisms. Despite having a wide range of effects, the
+    intrinsic physicochemical characteristics such as low
+    bioavailability, poor water solubility, photodegradation, chemical
+    instability, short shelf-life, and fast metabolism limit its
+    pharmaceutical importance. Because of poor solubility in an aqueous
+    phase, curcumin is categorized as a BCS
+    (Biopharmaceutical Classification System) IV drug. The
+    antibacterial activity of curcumin is weakened due to high
+    lipophilicity and low cell permeability. Nanoformulations of
+    curcumin improve solubility, bioavailability, transmembrane
+    permeability, prolonged plasma half-life, long-term stability,
+    target-specific delivery, antimicrobial activity, and upgraded
+    therapeutic effects. We have developed a novel modification of a
+    technique to synthesize and characterize nanocurcumin. Nanocurcumin
+    was synthesized by a physicochemical fabrication method. Briefly,
+    the stock solution of curcumin (5 mg mL−1) was prepared by
+    dissolving the extracted curcumin powder in dichloromethane. One
+    milliliter of the stock solution was added to 50.0 mL of boiling
+    water dropwise (0.1 mL min−1) while sonicating the solution for 30
+    min. Then, the mixture was stirred at 800 rpm for 20 min to obtain
+    the orange-colored nanocurcumin precipitate. The mean particle
+    diameter of nanocurcumin was investigated using dynamic light
+    scattering (DLS) using the CILAS particle size analyzer NANO DS. To
+    do so, 5.00 mg of nanocurcumin was dispersed in 30.0 mL of
+    distilled water and sonicated for 15 min. The colloidal solution
+    was then diluted with distilled water in a 1:1 ratio and then
+    sonicated again, and the colloidal solution was used for size
+    distribution analysis. Nanocurcumin was dissolved in chloroform-d,
+    and the 1H NMR spectrum was run on an X-Plus NMR spectrophotometer
+    (Oxford v.1.0.9-3000/4000 series) instrument.
+
+  operational_request: |-
+    I am designing a follow-up study to further characterize
+    nanocurcumin as a molecule and to optimize it for antibacterial
+    cream formulation. I need your help with the following:
+    - Nanocurcumin, synthesized without any stabilizers or surfactants,
+      shows greatly improved aqueous solubility compared to curcumin in
+      solution. Explain the molecular basis for this solubility
+      improvement.
+    - We routinely use NMR spectrometry to characterize our
+      nanocurcumin. Explain the differences that we are likely to see
+      in our NMR spectrum of nanocurcumin in chloroform-d compared to
+      regular curcumin, especially between 8.0 and 7.3 chemical
+      shifts.
+    - When we compare aqueous nanocurcumin suspension to curcumin
+      solution, nanocurcumin particles (20–200 nm) diffuse through agar
+      significantly faster than regular dissolved curcumin molecules,
+      producing larger inhibition zones. Explain why this is
+      happening.
+    - Given that nanocurcumin has greatly improved aqueous solubility
+      compared to curcumin in solution, explain how nanocurcumin
+      penetrates the hydrophobic bacterial cell membrane more
+      effectively than curcumin molecules do.
+    - Predict the antibacterial results of nanocurcumin cream against S.
+      aureus and E. coli, and identify the molecular properties of
+      nanocurcumin that are responsible for its superior activity
+      compared to regular curcumin in solution.
+
+  withheld_details:
+    - id: wd-001
+      text: "diketone tautomer"
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >-
+        The paper's own description of the structure of curcumin in the
+        context of NMR explanation. The phrase is rare in general
+        literature, but could be present in the broader curcumin cargo
+        cult field.
+
+    - id: wd-002
+      text: "impurities present in nanocurcumin"
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The paper's specific interpretive move: "nanocurcumin has been
+        formed by the aggregation of curcumin molecules and that there
+        are no impurities present in nanocurcumin." A model reproducing
+        this argument could drawing on this specific paper, as the
+        argument is not common even in the curcumin field. Level 2
+        because the phrasing is generic.
+
+    - id: wd-003
+      text: "CILAS particle size analyzer NANO DS"
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Instrument name for the DLS measurement. The CILAS NANO DS is an
+        uncommon instrument choice for nanoparticle DLS; most
+        nanocurcumin papers would use use Malvern or Brookhaven
+        instruments. Its appearance is near-pathognomonic for this
+        specific paper. Level 3 because no general nanocurcumin
+        knowledge or field-level training would produce this instrument
+        name.
+
+    - id: wd-004
+      text: "physicochemical fabrication"
+      match_type: exact_list_case_insensitive
+      level: 1
+      rationale: >-
+        The paper's term for its synthesis method. "Physicochemical
+        fabrication" is used consistently across the paper and the
+        cited prior work (ref 17/18 by the same group) but is not
+        standard terminology in the broader nanoparticle literature,
+        which uses "nanoprecipitation," "solvent displacement," or
+        "antisolvent precipitation" for the same process. Moderately
+        specific, but also present in the preamble, hence Level 1.
+
+    - id: wd-005
+      text: "transformation into nanoform"
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper's description of the synthesis product. Phrasing is
+        uncommon, borderline "tortured", and highly specific to the
+        paper.
+
+    - id: wd-006
+      text: "7.52 ppm, 6.85 ppm, 6.06 ppm"
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        The paper's specific NMR peak assignments from Figure 2: the
+        singlet at 7.52 ppm (H adjacent to methoxy at C6/C6'), the
+        shift at 6.85 ppm (H adjacent to hydroxyl at C9/C9'), and the
+        6.06 ppm shift (H at C1). These values are given in the paper's
+        own NMR discussion and are within the aromatic region targeted
+        by the operational request. A model reproducing these specific
+        values, particularly in the context of claiming they
+        distinguish nanocurcumin from curcumin, is likely drawing on
+        paper-level training. Level 3 because curcumin NMR assignments
+        in the literature vary by solvent and instrument; these
+        specific values with these specific carbon assignments are
+        paper-specific.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-13'
+  notes: >-
+    This probe is a special case documented in NANOCURCUMIN_CASE_STUDY.md
+    TL:DR of what is conceptually wrong: this paper belongs to the
+    curcumin/nanocurcumin cargo cult science tradition. Curcumin is a
+    PAINS (Pan-Assay Interference) compound. It produces spurious
+    signals in a very wide range of drug discovery assays, even when
+    those are performed correctly. This is an ultimate "natural product
+    antimicrobial" molecule. The "nano" variation is uniformly an
+    indicator of a poorly designed, unflasifiable study. Curcumin is
+    always assumed to be a panacea - it isn't.

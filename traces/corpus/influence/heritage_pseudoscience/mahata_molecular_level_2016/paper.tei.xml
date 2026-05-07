@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Fundamental Study to Observe Correlation at Molecular Level between Bio-Samples of Patients and Indicated Homoeopathic Medicines</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>International Journal of High Dilution Research - IJHDR</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-08-18">2021-08-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rajat</forename><surname>Chattopadhyay</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> MBHMC &amp; Hospital , Howrah-711104. 2 IIEST Shibpur , Howrah-711103 .</note>
+								<orgName type="institution">MBHMC &amp; Hospital</orgName>
+								<address>
+									<addrLine>Howrah-711104. 2 IIEST Shibpur Howrah-711103</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chitta</forename><forename type="middle">Ranjan</forename><surname>Mahata</surname></persName>
+						</author>
+						<title level="a" type="main">A Fundamental Study to Observe Correlation at Molecular Level between Bio-Samples of Patients and Indicated Homoeopathic Medicines</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of High Dilution Research - ISSN 1982-6206</title>
+						<title level="j" type="abbrev">Int J High Dilution Res</title>
+						<idno type="eISSN">1982-6206</idno>
+						<imprint>
+							<publisher>International Journal of High Dilution Research - IJHDR</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="11" to="17"/>
+							<date type="published" when="2021-08-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">95718CD1A0B9E7240BC39045A91DB43F</idno>
+					<idno type="DOI">10.51910/ijhdr.v15i3.818</idno>
+					<note type="submission">Received: Apr 21, 2016. Accepted: Sep 23, 2016.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>dielectric functions</term>
+					<term>resonance frequency matching</term>
+					<term>spectral signatures</term>
+					<term>Homoeopathic Principle at the molecular level</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: 'Like cures like' is the principle that is followed in homoeopathy. Substances which cause disorder in healthy individuals are used as medicines to treat similar patterns of disorder in sick persons. This article aims to find out whether any similarity picture exists at molecular level also that can make a selection of medicines based on scientifically measurable parameters.</p><p>Method: It consisted of getting frequency domain signatures for the dielectric functions of (i) biofluids (blood serums) of six arthritis patients and (ii) medicines selected for them on the basis of macroscopic similarity. Then, they were compared to find existence/absence of similarity between them.</p><p>Results: Medicines administered to the six patients were Rhus tox 200cH, Thuja 30cH, Medorrhinum 200cH. The dielectric loss at resonance for the bio-fluids of the patients and the medicines are given in the body of the article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion:</head><p>It was observed that the patients who had beneficial results with their medicines have a similarity (resonance frequency matching) in spectral signatures of the two groups of substances i.e. bio-fluids (blood serum) of patients and the indicated remedies. This similarity was not evident in the cases where medicines failed to benefit the patients. These results are explorative and enthusiastic, but as the research is limited only to patients with arthritis, generalization could not be drawn. Further work with more rigor is required to establish the facts and apply generalizations to other disease condition. In future, this might be a new tool to integrate the fundamental research with clinical applications in homeopathy.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The proving symptoms of medicines (in healthy individuals) are matched with manifesting disease symptoms of the patient in the homoeopathic system of medicine. Such type of correlation is not in terms of quantified measurable parameters of physical science. This article aims to find out whether any similarity picture exists at a molecular level that can make a selection of medicines based on scientifically measurable parameters. The immediate question is what should be those parameters, particularly for the ultrahigh diluted (UHD) homeopathic preparations especially beyond 12c of dilution. Prior to this, we must be clear about the real nature of UHDs. 'Structural concept' may be the most acceptable hypothesis for explaining medicinal value of UHDs which may be stated as: A substance is to be recognized as a medicine if it has the capability of curing disease(s) while its medicinal property is to be attributed to molecular structure of vehicle like water or of distinct chemical substance when it exists <ref type="bibr" target="#b0">1</ref> . Following are some of the important studies to support this hypothesis: 'Water polymer' was the terminology used by Barnard GO 2 to explain homoeopathy in a theoretical manner. In contrast, Boyd WE 3 conducted many successful experiments on the same subject. The lacuna was that explanation for the emanations detected by his 'emanometer', were missing during that period. Much later, a new hypothesis suggested by Chattopadhyay R et al <ref type="bibr" target="#b3">4</ref> proposed that this phenomenon might have originated from structured vehicle getting excitation from ambient electromagnetic radiation.</p><p>'Clathrates' was another terminology used by Anagnostatos GS et al <ref type="bibr" target="#b4">5</ref> in which structural model was called structured water, explaining the formation of clathrates at different stages of serial dilution. Many researchers were attracted to explain exceptional properties of water. Chaplin M enlisted 2388 investigations on water <ref type="bibr" target="#b5">6</ref> . Another important hypothesis made by Maity T et al <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> and Mahata CR 9,10 showed experimentally that water structures were present in medicines both below and above the Avogadro limit of 12c. Some experimental results given by Roy Rustum et al 11,12 also support the structural concept. The experiments made by Davenas E et al 13 on human basophile degranulation showed that 'memory' of the original substance is retained in serial dilution followed by vortexing even beyond the Avogadro limit. It has no direct relation with homoeopathy but its relevance to the dilution/potentisation of homoeopathy is obvious. 'Water memory' may be the popular term, but we prefer to call it 'induced structure'. The hydrogen-bonded network of water remained modified even in dilutions beyond Avogadro limit was shown by Rey Louis 14 in his investigation with a dilution of substance like LiCl and NaCl. It may be assumed that such modification will lead to variation in the structure of molecular clusters of the vehicle. Even ultra-diluted (10 12 ) DNA and RNA solutions continuing to emit electromagnetic radiations like the undiluted substances as reported by Montagnier L et al 15 are explainable in terms of structures <ref type="bibr" target="#b3">4</ref> . Elia V et al 16 also supported the concept of a structural model for extremely diluted substances. But, Mahata CR 1 was possibly the first person to advance it as a generalized concept.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>'Structural concept' receives stronger credence by the investigations of Mahata CR 9,10 using dielectric dispersion techniques. It is based on the principle of resonance in acoustical (or, longitudinal) mode of vibration of macromolecules subjected to alternating electric field. Around such a resonance, electrical property of the material exhibits abrupt changes -changes of dielectric loss and permittivity with anomalous dielectric dispersion. The peak value of dielectric loss occurs at resonance frequency <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> So, in frequency domain measurements monitoring of dielectric loss will detect the frequency of resonance and monitoring of permittivity will confirm the occurrence of anomalous dielectric dispersion. A simple rule relating fundamental resonance frequency and length of structure (equal to half-wavelength) is: This is the guiding principle adopted here to show that even with same chemical composition (namely, H2O) different homeopathic medicines may have different resonance frequencies and be structurally different. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr">9,</ref><ref type="bibr">10</ref> This study inspired us to inquire whether the concept like macroscopic matching (that is, the symptom similarity) can be extended to molecular level! By using the same technique can we find any correlation at the molecular level between patients' bio-samples and probable medicines? We selected medicines for several cases of arthritis which were the indicated ones in each case. Then, the frequency domain signatures for dielectric functions of these medicines and blood serum of the patients were recorded with experimental set up as shown in  Here, C1 is an air capacitor. C2 is the capacitance of a reference cell formed by two metal plates measuring 3''x 4'' (76.2 mm x 101.6 mm). The two metal plates were separated by 1.5 mm with a polyethene pouch inserted therein, which was serving as its dielectric material. The capacitance was 300 pF. C3 in parallel with R3 represents an imperfect capacitor which was also formed by two metal plates as for C2, and its dielectric material comprised of the test material, which were globules made of sugar (six in number of size no.10) soaked in medicine or bio-sample of subject (as the case may be) and then dried and finally dissolved in 5 ml of water (procured from M/s Hahnemann Publishing Co, Kolkata; free from all chemical and mechanical impurities) through syringe in a polythene pouch which was to be placed between the metal plates. Its capacitance was also adjusted to 300 pF by fine-adjustment of the gap between the metal plates. The frequency domain signature was taken from 1.0 MHz to 30.0 MHz. Adjustments were made for the frequency step, ramp rate of the Quadrature DDS signal generator and sampling rate of Data Acquisition unit to get a graphical record of 1 div equal to 1 MHz along the x-axis and 0.25 V/div along the y-axis in the graphs of  Fig IV(a) Spectrum for Bio fluid of Patient 2 Fig. IV(b) Spectrum for Rhus tox 200cH Patient -3: Female, 62 yrs, OPD registration no. H-F99308. Symptoms: pain in both knees with occasional numbness of the extremities relief from hot fomentation only, pain aggravated during flexing, pedunculated warts, multiple small black warts on face and neck area, sycotic constitution with generalities, the fearful dream of a dead person and falling from a height, chilly patient. Diagnosis -osteoarthritis. Medicine prescribed -Thuja 30cH. The resonance frequency of bio-fluid of patient -23.6 MHz and that of applied medicine -23.6 MHz. Status -improvement continues. The resonance frequencies of bio-samples and possible homoeo-medicines are compared through the</p><p>Table below. S. No Indicated Medicine Resonance Freq of Biosample (MHz) Resonance Freq of Medicine (MHz) Result 1. Rhus tox 200cH 22.8 22.8 Marked improvement 2. Rhus tox 200cH 23.6 22.8 Less improvement 3. Thuja 30cH 23.6 23.6 Improved. 4. Thuja 30cH 24.2 23.6 Not improved 5. Thuja 30cH 23.4 23.6 Improved 6. Medorrhinum 200cH 22.8 28.6 No improvement Table 1: Comparative study of Resonance frequencies of Medicine Spectra and Bio-fluid of Patient with Results in term of improvement. SD was within +/-1%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion and Conclusion</head><p>The patients having serial no. 1, 2, 3 and 5 had a close match between the resonance frequencies of the medicines and of the biofluids. All of these patients were benefitted with their medicines. The other patients (sl. no. 4 and 6) did not have a good matching of the resonance frequencies and thus expected to not have any benefit. These results are explorative and enthusiastic, but as the research is limited to only patients with arthritis, generalization could not be drawn. Further work with more rigor is required to establish the facts and apply generalizations to other disease condition. In future, this might be a new tool to integrate the fundamental research with clinical applications in homeopathy.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>(</head><figDesc>Frequency) x (Wavelength) = (Velocity of sound in the medium)This says that resonance frequency is related to the dimension of structure.<ref type="bibr" target="#b7">8</ref> Therefore, a change of resonance frequency will imply a change of dimension of the macromolecule. International Journal of High Dilution Research 2016; 15(3):11-17 Available online at www.highdilution.org Cite as: Chattopadhyay R, Mahata CR. A Fundamental Study to Observe Correlation at Molecular Level between Bio-Samples of Patients and Indicated Homoeopathic Medicines. Int J High Dilution Res. 2015;15(3): 11-17. 13</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Fig -I: Block diagram of experimental setup. The Quadrature (Direct Digital Synthesizer) DDS using AD9854 IC chip was manufactured in Shenzhen, China; the Data Acquisition Unit was DI-149 manufactured by WINDAQ, USA. We have indigenously made the A3D PCB (Printed Circuit Board) giving outputs representing real and imaginary component values of the dielectric function. Its functional diagram is shown in Figure II.</figDesc><graphic coords="3,210.00,289.05,192.00,192.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig</head><figDesc>Fig -II: Functional diagram of the A3D PCB</figDesc><graphic coords="3,324.00,72.00,220.27,103.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>Fig. III to Fig. VIII representing dielectric loss (imaginary part of a dielectric function) as a function of frequency.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Fig III(a) Spectrum for Bio fluid of Patient 1 Fig. III(b) Spectrum for Rhus tox 200cH Patient -2: Female, 40 yrs, OPD registration no. H-F47248. Symptoms: pain in both knees relief from motion, being occupied physically and heat, pain aggravated during rest, the light reddish tip of the tongue, sycotic constitution with generalities. Diagnosisosteoarthritis. Medicine prescribed -Rhus tox 200cH. The resonance frequency of bio-fluid of patient -23.6 MHz and that of applied medicine -22.8 MHz. Status -Mild improvement.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Cite as: Chattopadhyay R, Mahata CR. A Fundamental Study to Observe Correlation at Molecular Level between Bio-Samples of Patients and Indicated Homoeopathic Medicines. Int J High Dilution Res. 2015;15(3): 11-17.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>https://doi.org/10.51910/ijhdr.v15i3.818</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The structural model explains high potency homoeopathic medicines and leads to a generalized understanding of medicines</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mahata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intl. J. CAM</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mahata CR. The structural model explains high potency homoeopathic medicines and leads to a generalized understanding of medicines. Intl. J. CAM 2015; 1(2); 1-3.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Microdose paradox -a new concept</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">O</forename><surname>Barnard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. American Inst. of Homeopathy</title>
+		<imprint>
+			<biblScope unit="page" from="205" to="212" />
+			<date type="published" when="1965-08">July-Aug 1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barnard GO. Microdose paradox -a new concept. J. American Inst. of Homeopathy, July-Aug 1965; 205-212.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Horder&apos;s communication to the Royal Society of Medicine published as &quot;The electronic reactions of Abrams</title>
+		<author>
+			<persName><forename type="first">Sir</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The British Medical Journal</title>
+		<imprint>
+			<biblScope unit="page" from="179" to="185" />
+			<date type="published" when="1924">Jan24 1924</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sir Thomas Horder&apos;s communication to the Royal Society of Medicine published as &quot;The electronic reactions of Abrams&quot;. The British Medical Journal, Jan24 1924; 179-185.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">On electromagnetic signals from vastly diluted DNA solutions, potentised medicines and even metals</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sadhukhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sutradhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Syam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mahata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wesleyan Journal of Research</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+			<date type="published" when="2012-10">Oct 2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chattopadhyay R, Sadhukhan M, Pal A, Sutradhar A, Syam P, Mahata CR. On electromagnetic signals from vastly diluted DNA solutions, potentised medicines and even metals. Wesleyan Journal of Research, Oct 2012; 5(1): 50-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A working hypothesis for homoeopathic microdiluted remedies</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Anagnostatos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vithoulkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Garzonis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tavouxoglou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Berlin Journal of Research in Homoeopathy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="1991-06">June 1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anagnostatos GS, Vithoulkas G, Garzonis P, Tavouxoglou C. A working hypothesis for homoeopathic microdiluted remedies. The Berlin Journal of Research in Homoeopathy June 1991; 1(3): 141-147.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chaplin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Website</surname></persName>
+		</author>
+		<ptr target="www1.lsbu.ac.uk/water/water_structure_science.html" />
+		<imprint>
+			<date type="published" when="2015-08-18">18 Aug 2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaplin M. Website: www1.lsbu.ac.uk/water/water_struct ure_science.html. (Last accessed on 18 Aug 2015.)</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Theory and Instrumentation related to Potentised Homoeopathic Medicines</title>
+		<author>
+			<persName><forename type="first">Maity</forename><surname>Tanmoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mahata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IE(I) Journal -ID</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="27" to="31" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maity Tanmoy, Ghosh D, Mahata CR. Theory and Instrumentation related to Potentised Homoeopathic Medicines. IE(I) Journal -ID 2007; 88: 27 -31.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Effect of Dielectric Dispersion on Potentised Homoeo-Medicines</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maity</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mahata</surname></persName>
+		</author>
+		<idno type="DOI">10.51910/ijhdr.v15i3.818</idno>
+		<ptr target="https://doi.org/10.51910/ijhdr.v15i3.818" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="103" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maity T, Ghosh D, Mahata CR. Effect of Dielectric Dispersion on Potentised Homoeo-Medicines. Homeopathy 2010; 99(2): 99-103. https://doi.org/10.51910/ijhdr.v15i3.818</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

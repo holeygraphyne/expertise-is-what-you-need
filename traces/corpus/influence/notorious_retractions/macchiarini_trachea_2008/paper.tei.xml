@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Clinical transplantation of a tissue-engineered airway</title>
+				<funder ref="#_2uT8cbA">
+					<orgName type="full">Fondo de Investigación Sanitaria</orgName>
+				</funder>
+				<funder ref="#_ScvzYrP">
+					<orgName type="full">UK Arthritis Research Campaign</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Spain</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Instituto de Salud Carlos III</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Charles Courtenay-Cowlin Fund, University of Bristol, UK</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">James Tudor Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ministerio de Sanidad y Consumo</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2008-11-19">November 19, 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Prof</roleName><forename type="first">Paolo</forename><surname>Macchiarini</surname></persName>
+							<email>pmacchiarini@ub.edu</email>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Philipp</forename><surname>Jungebluth</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tetsuhiko</forename><surname>Go</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Adelaide</forename><surname>Asnaghi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Louisa</forename><forename type="middle">E</forename><surname>Rees</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Tristan</forename><forename type="middle">A</forename><surname>Cogan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Amanda</forename><surname>Dodson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jaume</forename><surname>Martorell</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Pier</roleName><forename type="first">Silvia</forename><surname>Bellini</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Paolo</forename><forename type="middle">P</forename><surname>Parnigotto</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Sally</forename><forename type="middle">C</forename><surname>Dickinson</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Anthony</forename><forename type="middle">P</forename><surname>Hollander</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sara</forename><surname>Mantero</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Maria</forename><forename type="middle">Teresa</forename><surname>Conconi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Martin</forename><forename type="middle">A</forename><surname>Birchall</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Macchiarini) ; CIBER Enfermedades Respiratorias , Universitat de Barcelona , Barcelona , Spain (</note>
+								<orgName type="department" key="dep1">Macchiarini)</orgName>
+								<orgName type="department" key="dep2">CIBER Enfermedades Respiratorias</orgName>
+								<orgName type="institution">Universitat de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">M</forename><forename type="middle">A</forename><surname>Asnaghi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">A</forename><surname>Dodson Bsc</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Funding Ministerio de Sanidad y Consumo , Instituto de Salud Carlos III , Fondo de Investigación Sanitaria , Spain ;</note>
+								<orgName type="department" key="dep1">Funding Ministerio de Sanidad y Consumo</orgName>
+								<orgName type="department" key="dep2">Fondo de Investigación Sanitaria</orgName>
+								<orgName type="institution">Instituto de Salud Carlos III</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Charles Courtenay-Cowlin Fund , University of Bristol ; UK</note>
+								<orgName type="institution" key="instit1">Charles Courtenay-Cowlin Fund</orgName>
+								<orgName type="institution" key="instit2">University of Bristol</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Arthritis Research Campaign ; and the James Tudor Foundation. Department of General Thoracic Surgery , Hospital Clinic , Barcelona , Spain</note>
+								<orgName type="department">Department of General Thoracic Surgery</orgName>
+								<orgName type="institution" key="instit1">Arthritis Research Campaign</orgName>
+								<orgName type="institution" key="instit2">James Tudor Foundation</orgName>
+								<orgName type="institution" key="instit3">Hospital Clinic</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Fundació Clínic , Institut d&apos;Investigacions Biomèdiques August Pi i Sunyer ( IDIBAPS) , Barcelona , Spain (P</note>
+								<orgName type="department">Institut d&apos;Investigacions Biomèdiques August Pi i Sunyer (</orgName>
+								<orgName type="institution" key="instit1">Fundació Clínic</orgName>
+								<orgName type="institution" key="instit2">IDIBAPS)</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<region>P</region>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<note type="raw_affiliation">Macchiarini); Bioengineering , Politecnico di Milano , Milan , Italy</note>
+								<orgName type="department">Macchiarini); Bioengineering</orgName>
+								<orgName type="institution">Politecnico di Milano</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<note type="raw_affiliation">PhD) ; Pharmaceutical Sciences , University of Padua , Padua , Italy</note>
+								<orgName type="department" key="dep1">PhD)</orgName>
+								<orgName type="department" key="dep2">Pharmaceutical Sciences</orgName>
+								<orgName type="institution">University of Padua</orgName>
+								<address>
+									<settlement>Padua</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<note type="raw_affiliation">) ; Immunology , Hospital Clinic , Barcelona , Spain (J</note>
+								<orgName type="department" key="dep1">)</orgName>
+								<orgName type="department" key="dep2">Immunology</orgName>
+								<orgName type="institution">Hospital Clinic</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<region>J</region>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<note type="raw_affiliation">Martorell PhD) ; Department of Cellular and Molecular Medicine , University of Bristol , Bristol , UK</note>
+								<orgName type="department" key="dep1">Martorell PhD)</orgName>
+								<orgName type="department" key="dep2">Department of Cellular and Molecular Medicine</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<settlement>Bristol</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<note type="raw_affiliation">Clinical Sciences at South Bristol , Faculty of Clinical Medicine and Dentistry , University of Bristol , Bristol , UK</note>
+								<orgName type="department" key="dep1">Clinical Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Clinical Medicine and Dentistry</orgName>
+								<orgName type="institution" key="instit1">South Bristol</orgName>
+								<orgName type="institution" key="instit2">University of Bristol</orgName>
+								<address>
+									<settlement>Bristol</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<note type="raw_affiliation">Department of General Thoracic Surgery , Hospital Clinico de Barcelona , University of Barcelona , c Villarroel 170 , E-08036 Barcelona , Spain</note>
+								<orgName type="department">Department of General Thoracic Surgery</orgName>
+								<orgName type="institution" key="instit1">Hospital Clinico de Barcelona</orgName>
+								<orgName type="institution" key="instit2">University of Barcelona</orgName>
+								<address>
+									<addrLine>c Villarroel 170</addrLine>
+									<postCode>E-08036</postCode>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Clinical transplantation of a tissue-engineered airway</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2008-11-19">November 19, 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DCB325C78A491AF34ECFAD2A0470FE2F</idno>
+					<idno type="DOI">10.1016/S0140-</idno>
+					<note type="submission">The corrected version first appeared at thelancet.com on July 18, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Fo Keys Contrast Graph marks Arrows 08tl05664_2 Font reference Keys Labels Measuring bars Graph marks Arrows Figure name: 08TL5664_4</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background The loss of a normal airway is devastating. Attempts to replace large airways have met with serious problems. Prerequisites for a tissue-engineered replacement are a suitable matrix, cells, ideal mechanical properties, and the absence of antigenicity. We aimed to bioengineer tubular tracheal matrices, using a tissue-engineering protocol, and to assess the application of this technology in a patient with end-stage airway disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>We removed cells and MHC antigens from a human donor trachea, which was then readily colonised by epithelial cells and mesenchymal stem-cell-derived chondrocytes that had been cultured from cells taken from the recipient (a 30-year old woman with end-stage bronchomalacia). This graft was then used to replace the recipient's left main bronchus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Findings</head><p>The graft immediately provided the recipient with a functional airway, improved her quality of life, and had a normal appearance and mechanical properties at 4 months. The patient had no anti-donor antibodies and was not on immunosuppressive drugs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interpretation</head><p>The results show that we can produce a cellular, tissue-engineered airway with mechanical properties that allow normal functioning, and which is free from the risks of rejection. The findings suggest that autologous cells combined with appropriate biomaterials might provide successful treatment for patients with serious clinical disorders.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Large airway defects present a major problem for clinicians because of the absence of effective methods of treatment. Tracheal resection with primary repair is the only curative treatment in patients with several benign or malignant processes. <ref type="bibr" target="#b0">1</ref> However, the resectable length is restricted to 30% of the total length in children or 6 cm in adults, and replacement of longer sections will only be feasible if a safe, functional tracheal replacement can be developed. Attempts to provide autologous or synthetic grafts for human application have been disappointing. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> Tissue bioengineering already has provided functional human organ replacements elsewhere. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> Previous preclinical airway experiments have been too lengthy and complex for routine clinical application, <ref type="bibr" target="#b6">7</ref> or relied on non-biological matrices. <ref type="bibr" target="#b3">4</ref> We have used mouse and pig models to develop a streamlined process in which autologous epithelial and mesenchymal stem-cell-derived chondrocytes are seeded onto a decellularised donor tracheal scaffold and matured in a novel bioreactor system. Encouraged by the in-vitro generation of short but vital tracheal matrices <ref type="bibr" target="#b7">8</ref> and by the absence of an immunological response to allografted and xenografted tracheal constructs in animals, <ref type="bibr" target="#b8">9</ref> we aimed to bioengineer tubular tracheal matrices longer than 6 cm, and to assess the application of this technology in a patient with end-stage airway disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The recipient A 30-year-old woman presented in 2004 with dysphonia and cough due to tuberculous infiltration of the cervical trachea and entire left main bronchus. A CT scan showed a circumferential, near-occlusive 3 cm airway stenosis starting 2 cm subglottically, and a hypoplastic left main bronchus with expiratory collapse. The mycobacterial infection was successfully treated over the next 6 months but severe dyspnoea persisted. Histology showed squamous metaplasia without residual infection, and we made a diagnosis of post-tuberculous chronic tracheitis and secondary severe bronchomalacia of the left main bronchus. Subsequently, the tracheal stenosis was successfully treated with a subglottic resection with primary end-to-end anastomosis, followed by placement of a Dumon stent in the patient's left main bronchus. The stent was poorly tolerated and, despite multiple endoscopic toilet, replacement or repositioning procedures, recurrent episode of pneumonitis in her left lower lobe, untreatable cough, and mucous retention occurred; therefore, we removed the stent. In March, 2008, the patient was admitted with severe dyspnoea that rendered her unable to do simple domestic chores. We did virtual endoscopy using volume-rendering CT (figure <ref type="figure">1A</ref> and <ref type="figure">1B</ref>) to confirm a normal cervical airway but there was a substantial reduction in the calibre of the left main bronchus (residual diameter of 4 mm), a fixed stenosis (maximal 1•2 cm from carina), cranial dislocation with compression by the aorta, and complete expiratory collapse. Tests showed a right-to-left ventilatory shunt with preserved perfusion and severe hypoxia at rest, whereas lung function tests were highly abnormal (table). At this point, the only conventional option remaining was left carinal total pneumonectomy, since the cranial dislocation of the affected bronchus prevented further main-sleeve resection. However, such a strategy can result in high mortality rates, and perioperative and long-term morbidity. Therefore, and on the basis of our successful preclinical work, we proposed the complete resection of the left main bronchus and its replacement with a bioengineered human trachea. In case further salvage was needed thereafter, we counselled that it would not preclude subsequent carinal pneumonectomy. Patients provided written informed consent. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of an airway matrix</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>phosphate buffered saline (PBS) containing 1% penicillin, 1% streptomycin, and 1% amphotericin B (all Sigma, Barcelona, Spain). We applied 25 cycles of the decellularisation protocol as previously reported 8 over 6 weeks, with the following modifications. Briefly, tissue was stored in distilled water for 72 h, then incubated in 4% sodium deoxycholate and 2000 kU deoxyribonuclease I in 1 mmol/L sodium chloride (Sigma Chemicals, Barcelona, Spain). We verified the presence of cellular elements and MHC-positive cells histologically after each cycle. After we allowed for the periodic removal of sections for histology, a final graft length of 6•5 cm was obtained, which was reduced to 5 cm intraoperatively to fit the defect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histology, immunohistology, and immunofluorescence histology of matrices</head><p>To quantify the remaining cells after each detergent enzymatic cycle, we stained ten representative 5 μm paraffin-embedded sections of the matrix with 4´-6-diamidino-2-phenylindole (DAPI, Vector Laboratories, Burlingame, CA, USA), and counted the total number of nuclei with fluorescence microscopy (mean nuclear count×10⁵ per μm² [SD]). For morphological assessment, we stained adjacent, paraffin-embedded sections with haematoxylin and eosin (both Merck, Darmstadt, Germany). We measured MHC antigen expression in human tissue by use of primary anti-human HLA-DR, HLA-DP, HLA-DQ antibodies (all three BD Biosciences, Oxford, UK) and HLA-ABC antibodies (Abcam, Cambridge, UK), secondary antibodies (Vectastain ABC kit, Vector Laboratories), and then a peroxidase substrate kit (DAB, Vector Laboratories). For negative controls, we omitted the primary antibody. We subjected cellular brushings from the external surface of the seeded matrix preimplantation and from the graft lumen 4 days postoperatively to triple-colour immunofluorescence, <ref type="bibr" target="#b9">10</ref> with a mouse anti-human monoclonal antibody to collagen II (Abcam) to confirm the presence of chondrocytes, an anti-human monoclonal antibody to cytokeratins 5 and 8 (BD Biosciences) to identify epithelial cells, and stained for nuclear DNA with DAPI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of recipient's autologous epithelial cells</head><p>We took bronchoscopic biopsy samples of the right main bronchial mucosa and rhinoscopic biopsy samples of the right inferior turbinate mucosa from the recipient under local anaesthesia and sedation, and placed them in PBS at 4°C. Since bronchial epithelial cells grew far more readily than did nasal cells, we used only the bronchial cells subsequently for graft development.</p><p>Biopsy samples were transported in ice-cold PBS containing penicillin (100 U/mL) and streptomycin (100 μg/mL) (both Sigma-Aldrich, Dorset, UK). We placed the samples in 70% ethanol for 30 s and then in a solution containing 5 mL 1% trypsin (Sigma-Aldrich), 15 mL PBS, and 800 μL penicillin and streptomycin in a centrifuge tube overnight at 4°C. At 24 h, we warmed the tissue to 37°C for 45 min and then disrupted it by repeated vigorous pipetting with a plugged glass pasteur pipette. We neutralised the trypsin solution with complete medium (Dulbecco's modified Eagle medium [DMEM], Invitrogen, Paisley, UK), containing 10% fetal calf serum (PAA, Yeovil, UK), penicillin (100 U/mL), and streptomycin (100 μg/mL). We repeated the dissociation process, and centrifuged the cell suspension at 1000 revolutions per min for 10 min. We resuspended the cell pellet in complete DMEM, seeded the cells in a final volume of 5 mL in 25 cm² flasks, and incubated the cultures at 37°C, 5% CO 2 for 2-3 days for adherence. We then changed the culture medium to keratinocyte serum-free medium (Invitrogen), supplemented with 25 μg/mL bovine pituitary extract, 0•4 ng/mL recombinant epidermal growth factor, and 0•03 mmol/L calcium chloride. We changed the culture medium every 5 days.</p><p>We subjected cytospins of cultured autologous recipient epithelial cells at first passage to dual-colour immunofluorescence histology for cytokeratins 5 and 8 as above, counterstained with DAPI to confirm epithelial phenotype before attachment to the matrix in the bioreactor. All cells in epithelial culture stained positive for cytokeratins immediately before seeding, and we did not detect any fibroblasts morphologically and immunohistologically.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of recipient's autologous chondrocytes</head><p>We prepared chondrocytes as previously described. <ref type="bibr" target="#b10">11</ref> We added each 10 mL volume of bone-marrow aspirate, taken on the day of culture, to 40 mL of complete medium (DMEM, containing 1000 mg L-glucose, Sigma-Aldrich), 10% fetal bovine serum (Autogen Bioclear, Wilts, UK), 100 U/mL penicillin, 100 µg/mL streptomycin, and 2 mmol/L GlutaMax-I (Invitrogen) in a centrifuge tube. After centrifugation of the cells for 5 min at 600 g, we removed the fat layer and supernatant, and resuspended the cell pellet containing mesenchymal stem cells in 20 mL of complete medium. We counted cells and seeded them in 175 cm² vented flasks at a density of 1</p><p>•1×10⁶ per mL December, 2007 (before surgery) August, 2008 (2 months after surgery) September, 2008 (3 months after surgery) FVC (L) 2•35 (62%) 3•81 (100%) 3•86 (100%) FEV 1 (L) 1•75 (55%) 3•17 (100%) 3•25 (100%) FEV 1 /FVC 0•74 0•95 0•99 Raw (kPa/L×s) 5•57 3•06 3•31 SGaw (kPa⁻¹s⁻¹) 0•058 0•122 0•213 A substantial reduction in forced expiratory volume in 1 s (FEV 1 ) and a smaller but significant reduction in forced vital capacity (FVC) occurred preoperatively. A complete reversal of airway obstruction, a substantial amelioration in airway resistance and conductance occurred postoperatively. Ratio of FEV 1 to FVC in healthy adults is 0•75-0•80; Raw=airway resistance. SGaw=specific airways conductance.</p><p>Table: Lung function test results</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>with 5 ng/mL basic fibroblast growth factor (PeproTech, London, UK). We incubated the cells undisturbed at 37°C in a humidified 5% CO₂ atmosphere for 72 h for promotion of adherence, and replaced the medium with fresh complete medium containing basic fibroblast growth factor every 3 days. When cells reached 90% confluence, we removed the medium and washed the cells once with Hanks' balanced salt solution and then passaged them with 0•25% trypsin-EDTA (edetic acid, Invitrogen). At each passage, we seeded the cells at a density of 1×10⁶ per mL. To induce chondrocyte differentiation, we changed the culture medium to complete medium containing 10 ng/mL of recombinant human transforming growth factor-β 3 (R&amp;D Systems, Abingdon, UK), 10 nmol/L recombinant parathyroid hormone-related peptide (PeproTech), 100 nmol/L dexamethasone, and 10 µg/mL insulin (both Sigma-Aldrich, Dorset, UK), and incubated the cells for 72 h. No fibroblasts could be detected in the chondrocyte culture before seeding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bioreactor design</head><p>For the present application, we designed a novel bioreactor to simultaneously address the requirements of seeding and culturing of different cell types on either side of a tubular matrix; nutrient supply and waste removal; biomechanical cues in the form of hydrodynamic shear stress; and autoclavability, ease of sterile handling, reliability, and precision compatible with good laboratory practice. The device rotated the airway construct around its longitudinal axis in culture medium tailored to the requirements of both cell-types, moving cells alternately between liquid (medium) and gaseous (air) phases (1•0-1•5 revolutions per min; figure <ref type="figure" target="#fig_1">2</ref>). A polysulphone chamber housed the medium and construct, which was rotated by a subsystem-controlled DC motor isolated from the culture chamber. Secondary elements induced continuous mixing of the culture medium to increase oxygenation, and the exchange of nutrients and catabolites to and from the adhering cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Seeding of cells</head><p>We seeded the recipient's cultured cells onto the matrix within the bioreactor. We detached the chondrocytes from culture flasks, diluted them with medium (1×10⁶ cells per mL), and applied them longitudinally to the external surface of the matrix with a microsyringe. Concurrently, we seeded the internal surface with the same density of epithelial cells through a separate access of the holding cylinder. Every 30 min, we rotated the matrix 90 degrees until all surfaces had been completely exposed to cells. Cell medium was added (75 mL externally, 4 mL internally) and rotation started at 1•5 revolutions per min (37°C, 5% CO₂). We changed the external medium (chondrocytes) every 48 h and internal medium (epithelial cells) every 24 h, and tested the extracted medium for microbial colonisation. The total period of bioreactor culture was 96 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Graft implantation</head><p>After general anaesthesia and double-lumen endotracheal intubation, we did a left posterolateral thoracotomy (fifth intercostal space) and carefully dissected and fully mobilised the distal trachea, left main bronchus, and the left recurrent and phrenic nerves of the recipient. We then resected the left main bronchus, recreating its take-off on the lateral aspect of the distal trachea via a 2 cm×2 cm orifice, and preserving distally the upper lobe take-off and the lobar carina. We then cut the graft to shape, and anastomosed it end-to-end proximally and distally as previously described. <ref type="bibr" target="#b11">12</ref> Fitting to the two lumens of different sizes was helped by the retained elasticity of the trachealis segment of the graft. Bilateral ventilation was restored and the recipient's left lung </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>immediately ventilated well. After we checked for leaks, the chest was closed, and the patient was extubated. We monitored the recipient for 2 days in the intensive care unit, when she was well enough to return to a general ward and was discharged on the tenth postoperative day. Ethical permission was obtained from the Spanish Transplantation Authority and the Ethics Committee of the Hospital Clinic, Barcelona.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Postoperative care and monitoring</head><p>The postoperative course was uneventful. The recipient underwent rigid bronchoscopy at 4 days, and bronchoscopy and serological testing at 14 days, 1 month, and 2 months. We took adjacent microvascular recordings by use of a dedicated laser-doppler probe (moorLAB, Moor Instruments, Axminster, UK). We took brushings at 4 days and prepared cytospins as above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anti-HLA antibody serology</head><p>We screened recipient anti-donor HLA antibody production and specificity using the National Institutes of Health version of the complement-dependent cytotoxic test, against a panel of 64 cell lines and by solid-phase antigen test FlowPRA class I and class II screening beads (One Lambda, Canoga Park, CA, USA). Solid-phase flow cytometry is viewed as more sensitive by some authors <ref type="bibr" target="#b12">13</ref> and is in routine clinical use, so we used it for confirmation of antibody production and specificity. Tests were done preoperatively, and at 14 days, 1 month, and 2 months postoperatively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Role of the funding source</head><p>The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had responsibility for the decision to submit for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>With the detergent enzymatic method, we progressively removed tracheal cells (figure <ref type="figure" target="#fig_2">3</ref>). After 25 cycles of decellularisation (figure <ref type="figure" target="#fig_2">3</ref>, parts E and F), the epithelial and glandular cells were removed. The few visible chondrocytes were distorted and mostly anuclear. However, treated trachea retained the same architecture as native controls (figure <ref type="figure" target="#fig_2">3</ref>, parts A and B). 25 cycles (figure <ref type="figure" target="#fig_2">3</ref>, parts C to F) were needed to completely remove HLA-A, HLA-B, and HLA-C antigen expression, although low amounts of focal MHC class II expression were still seen in a few areas.</p><p>The recipient had no complications from the operation and was discharged from hospital on the tenth post operative day. She has remained well since, and is able to walk up two flights of stairs, walk 500 m without stopping, and care for her children. Lung-function tests done at 2 months were all within the normal range for age and sex (table). Serological examination showed the complete absence of anti-donor HLA antibodies at 14 days, 1 month, and 2 months.</p><p>At 4 days, the graft was almost indistinguishable from adjacent normal bronchial mucosa. Laser-doppler readings confirmed a rich adjacent microvascular bed. At 14 days, there was an adherent layer of mucus on the graft surface in which no inflammatory cells were detected cytologically. At 14 days, 1 month, 2 months, and 3 months, the graft seemed healthy with a strong laser-doppler recording (at 2 months: 6•0 mL per min for graft, 5•8 mL per min for right bronchus). At 1 month, the appearance of the graft was indistinguishable from native trachea, and local mucosal bleeding was elicited when the biopsy sample was taken, indicating successful revascularisation. Three-dimensional CT-reconstructions preoperatively and at 1 month postoperatively showed a transformation in the </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>appearance of the airway from near-total collapse to wide patency (figure <ref type="figure">1C</ref> and <ref type="figure">1D</ref>).</p><p>Cytological analysis of the luminal surface at 4 days showed plentiful epithelial cells that were phenotypically identical to those in culture before seeding. Viable chondrocytes were also seen in these brushings. Similar cytospins were prepared from the external surface of the graft before implantation, and both cell types were found to be present (figure <ref type="figure" target="#fig_3">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>With this protocol we removed HLA antigens from a donor matrix, which was then readily colonised by the recipient's epithelial cells and chondrogenic mesenchymal stem cells. This matrix was used to prepare and transplant an airway graft for a with left main bronchus malacia, resulting in a patent airway and an improved quality of life.</p><p>By contrast with solid organ transplants, which take place in sterile mesenchymal environments, the airway represents an interface between internal and external environment. Unsurprisingly, the airway mucosa has immunologically active cells playing a key part in airway transplantation, <ref type="bibr" target="#b13">14</ref> and these contribute to acute allograft rejection, which requires high-dose immunosuppression. <ref type="bibr" target="#b14">15</ref> Unlike other transplants, airway replace ment is rarely a life-saving procedure, 1 so a completely non-immunogenic tracheal allograft with preserved functional and mechanical characteristics is the minimum target for organ replacement.</p><p>The extracellular matrix plays an active part in regulating diverse aspects of cell biology that are essential to the normal function of tissues. <ref type="bibr" target="#b15">16</ref> Therefore, recent bioengineering studies have focused on the application of extracellular matrix-derived prosthetic materials as bioactive supports. Scaffolds derived from decellularised tissues have been shown to support in-vitro adhesion, growth, and function of several cell types, <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> and have been used successfully in animals and man, <ref type="bibr" target="#b18">19</ref> and act as a template for ingrowth and remodelling. <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> A major potential problem with bioengineered organs is the provision of a functional blood supply. In this study, laser-doppler measurements showed a healthy, adjacent microvascular bed from postoperative day 4 and active mucosal bleeding at 30 days. Although not studied, we have shown that angiogenic cytokines (basic fibroblast growth factor, transforming growth factor β 8 ) might be present within decellularised matrices, and postulated that similar expression will contribute to timely revascularisation. In support of this view, when we implanted sections of detergent enzymatic method-treated pig trachea into a Balb/c mouse dorsal skin pouch, graft neovascularisation was seen by 2 weeks. <ref type="bibr" target="#b8">9</ref> 25 cycles of detergent enzymatic method completely removed cell membranes, all MHC class I and virtually all MHC class II expressions, but retained some other Green=collagen II (chondrocytes). Blue=4'-6-diamidino-2-phenylindole.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>cellular elements in cartilaginous areas. On the basis of results obtained with other engineered tissues, <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> we postulate that the retained elements provide helpful signals to both graft and host cells, and might reduce the inflammatory response. Conversely, the possibility is that cellular residues could express minor antigens capable of inducing a chronic rejection response. However, minor antigens play a restricted part in clinical transplantation and here there was no sign of inflammation or anti-donor antibodies at 2 months. Although we have previously described how nasal epithelial cells can be cultured for tissue-engineering purposes, <ref type="bibr" target="#b25">26</ref> in this study, they grew so fast, that apoptosis occurred in earlier passages than with bronchial cells. However, with a reduced detergent enzymatic method time, nasal cells might be preferred for future airway tissue-engineering applications. Although the graft was covered with viable mucosa at 1 month, we cannot say whether these cells originated from those seeded or whether they grew in from an adjacent healthy airway. Although animal studies have provided circumstantial evidence <ref type="bibr" target="#b26">27</ref> that the implanted cells are likely to contribute in an important way, further research into the fate of these cells is essential before embarking on full clinical trials with the present protocol.</p><p>In vitro, epithelial cells and chondrocytes became deeply embedded within the matrix by 24 h. This finding suggests that the matrix is highly permissive and an ideal immediate environment for these cells. In fact, after 24 h in the bioreactor, no cells (alive or dead) could be detected in the culture medium, suggesting a near 100% adherence. The presence of clearly viable epithelial cells and chondrocytes on the graft surface at 4 days confirms this view, and shows that the cells continue to function in vivo. Both types of cells could be seen in cytological samples from both surfaces of the conduit, despite clear structural separation of the two bioreactor compartments. One interpretation is that cells were free to migrate through the full width of the graft within a short space of time. If confirmed, this interpretation is important, with implications for future tissue-engineering designs. Zani <ref type="bibr" target="#b26">27</ref> has shown in animals that an ordered architectural association between different cell types is not necessary for functional healing. Our findings extend this observation to man.</p><p>We wished to minimise trauma to both the patient and the graft, and so have restricted cellular analysis to the cytology before and 4 days postimplantation, at which times bronchoscopy was clinically indicated in any case. Since our heterotopic-pig experiments showed some success with decellularised grafts in the absence of recolonisation with autologous cells, <ref type="bibr" target="#b8">9</ref> we cannot quantify the contribution of these cells, nor exclude the possibility that the addition of cells is, in fact, unnecessary. However, the rapid integration seen in our study is consistent with animal models in which cells seem to play a crucial part. <ref type="bibr" target="#b26">27</ref> Major challenges in functional airway bioengineering are uniform and highly efficient cell seeding on both the outer and inner surface of the three-dimensional tubular matrix, co-culturing different cell types, and optimum mass transport between the culture medium and the growing tissues. To address these issues, we developed a novel bioreactor suitable for in-vitro engineering of long airway grafts. Early on, we realised that the two types of cells used here required different culture conditions. Therefore, the prototype bioreactor created for preclinical work was designed to provide two separate sterile compartments, each with a rotating air-medium interface. Viability of cells in both compartments was maintained to the point of operation. The dynamic culture environment in our bioreactor, controllable and reproducible, is essential for the nutrient supply and waste removal needed to sustain large three-dimensional constructs. The rotation provides the hydrodynamic shear stress necessary to promote metabolic activity and proper differentiation of the seeded cells.</p><p>Despite the larger number of detergent-enzymatic method cycles used in the clinical setting than that used in preclinical work, and the known structural differences between pig and human trachea, the similarity to native trachea in terms of tissue handling and elasticity, both preoperatively and postoperatively, was remarkable and commensurate with the biomechanical results of preclinical studies. <ref type="bibr" target="#b8">9</ref> The elasticity of the trachealis segment in particular allows adjustment of lumen size to the recipient's bronchus.</p><p>In this report, we did a 4 month follow-up of the recipient. Before a full clinical trial is done, a follow-up for longer than 6 months would be helpful. In particular, we wish to assess the long-term retention of biomechanical properties, and whether new chondrogenesis (or osteogenesis) from the seeded chondrocytes occurs. However, the early functioning of graft and patient are excellent and we feel that substantial complications or long-term restenosis is unlikely, particularly in the presence of a new blood supply as above. In clinical transplantation, the development of anti-donor antibodies, in which these complications have not occurred by 2 months, is very rare 28 so we do not now expect to see any signs of rejection.</p><p>In this paper, we have described an innovative method for tissue-engineered large airway replacement in a person, resulting in a substantially improved quality of life. The results show that a cellular, tissue-engineered airway can be produced with mechanical properties that allow normal functioning, and which is free from the risks of rejection. This patient provides new evidence that autologous cells combined with appropriate biomaterials might provide, in future, successful functional solutions for serious clinical disorders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>A 7 Figure 1 :</head><label>71</label><figDesc>Figure 1: Volume-rendering CT (A and C), and virtual bronchoscopic (B and D) reconstructions before (A and B) and 1 month after (C and D) engraftment of tissue-engineered trachea to replace left main bronchusTerminal long segment narrowing (arrow) is completely reversed after surgery. A phrenic-nerve paresis was present postoperatively on the operated side, but it did not compromise lung function, and disappeared 2 months postoperatively.</figDesc><graphic coords="2,102.59,121.69,477.07,469.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Bioreactor developed for airway tissue engineering (A) Schematic lateral view, highlighting the rotation of the matrix around its longitudinal axis. The design has separate compartments for lumen and outer surface, and is regularly rotated through a motor to apply the sheer stress needed for growth, distribute nutrients and waste, and ensure even exposure to applied cells. (B) The sealed device. (C) Bioreactor with the graft in situ. (D) Bioreactor after removal of the graft. (E) The final graft immediately before surgical implantation.</figDesc><graphic coords="4,320.98,213.94,117.86,83.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Immunohistochemistry of sections of graft wall at retrieval (A and B), and after 17 cycles (C and D) and 25 cycles (E and F) of detergent-enzymatic treatment Brown staining represents MHC II at low (A,C,E) and high magnification (B,E,F). After 25 cycles (E and F), epithelial cells and glands completely disappeared, whereas only a few chondrocytes were detectable inside the cartilage rings, and even they were disrupted: most did not have a nucleus and their cell borders were indistinct. However, compared with native trachea (A and B), the treated tissues maintained their structural integrity. After 17 cycles (C and D), a diffuse immunoreactivity against both MHC class I and II antigens was still present and 25 cycles (E and F) were needed to remove nearly all HLA-positive cells from the tracheal matrices. At implantation, only a few small areas of cartilage were weakly MHC II positive. No Class I staining was visible (images not shown).</figDesc><graphic coords="5,416.73,558.78,154.94,112.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Colour immunocytochemistry of (A) primary bronchial cells at first passage, before seeding onto the matrix, (B) cytospins of cells from the outer surface of the seeded matrix immediately preimplantation, and (C) cells from the luminal surface of the graft at 4 days postimplantation Epithelial cells with identical phenotype (red) to those in culture are seen on both graft surfaces. The external surface has both viable chondrocytes (green), and a few epithelial cells (red), and the lumen at 4 days postimplantation has plentiful viable epithelial cells, mixed with small groups of viable chondrocytes. Red=cytokeratins 5 and 8 (epithelial). Green=collagen II (chondrocytes). Blue=4'-6-diamidino-2-phenylindole.</figDesc><graphic coords="6,112.60,120.52,230.67,526.40" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>www.thelancet.com Vol 372 December 13, 2008</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>www.thelancet.com Vol 372 December 13, 2008</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This work was supported by the <rs type="funder">Ministerio de Sanidad y Consumo</rs>, <rs type="funder">Instituto de Salud Carlos III</rs>, <rs type="funder">Fondo de Investigación Sanitaria</rs> (<rs type="grantNumber">PI050987</rs>), <rs type="funder">Spain</rs>, and the <rs type="funder">Charles Courtenay-Cowlin Fund, University of Bristol, UK</rs>. APH is funded in part by an endowed chair from the <rs type="funder">UK Arthritis Research Campaign</rs>. SCD is funded by a <rs type="grantName">Research Fellowship</rs> from the <rs type="funder">James Tudor Foundation</rs>. We thank <rs type="person">Laura Morte</rs> for her excellent organisation and trouble-shooting; <rs type="person">Victor Peinado</rs>, and others in his team, for their superb assistance, to whom we are indebted; <rs type="person">John Armitage</rs> of the <rs type="affiliation">Human Tissue Working Group</rs> and the <rs type="affiliation">Research Enterprise Development team</rs>, including <rs type="person">Christine Nileshwar</rs>, <rs type="person">Sean Jauss</rs>, <rs type="person">Ginny Hope</rs>, and <rs type="person">Birgit Whitman</rs> at the <rs type="affiliation">University of Bristol</rs> for providing exceptional support and advice on this project; and all the medical and nurse staff at the <rs type="institution">Institute Clinic of Thorax and Transplant Foundation Services of the Hospital Clinic of Barcelona</rs>, without whom accomplishment of this success would have been impossible. None of the authors have any financial interest in the present work.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_2uT8cbA">
+					<idno type="grant-number">PI050987</idno>
+				</org>
+				<org type="funding" xml:id="_ScvzYrP">
+					<orgName type="grant-name">Research Fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contributors</head><p>PM conceived the project, was principal investigator on the grant supporting the preliminary work, did all surgery and perioperative care, and co-wrote the report. MB was principal investigator on the grant supporting cell culture, contributed to project design, organised cell transfer and culture, and wrote the report. PJ and TG did all the preclinical work, the seeding procedure and in-situ cell testing, and cowrote the report. AA and SM designed the bioreactor and supervised its use. AH and SD developed the methods for growing human chondrogenic mesenchymal stem cells, advised on cell culture, and assisted with writing the report. LR, TC, and AD developed the methods for growing human epithelial cells, did all cell-culture work, immunofluorescence histology, and co-wrote the report. MTC, SB, and PPP developed the decellularisation process for matrix creation. JM supervised all immunological aspect of the procedure. All authors have seen and approved the final version of the report to be published.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest statement</head><p>We declare that we have no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Tracheal replacement: a critical review</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Grillo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="1995" to="2004" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grillo HC. Tracheal replacement: a critical review. Ann Thorac Surg 2002; 73: 1995-2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">First human transplantation of a bioengineered airway tissue</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macchiarini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Walles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Biancosino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mertsching</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="638" to="641" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Macchiarini P, Walles T, Biancosino C, Mertsching H. First human transplantation of a bioengineered airway tissue. J Thorac Cardiovasc Surg 2004; 128: 638-41.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Airway transplantation: a debate worth having?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Birchall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macchiarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transplantation</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1075" to="1080" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Birchall M, Macchiarini P. Airway transplantation: a debate worth having? Transplantation 2008; 85: 1075-80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Replacement of the left main bronchus with a tissue-engineered prosthesis in a canine model</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Araki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Omori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">422</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sato T, Tao H, Araki M, Ueda H, Omori K, Nakamura T. Replacement of the left main bronchus with a tissue-engineered prosthesis in a canine model. Ann Thorac Surg 2008; 86: 422.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Tissue-engineered autologous bladders for patients needing cystoplasty</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Atala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Retik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="1241" to="1246" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Atala A, Bauer SB, Soker S, Yoo JJ, Retik AB. Tissue-engineered autologous bladders for patients needing cystoplasty. Lancet 2006; 367: 1241-46.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Bioengineered skin substitutes for the management of burns: a systematic review</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cleland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Woodruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maddern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Burns</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="946" to="957" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pham C, Greenwood J, Cleland H, Woodruff P, Maddern G. Bioengineered skin substitutes for the management of burns: a systematic review. Burns 2007; 33: 946-57.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Trachea-guided generation</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macchiarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="14" to="16" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Macchiarini P. Trachea-guided generation. J Thorac Cardiovasc Surg 2004; 128: 14-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Tracheal matrices, obtained by a detergent-enzymatic method, support in vitro the adhesion of chondrocytes and tracheal epithelial cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Coppi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Liddo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transpl Int</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="727" to="734" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Conconi MT, De Coppi P, Di Liddo R, et al. Tracheal matrices, obtained by a detergent-enzymatic method, support in vitro the adhesion of chondrocytes and tracheal epithelial cells. Transpl Int 2005; 18: 727-34.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Structural and morphological evaluation of a novel enzymatic detergent tissue engineered tracheal tubular matrix</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jungebluth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Go</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Asnaghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bellini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+	<note type="raw_reference">Jungebluth P, Go T, Asnaghi A, Bellini S, et al. Structural and morphological evaluation of a novel enzymatic detergent tissue engineered tracheal tubular matrix. J Thorac Cardiovasc Surg (in press).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The isolation and characterisation of primary human laryngeal epithelial cells</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gunasekaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sipaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Birchall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Immunol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="725" to="730" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rees LE, Gunasekaran S, Sipaul F, Birchall MA, Bailey M. The isolation and characterisation of primary human laryngeal epithelial cells. Mol Immunol 2006; 43: 725-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pharmacological regulation of adult stem cells: chondrogenesis can be induced using a synthetic inhibitor of the retinoic acid receptor</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kafienah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mistry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Politopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Hollander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2460" to="2468" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kafienah W, Mistry S, Perry MJ, Politopoulou G, Hollander AP. Pharmacological regulation of adult stem cells: chondrogenesis can be induced using a synthetic inhibitor of the retinoic acid receptor. Stem Cells 2007; 25: 2460-68.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Technical innovations of carinal resection for non small-cell lung cancer. Hannover Interdisciplinary Intrathoracic Tumor Task Force Group</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macchiarini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Altmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Go</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1989" to="1997" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Macchiarini P, Altmayer M, Go T, et al. Technical innovations of carinal resection for non small-cell lung cancer. Hannover Interdisciplinary Intrathoracic Tumor Task Force Group. Ann Thorac Surg 2006; 82: 1989-97</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Predictive value of HLA antibodies and serum creatinine in chronic rejection: results of a 2-year prospective trial</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Terasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ozawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transplantation</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1194" to="1197" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Terasaki PI, Ozawa M. Predictive value of HLA antibodies and serum creatinine in chronic rejection: results of a 2-year prospective trial. Transplantation 2005; 80: 1194-97.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Differential major histocompatibility complex class II locus expression on human laryngeal epithelium</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ayoub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Haverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Birchall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Immunol</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="497" to="502" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rees LE, Ayoub O, Haverson K, Birchall MA, Bailey M. Differential major histocompatibility complex class II locus expression on human laryngeal epithelium. Clin Exp Immunol 2003; 134: 497-502.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Characterizing the antigenic profile of the human trachea: implications for tracheal transplantation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Shaari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Farber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Brandwein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Urken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Head Neck</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="522" to="527" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shaari CM, Farber D, Brandwein MS, Gannon P, Urken ML. Characterizing the antigenic profile of the human trachea: implications for tracheal transplantation. Head Neck 1998; 20: 522-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">From cell-ECM interactions to tissue engineering</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barbarisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Barbarisi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Physiol</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="174" to="180" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosso F, Giordano A, Barbarisi M, Barbarisi A. From cell-ECM interactions to tissue engineering. J Cell Physiol 2004; 199: 174-80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Acellular liver matrix improves the survival and functions of isolated rat hepatocytes cultured in vitro</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Burra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tomat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="511" to="515" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Burra P, Tomat S, Conconi MT, et al. Acellular liver matrix improves the survival and functions of isolated rat hepatocytes cultured in vitro. Int J Mol Med 2004; 14: 511-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effect of synthetic peptides on osteoblast adhesion</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dettin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gambaretto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4507" to="4515" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dettin M, Conconi MT, Gambaretto R, et al. Effect of synthetic peptides on osteoblast adhesion. Biomaterials 2005; 26: 4507-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Decellularization of tissues and organs</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Sellaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Badylak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3675" to="3683" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gilbert TW, Sellaro TL, Badylak SF. Decellularization of tissues and organs. Biomaterials 2006; 27: 3675-83.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Short bowel syndrome: experimental approach to increase intestinal surface in rats by gastric homologous acellular matrix</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Parnigotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marzaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Artusi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Perrino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pediatr Surg</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1304" to="1308" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Parnigotto PP, Marzaro M, Artusi T, Perrino G, Conconi MT. Short bowel syndrome: experimental approach to increase intestinal surface in rats by gastric homologous acellular matrix. J Pediatr Surg 2000; 35: 1304-08.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo proposal of an artificial esophagus</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marzaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vigolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oselladore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biomed Mater Res A</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="795" to="801" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marzaro M, Vigolo S, Oselladore B, et al. In vitro and in vivo proposal of an artificial esophagus. J Biomed Mater Res A 2006; 77: 795-801.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Homologous muscle acellular matrix seeded with autologous myoblasts as a tissue-engineering approach to abdominal wall-defect repair</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Coppi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2567" to="2574" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Conconi MT, De Coppi P, Bellini S, et al. Homologous muscle acellular matrix seeded with autologous myoblasts as a tissue-engineering approach to abdominal wall-defect repair. Biomaterials 2005; 26: 2567-74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo evaluation of acellular diaphragmatic matrices seeded with muscle precursors cells and coated with VEGF silica gels to repair muscle defect of the diaphragm</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Teoli</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jbm.a.31982</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biomed Mater Res</title>
+		<imprint>
+			<date type="published" when="2008-04-22">2008. April 22</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Conconi MT, Bellini S, Teoli D, et al. In vitro and in vivo evaluation of acellular diaphragmatic matrices seeded with muscle precursors cells and coated with VEGF silica gels to repair muscle defect of the diaphragm. J Biomed Mater Res 2008; published online April 22. DOI:10.1002/jbm.a.31982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Autologous satellite cell seeding improves in vivo biocompatibility of homologous muscle acellular matrix implants</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marzaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Conconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Perin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="177" to="182" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marzaro M, Conconi MT, Perin L, et al. Autologous satellite cell seeding improves in vivo biocompatibility of homologous muscle acellular matrix implants. Int J Mol Med 2002; 10: 177-82.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Quantification of DNA in biologic scaffold materials</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sjm</forename><surname>Freund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Badylak</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jss.2008.02.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Surg Res</title>
+		<imprint>
+			<date type="published" when="2008-03-13">2008. March 13</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gilbert TW, Freund SJM, Badylak SF. Quantification of DNA in biologic scaffold materials. J Surg Res 2008; published online March 13. DOI:10.1016/j.jss.2008.02.013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Engineered cartilage generated by nasal chondrocytes is responsive to physical forces resembling joint loading</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Candrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vonwil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Barbero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">197</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Candrian C, Vonwil D, Barbero A, et al. Engineered cartilage generated by nasal chondrocytes is responsive to physical forces resembling joint loading. Arthritis Rheum 2008; 58: 197.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Tissue-engineered endothelial and epithelial implants differentially and synergistically regulate airway repair</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Zani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vacanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Edelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="7046" to="7051" />
+			<date type="published" when="2008">2008</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zani BG, Kojima K, Vacanti CA, Edelman ER. Tissue-engineered endothelial and epithelial implants differentially and synergistically regulate airway repair. Proc Natl Acad Sci USA 2008; 105: 7046-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Predicting kidney graft failure by HLA antibodies: a prospective trial</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Terasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ozawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Transplant</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="438" to="443" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Terasaki PI, Ozawa M. Predicting kidney graft failure by HLA antibodies: a prospective trial. Am J Transplant 2004; 4: 438-43.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

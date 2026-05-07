@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Growth Properties of Cardiac Stem Cells Are a Novel Biomarker of Patients’ Outcome After Coronary Bypass Surgery</title>
+				<funder>
+					<orgName type="full">National Institutes of Health</orgName>
+				</funder>
+				<funder ref="#_HWFFZxS">
+					<orgName type="full">Italian Ministry for University and Research</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-01-14">January 14, 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Domenico</forename><surname>D’amario</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD;</roleName><forename type="first">Antonio</forename><forename type="middle">M</forename><surname>Leone</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Antonio</forename><surname>Iaconelli</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Nicola</forename><surname>Luciani</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Mario</forename><surname>Gaudino</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Ramaswamy</forename><surname>Kannappan</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Melissa</forename><surname>Manchi</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Anna</forename><surname>Severino</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sang</forename><forename type="middle">Hun</forename><surname>Shin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Francesca</forename><surname>Graziani</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Gina</forename><surname>Biasillo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Andrea</forename><surname>Macchione</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Costantino</forename><surname>Smaldone</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Giovanni</forename><forename type="middle">Luigi</forename><surname>De Maria</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Carlo</forename><surname>Cellini</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Andrea</forename><surname>Siracusano</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Lara</forename><surname>Ottaviani</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Massimo</forename><surname>Massetti</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Polina</forename><surname>Goichberg</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Annarosa</forename><surname>Leri</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Piero</forename><surname>Anversa</surname></persName>
+							<email>panversa@partners.org</email>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Filippo</forename><surname>Crea</surname></persName>
+							<email>filippo.crea@rm.unicatt.it</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Cardiovascular Sciences , Catholic University of the Sacred Heart , Rome , Italy</note>
+								<orgName type="department">Department of Cardiovascular Sciences</orgName>
+								<orgName type="institution">Catholic University of the Sacred Heart</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Departments of Anesthesia and Medicine , and Division of Cardiovascular Medicine , Brigham and Women&apos;s Hospital , Harvard Medical School , Boston , MA</note>
+								<orgName type="department" key="dep1">Departments of Anesthesia and Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep3">Brigham and Women&apos;s Hospital</orgName>
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Departments of Anesthesia and Medicine , and Division of Cardiovascular Medicine , Brigham and Women&apos;s Hospital , Harvard Medical School , Boston , MA 02215</note>
+								<orgName type="department" key="dep1">Departments of Anesthesia and Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep3">Brigham and Women&apos;s Hospital</orgName>
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<postCode>02215</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Department of Cardiovascular Sciences , Catholic University of the Sacred Heart , Rome , Italy , 00168</note>
+								<orgName type="department">Department of Cardiovascular Sciences</orgName>
+								<orgName type="institution">Catholic University of the Sacred Heart</orgName>
+								<address>
+									<postCode>00168</postCode>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Growth Properties of Cardiac Stem Cells Are a Novel Biomarker of Patients’ Outcome After Coronary Bypass Surgery</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Circulation</title>
+						<title level="j" type="abbrev">Circulation</title>
+						<idno type="ISSN">0009-7322</idno>
+						<idno type="eISSN">1524-4539</idno>
+						<imprint>
+							<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+							<biblScope unit="volume">129</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="157" to="172"/>
+							<date type="published" when="2014-01-14">January 14, 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B118EA6E5F6FD86F6BD3558C8872685F</idno>
+					<idno type="DOI">10.1161/circulationaha.113.006591</idno>
+					<note type="submission">Received October 2, 2013; accepted October 25, 2013.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>coronary artery disease ◼ receptor, IGF type 1 ◼ stem cells ◼ telomerase ◼ telomere ◼ ventricular remodeling</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the current report, we raised the possibility that intrinsic factors within the heart may play a major role in preserving the Background-The efficacy of bypass surgery in patients with ischemic cardiomyopathy is not easily predictable; preoperative clinical conditions may be similar, but the outcome may differ significantly. We hypothesized that the growth reserve of cardiac stem cells (CSCs) and circulating cytokines promoting CSC activation are critical determinants of ventricular remodeling in this patient population. Methods and Results-To document the growth kinetics of CSCs, population-doubling time, telomere length, telomerase activity, and insulin-like growth factor-1 receptor expression were measured in CSCs isolated from 38 patients undergoing bypass surgery. Additionally, the blood levels of insulin-like growth factor-1, hepatocyte growth factor, and vascular endothelial growth factor were evaluated. The variables of CSC growth were expressed as a function of the changes in wall thickness, chamber diameter and volume, ventricular mass-to-chamber volume ratio, and ejection fraction, before and 12 months after surgery. A high correlation was found between indices of CSC function and cardiac anatomy. Negative ventricular remodeling was not observed if CSCs retained a significant growth reserve. The high concentration of insulinlike growth factor-1 systemically pointed to the insulin-like growth factor-1-insulin-like growth factor-1 receptor system as a major player in the adaptive response of the myocardium. hepatocyte growth factor, a mediator of CSC migration, was also high in these patients preoperatively, as was vascular endothelial growth factor, possibly reflecting the vascular growth needed before bypass surgery. Conversely, a decline in CSC growth was coupled with wall thinning, chamber dilation, and depressed ejection fraction. Conclusions-The telomere-telomerase axis, population-doubling time, and insulin-like growth factor-1 receptor expression in CSCs, together with a high circulating level of insulin-like growth factor-1, represent a novel biomarker able to predict the evolution of ischemic cardiomyopathy following revascularization. (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T he therapeutic efficacy of bypass surgery in patients who have severe coronary atherosclerosis and ischemic cardiomyopathy are not easily predictable. <ref type="bibr" target="#b0">1</ref> Although the preoperative clinical conditions of the patients may be similar, the mid-and long-term outcome may differ significantly. <ref type="bibr" target="#b1">2</ref> Following surgery, attenuation in chamber dilation and wall thickening are important positive variables of ventricular remodeling, whereas the opposite effects are the hallmarks of chronic heart failure. <ref type="bibr" target="#b2">3</ref> These changes in cardiac anatomy have profound consequences on patients' mortality, <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> emphasizing the need to identify biomarkers that can predict the evolution of the myopathic heart. impact of successful bypass surgery and the improvement in ventricular performance. The recognition that the adult human heart possesses a stem cell compartment capable of differentiating into cardiomyocytes and coronary vessels <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> suggests that cardiac stem cells (CSCs) and their growth properties may be critically implicated in the protection of the structural and functional integrity of the myocardium. Moreover, circulating cytokines able to promote CSC activation and commitment may be equally relevant in favoring the increase in wall thickness and the decrease in chamber volume, months after the surgical intervention.</p><p>Based on this premise, the growth kinetics of CSCs and the telomere-telomerase axis were characterized in 38 patients with stable angina who were undergoing bypass surgery. Additionally, the blood level of insulin-like growth factor-1 (IGF-1), hepatocyte growth factor (HGF), stem cell factor (SCF), vascular endothelial growth factor (VEGF), granulocyte-colony stimulating factor (G-CSF), and basic fibroblast growth factor (bFGF) were measured before surgery and 1 year later, when the beneficial effects of revascularization were well established. <ref type="bibr" target="#b7">8</ref> IGF-1, HGF, and SCF have the potential to activate surface receptors in CSCs, inducing CSC division, survival, and migration. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> VEGF is the ligand of vascular endothelial growth factor receptor-2 <ref type="bibr" target="#b6">7</ref> ; it has the ability to induce angiogenesis and vasculogenesis. <ref type="bibr" target="#b10">11</ref> G-CSF mobilizes hematopoietic stem cells (HSCs) and endothelial progenitor cells, which may expand the coronary microcirculation and transdifferentiate generating cardiomyocytes. <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Conversely, bFGF may favor fibroblast proliferation and collagen accumulation, altering the mechanical behavior of the myocardium.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>An expanded Materials and Methods section is provided in the online-only Data Supplement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Study Design</head><p>We enrolled 55 patients undergoing elective on-pump coronary artery bypass surgery (CABG) for multivessel coronary atherosclerosis. The inclusion criteria were as follows: (1) chronic stable angina in the past 6 months, together with evidence of ischemia at stress test; and (2) complete surgical revascularization within 7 days. The exclusion criteria were as follows: (1) evidence of previous myocardial infarct or pathological Q waves on the 12-lead ECG; (2) hospitalization for acute coronary syndrome during the past 6 months;</p><p>(3) severe valvular heart disease; (4) CABG or percutaneous transluminal angioplasty in the preceding 12 months; (5) life expectancy &lt;1 year; (6) presence of malignancies; (7)  psychosocial conditions precluding long-term adherence; (8) pregnancy; (9) enrollment in other clinical research trial; (10) cardiogenic shock; (11) severe comorbidities; and (12)  patients unable or unwilling to give informed written consent. Because 17 patients were lost at follow-up, the study was restricted to 38 subjects (Figure I in the online-only Data Supplement).</p><p>The right atrial appendage was harvested during on-pump CABG for isolation and expansion of CSCs. At the time of enrollment and follow-up, 12±1 months after CABG, patients had complete clinical and physical examinations with collection of cardiovascular risk factors, 2-dimensional echocardiography, and evaluation of New York Heart Association functional class. The serum level of IGF-1, HGF, VEGF, SCF, G-CSF, and bFGF was also measured (Figure I in the online-only Data Supplement). The study was approved by the local ethics committee and conformed to the Declaration of Helsinki on human research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Echocardiography</head><p>Transthoracic echocardiogram was performed according to the recommendations of the European Society of Echocardiography from a single experienced operator (G.B.) with a second harmonic 2.25-MHz probe to optimize endocardial border visualization. All echocardiograms were digitized and reanalyzed off-line by 3 experienced operators (F.G., A.M., C.S.), blind to the clinical and laboratory data. Temporal changes in left ventricular (LV) volume from baseline to 12±1 months after surgery were computed. An increase in LV enddiastolic volume of ≥20% at follow-up was interpreted as an index of negative LV remodeling (LVR). <ref type="bibr" target="#b14">15</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human CSCs</head><p>CSCs were isolated from 38 myocardial samples, and their in vitro properties were determined. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b15">16</ref> Aliquots of CSCs were fixed and following incubation with antibodies against surface markers, nuclear transcription factors, and cytoplasmic proteins were analyzed by fluorescence-activated cell sorter (FACSAria or AccuriC6). The presence of epitopes of hematopoietic (CD34, CD45) and mesenchymal (CD90, CD105) stem cells was determined, in combination with the expression of IGF-1 receptors (IGF-1Rs). Myocyte, endothelial cell, and smooth muscle cell markers were also included in this assay (Tables I and II in the online-only Data Supplement).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Growth Properties of CSCs</head><p>CSCs were plated at a low density, and the number of cells per unit area of the culture dish was measured daily for 5 to 7 days. Population-doubling time (PDT) was computed by linear regression of log 2 values of cell number. <ref type="bibr" target="#b16">17</ref> The length of telomeres was determined by flow-fluorescent in situ hybridization, and the catalytic activity of telomerase was assessed by quantitative polymerase chain reaction. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Growth Factors</head><p>A customized multiplex microarray technology based 2-site sandwich enzyme-linked immunosorbent assay was used to measure quantitatively the serum level of IGF-1, HGF, VEGF, SCF, G-CSF, and bFGF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Continuous variables were expressed as mean±standard deviation, and dichotomous variables are shown as percentages. Unpaired t test or Mann-Whitney U-test was used for comparison between 2 groups. Categorical variables were compared by using the χ 2 test or Fisher exact test, as appropriate. Linear regression analysis was performed to correlate the characteristics of CSCs in vitro with the indices of LVR: in each case the</p><formula xml:id="formula_0">R E T R A C T E D A R T I C L E</formula><p>This article was retracted in December 2018 best-fit regression line is shown together with the 95% confidence interval, and the P and R 2 values. P values of &lt;0.05 were considered significant.</p><p>Multivariate logistic regression analysis was performed to identify independent predictors of LVR. Variables showing a P value of &lt;0.05 at univariate analysis were included in the models. β-Values and 95% confidence intervals have been reported.</p><p>Receiver operating characteristic curve was performed to determine the cellular biomarker or growth factor level that best predicted negative LV remodeling and to assess the best cutoff value. The Youden index was introduced to evaluate the sensitivity and specificity of each variable. Statistical comparisons were performed by using SPSS 20.0 (IBM SPSS Statistics, IBM Corporation, Armonk, NY); however, receiver operating characteristic analysis was done with the use of MedCalc (MedCalc, Mariakerke, Belgium). <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A cohort of 55 consecutive patients affected by chronic coronary artery disease (CAD) with indication for bypass surgery was studied. In all 55 patients, the right atrial appendage was collected at the time of surgery for CSC isolation and characterization. Ten of the 55 patients did not return to the clinic and 5 refused follow-up tests. Two additional patients were excluded because they developed malignant tumors. Thus, 38 patients were included in the final study (Figure <ref type="figure">I</ref> in the online-only Data Supplement). Patients' characteristics are listed in Table 1. There were 33 men and 5 women. Risk factors included hypertension, hyperlipidemia, family history of cardiovascular disease, type 2 diabetes mellitus, renal dysfunction, and hyperuricemia. Indices of high-risk perioperative outcomes were evaluated: 15 patients were in New York Heart Association class III and 26 had a 3-vessel disease (stenosis ≥70%). The preoperative predictor logistic euroSCORE II was determined; 12 patients Table 1. Characteristics of the Patient Population Variables Patients (38) Clinical characteristics Age, years±SD 69±8 Sex Male, n (%) 33 (87) Female, n (%) 5 (13) Hypertension, n (%) 37 (97) Current smoker, n (%) 23 (61) Dyslipidemia, n (%) 30 (79) Diabetes mellitus, n (%) 24 (63) Family history of CAD, n (%) 28 (74) Body mass index, kg/m 2 28±4 LVEF, average±SD 54±11 Patients with LVEF&lt;45%, n (%) 8 (21) NYHA I, n (%) 2 (5) NYHA II, n (%) 21 (55.5) NYHA III, n (%) 15 (39.5) NYHA IV, n (%) 0 (0) Therapy on admission β-Blockers, n (%) 33 (87) ACE inhibitors, n (%) 27 (71) Statins, n (%) 30 (79) Aspirin, n (%) 25 (66) ARBs, n (%) 1 (2.6) Diuretics, n (%) 26 (68) Heparin, n (%) 4 (10.5) Clopidogrel, n (%) 0 (0) Laboratory tests Urea nitrogen, mg/dL 18±7 Uric acid, mg/dL 5.4±2 HbA1c, % ±SD 7±1 Total cholesterol, mg/dL±SD 196±23 LDL, mg/dL±SD 134±31 HDL, mg/dL±SD 40±11 Triglycerides, mg/dL±SD 156±18 Creatinine clearance, mL/min±SD 62±9 hsCRP, mg/L 1.9±0.7 Angiographic analysis and preoperative risk stratification Coronary disease extension, n (%) 1 Vessel+LM 2 (5.2) 2 Vessels 10 (26.3) 3 Vessels 26 (68.5) CABG+valve replacement, n (%) 0 (0) Log euroSCORE (average) 8.3 Log euroSCORE 0-4, n (%) 19 (50) Log euroSCORE 5-9, n (%) 7 (18.4) Log euroSCORE &gt;10, n (%) 12 (31.6) euroSCORE II (average) 8.2 Intra-and perioperative variables Number of grafts 3±1 (Continued ) Number of anastomosis 4±1 LIMA, n (%) 37 (97.3) BIMA, n (%) 7 (18.4) Cross-clamp, min±SD 61±18 ECC time, min±SD 72±18 Cardioplegia, mL, DS 19.6±6.2 Total mEq K+ infused 39.3±12.5 Ischemic time, min±SD 51.7±15.0 Post-CABG atrial fibrillation, n (%) 6 (15.8) CK-MB (peak; 48 h post-CABG) 17.3±11.6 ACE indicates angiotensin-converting enzyme; ARB, angiotensin receptor blocker; BIMA, left and right internal mammary artery; CABG, coronary artery bypass surgery; CAD, coronary artery disease; CK-MB, creatine kinase MB; ECC, extra corporeal circulation; HbA1c, hemoglobin A1c; HDL, high-density lipoprotein; hsCRP, high-sensitivity C-reactive protein; LDL, low-density lipoprotein; LIMA, left internal mammary artery; LM, left main stem disease; LV, left ventricle; LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; and SD, standard deviation. Table 1. Continued Variables Patients (38) R E T R A C T E D A R T I C L E This article was retracted in December 2018 were in the highest tertile with euroSCORE II ≥ 10. LV ejection fraction (LVEF) averaged 54%; however, 8 patients had LVEF &lt; 45%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSC Characterization and Growth</head><p>A major challenge and potential limitation of this work was related to the successful acquisition of c-kit-positive CSCs in each of the 38 patients, a prerequisite for the comparison to be made with the evolution of the cardiac disease following bypass surgery. In each case, the right atrial appendage was digested, and, following expansion of the small-cell pool, c-kit-positive cells were collected with immunomagnetic beads and cultured; c-kit-positive CSCs were obtained in all cases. At P5 to P6, c-kit-positive CSCs were characterized by fluorescence-activated cell sorter analysis. These cells were negative for the markers of HSCs, CD34, and CD45, and for a cocktail of antibodies against bone marrow-derived cells ( This characterization of CSCs allowed us to establish whether age, sex, and the presence of type 2 diabetes mellitus affected the CSC phenotype. Although age, sex, and diabetes mellitus alter the pool size of CSCs in the myocardium, <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> no significant differences were found in the proportion of undifferentiated and committed CSCs with any of these 3 variables (Figure <ref type="figure">1B</ref>). These observations suggest that a selection process occurs in vitro during CSC growth with loss or death of the nonfunctionally competent stem cells. This conclusion is supported by the evaluation of the PDT of CSCs, which varied modestly from 23 to 30 hours, averaging 26 hours (Figure <ref type="figure" target="#fig_6">2A</ref> and <ref type="figure" target="#fig_6">2B</ref>). Moreover, bromodeoxyuridine labeling of CSCs after a single pulse of the halogenated nucleotide was relatively similar in the 12 cases tested (Figure <ref type="figure" target="#fig_6">2C</ref>), despite age, sex, and the presence or absence of diabetes mellitus. These 12 cases included patients 1 to 6 with positive LVR and patients 28 to 33 with negative LVR.</p><p>We have previously shown that functionally competent human CSCs can be successfully obtained from small biopsy samples in extremely sick patients undergoing LV assist device implantation or heart transplant. <ref type="bibr" target="#b15">16</ref> Age, sex, and diabetes mellitus may increase the functional heterogeneity of the CSC pool within the entire myocardium, but do not prevent the acquisition of resident stem cells with significant growth reserve and expandability in vitro. Thus, consistent with previous results, <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> with our protocol, a significant number of undifferentiated c-kit-positive CSCs can be obtained in all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSCs and the Telomere-Telomerase Axis</head><p>Stem cell growth is regulated by the length of telomeres and telomerase activity, which restores in part the telomeric DNA lost following each cell division <ref type="bibr" target="#b23">24</ref> ; telomere length provides information on the replicative history of non-postmitotic cells. In intact human CSCs telomere length is ≈9 to 10 kbp. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b16">17</ref> With each cell division, human CSCs lose 130 bp of telomeric DNA, <ref type="bibr" target="#b5">6</ref> and replicative senescence and irreversible growth arrest occur when telomere length reaches 1.5 to 2 kbp. <ref type="bibr" target="#b23">24</ref> In this study, telomere length was measured by Flowfluorescent in situ hybridization and was found to vary from a minimum of 6.7 kbp to a maximum of 8.5 kbp, averaging 7.4 kbp (Figure <ref type="figure" target="#fig_6">2D</ref> and <ref type="figure" target="#fig_6">2E</ref>). Telomerase activity, evaluated by quantitative polymerase chain reaction, was seen to be high in all cases (Figure <ref type="figure" target="#fig_6">2F</ref>). Age, sex, and type 2 diabetes mellitus appeared not to influence these 2 fundamental parameters of CSC proliferation (Figure <ref type="figure" target="#fig_6">2G</ref>).</p><p>Telomerase function is regulated in part by the IGF-1-IGF-1R system. In mouse cardiomyocytes, IGF-1 stimulates the phosphoinositide-3-kinase-Akt pathway that, in turn, phosphorylates telomerase, because there is a consensus site for Akt phosphorylation in the catalytic subunit of this ribonucleoprotein. <ref type="bibr" target="#b24">25</ref> To test whether a similar process is operative in human CSCs, 3 assays were performed. High levels of phospho-Akt were found by Western blotting in CSC preparations (Figure <ref type="figure" target="#fig_4">3A</ref>). The enzymatic activity of Akt was documented by a kinase assay, and the results were consistent with the expression of the phosphorylated protein at Ser473 (Figure <ref type="figure" target="#fig_4">3B</ref>). Additionally, telomerase was immunoprecipitated and exposed to an antibody against Ser824 located within the putative Akt consensus site (Figure <ref type="figure" target="#fig_4">3C</ref>). Phosphotelomerase was high mimicking the level of telomerase activity in these cases.</p><p>Importantly, human CSCs expressing IGF-1R have a powerful regenerative capacity following experimental myocardial injury, <ref type="bibr" target="#b16">17</ref> suggesting that the expression of IGF-1R in CSCs conditions favorably the evolution of chronic CAD. In the 38 CSC preparations, IGF-1R expression varied but was present in all cases (Figure <ref type="figure" target="#fig_5">4A</ref> through 4C). Consistent with the observations above, there was a significant correlation in the 38 samples of CSCs between IGF-1R expression and telomere length and telomerase activity (Figure <ref type="figure" target="#fig_5">4D</ref> and <ref type="figure" target="#fig_5">4E</ref>). Thus, the telomere-telomerase axis, together with IGF-1R expression and Akt phosphorylation of the ribonucleoprotein, supports the view of a remarkable growth reserve of human CSCs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSCs and Ventricular Remodeling</head><p>Echocardiographic measurements of LV dimension and wall thickness were obtained before bypass surgery and 12±1 months later when optimal revascularization was</p><p>R E T R A C T E D A R T I C L E  R E T R A C T E D A R T I C L E This article was retracted in December 2018 Figure 2. Continued on next page R E T R A C T E D A R T I C L E This article was retracted in December 2018</p><p>(Δ) before and 12±1 months following revascularization, whereas the characteristics of CSCs were defined in samples collected at the time of surgery. This protocol cannot exclude that the improvement in coronary perfusion with surgery may have affected the growth kinetics of resident CSCs. However, a second myocardial biopsy for research purposes only was not justified.</p><p>Wall thickening, reduction in chamber diameters and volume, and increases in ventricular mass-to-chamber volume ratios were interpreted as significant determinants of successful LVR in view of the critical role that these anatomic indices play in diastolic and systolic wall stress. <ref type="bibr" target="#b2">3</ref> An inverse correlation was found between PDT and the changes in wall thickness. The shorter the PDT of CSCs, the greater was the increase in the anterior and posterior wall thickness at followup. In contrast, the longer the PDT, the larger was the increase in cavitary diameters. Moreover, longer telomeres, higher telomerase activity, and higher expression of IGF-1R in CSCs showed similar beneficial effects on wall thickening and LV chamber diameters (Figure <ref type="figure" target="#fig_7">5A</ref>     R E T R A C T E D A R T I C L E This article was retracted in December 2018 R E T R A C T E D A R T I C L E This article was retracted in December 2018 R E T R A C T E D A R T I C L E This article was retracted in December 2018 Subsequently, the 38 patients were divided into 1 groups: (1) group 1 showed preservation, reduction, or increase in LV end-diastolic volume &lt;20%, ie, positive LVR (n=27); and (2) group 2 showed an increase in LV end-diastolic volume ≥20%, ie, negative LVR (n=11). These 2 patient cohorts did not differ in terms of baseline clinical, anatomic, and functional characteristics (Table <ref type="table">2</ref>). When the growth properties of CSCs in these 2 patient subsets were compared, PDT was 10% shorter in positively remodeled hearts. Moreover, telomere length was 8% longer, and telomerase activity and IGF-1R expression were, respectively, 25% and 26% higher in this group (Figure <ref type="figure" target="#fig_9">6A</ref>).</p><p>Wall thickening, chamber diameter and volume, LV mass, and LV mass-to-chamber volume ratio varied significantly after surgery. From baseline to 12±1 months following revascularization, Δ end-diastolic and Δ end-systolic LV volume decreased, respectively, 11% and 18%, whereas ΔLVEF increased 9% in patients with positive LVR. Conversely, in patients with negative LVR, Δ end-diastolic volume increased 28%, Δ end-systolic volume increased 20%, and LVEF decreased 14% (Figure <ref type="figure" target="#fig_9">6B</ref> and <ref type="figure" target="#fig_9">6C</ref>).</p><p>By multivariate analysis, the 4 variables of CSC growth (ie, PDT, telomere length, telomerase activity, and IGF-1R expression) retained their statistical significant association with LVR (Table <ref type="table">III</ref> in the online-only Data Supplement). Additionally, the receiver operating characteristic curve indicated that PDT, telomere length, and telomerase activity were significantly related to LVR with an area under the curve of 0.92 (95% confidence interval [CI], 0.78-0.98; P&lt;0.001), 0.85 (95% CI, 0.70-0.94; P&lt;0.001) and 0.75 (95% CI, 0.59-0.88; P&lt;0.003), respectively. Similarly, IGF-1R presented an area under the curve of 0.86 (95% CI, 0.71-0.95; P&lt;0.001) (Table <ref type="table">IV</ref> in the online-only Data Supplement). Thus, the replication reserve of CSCs, based on PDT, telomere length, telomerase activity, and IGF-1R expression may be viewed as a novel biomarker of clinical outcome in patients requiring bypass surgery for CAD and ischemic cardiomyopathy.</p><p>The use of 2-dimensional echocardiography as an imaging modality to evaluate LVR has limitations. However, the guidelines of the joint American Society of Echocardiography and European Association of Echocardiography still recommend the Simpson biplane method of discs as the routine preferred 2-dimensional protocol for calculating ventricular dimensions and LVEF. Moreover, based on the Bland-Altman test, the inter-and intraobserver agreement for this analysis was 94% and 96%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Circulating Growth Factors</head><p>The blood concentration of IGF-1, HGF, SCF, VEGF, G-CSF, and bFGF was determined at baseline and 12±1 months following revascularization. These growth factors were selected because of their ability to activate CSC division and migration (IGF-1, HGF, SCF), formation of coronary vessels (VEGF), egression of HSCs from the bone marrow into the systemic circulation (SCF, G-CSF), and fibroblast proliferation (bFGF). The ΔIGF-1, ΔHGF, ΔSCF, ΔVEGF, ΔG-CSF, and ΔbFGF failed to correlate with the anatomic parameters of LVR. However, the levels of IGF-1 and HGF were, respectively, 2.5-fold and 27% higher before bypass surgery in patients who experienced positive LVR; but, at 12±1 months, only IGF-1 remained elevated. In these patients, the concentration of VEGF was 17% higher at baseline but decreased significantly at 12±1 months. The circulating amounts of SCF, G-CSF, and bFGF were similar before and after surgery (Figure <ref type="figure" target="#fig_9">6D</ref>). Thus, IGF-1, HGF, and VEGF may have a protective effect on the myocardium before revascularization, although IGF-1 may be implicated in the manifestations of positive LVR after surgery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results of the current study indicate that the function of resident CSCs provides critical information concerning the recovery of the myocardium following successful revascularization of patients who have chronic CAD. Negative LVR over a period of 12 months after coronary bypass was not observed if the CSC compartment before surgery retained a significant growth reserve. Decline in the replicative potential of CSCs was paralleled by alterations in ventricular wall thickening, together with chamber dilation and reduction in LV mass-to-chamber volume ratio. The correlation between each of the 4 indices of CSC growth and the size and shape of the heart strongly suggest that the behavior of CSCs is implicated in the positive or negative outcome of the surgically treated ischemic cardiomyopathic heart. PDT, telomere length, telomerase activity, and the expression of IGF-1R have dramatic effects on CSC division and survival and in the generation of a differentiated specialized progeny. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b16">17</ref> These variables, in combination with the high concentration of IGF-1 in the circulation before and after cardiac surgery, point to the IGF-1-IGF-1R system as a major player in positive LVR. Although CSCs were isolated from the right atrial appendage and not from the diseased LV myocardium, the growth characteristics of human CSCs have been shown to be comparable in these 2 anatomic regions, and in the right side of the septum and right ventricle, as well. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b25">26</ref> Caution has to be exercised in the interpretation of these findings. As indicated in the Results section, not all parameters showed a strong correlation, raising the possibility that the C T E D A R T I C L E This article was retracted in December 2018</p><p>approach used here may have to be extended to a significantly larger number of patients to strengthen the data or to restrict the variables of CSC growth that predict negative and positive LVR following coronary bypass surgery. Moreover, the most appropriate characterization of CSC behavior for clinical outcome would have required sampling of the myocardium after the recovery from the surgical procedure, a protocol that could not be implemented without exposing patients to unnecessary, additional risks.</p><p>Table 2. Characteristics of Patients with Negative and Positive LVR Variables Negative LVR Patients 11 (29%) Positive LVR Patients 27 (71%) P Value Clinical characteristics Age, years±SD 65±9 70±8 0.10 Sex 0.29 Male, n (%) 11 (100) 22 (81.5) Female, n (%) 0 (0) 5 (18.5) Hypertension, n (%) 11 (100) 26 (96.3) 1.00 Current smoker, n (%) 7 (63.6) 16 (59.2) 1.00 Dyslipidemia, n (%) 8 (72.7) 22 (81.5) 0.67 Diabetes mellitus, n (%) 7 (63.6) 17 (63) 1.00 Family history of CAD, n (%) 10 (91) 18 (66.6) 0.23 Body mass index, kg/m 2 29.1±5 27.8±4 0.44 NYHA functional class 0.66 NYHA I, n (%) 1(9.0) 1 (3.7) NYHA II, n (%) 5 (45.5) 16(59.3) NYHA III, n (%) 5 (45.5) 10</p><p>NYHA IV, n (%) 0</p><p>00 Aspirin, n (%) 6 (54.5) 19 (70.4) 0.45 ARBs, n (%) 0 1 (3.7) 1.00 Diuretics, n (%) 6 (54.5) 20 (74) 0.28 Heparin, n (%) 1 (9.1) 3 (11.1) 1.00 Clopidogrel, n (%) 0 0 NA Laboratory tests Urea nitrogen, mg/dL 17.63±9 18.3±6 0.82 Uric acid, mg/dL 5.4±2 5.4±2 0.98 HbA1c, %±SD 7±1 6.9±1 0.77 Total cholesterol, mg/dL±SD 173±41 151±49 0.22 LDL, mg/dL±SD 121±32 115±46 0.18 HDL, mg/dL±SD 40±18 44±18 0.24 Triglycerides, mg/dL ±SD 111±30 95±18 0.28 Creatinine clearance, mL/min±SD 68±13 70±10 0.22 Echocardiography on admission LV ejection fraction, % 57.7±11.2 52.8±11 0.23 LV end-diastolic volume, mL 106.5±45.5 113.1±37 0.67 LV end-systolic volume, mL 53.9±33.2 59.5±30.6 0.63 Wall Motion Score Index 1.78±1 1.4±0.3 0.15 LV diastolic diameter, mm 48.7±4.7 47.4±4.4 0.43 LV anterior wall thickness, mm 10±1.2 9.5±0.9 0.21 LV posterior wall thickness, mm 9.9±1 9.4±0.9 0.25 LV mass, g 177±43.8 157.7±40 0.22 LV mass/chamber volume, M/ChVol 1.8±0.6 1.5±0.3 0.10 (Continued ) Angiographic analysis and preoperative risk stratification Coronary disease extension, n (%) 1 Vessel+LM 1 (9.1) 1 (3.7) 2 Vessels 2 (18.2) 8 (29.6) 3 Vessels 8 (72.7) 18 (66.7) CABG+valve replacement, n (%) 0 0 Log euroSCORE, average±SD 9.7±11.2 7.8±8.5 Log euroSCORE 0-4, n (%) 5 (45.4) 14 (51.9) Log euroSCORE 5-9, n (%) 3 (27.3) 4 (14.8) Log euroSCORE &gt;10, n (%) 3 (27.3) 9 (33.3) euroSCORE II, average±SD 7.7±7.1 8.5±9.2 Intra-and perioperative variables Number of grafts, n (%) 3±1 3±1 0.95 Number of anastomosis, n (%) 4±1 4±1 0.98 LIMA, n (%) 11 (100) 26 (96.3) 1.00 BIMA, n (%) 2 (18) 5 (18.5) 1.00 Cross-clamp, min±SD 57±16 63±19 0.39 ECC time, min±SD 69±18 73±18 0.55 Cardioplegia, mL, DS 20.5±9.8 19.3±4.4 0.72 Total mEq K+ infused 40.9±19.5 38.7±8.8 0.71 Ischemic time, min±SD 50.3±14.8 52.4±16.4 0.70 Post-CABG atrial fibrillation 14.8±0.4 18.2±0.4 0.81 CK-MB (peak; 48 h post-CABG) 19.4±24.6 16.4±14.5 0.60 Therapy at discharge β-Blockers, n (%) 9 (81.8) 25 (92.6) 0.43 ACE inhibitors, n (%) 8 (72.7) 25 (92.6) 0.20 Statins, n (%) 9 (81.8) 22 (81.5) 0.88 Aspirin, n (%) 10 (90.9) 26 (96.3) 0.88 Diuretics, n (%) 9 (81.8) 21 (77.8) 0.9 Heparin, n (%) 0 0 1 Amiodarone, n (%) 2 (18.2) 4 (14.8) 0.59 Digoxin, n (%) 1 (9.1) 2 (7.4) 0.65 Ca 2+ antagonist, n (%) 1 (9.1) 2 (7.4) 0.65 ACE indicates angiotensin-converting enzyme; ARB, angiotensin receptor blocker; BIMA, left and right internal mammary artery; CABG, coronary artery bypass surgery; CAD, coronary artery disease; CK-MB, creatine kinase MB; ECC, extra corporeal circulation; HbA1c, hemoglobin A1c; HDL, high-density lipoprotein; LDL, low-density lipoprotein; LIMA, left internal mammary artery; LM, left main stem disease; LV, left ventricle; NYHA, New York Heart Association; and SD, standard deviation.</p><p>Table 2. Continued Variables Negative LVR Patients 11 (29%) Positive LVR Patients 27 (71%) P Value Increased circulating levels of IGF-1 are characterized by a decreased incidence of heart failure and mortality in elderly individuals. <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> Additionally, the upregulation of IGF-1 locally in the myocardium favors the spontaneous recovery from advanced heart failure in patients with dilated cardiomyopathy and LV assist device implantation. <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> In contrast, low IGF-1 concentrations in the general population predict the development of ischemic heart disease and chronic heart failure. <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref> Data in this study support the notion that the systemic increase of IGF-1 in patients with positive LVR may exert its beneficial effect by activating IGF-1R on CSCs and thereby promoting stem cell division and myocyte and vessel formation.</p><p>This possibility is consistent with a series of experimental findings in which the interaction of IGF-1 with IGF-1R in CSCs contributes, together with HGF, to reverse myocardial aging, <ref type="bibr" target="#b9">10</ref> and rescues myocardial infarcts commonly incompatible with life in small mammals. <ref type="bibr" target="#b34">35</ref> In this regard, cardiac restricted overexpression of IGF-1 prolongs the lifespan in transgenic mice. <ref type="bibr" target="#b35">36</ref> HGF, a powerful mediator of CSC migration, <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b34">35</ref> was significantly higher at baseline in subjects who had positive LVR, although comparable concentrations were found in both groups of patients 12 months following revascularization. VEGF behaved as HGF. A small category of human c-kit-positive CSCs express vascular endothelial growth factor receptor-2 <ref type="bibr" target="#b6">7</ref> and may be activated by VEGF, resulting in vascular growth mostly needed before successful bypass surgery.</p><p>Chronic coronary artery disease is characterized by a fixed reduction of coronary flow reserve attributable to an epicardial obstruction resulting in inadequate myocardial perfusion following stress. Even in the absence of previous myocardial infarction or acute coronary syndrome, myocyte loss may occur and dysfunctional myocardial areas may be present. However, no correlations were found between preoperative burden of ischemia and indices of LV recovery after CABG (Figure V in online-only Data Supplement). These results suggest that amelioration in coronary flow translates into positive LVR in the presence of functionally competent resident CSCs.</p><p>CSCs are multipotent and generate parenchymal cells and coronary vessels. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b16">17</ref> CSCs possess the ability to form resistance arterioles and capillary structures, both critical determinants of blood flow regulation and tissue oxygenation. These unique properties provide the necessary substrate for the recovery in structure and function observed here in patients experiencing positive LVR following CABG. Bypass surgery repairs the defects in the conductive coronary arteries, and CSCs may operate at the more distal level of the coronary microcirculation.</p><p>The recognition that variables intrinsic to the myocardium, ie, CSC growth reserve, and extrinsic to the heart, ie, systemic levels of IGF-1, HGF, and VEGF, are coupled with increases in LVEF, wall thickness in systole and diastole, and significant decreases in systolic and diastolic diameters and chamber volume following revascularization has important clinical implications. The improvement in systolic performance and the likelihood of reduction in wall stress, dictated by these changes in cardiac anatomy, <ref type="bibr" target="#b2">3</ref> have been coupled with decreased morbidity and mortality in patients with ischemic cardiomyopathy. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> Conversely, negative LVR is characterized by an opposite response with a decrease in LVEF and an expansion in chamber volume, accurate predictors of increased mortality in this patient population. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> Recently, stem cells have been introduced as a new experimental treatment for subacute myocardial infarction <ref type="bibr" target="#b36">37</ref> or chronic ischemic cardiomyopathy with severely impaired systolic function. <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b37">38</ref> In both cases, encouraging results have been obtained. Autologous CSCs <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b37">38</ref> induce myocardial regeneration with absolute reduction in infarct scar size and promote dramatic increases in LVEF. Moreover, a significant reduction in New York Heart Association functional class and a remarkable amelioration of quality of life were demonstrated. <ref type="bibr" target="#b17">18</ref> But no clear indication of reverse LVR has been acquired. Our results in a subset of patients with better preserved cardiac function indicate that the diseased myocardium retains the ability to decrease heart size and increase LV mass-to-chamber volume ratio. Whether the implementation of more sophisticated protocols involving new CSC classes will achieve this objective remains a major challenge in stem cell-based therapy of the failing heart.</p><p>The recognition, nearly 12 years ago, that c-kit-positive HSCs have the inherent ability to repair the infarcted myocardium in experimental models <ref type="bibr" target="#b13">14</ref> has profoundly affected cardiovascular research and clinical cardiology. The unanticipated plasticity of adult HSCs to form cells beyond their own tissue boundary has become the driving force of a series of clinical studies in which bone marrow cells have been introduced as an experimental therapy in the management of the acutely infarcted or chronically failing heart. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> A recent meta-analysis strongly supports the view that various classes of bone marrow cells interfere with cardiac dysfunction, infarct size, ventricular remodeling, and mortality in patients with ischemic heart disease. <ref type="bibr" target="#b38">39</ref> Importantly, transcatheter, intramyocardial injections of autologous bone marrow mononuclear cells or mesenchymal stromal cells improve the regional contractility of a chronic myocardial scar and reverse ventricular remodeling in animals and humans. <ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref> A relevant issue to be emphasized relates to the protocol we have developed and improved over the years concerning the isolation and expansion of human CSCs. From an initial rate of success of ≈60%, <ref type="bibr" target="#b5">6</ref> we are currently able to obtain large quantities of CSCs with significant growth reserve in essentially 100% of the cases as documented previously <ref type="bibr" target="#b17">18</ref> and in the present report. Here, the fraction of undifferentiated CSCs varied from a minimum of 80% to a maximum of 95%. Twenty-nine of the 38 preparations had values of c-kit-positive CSCs ranging from 86% to 95%. This level of consistency was essential for the evaluation of the properties of CSCs to be correlated with the parameters of cardiac anatomy and function of patients with ischemic cardiomyopathy. Unfortunately, this degree of accuracy is difficult to achieve when mixed cell populations are used and the proportion of 1 cell type versus the other may change significantly in different samples.</p><p>Collectively, our results indicate that the telomere-telomerase axis, PDT, and IGF-1R expression in CSCs represent novel biomarkers able to predict the evolution of the ischemic cardiomyopathic heart following revascularization. This conviction becomes particularly relevant because CSCs can be easily isolated, expanded, and carefully characterized from endomyocardial biopsies, <ref type="bibr" target="#b15">16</ref> avoiding the surgical approach used here. Additionally, the circulating levels of IGF-1, HGF, and VEGF are routinely measured offering, together with the properties of CSCs, a rather unique perspective of bypass surgery in patients with chronic CAD.</p><p>Although the analysis of CSCs in each patient needed cell expansion in vitro for the multiple assays, the cultured CSCs retained properties that correlated with the severity and unfavorable or favorable evolution of the cardiac disease. Three criteria have been postulated for the definition of a biomarker: its accuracy, its ability to give information that cannot be obtained from clinical assessment, and its relevance on medical decision. <ref type="bibr" target="#b44">45</ref> The CSC phenotypes defined in the current report fulfill these 3 criteria; they are highly reproducible, provide an understanding at the fundamental cellular level of the pathological heart, and suggest new therapeutic strategies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R</head><note type="other">A</note><p>C T E D A R T I C L E This article was retracted in December 2018 R E T R A C T E D A R T I C L E This article was retracted in December 2018</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CLINICAL PERSPECTIVE</head><p>The efficacy of bypass surgery in improving ventricular function in patients with severe coronary atherosclerosis and ischemic cardiomyopathy cannot be easily predicted. The preoperative conditions may be similar, but the mid-and long-term evolution of cardiac pathology may differ significantly, emphasizing the need to identify determinants that may help anticipating clinical outcome. Successful revascularization and positive left ventricular remodeling may depend on factors intrinsic to the heart or extrinsic to the myocardium. Our findings suggest that variables intrinsic to the myocardium, ie, cardiac stem cell growth reserve, and extrinsic to the heart, ie, the systemic level of insulin-like growth factor-1, positively correlate with increases in ejection fraction, wall thickness in systole and diastole, and decreases in systolic and diastolic diameters and chamber volume following revascularization. Importantly, the growth kinetics of cardiac stem cells included shorter population-doubling time, longer telomeres, higher telomerase activity, and enhanced insulin-like growth factor-1 receptor expression. Conversely, attenuated cardiac stem cell growth and a decline in insulin-like growth factor-1 level in the circulation were characterized by an opposite response with a decrease in ejection fraction and an expansion in chamber volume, both accurate predictors of increased mortality this patient population. Three criteria define a biomarker: its accuracy, its ability to give information that cannot be obtained from clinical assessment, and its relevance on medical decision. The cardiac stem cell phenotypes defined in the current report fulfill these 3 criteria; they are highly reproducible, provide an understanding at the fundamental cellular level of the pathological heart, and suggest new therapeutic strategies. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R</head><note type="other">A</note></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Figure IIA in the online-only Data Supplement). The absence of CD45 excluded the presence of mast cells. Additionally, these cells did not express epitopes of mesenchymal stromal cells including CD90 and CD105. Similarly, the myocyte transcription factors GATA4, Nkx2.5, and Mef2C and the myocyte contractile protein α-sarcomeric actin were detected rarely (Figure IIB in the online-only Data Supplement). The endothelial cell transcription factor Ets1 and the smooth muscle cell transcription factor GATA6 were only occasionally seen, as the endothelial cell cytoplasmic protein von Willebrand factor and the smooth muscle cell cytoplasmic protein α-smooth muscle actin (Figure IIB in the online-only Data Supplement). Importantly, the fraction of c-kit-positive cells varied from 80% to 95% (Figure 1A) and did not correlate with any major determinants of LVR (Figure III in the online-only Data Supplement). As discussed later, the first 27 patients (1-27 color-coded green) experienced positive LVR, and the remaining 11 (28-38 color-coded red) experienced negative LVR.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>retracted in December 2018 demonstrated by stress test in all 38 patients. Wall thickness, cavitary diameters, chamber volume, and the ventricular mass-to-chamber volume ratio in systole and diastole were expressed as a function of 4 variables of CSC growth: PDT, telomere length, telomerase activity, and IGF-1R expression. The anatomic parameters were computed as the difference</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 .Figure 2 .</head><label>12</label><figDesc>Figure 1. Phenotype of CSCs. A, Percentage of c-kit-positive CSCs in each of the 38 preparations. Patients 1 to 27 (color-coded green) experienced positive LVR; patients 28 to 38 (color-coded red) experienced negative LVR. B, Effects of age, sex, and diabetes mellitus on c-kit-positive CSCs and the expression of lineage markers. Data are shown by box plots: the box represents the interquartile range, the horizontal line inside the box marks the median, and whiskers show 5 to 95 percentiles range. CSC indicates cardiac stem cell; EC, endothelial cell; LVR, left ventricular remodeling; and SMC, smooth muscle cell.</figDesc><graphic coords="5,57.39,66.00,469.22,580.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>through 5F). Importantly, the indicators of preserved CSC growth were coupled with a decrease in chamber volume, and with increases in ventricular mass, ventricular mass-to-chamber volume ratio, and LVEF (Figure5Gthrough 5K; Figure IV in the online-only Data Supplement). However, not all CSC parameters showed a</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Akt and telomerase in CSCs. A, Phospho-Akt and total Akt were identified by Western blotting. Optical density (OD) data are shown. B, GSK-3α/β was used as a substrate for the detection of Akt kinase activity. Western blotting of phosphorylated GSK-3α/β at Ser21/9 is shown. Loading, IgG heavy chain band. C, Phosphotelomerase at Ser824 was detected following immunoprecipitation of CSC protein lysates with an antibody against telomerase. CSCs were obtained from patients 4, 6, 8, and 9, or 4, 6, and 9. CSC indicates cardiac stem cell; IgG, immunoglobulin G; and TERT, telomerase reverse transcriptase.</figDesc><graphic coords="7,69.43,388.53,187.14,251.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. IGF-1R in CSCs. A, Bivariate distribution of c-kit and IGF-1R in CSCs. B, Confocal micrographs illustrating IGF-1R labeling (left, red) in c-kit-positive CSCs (center, green). Right, merge. C, Percentage of IGF-1R-positive CSCs measured by FACS in each of the 38 preparations. Patients 1 through 27 (color-coded green) experienced positive LVR; patients 28 through 38 (color-coded red) experienced negative LVR. D and E, Correlations between the percentage of IGF-1R-positive CSCs and telomere length (D), or telomerase activity (E). These relationships are shown by linear regression; solid lines represent the best-fit regression line associated with 95% confidence interval (dashed lines). P values represent the significance of the relationship expressed by the R 2 values. Longer telomeres and higher telomerase activity correlate with positive LVR. CSC indicates cardiac stem cell; FACS, fluorescence-activated cell sorter; IGF-1R, insulin-like growth factor-1 receptor; and LVR, left ventricular remodeling.</figDesc><graphic coords="7,306.54,280.77,228.91,305.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Growth properties of CSCs. A, Phase-contrast images illustrating CSC division and growth in culture. B and C, Populationdoubling time in the 38 CSC preparations (B), and bromodeoxyuridine (BrdU) labeling in 12 CSC preparations (C). D, Flow-FISH of CSCs and lymphoma cells of known telomere length (internal controls); CSCs were combined with lymphoma cells and incubated without (blank, not shown) or with PNA probe. The histogram represents the intensity of PNA probe binding in gated CSCs (green area), R cells (long telomeres: 48 kbp, blue area), and S cells (short telomeres: 7 kbp, grey area). Lymphoma cells were used to compute average telomere length in kbp. E, Telomere length in each of the 38 CSC preparations. F, Telomerase activity measured by qPCR in each of the 38 CSC samples. G, Effects of age, sex, and diabetes mellitus on telomere length and telomerase activity. Data are shown by box plots: the box represents the interquartile range, the horizontal line inside the box marks the median, and whiskers show 5 to 95 percentiles. CSC indicates cardiac stem cell; FISH, fluorescent in situ hybridization; PNA, peptide nucleic acid; and qPCR, quantitative polymerase chain reaction.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Growth reserve of CSCs and anatomic indices of LVR. A through K, Correlations between PDT, telomere length, telomerase activity, and fraction of IGF-1R-positive (IGF-1R pos ) CSCs and the various parameters of cardiac size, shape, and function. These relationships are shown by linear regression; solid lines represent the best-fit regression line associated with 95% confidence interval (dashed lines). P values represent the significance of the relationship expressed by the R 2 values. Ch. indicates left ventricular chamber; CSC, cardiac stem cell; EDV, end-diastolic volume; ESV, end-systolic volume; IGF-1R, insulin-like growth factor-1 receptor; LVR, left ventricular remodeling; and PDT, population-doubling time.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Continued on next page</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. CSCs, growth factors, and LVR. A through C, Data are shown by box plots: the box represents the interquartile range, the horizontal line inside the box marks the median, and whiskers show 5 to 95 percentiles. *Indicates P&lt;0.05 vs negative (neg) LV remodeling (A, LVR) or baseline (B and C). Shorter population-doubling time, longer telomeres, and indices of wall thickening, decreased chamber size, and increased myocardial mass were coupled with positive LVR. D, Serum levels of IGF-1, HGF, VEGF, SCF, G-CSF, and bFGF at baseline and follow-up. The increase in IGF-1 was associated with positive LVR. The quantity of each growth factor in patients with positive (pos) and negative (neg) LVR is shown as mean±SD. *P&lt;0.05 vs baseline values in patients who underwent neg LVR at follow-up; **P&lt;0.05 vs follow-up values in patients who underwent neg LVR. bFGF indicates basic fibroblast growth factor; BrdU, bromodeoxyuridine; CSC, cardiac stem cell; G-CSF, granulocyte-colony stimulating factor; HGF, hepatocyte growth factor; IGF-1, insulin-like growth factor-1; IGF-1R, insulin-like growth factor-1 receptor; LVR, left ventricular remodeling; SCF, stem cell factor; SD, standard deviation; and VEGF, vascular endothelial growth factor.</figDesc><graphic coords="13,130.60,66.00,322.80,210.24" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded from http://ahajournals.org by onApril 13, 2026   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>January 14, 2014</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Sources of Funding</head><p>This work was supported by a grant from the <rs type="funder">Italian Ministry for University and Research</rs> (<rs type="grantNumber">PRIN 2010/2011/2010S7CET4</rs>) and by <rs type="funder">National Institutes of Health</rs> grants.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_HWFFZxS">
+					<idno type="grant-number">PRIN 2010/2011/2010S7CET4</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosures</head><p>Dr Anversa is a member of Analogous, LLC. The other authors report no conflicts.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Opposite patterns of left ventricular remodeling after coronary revascularization in patients with ischemic cardiomyopathy: role of myocardial viability</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rizzello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Poldermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boersma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Biagini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Schinkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Krenning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elhendy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Vourvouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Sozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Crea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Roelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bax</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="2383" to="2388" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rizzello V, Poldermans D, Boersma E, Biagini E, Schinkel AF, Krenning B, Elhendy A, Vourvouri EC, Sozzi FB, Maat A, Crea F, Roelandt JR, Bax JJ. Opposite patterns of left ventricular remodeling after coronary revas- cularization in patients with ischemic cardiomyopathy: role of myocardial viability. Circulation. 2004;110:2383-2388.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Why do patients with ischemic cardiomyopathy and a substantial amount of viable myocardium not always recover in function after revascularization?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Schinkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Poldermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rizzello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Vanoverschelde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elhendy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boersma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Roelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bax</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schinkel AF, Poldermans D, Rizzello V, Vanoverschelde JL, Elhendy A, Boersma E, Roelandt JR, Bax JJ. Why do patients with ischemic cardio- myopathy and a substantial amount of viable myocardium not always recover in function after revascularization? J Thorac Cardiovasc Surg. 2004;127:385-390.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ventricular remodeling after myocardial infarction. Experimental observations and clinical implications</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braunwald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="1161" to="1172" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pfeffer MA, Braunwald E. Ventricular remodeling after myocardial infarc- tion. Experimental observations and clinical implications. Circulation. 1990;81:1161-1172.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effect of captopril on mortality and morbidity in patients with left ventricular dysfunction after myocardial infarction. Results of the survival and ventricular enlargement trial. The SAVE Investigators</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braunwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Moyé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Basta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Cuddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Geltman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Flaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page" from="669" to="677" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pfeffer MA, Braunwald E, Moyé LA, Basta L, Brown EJ Jr, Cuddy TE, Davis BR, Geltman EM, Goldman S, Flaker GC. Effect of captopril on mortality and morbidity in patients with left ventricular dysfunction after myocardial infarction. Results of the survival and ventricular enlargement trial. The SAVE Investigators. N Engl J Med. 1992;327:669-677.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prognostic implications of left ventricular mass and geometry following myocardial infarction: the VALIANT (VALsartan In Acute myocardial iNfarcTion) Echocardiographic Study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Ghali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bourgoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Velazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kober</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Califf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Solomon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JACC Cardiovasc Imaging</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="582" to="591" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verma A, Meris A, Skali H, Ghali JK, Arnold JM, Bourgoun M, Velazquez EJ, McMurray JJ, Kober L, Pfeffer MA, Califf RM, Solomon SD. Prognostic implications of left ventricular mass and geometry follow- ing myocardial infarction: the VALIANT (VALsartan In Acute myocar- dial iNfarcTion) Echocardiographic Study. JACC Cardiovasc Imaging. 2008;1:582-591.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Human cardiac stem cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bearzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tillmanns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nascimbene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Angelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yasuzawa-Amano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trofimova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Siggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Lecapitaine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cascapera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beltrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'alessandro</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Quaini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Michler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="14068" to="14073" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bearzi C, Rota M, Hosoda T, Tillmanns J, Nascimbene A, De Angelis A, Yasuzawa-Amano S, Trofimova I, Siggins RW, Lecapitaine N, Cascapera S, Beltrami AP, D&apos;Alessandro DA, Zias E, Quaini F, Urbanek K, Michler RE, Bolli R, Kajstura J, Leri A, Anversa P. Human cardiac stem cells. Proc Natl Acad Sci U S A. 2007;104:14068-14073.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Identification of a coronary vascular progenitor cell in the human heart</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bearzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lo</forename><surname>Monaco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pepe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qanud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ojaimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bardelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'alessandro</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Michler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dimmeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Zeiher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Hintze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="15885" to="15890" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bearzi C, Leri A, Lo Monaco F, Rota M, Gonzalez A, Hosoda T, Pepe M, Qanud K, Ojaimi C, Bardelli S, D&apos;Amario D, D&apos;Alessandro DA, Michler RE, Dimmeler S, Zeiher AM, Urbanek K, Hintze TH, Kajstura J, Anversa P. Identification of a coronary vascular progenitor cell in the human heart. Proc Natl Acad Sci U S A. 2009;106:15885-15890.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Time course of functional recovery after coronary artery bypass graft surgery in patients with chronic left ventricular ischemic dysfunction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Vanoverschelde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Depré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Borgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wijns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Melin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1432" to="1439" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vanoverschelde JL, Depré C, Gerber BL, Borgers M, Wijns W, Robert A, Dion R, Melin JA. Time course of functional recovery after coronary artery bypass graft surgery in patients with chronic left ventricular isch- emic dysfunction. Am J Cardiol. 2000;85:1432-1439.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Stem cells in the dog heart are self-renewing, clonogenic, and multipotent and regenerate infarcted myocardium, improving cardiac function</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nurzynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Casarsa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nascimbene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Castaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cascapera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Böhm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Quaini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Hintze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="8966" to="8971" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linke A, Müller P, Nurzynska D, Casarsa C, Torella D, Nascimbene A, Castaldo C, Cascapera S, Böhm M, Quaini F, Urbanek K, Leri A, Hintze TH, Kajstura J, Anversa P. Stem cells in the dog heart are self-renewing, clonogenic, and multipotent and regenerate infarcted myocardium, improv- ing cardiac function. Proc Natl Acad Sci U S A. 2005;102:8966-8971.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Activation of cardiac progenitor cells reverses the failing heart senescent phenotype and prolongs lifespan</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nurzynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Misao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tillmanns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ojaimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Padin-Iruegas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bearzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vitale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dawn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Sanganalmath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Hintze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="597" to="606" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gonzalez A, Rota M, Nurzynska D, Misao Y, Tillmanns J, Ojaimi C, Padin-Iruegas ME, Müller P, Esposito G, Bearzi C, Vitale S, Dawn B, Sanganalmath SK, Baker M, Hintze TH, Bolli R, Urbanek K, Hosoda T, Anversa P, Kajstura J, Leri A. Activation of cardiac progenitor cells reverses the failing heart senescent phenotype and prolongs lifespan. Circ Res. 2008;102:597-606.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Molecular mechanisms and clinical applications of angiogenesis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carmeliet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">473</biblScope>
+			<biblScope unit="page" from="298" to="307" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carmeliet P, Jain RK. Molecular mechanisms and clinical applications of angiogenesis. Nature. 2011;473:298-307.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">From bone marrow to the arterial wall: the ongoing tale of endothelial progenitor cells</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Leone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Valgimigli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Giannico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Zaccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Perfetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rebuzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Crea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="890" to="899" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leone AM, Valgimigli M, Giannico MB, Zaccone V, Perfetti M, D&apos;Amario D, Rebuzzi AG, Crea F. From bone marrow to the arterial wall: the ongo- ing tale of endothelial progenitor cells. Eur Heart J. 2009;30:890-899.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Regenerating new heart with stem cells</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="62" to="70" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anversa P, Kajstura J, Rota M, Leri A. Regenerating new heart with stem cells. J Clin Invest. 2013;123:62-70.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Stem cells: bone-marrow-derived cells and heart failure-the debate goes on</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="372" to="373" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leri A, Anversa P. Stem cells: bone-marrow-derived cells and heart fail- ure-the debate goes on. Nat Rev Cardiol. 2013;10:372-373.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Influence of infarct-zone viability on left ventricular remodeling after acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bolognese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cerisano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buonamici</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Santini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Santoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Antoniucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Fazzini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="3353" to="3359" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bolognese L, Cerisano G, Buonamici P, Santini A, Santoro GM, Antoniucci D, Fazzini PF. Influence of infarct-zone viability on left ventricular remodeling after acute myocardial infarction. Circulation. 1997;96:3353-3359.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Functionally competent cardiac stem cells can be isolated from endomyocardial biopsies of patients with advanced cardiomyopathies</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>D'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fiorini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goichberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sanada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Gallegos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Welt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Givertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="857" to="861" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D&apos;Amario D, Fiorini C, Campbell PM, Goichberg P, Sanada F, Zheng H, Hosoda T, Rota M, Connell JM, Gallegos RP, Welt FG, Givertz MM, Mitchell RN, Leri A, Kajstura J, Pfeffer MA, Anversa P. Functionally competent cardiac stem cells can be isolated from endomyocar- dial biopsies of patients with advanced cardiomyopathies. Circ Res. 2011;108:857-861.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Insulin-like growth factor-1 receptor identifies a pool of human cardiac stem cells with superior therapeutic potential for myocardial regeneration</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>D'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Cabral-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fiorini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goichberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Steadman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferreira-Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sanada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piccoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cappetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'alessandro</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Michler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anastasia</forename><forename type="middle">L</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1467" to="1481" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D&apos;Amario D, Cabral-Da-Silva MC, Zheng H, Fiorini C, Goichberg P, Steadman E, Ferreira-Martins J, Sanada F, Piccoli M, Cappetta D, D&apos;Alessandro DA, Michler RE, Hosoda T, Anastasia L, Rota M, Leri A, Anversa P, Kajstura J. Insulin-like growth factor-1 receptor identifies a pool of human cardiac stem cells with superior therapeutic potential for myocardial regeneration. Circ Res. 2011;108:1467-1481.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cardiac stem cells in patients with ischaemic cardiomyopathy (SCIPIO): initial results of a randomised phase 1 trial</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Chugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loughran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Stoddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Ikram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sanada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Elmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Goichberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cappetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Solankhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Fahsah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rokosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1847" to="1857" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bolli R, Chugh AR, D&apos;Amario D, Loughran JH, Stoddard MF, Ikram S, Beache GM, Wagner SG, Leri A, Hosoda T, Sanada F, Elmore JB, Goichberg P, Cappetta D, Solankhi NK, Fahsah I, Rokosh DG, Slaughter MS, Kajstura J, Anversa P. Cardiac stem cells in patients with ischaemic cardiomyopathy (SCIPIO): initial results of a randomised phase 1 trial. Lancet. 2011;378:1847-1857.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Applied Statistics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Berenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rindskopf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Prentice Hall</publisher>
+			<pubPlace>Englewood Cliffs, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berenson ML, Levine DM, Rindskopf D. Applied Statistics. Englewood Cliffs, NJ: Prentice Hall; 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">An introduction to ROC analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fawcett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pattern Recognition Lett</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="861" to="874" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fawcett T. An introduction to ROC analysis. Pattern Recognition Lett. 2006;27:861-874</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diabetes promotes cardiac stem cell aging and heart failure, which are prevented by deletion of the p66shc gene</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lecapitaine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Angelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Padin-Iruegas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vitale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Casarsa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Giorgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lüscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Pelicci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="42" to="52" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rota M, LeCapitaine N, Hosoda T, Boni A, De Angelis A, Padin-Iruegas ME, Esposito G, Vitale S, Urbanek K, Casarsa C, Giorgio M, Lüscher TF, Pelicci PG, Anversa P, Leri A, Kajstura J. Diabetes promotes cardiac stem cell aging and heart failure, which are prevented by deletion of the p66shc gene. Circ Res. 2006;99:42-52.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Myocyte turnover in the aging human heart</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gurusamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ogórek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goichberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Clavo-Rondon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'amario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bardelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beltrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Cesselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bussani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Del Monte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Quaini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beltrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Buchholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1374" to="1386" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kajstura J, Gurusamy N, Ogórek B, Goichberg P, Clavo-Rondon C, Hosoda T, D&apos;Amario D, Bardelli S, Beltrami AP, Cesselli D, Bussani R, del Monte F, Quaini F, Rota M, Beltrami CA, Buchholz BA, Leri A, Anversa P. Myocyte turnover in the aging human heart. Circ Res. 2010;107:1374-1386.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effects of age and heart failure on human cardiac stem cell function</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cesselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Beltrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Aurizio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Marcon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bergamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Toffoletto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pandolfi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Puppato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Marino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Signore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Verardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Piazza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marchionni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fiorini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Beltrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="349" to="366" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cesselli D, Beltrami AP, D&apos;Aurizio F, Marcon P, Bergamin N, Toffoletto B, Pandolfi M, Puppato E, Marino L, Signore S, Livi U, Verardo R, Piazza S, Marchionni L, Fiorini C, Schneider C, Hosoda T, Rota M, Kajstura J, Anversa P, Beltrami CA, Leri A. Effects of age and heart failure on human cardiac stem cell function. Am J Pathol. 2011;179:349-366.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Telomeres and aging</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Aubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lansdorp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="557" to="579" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aubert G, Lansdorp PM. Telomeres and aging. Physiol Rev. 2008;88:557-579.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Cardiac stem cell and myocyte aging, heart failure, and insulin-like growth factor-1 overexpression</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nurzynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Musso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Monsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shiraishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosenzweig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sussman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nadal-Ginard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="514" to="524" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Torella D, Rota M, Nurzynska D, Musso E, Monsen A, Shiraishi I, Zias E, Walsh K, Rosenzweig A, Sussman MA, Urbanek K, Nadal-Ginard B, Kajstura J, Anversa P, Leri A. Cardiac stem cell and myocyte aging, heart failure, and insulin-like growth factor-1 overexpression. Circ Res. 2004;94:514-524.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Patient characteristics and cell source determine the number of isolated human cardiac progenitor cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Itzhaki-Alfia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raanani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sternik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spiegelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Netser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holbova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pevsner-Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lavee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Barbash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="2559" to="2566" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Itzhaki-Alfia A, Leor J, Raanani E, Sternik L, Spiegelstein D, Netser S, Holbova R, Pevsner-Fischer M, Lavee J, Barbash IM. Patient characteris- tics and cell source determine the number of isolated human cardiac pro- genitor cells. Circulation. 2009;120:2559-2566.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The potential effects of IGF-1 and GH on patients with chronic heart failure</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Perkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Naghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Morrissey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Willix</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Schwarz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiovasc Pharmacol Ther</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="72" to="78" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perkel D, Naghi J, Agarwal M, Morrissey RP, Phan A, Willix RD Jr, Schwarz ER. The potential effects of IGF-1 and GH on patients with chronic heart failure. J Cardiovasc Pharmacol Ther. 2012;17:72-78.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The GH/IGF-1 axis in chronic heart failure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arcopinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bobbio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bossone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Perrone-Filardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Napoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sacca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cittadini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr Metab Immune Disord Drug Targets</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="76" to="91" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arcopinto M, Bobbio E, Bossone E, Perrone-Filardi P, Napoli R, Sacca L, Cittadini A. The GH/IGF-1 axis in chronic heart failure. Endocr Metab Immune Disord Drug Targets. 2013;13:76-91.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A preliminary study of growth hormone in the treatment of dilated cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sabatini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Capaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vigorito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Guida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Biondi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saccà</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">334</biblScope>
+			<biblScope unit="page" from="809" to="814" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fazio S, Sabatini D, Capaldo B, Vigorito C, Giordano A, Guida R, Pardo F, Biondi B, Saccà L. A preliminary study of growth hormone in the treat- ment of dilated cardiomyopathy. N Engl J Med. 1996;334:809-814.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Myocardial insulin-like growth factor-I gene expression during recovery from heart failure after combined left ventricular assist device and clenbuterol therapy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Barton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Felkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Birks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Cullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Banner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grindle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Yacoub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="46" to="I50" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+	<note type="raw_reference">Barton PJ, Felkin LE, Birks EJ, Cullen ME, Banner NR, Grindle S, Hall JL, Miller LW, Yacoub MH. Myocardial insulin-like growth factor-I gene expression during recovery from heart failure after combined left ven- tricular assist device and clenbuterol therapy. Circulation. 2005;112(9 suppl):I46-I50.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Premature mortality due to cardiovascular disease in hypopituitarism</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rosén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Bengtsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">336</biblScope>
+			<biblScope unit="page" from="285" to="288" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosén T, Bengtsson BA. Premature mortality due to cardiovascular dis- ease in hypopituitarism. Lancet. 1990;336:285-288.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Low serum insulin-like growth factor I is associated with increased risk of ischemic heart disease: a population-based case-control study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Juul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Scheike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davidsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gyllenborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jørgensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="939" to="944" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Juul A, Scheike T, Davidsen M, Gyllenborg J, Jørgensen T. Low serum insulin-like growth factor I is associated with increased risk of isch- emic heart disease: a population-based case-control study. Circulation. 2002;106:939-944.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Heart failure as a multiple hormonal deficiency syndrome</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saccà</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Heart Fail</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Saccà L. Heart failure as a multiple hormonal deficiency syndrome. Circ Heart Fail. 2009;2:151-156.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Growth hormone deficiency in patients with chronic heart failure and beneficial effects of its correction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cittadini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saldamarco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Marra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arcopinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carlomagno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Imbriaco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Forno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vigorito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Merola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oliviero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saccà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="3329" to="3336" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cittadini A, Saldamarco L, Marra AM, Arcopinto M, Carlomagno G, Imbriaco M, Del Forno D, Vigorito C, Merola B, Oliviero U, Fazio S, Saccà L. Growth hormone deficiency in patients with chronic heart fail- ure and beneficial effects of its correction. J Clin Endocrinol Metab. 2009;94:3329-3336.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Cardiac stem cells possess growth factor-receptor systems that after activation regenerate the infarcted myocardium, improving ventricular function and long-term survival</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cascapera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bearzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nascimbene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Angelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hosoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chimenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Limana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nurzynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rotatori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rastaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Musso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quaini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Leri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="663" to="673" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Urbanek K, Rota M, Cascapera S, Bearzi C, Nascimbene A, De Angelis A, Hosoda T, Chimenti S, Baker M, Limana F, Nurzynska D, Torella D, Rotatori F, Rastaldo R, Musso E, Quaini F, Leri A, Kajstura J, Anversa P. Cardiac stem cells possess growth factor-receptor systems that after acti- vation regenerate the infarcted myocardium, improving ventricular func- tion and long-term survival. Circ Res. 2005;97:663-673.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Influence of cardiac-specific overexpression of insulin-like growth factor 1 on lifespan and aging-associated changes in cardiac intracellular Ca2+ homeostasis, protein damage and apoptotic protein expression</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging Cell</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="799" to="806" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li Q, Ren J. Influence of cardiac-specific overexpression of insulin-like growth factor 1 on lifespan and aging-associated changes in cardiac intra- cellular Ca2+ homeostasis, protein damage and apoptotic protein expres- sion. Aging Cell. 2007;6:799-806.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Intracoronary cardiosphere-derived cells for heart regeneration after myocardial infarction (CADUCEUS): a prospective, randomised phase 1 trial</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Makkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malliaras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Czer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marbán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mendizabal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Schuleri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gerstenblith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Marbán</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="895" to="904" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Makkar RR, Smith RR, Cheng K, Malliaras K, Thomson LE, Berman D, Czer LS, Marbán L, Mendizabal A, Johnston PV, Russell SD, Schuleri KH, Lardo AC, Gerstenblith G, Marbán E. Intracoronary car- diosphere-derived cells for heart regeneration after myocardial infarc- tion (CADUCEUS): a prospective, randomised phase 1 trial. Lancet. 2012;379:895-904.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Administration of cardiac stem cells in patients with ischemic cardiomyopathy: the SCIPIO trial: surgical aspects and interim analysis of myocardial function and viability by magnetic resonance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Chugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Beache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Loughran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mewton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Elmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajstura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pappas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tatooles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Stoddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">11 suppl 1</biblScope>
+			<biblScope unit="page" from="54" to="S64" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chugh AR, Beache GM, Loughran JH, Mewton N, Elmore JB, Kajstura J, Pappas P, Tatooles A, Stoddard MF, Lima JA, Slaughter MS, Anversa P, Bolli R. Administration of cardiac stem cells in patients with ischemic cardiomyopathy: the SCIPIO trial: surgical aspects and interim analysis of myocardial function and viability by magnetic resonance. Circulation. 2012;126(11 suppl 1):S54-S64.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Adult bone marrow cell therapy improves survival and induces long-term improvement in cardiac parameters: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Jeevanantham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdel</forename><forename type="middle">-</forename><surname>Latif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zuba-Surma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dawn</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="551" to="568" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jeevanantham V, Butler M, Saad A, Abdel-Latif A, Zuba-Surma EK, Dawn B. Adult bone marrow cell therapy improves survival and induces long-term improvement in cardiac parameters: a systematic review and meta-analysis. Circulation. 2012;126:551-568.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Intramyocardial stem cell injection in patients with ischemic cardiomyopathy: functional recovery and reverse remodeling</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Trachtenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Velazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mcniece</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rouy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mendizabal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Pattany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Lopera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Zambrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Heldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hare</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Res</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="792" to="796" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williams AR, Trachtenberg B, Velazquez DL, McNiece I, Altman P, Rouy D, Mendizabal AM, Pattany PM, Lopera GA, Fishman J, Zambrano JP, Heldman AW, Hare JM. Intramyocardial stem cell injection in patients with ischemic cardiomyopathy: functional recovery and reverse remodel- ing. Circ Res. 2011;108:792-796.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Mesenchymal stem cell transplantation improves regional cardiac remodeling following ovine infarction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Pittenger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="685" to="695" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhao Y, Li T, Wei X, Bianchi G, Hu J, Sanchez PG, Xu K, Zhang P, Pittenger MF, Wu ZJ, Griffith BP. Mesenchymal stem cell transplantation improves regional cardiac remodeling following ovine infarction. Stem Cells Transl Med. 2012;1:685-695.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Comparison of allogeneic vs autologous bone marrow-derived mesenchymal stem cells delivered by transendocardial injection in patients with ischemic cardiomyopathy: the POSEIDON randomized trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gerstenblith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Difede</forename><surname>Velazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Zambrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Suncion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Tracy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ghersin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Brinker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Breton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Davis-Sproul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schulman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Byrnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendizabal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lowery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Rouy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wong</forename><surname>Po Foo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcniece</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">K</forename><surname>Heldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<biblScope unit="page" from="2369" to="2379" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hare JM, Fishman JE, Gerstenblith G, DiFede Velazquez DL, Zambrano JP, Suncion VY, Tracy M, Ghersin E, Johnston PV, Brinker JA, Breton E, Davis-Sproul J, Schulman IH, Byrnes J, Mendizabal AM, Lowery MH, Rouy D, Altman P, Wong Po Foo C, Ruiz P, Amador A, Da Silva J, McNiece IK, Heldman AW, George R, Lardo A. Comparison of allogeneic vs autologous bone marrow-derived mesenchymal stem cells delivered by transendocardial injection in patients with ischemic cardiomyopathy: the POSEIDON randomized trial. JAMA. 2012;308:2369-2379.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Durable scar size reduction due to allogeneic January 14, 2014 mesenchymal stem cell therapy regulates whole-chamber remodeling</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Suncion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mccall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Zambrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Heldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hare</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">e000140</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williams AR, Suncion VY, McCall F, Guerra D, Mather J, Zambrano JP, Heldman AW, Hare JM. Durable scar size reduction due to allogeneic January 14, 2014 mesenchymal stem cell therapy regulates whole-chamber remodeling. J Am Heart Assoc. 2013;2:e000140.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Cardiopoietic stem cell therapy in heart failure: the C-CURE (Cardiopoietic stem Cell therapy in heart failURE) multicenter randomized trial with lineage-specified biologics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bartunek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Behfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dolatabadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vanderheyden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ostojic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">El</forename><surname>Nakadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Banovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beleslin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vrolix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Legrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vrints</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vanoverschelde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Crespo-Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Homsy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tendera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wijns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Terzic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="2329" to="2338" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bartunek J, Behfar A, Dolatabadi D, Vanderheyden M, Ostojic M, Dens J, El Nakadi B, Banovic M, Beleslin B, Vrolix M, Legrand V, Vrints C, Vanoverschelde JL, Crespo-Diaz R, Homsy C, Tendera M, Waldman S, Wijns W, Terzic A. Cardiopoietic stem cell therapy in heart failure: the C-CURE (Cardiopoietic stem Cell therapy in heart failURE) multicenter randomized trial with lineage-specified biologics. J Am Coll Cardiol. 2013;61:2329-2338.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Biomarkers in heart failure</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braunwald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2148" to="2159" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Braunwald E. Biomarkers in heart failure. N Engl J Med. 2008; 358:2148-2159.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

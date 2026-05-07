@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children</title>
+				<funder>
+					<orgName type="full">Children&apos;s Medical Charity</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Special Trustees of Royal Free Hampstead NHS Trust</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="1998-02">1998-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wakefield</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MB</roleName><forename type="first">S</forename><forename type="middle">H</forename><surname>Murch</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Anthony</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">J</forename><surname>Linnell</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MRCP</roleName><forename type="first">D</forename><forename type="middle">M</forename><surname>Casson</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Malik</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Berelowitz</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Dhillon</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Thomson</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Harvey</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Valentine</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">University Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR) , Royal Free Hospital and School of Medicine , London NW3 2QG , UK</note>
+								<orgName type="department">Departments of Paediatric Gastroenterology (Radiology (A Valentine FRCR)</orgName>
+								<orgName type="institution" key="instit1">University</orgName>
+								<orgName type="institution" key="instit2">Royal Free Hospital and School of Medicine</orgName>
+								<address>
+									<postCode>NW3 2QG</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Walker-Smith</surname></persName>
+						</author>
+						<title level="a" type="main">RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">The Lancet</title>
+						<title level="j" type="abbrev">The Lancet</title>
+						<idno type="ISSN">0140-6736</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">351</biblScope>
+							<biblScope unit="issue">9103</biblScope>
+							<biblScope unit="page" from="637" to="641"/>
+							<date type="published" when="1998-02" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E7F41A6867112838984B5C27CF031AF8</idno>
+					<idno type="DOI">10.1016/s0140-6736(97)11096-0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-12T18:58+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background We investigated a consecutive series of children with chronic enterocolitis and regressive developmental disorder.</p><p>Methods 12 children (mean age 6 years [range 3-10], 11 boys) were referred to a paediatric gastroenterology unit with a history of normal development followed by loss of acquired skills, including language, together with diarrhoea and abdominal pain.</p><p>Children underwent gastroenterological, neurological, and developmental assessment and review of developmental records. Ileocolonoscopy and biopsy sampling, magnetic-resonance imaging (MRI), electroencephalography (EEG), and lumbar puncture were done under sedation. Barium follow-through radiography was done where possible. Biochemical, haematological, and immunological profiles were examined.</p><p>Findings Onset of behavioural symptoms was associated, by the parents, with measles, mumps, and rubella vaccination in eight of the 12 children, with measles infection in one child, and otitis media in another. All 12 children had intestinal abnormalities, ranging from lymphoid nodular hyperplasia to aphthoid ulceration. Histology showed patchy chronic inflammation in the colon in 11 children and reactive ileal lymphoid hyperplasia in seven, but no granulomas. Behavioural disorders included autism (nine), disintegrative psychosis (one), and possible postviral or vaccinal encephalitis (two). There were no focal neurological abnormalities and MRI and EEG tests were normal. Abnormal laboratory results were significantly raised urinary methylmalonic acid compared with agematched controls (p=0•003), low haemoglobin in four children, and a low serum IgA in four children.</p><p>Interpretation We identified associated gastrointestinal disease and developmental regression in a group of previously normal children, which was generally associated in time with possible environmental triggers.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>We saw several children who, after a period of apparent normality, lost acquired skills, including communication. They all had gastrointestinal symptoms, including abdominal pain, diarrhoea, and bloating and, in some cases, food intolerance. We describe the clinical findings, and gastrointestinal features of these children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head><p>12 children, consecutively referred to the department of paediatric gastroenterology with a history of a pervasive developmental disorder with loss of acquired skills and intestinal symptoms (diarrhoea, abdominal pain, bloating and food intolerance), were investigated. All children were admitted to the ward for 1 week, accompanied by their parents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical investigations</head><p>We took histories, including details of immunisations and exposure to infectious diseases, and assessed the children. In 11 cases the history was obtained by the senior clinician (JW-S). Neurological and psychiatric assessments were done by consultant staff (PH, MB) with HMS-4 criteria. <ref type="bibr">1</ref> Developmental histories included a review of prospective developmental records from parents, health visitors, and general practitioners. Four children did not undergo psychiatric assessment in hospital; all had been assessed professionally elsewhere, so these assessments were used as the basis for their behavioural diagnosis.</p><p>After bowel preparation, ileocolonoscopy was performed by SHM or MAT under sedation with midazolam and pethidine. Paired frozen and formalin-fixed mucosal biopsy samples were taken from the terminal ileum; ascending, transverse, descending, and sigmoid colons, and from the rectum. The procedure was recorded by video or still images, and were compared with images of the previous seven consecutive paediatric colonoscopies (four normal colonoscopies and three on children with ulcerative colitis), in which the physician reported normal appearances in the terminal ileum. Barium follow-through radiography was possible in some cases.</p><p>Also under sedation, cerebral magnetic-resonance imaging (MRI), electroencephalography (EEG) including visual, brain stem auditory, and sensory evoked potentials (where compliance made these possible), and lumbar puncture were done.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory investigations</head><p>Thyroid function, serum long-chain fatty acids, and cerebrospinal-fluid lactate were measured to exclude known causes of childhood neurodegenerative disease. Urinary methylmalonic acid was measured in random urine samples from eight of the 12 children and 14 age-matched and sex-matched normal controls, by a modification of a technique described previously. <ref type="bibr" target="#b1">2</ref> Chromatograms were scanned digitally on computer, to analyse the methylmalonic-acid zones from cases and controls. Urinary methylmalonic-acid concentrations in patients and controls were compared by a two-sample t test. Urinary creatinine was estimated by routine spectrophotometric assay.</p><p>Children were screened for antiendomyseal antibodies and boys were screened for fragile-X if this had not been done</p><formula xml:id="formula_0">R E T R A C T E D</formula><p>THE LANCET • Vol 351 • February 28, 1998 before. Stool samples were cultured for Campylobacter spp, Salmonella spp, and Shigella spp and assessed by microscopy for ova and parasites. Sera were screened for antibodies to Yersinia enterocolitica.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histology</head><p>Formalin-fixed biopsy samples of ileum and colon were assessed and reported by a pathologist (SED). Five ileocolonic biopsy series from age-matched and site-matched controls whose reports showed histologically normal mucosa were obtained for comparison. All tissues were assessed by three other clinical and experimental pathologists (APD, AA, AJW).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical approval and consent</head><p>Investigations were approved by the Ethical Practices Committee of the Royal Free Hospital NHS Trust, and parents gave informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Clinical details of the children are shown in tables 1 and 2. None had neurological abnormalities on clinical examination; MRI scans, EEGs, and cerebrospinal-fluid profiles were normal; and fragile X was negative.</p><p>Prospective developmental records showed satisfactory achievement of early milestones in all children. The only girl (child number eight) was noted to be a slow developer compared with her older sister. She was subsequently found to have coarctation of the aorta. After surgical repair of the aorta at the age of 14 months, she progressed rapidly, and learnt to talk. Speech was lost later. Child four was kept under review for the first year of life because of wide bridging of the nose. He was discharged from follow-up as developmentally normal at age 1 year. In eight children, the onset of behavioural problems had been linked, either by the parents or by the child's physician, with measles, mumps, and rubella vaccination. Five had had an early adverse reaction to immunisation (rash, fever, delirium; and, in three cases, convulsions). In these eight children the average interval from exposure to first behavioural symptoms was 6•3 days (range 1-14). Parents were less clear about the timing of onset of abdominal symptoms because children were not toilet  trained at the time or because behavioural features made children unable to communicate symptoms.</p><p>One child (child four) had received monovalent measles vaccine at 15 months, after which his development slowed (confirmed by professional assessors). No association was made with the vaccine at this time. He received a dose of measles, mumps, and rubella vaccine at age 4•5 years, the day after which his mother described a striking deterioration in his behaviour that she did link with the immunisation. Child nine received measles, mumps, and rubella vaccine at 16 months. At 18 months he developed recurrent antibioticresistant otitis media and the first behavioural symptoms, including disinterest in his sibling and lack of play.</p><p>Table <ref type="table" target="#tab_3">2</ref> summarises the neuropsychiatric diagnoses; the apparent precipitating events; onset of behavioural features; and age of onset of both behaviour and bowel symptoms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory tests</head><p>All children were antiendomyseal-antibody negative and common enteric pathogens were not identified by culture, microscopy, or serology. Urinary methylmalonic-acid excretion was significantly raised in all eight children who</p><formula xml:id="formula_1">R E T R A C T E D EARLY REPORT</formula><p>were tested, compared with age-matched controls (p=0•003; figure <ref type="figure" target="#fig_0">1</ref>). Abnormal laboratory tests are shown in table <ref type="table" target="#tab_1">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Endoscopic findings</head><p>The caecum was seen in all cases, and the ileum in all but two cases. Endoscopic findings are shown in table 1. Macroscopic colonic appearances were reported as normal in four children. The remaining eight had colonic and rectal mucosal abnormalities including granularity, loss of vascular pattern, patchy erythema, lymphoid nodular hyperplasia, and in two cases, aphthoid ulceration. Four cases showed the "red halo" sign around swollen caecal lymphoid follicles, an early endoscopic feature of Crohn's disease. <ref type="bibr" target="#b2">3</ref> The most striking and consistent feature was lymphoid nodular hyperplasia of the terminal ileum which was seen in nine children (figure <ref type="figure" target="#fig_1">2</ref>), and identified by barium follow-through in one other child in whom the ileum was not reached at endoscopy. The normal endoscopic appearance of the terminal ileum (figure <ref type="figure" target="#fig_1">2</ref>) was seen in the seven children whose images were available for comparison.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histological findings</head><p>Histological findings are summarised in table 1.</p><p>Terminal ileum A reactive lymphoid follicular hyperplasia was present in the ileal biopsies of seven children. In each case, more than three expanded and confluent lymphoid follicles with reactive germinal centres were identified within the tissue section (figure <ref type="figure" target="#fig_2">3</ref>). There was no neutrophil infiltrate and granulomas were not present.</p><p>Colon The lamina propria was infiltrated by mononuclear cells (mainly lymphocytes and macrophages) in the colonic-biopsy samples. The extent ranged in severity from scattered focal collections of cells beneath the surface epithelium (five cases) to diffuse infiltration of the mucosa (six cases). There was no increase in intraepithelial lymphocytes, except in one case, in which numerous lymphocytes had infiltrated the surface epithelium in the proximal colonic biopsies. Lymphoid follicles in the vicinity of mononuclear-cell infiltrates showed enlarged germinal centres with reactive changes that included an excess of tingible body macrophages.</p><p>There was no clear correlation between the endoscopic appearances and the histological findings; chronic inflammatory changes were apparent histologically in endoscopically normal areas of the colon. In five cases there was focal acute inflammation with infiltration of the lamina propria by neutrophils; in three of these, neutrophils infiltrated the caecal (figure <ref type="figure" target="#fig_2">3</ref>) and rectalcrypt epithelium. There were no crypt abscesses. Occasional bifid crypts were noted but overall crypt architecture was normal. There was no goblet-cell depletion but occasional collections of eosinophils were seen in the mucosa. There were no granulomata. Parasites and organisms were not seen. None of the changes described above were seen in any of the normal biopsy specimens.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We describe a pattern of colitis and ileal-lymphoidnodular hyperplasia in children with developmental disorders. Intestinal and behavioural pathologies may have occurred together by chance, reflecting a selection bias in a self-referred group; however, the uniformity of the intestinal pathological changes and the fact that previous studies have found intestinal dysfunction in children with autistic-spectrum disorders, suggests that the connection is real and reflects a unique disease process.</p><p>Asperger first recorded the link between coeliac disease and behavioural psychoses. <ref type="bibr" target="#b3">4</ref> Walker-Smith and colleagues <ref type="bibr" target="#b4">5</ref> detected low concentrations of alpha-1 antitrypsin in children with typical autism, and D'Eufemia and colleagues 6 identified abnormal intestinal permeability, a feature of small intestinal enteropathy, in 43% of a group of autistic children with no gastrointestinal symptoms, but not in matched controls. These studies, together with our own, including evidence of anaemia and IgA deficiency in some children, would support the hypothesis that the consequences of an inflamed or dysfunctional intestine may play a part in behavioural changes in some children.</p><p>Child Behavioural Exposure identified Interval from exposure to Features associated with Age at onset of first symptom diagnosis by parents or doctor first behavioural symptom exposure Behaviour Bowel 1 Autism MMR 1 week Fever/delirium 12 months Not known 2 Autism MMR 2 weeks Self injury 13 months 20 months 3 Autism MMR 48 h Rash and fever 14 months Not known 4 Autism? MMR Measles vaccine at 15 months Repetitive behaviour, 4•5 years 18 months Disintegrative followed by slowing in development. self injury, disorder? Dramatic deterioration in behaviour loss of self-help immediately after MMR at 4•5 years 5 Autism None-MMR at 16 Self-injurious behaviour started at 4 years months 18 months 6 Autism MMR 1 week Rash &amp; convulsion; gaze 15 months 18 months avoidance &amp; self injury 7 Autism MMR 24 h Convulsion, gaze avoidance 21 months 2 years 8 Post-vaccinial MMR 2 weeks Fever, convulsion, rash &amp; 19 months 19 months encephalitis? diarrhoea 9 Autistic spectrum Recurrent otitis media 1 week (MMR 2 months previously) Disinterest; lack of play 18 months 2•5 years disorder 10 Post-viral Measles (previously 24 h Fever, rash &amp; vomiting 15 months Not known encephalitis? vaccinated with MMR) 11 Autism MMR 1 week Recurrent "viral pneumonia" 15 months Not known for 8 weeks following MMR 12 Autism None-MMR at 15 months Loss of speech development and Not known deterioration in language skills noted at 16 months MMR=measles, mumps, and rubella vaccine.   The "opioid excess" theory of autism, put forward first by Panksepp and colleagues <ref type="bibr" target="#b6">7</ref> and later by Reichelt and colleagues <ref type="bibr" target="#b7">8</ref> and Shattock and colleagues <ref type="bibr" target="#b8">9</ref> proposes that autistic disorders result from the incomplete breakdown and excessive absorption of gut-derived peptides from foods, including barley, rye, oats, and caesin from milk and dairy produce. These peptides may exert centralopioid effects, directly or through the formation of ligands with peptidase enzymes required for breakdown of endogenous central-nervous-system opioids, <ref type="bibr" target="#b8">9</ref> leading to disruption of normal neuroregulation and brain development by endogenous encephalins and endorphins.</p><p>One aspect of impaired intestinal function that could permit increased permeability to exogenous peptides is deficiency of the phenyl-sulphur-transferase systems, as described by Waring. <ref type="bibr" target="#b9">10</ref> The normally sulphated glycoprotein matrix of the gut wall acts to regulate cell and molecular trafficking. <ref type="bibr" target="#b10">11</ref> Disruption of this matrix and increased intestinal permeability, both features of inflammatory bowel disease, <ref type="bibr" target="#b16">17</ref> may cause both intestinal and neuropsychiatric dysfunction. Impaired enterohepatic sulphation and consequent detoxification of compounds such as the phenolic amines (dopamine, tyramine, and serotonin) <ref type="bibr" target="#b11">12</ref> may also contribute. Both the presence of intestinal inflammation and absence of detectable neurological abnormality in our children are consistent with an exogenous influence upon cerebral function. Lucarelli's observation that after removal of a provocative enteric antigen children achieved symptomatic behavioural improvement, suggests a reversible element in this condition. <ref type="bibr" target="#b12">13</ref> Despite consistent gastrointestinal findings, behavioural changes in these children were more heterogeneous. In some cases the onset and course of behavioural regression was precipitous, with children losing all communication skills over a few weeks to months. This regression is consistent with a disintegrative psychosis (Heller's disease), which typically occurs when normally developing children show striking behaviour changes and developmental regression, commonly in association with some loss of coordination and bowel or bladder function. <ref type="bibr" target="#b13">14</ref> Disintegrative psychosis is typically described as occurring in children after at least 2-3 years of apparently normal development.</p><p>Disintegrative psychosis is recognised as a sequel to measles encephalitis, although in most cases no cause is ever identified. <ref type="bibr" target="#b13">14</ref> Viral encephalitis can give rise to autistic disorders, particularly when it occurs early in life. <ref type="bibr" target="#b14">15</ref> Rubella virus is associated with autism and the combined measles, mumps, and rubella vaccine (rather than monovalent measles vaccine) has also been implicated. Fudenberg <ref type="bibr" target="#b15">16</ref> noted that for 15 of 20 autistic children, the first symptoms developed within a week of vaccination. Gupta <ref type="bibr" target="#b16">17</ref> commented on the striking association between measles, mumps, and rubella vaccination and the onset of behavioural symptoms in all the children that he had investigated for regressive autism. Measles virus <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> and measles vaccination <ref type="bibr" target="#b19">20</ref> have both been implicated as risk</p><formula xml:id="formula_2">R E T R A C T E D EARLY REPORT</formula><p>factors for Crohn's disease and persistent measles vaccine-strain virus infection has been found in children with autoimmune hepatitis. <ref type="bibr" target="#b20">21</ref> We did not prove an association between measles, mumps, and rubella vaccine and the syndrome described. Virological studies are underway that may help to resolve this issue.</p><p>If there is a causal link between measles, mumps, and rubella vaccine and this syndrome, a rising incidence might be anticipated after the introduction of this vaccine in the UK in 1988. Published evidence is inadequate to show whether there is a change in incidence <ref type="bibr" target="#b21">22</ref> or a link with measles, mumps, and rubella vaccine. <ref type="bibr" target="#b22">23</ref> A genetic predisposition to autistic-spectrum disorders is suggested by over-representation in boys and a greater concordance rate in monozygotic than in dizygotic twins. <ref type="bibr" target="#b14">15</ref> In the context of susceptibility to infection, a genetic association with autism, linked to a null allele of the complement (C) 4B gene located in the class III region of the majorhistocompatibility complex, has been recorded by Warren and colleagues. <ref type="bibr" target="#b23">24</ref> C4B-gene products are crucial for the activation of the complement pathway and protection against infection: individuals inheriting one or two C4B null alleles may not handle certain viruses appropriately, possibly including attenuated strains.</p><p>Urinary methylmalonic-acid concentrations were raised in most of the children, a finding indicative of a functional vitamin B12 deficiency. Although vitamin B12 concentrations were normal, serum B12 is not a good measure of functional B12 status. <ref type="bibr" target="#b24">25</ref> Urinary methylmalonic-acid excretion is increased in disorders such as Crohn's disease, in which cobalamin excreted in bile is not reabsorbed. A similar problem may have occurred in the children in our study. Vitamin B12 is essential for myelinogenesis in the developing central nervous system, a process that is not complete until around the age of 10 years. B12 deficiency may, therefore, be a contributory factor in the developmental regression. <ref type="bibr" target="#b25">26</ref> We have identified a chronic enterocolitis in children that may be related to neuropsychiatric dysfunction. In most cases, onset of symptoms was after measles, mumps, and rubella immunisation. Further investigations are needed to examine this syndrome and its possible relation to this vaccine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addendum:</head><p>Up to Jan 28, a further 40 patients have been assessed; 39 with the syndrome.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contributors</head><p>A J Wakefield was the senior scientific investigator. S H Murch and M A Thomson did the colonoscopies. A Anthony, A P Dhillon, and S E Davies carried out the histopathology. J Linnell did the B12 studies. D M Casson and M Malik did the clinical assessment. M Berelowitz did the psychiatric assessment. P Harvey did the neurological assessment. A Valentine did the radiological assessment. JW-S was the senior clinical investigator.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Urinary methylmalonic-acid excretion in patients and controls p=Significance of mean excretion in patients compared with controls.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Endoscopic view of terminal ilium in child three and in a child with endoscopically and histologically normal ileum and colon Greatly enlarged lymphoid nodule in right-hand field of view. A and B=child three; C=normal ileum. Remainder of mucosal surface oft erminal ileum is a carpet of enlarged lymphoid nodules.</figDesc><graphic coords="4,60.70,179.69,226.80,216.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Biopsy sample from terminal ileum (top) and from colon (bottom) A=child three; lymphoid hyperplasia with extensive, confluent lymphoid nodules. B=child three; dense infiltration of the lamina propria crypt epithelium by neutrophils and mononuclear cells. Stained with haematoxylin and eosin.</figDesc><graphic coords="4,309.54,227.97,227.88,154.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 :</head><label>1</label><figDesc>Clinical details and laboratory, endoscopic, and histological findings</figDesc><table><row><cell cols="4">Child Age (years) Sex Abnormal laboratory tests</cell><cell>Endoscopic findings</cell><cell>Histological findings</cell></row><row><cell>1</cell><cell>4</cell><cell>M</cell><cell>Hb 10•8, PCV 0•36, WBC 16•6</cell><cell>Ileum not intubated; aphthoid ulcer</cell><cell>Acute caecal cryptitis and chronic non-specific</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(neutrophilia), lymphocytes 1•8, ALP 166</cell><cell>in rectum</cell><cell>colitis</cell></row><row><cell>2</cell><cell>9•5</cell><cell>M</cell><cell>Hb 10•7</cell><cell>LNH of T ileum and colon; patchy loss of</cell><cell>Acute and chronic non-specific colitis: reactive ileal</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>vascular pattern; caecal aphthoid ulcer</cell><cell>lymphoid hyperplasia</cell></row><row><cell>3</cell><cell>7</cell><cell>M</cell><cell>MCV 74, platelets 474, eosinophils 2•68,</cell><cell>LNH of T ileum</cell><cell>Acute and chronic non-specific colitis: reactive ileal</cell></row><row><cell></cell><cell></cell><cell></cell><cell>IgE 114, IgG 1 8•4</cell><cell></cell><cell>and colonic lymphoid hyperplasia</cell></row><row><cell>4</cell><cell>10</cell><cell>M</cell><cell>IgE 69, IgG 1 8•25, IgG 4 1•006, ALP 474, AST 50</cell><cell cols="2">LNH of T ileum; loss of vascular pattern in Chronic non-specific colitis: reactive ileal and colonic</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>rectum</cell><cell>lymphoid hyperplasia</cell></row><row><cell>5</cell><cell>8</cell><cell>M</cell><cell></cell><cell>LNH of T lieum; proctitis with loss of</cell><cell>Chronic non-specific colitis: reactive ileal lymphoid</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>vascular pattern</cell><cell>hyperplasia</cell></row><row><cell>6</cell><cell>5</cell><cell>M</cell><cell>Platelets 480, ALP 207</cell><cell>LNH of T ileum; loss of colonic vascular</cell><cell>Acute and chronic non-specific colitis: reactive ileal</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>pattern</cell><cell>lymphoid hyperplasia</cell></row><row><cell>7</cell><cell>3</cell><cell>M</cell><cell cols="2">Hb 9•4, WBC 17•2 (neutrophilia), ESR 16, IgA 0•7 LNH of T ileum</cell><cell>Normal</cell></row><row><cell>8</cell><cell>3•5</cell><cell>F</cell><cell>IgA 0•5, IgG 7</cell><cell>Prominent ileal lymph nodes</cell><cell>Acute and chronic non-specific colitis: reactive ileal</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>lymphoid hyperplasia</cell></row><row><cell>9</cell><cell>6</cell><cell>M</cell><cell></cell><cell>LNH of T ileum; patchy erythema at</cell><cell>Chronic non-specific colitis: reactive ileal and colonic</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>hepatic flexure</cell><cell>lymphoid hyperplasia</cell></row><row><cell>10</cell><cell>4</cell><cell>M</cell><cell>IgG 1 9•0</cell><cell>LNH of T ileum and colon</cell><cell>Chronic non-specific colitis: reactive ileal lymphoid</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>hyperplasia</cell></row><row><cell>11</cell><cell>6</cell><cell>M</cell><cell>Hb 11•2, IgA 0•26, IgM 3•4</cell><cell>LNH of T ileum</cell><cell>Chronic non-specific colitis</cell></row><row><cell>12</cell><cell>7</cell><cell>M</cell><cell>IgA 0•7</cell><cell>LNH on barium follow-through;</cell><cell>Chronic non-specific colitis: reactive colonic</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>colonoscopy normal; ileum not intubated</cell><cell>lymphoid hyperplasia</cell></row><row><cell cols="6">LNH=lymphoid nodular hyperplasia; T ileum=terminal ileum. Normal ranges and units: Hb=haemoglobin 11•5-14•5 g/dL; PCV=packed cell volume 0•37-0•45; MCV=mean cell</cell></row><row><cell cols="6">volume 76-100 pg/dL; platelets 140-400 10 9 /L; WBC=white cell count 5•0-15•5 10 9 /L; lymphocytes 2•2-8•6 10 9 /L; eosinophils 0-0•4 10 9 /L; ESR=erythrocyte sedimentation rate</cell></row><row><cell cols="6">0-15 mm/h; IgG 8-18 g/L; IgG 1 3•53-7•25 g/L; IgG 4 0•1-0•99 g/L; IgA 0•9-4•5 g/L; IgM 0•6-2•8 g/L; IgE 0-62 g/L; ALP=alkaline phosphatase 35-130 U/L; AST=aspartate</cell></row><row><cell cols="3">transaminase 5-40 U/L.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 :</head><label>2</label><figDesc>Neuropsychiatric diagnosis</figDesc><table><row><cell>R E T R A C T E D</cell></row></table><note><p>THE LANCET • Vol 351 • February 28, 1998</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This study was supported by the <rs type="funder">Special Trustees of Royal Free Hampstead NHS Trust</rs> and the <rs type="funder">Children's Medical Charity</rs>. We thank <rs type="person">Francis Moll</rs> and the nursing staff of <rs type="person">Malcolm Ward</rs> for their patience and expertise; the parents for providing the impetus for these studies; and <rs type="person">Paula Domizo</rs>, <rs type="institution">Royal London NHS Trust</rs>, for providing control tissue samples.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">1 Diagnostic and Statistical Manual of Mental Disorders (DSM-IV)</title>
+		<meeting><address><addrLine>Washington DC, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychiatric Association</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>4th edn</note>
+	<note type="raw_reference">1 Diagnostic and Statistical Manual of Mental Disorders (DSM-IV). 4th edn. Washington DC, USA: American Psychiatric Association, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A sensitive micromethod for the routine estimations of methylmalonic acid in body fluids and tissues using thin-layer chromatography</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Linnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem Acta</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="311" to="321" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhatt HR, Green A, Linnell JC. A sensitive micromethod for the routine estimations of methylmalonic acid in body fluids and tissues using thin-layer chromatography. Clin Chem Acta 1982; 118: 311-21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pathogenesis of aphthoid ulcers in Crohn&apos;s disease: correlative findings by magnifying colonoscopy, electromicroscopy, and immunohistochemistry</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fujimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kamoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Iida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gut</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="724" to="732" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fujimura Y, Kamoni R, Iida M. Pathogenesis of aphthoid ulcers in Crohn&apos;s disease: correlative findings by magnifying colonoscopy, electromicroscopy, and immunohistochemistry. Gut 1996; 38: 724-32.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Die Psychopathologie des coeliakakranken kindes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Asperger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Paediatr</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="146" to="151" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Asperger H. Die Psychopathologie des coeliakakranken kindes. Ann Paediatr 1961; 197: 146-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Alpha-1 antitrypsin, autism and coeliac disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Walker-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">ii</biblScope>
+			<biblScope unit="page" from="883" to="884" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Walker-Smith JA, Andrews J. Alpha-1 antitrypsin, autism and coeliac disease. Lancet 1972; ii: 883-84.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Abnormal intestinal permeability in children with autism</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>D'eufemia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Celli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Finocchiaro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Paediatrica</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1076" to="1079" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D&apos;Eufemia P, Celli M, Finocchiaro R, et al. Abnormal intestinal permeability in children with autism. Acta Paediatrica 1996; 85: 1076-79.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A neurochemical theory of autism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Panksepp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="174" to="177" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Panksepp J. A neurochemical theory of autism. Trends Neurosci 1979; 2: 174-77.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Biologically active peptidecontaining fractions in schizophrenia and childhood autism</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Reichelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hamberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Biochem Psychopharmacol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="627" to="643" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reichelt KL, Hole K, Hamberger A, et al. Biologically active peptide- containing fractions in schizophrenia and childhood autism. Adv Biochem Psychopharmacol 1993; 28: 627-43.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Role of neuropeptides in autism and their relationships with classical neurotransmitters</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shattock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rowell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Berney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Dysfunction</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="328" to="345" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shattock P, Kennedy A, Rowell F, Berney TP. Role of neuropeptides in autism and their relationships with classical neurotransmitters. Brain Dysfunction 1991; 3: 328-45.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sulphate metabolism in allergy induced autism: relevance to disease aetiology, conference proceedings, biological perspectives in autism</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Waring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ngong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NAS</title>
+		<imprint>
+			<biblScope unit="page" from="35" to="44" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Durham</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Waring RH, Ngong JM. Sulphate metabolism in allergy induced autism: relevance to disease aetiology, conference proceedings, biological perspectives in autism, University of Durham, NAS 35-44.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Disruption of sulphated glycosaminoglycans in intestinal inflammation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Murch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Walker-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lionetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page" from="711" to="741" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Murch SH, MacDonald TT, Walker-Smith JA, Levin M, Lionetti P, Klein NJ. Disruption of sulphated glycosaminoglycans in intestinal inflammation. Lancet 1993; 341: 711-41.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Elevated serotonin levels in autism: association with the major histocompatibility complex</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropsychobiology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="72" to="75" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Warren RP, Singh VK. Elevated serotonin levels in autism: association with the major histocompatibility complex. Neuropsychobiology 1996; 34: 72-75.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Food allergy and infantile autism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lucarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Frediani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Zingoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Panminerva Med</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="137" to="141" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lucarelli S, Frediani T, Zingoni AM, et al. Food allergy and infantile autism. Panminerva Med 1995; 37: 137-41.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">In: Child and adolescent psychiatry</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hersor</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Blackwells Scientific Publications</publisher>
+			<biblScope unit="page" from="581" to="582" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd edn</note>
+	<note type="raw_reference">Rutter M, Taylor E, Hersor L. In: Child and adolescent psychiatry. 3rd edn. London: Blackwells Scientific Publications: 581-82.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Autistic Spectrum</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Constable</publisher>
+			<biblScope unit="page" from="68" to="71" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wing L. The Autistic Spectrum. London: Constable, 1996: 68-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dialysable lymphocyte extract (DLyE) in infantile onset autism: a pilot study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Fudenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotherapy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="13" to="17" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fudenberg HH. Dialysable lymphocyte extract (DLyE) in infantile onset autism: a pilot study. Biotherapy 1996; 9: 13-17.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Immunology and immunologic treatment of autism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Autism Assn</title>
+		<imprint>
+			<biblScope unit="page" from="455" to="460" />
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gupta S. Immunology and immunologic treatment of autism. Proc Natl Autism Assn Chicago 1996; 455-60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Detection of immunoreactive antigen with monoclonal antibody to measles virus in tissue from patients with Crohn&apos;s disease</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kitamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Takashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gastroenterol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="28" to="33" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miyamoto H, Tanaka T, Kitamoto N, Fukada Y, Takashi S. Detection of immunoreactive antigen with monoclonal antibody to measles virus in tissue from patients with Crohn&apos;s disease. J Gastroenterol 1995; 30: 28-33.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Crohn&apos;s disease following early measles exposure</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ekbom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wakefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-O</forename><surname>Adami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">344</biblScope>
+			<biblScope unit="page" from="508" to="510" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ekbom A, Wakefield AJ, Zack M, Adami H-O. Crohn&apos;s disease following early measles exposure. Lancet 1994; 344: 508-10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Is measles vaccination a risk factor for inflammatory bowel diseases?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Montgomery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Pounder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wakefield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="1071" to="1074" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thompson N, Montgomery S, Pounder RE, Wakefield AJ. Is measles vaccination a risk factor for inflammatory bowel diseases? Lancet 1995; 345: 1071-74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Polymerase chain reaction detection of the haemagglutinin gene from an attenuated measles vaccines strain in the peripheral mononuclear cells of children with autoimmune hepatitis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takekuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoshika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakayama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Virol</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="877" to="884" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kawashima H, Mori T, Takekuma K, Hoshika A, Hata A, Nakayama T. Polymerase chain reaction detection of the haemagglutinin gene from an attenuated measles vaccines strain in the peripheral mononuclear cells of children with autoimmune hepatitis. Arch Virol 1996; 141: 877-84.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Autism spectrum disorders: no evidence for or against an increase in prevalence</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="page" from="327" to="328" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wing L. Autism spectrum disorders: no evidence for or against an increase in prevalence. BMJ 1996; 312: 327-28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Measles vaccination and neurological events</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wadsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page" from="730" to="731" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miller D, Wadsworth J, Diamond J, Ross E. Measles vaccination and neurological events. Lancet 1997; 349: 730-31.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Increased frequency of the null allele at the complement C4B locus in autism</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Immunol</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="438" to="440" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Warren RP, Singh VK, Cole P, et al. Increased frequency of the null allele at the complement C4B locus in autism. Clin Exp Immunol 1991; 83: 438-40.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Problems with the serum vitamin B12 assay</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Linnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">ii</biblScope>
+			<biblScope unit="page" from="1072" to="1074" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">England JM, Linnell JC. Problems with the serum vitamin B12 assay. Lancet 1980; ii: 1072-74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Mental retardation, megaloblastic anaemic, homocysteine metabolism due to an error in B12 metabolism</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gompertz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Sci Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="43" to="61" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dillon MJ, England JM, Gompertz D, et al. Mental retardation, megaloblastic anaemic, homocysteine metabolism due to an error in B12 metabolism. Clin Sci Mol Med 1974; 47: 43-61.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

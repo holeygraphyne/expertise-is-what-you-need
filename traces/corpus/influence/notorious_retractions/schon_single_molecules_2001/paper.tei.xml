@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Field-Effect Modulation of the Conductance of Single Molecules</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2001-12-07">2001-12-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jan</forename><forename type="middle">Hendrik</forename><surname>Schön</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hong</forename><surname>Meng</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>6</label> Department of Chemistry and Biochemistry , University of California , Los Angeles , 607 Charles E. Young Drive East , Los Angeles , CA 90095-1569 , USA.</note>
+								<orgName type="department">Department of Chemistry and Biochemistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>Los Angeles 607 Charles E. Young Drive East</addrLine>
+									<postCode>90095-1569</postCode>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhenan</forename><surname>Bao</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Bell Laboratories , Lucent Technologies , 600 Moun- tain Avenue , Murray Hill , NJ 07974 , USA.</note>
+								<orgName type="laboratory">Bell Laboratories</orgName>
+								<orgName type="institution">Lucent Technologies</orgName>
+								<address>
+									<addrLine>600 Moun- tain Avenue</addrLine>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Field-Effect Modulation of the Conductance of Single Molecules</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Science</title>
+						<title level="j" type="abbrev">Science</title>
+						<idno type="ISSN">0036-8075</idno>
+						<idno type="eISSN">1095-9203</idno>
+						<imprint>
+							<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+							<biblScope unit="volume">294</biblScope>
+							<biblScope unit="issue">5549</biblScope>
+							<biblScope unit="page" from="2138" to="2140"/>
+							<date type="published" when="2001-12-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">FD6CADDB7824C330AB7F9C5BF16A3048</idno>
+					<idno type="DOI">10.1126/science.1066171</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>where a much larger number of chain vortices disappeared (Fig. <ref type="figure" target="#fig_5">4</ref>).</p><p>If thermal fluctuations excite the oscillations of chain vortices, the temperature at which the oscillation begins and the vortex image disappears (T d ) must differ depending on the vortex density, because the vortex density changes the spring constant of the chain vortices and also the periodic potential distribution for chain vortices. When we measured T d as a function of vortex density or B Ќ , we found that the T d values greatly depended on B Ќ (Fig. <ref type="figure">5</ref>). For example, T d was as low as 20 K when B Ќ ϭ 1.7 mT, whereas T d was as high as 70 K when B Ќ ϭ 0.4 mT.</p><p>The tendency for T d to decrease when B Ќ increases can be qualitatively understood as follows: When B Ќ increases and the spacing a between vortices becomes narrower, the amplitude of the potential oscillation shown in Fig. <ref type="figure" target="#fig_4">3C</ref> decreases as a result of the overlap of each vortex magnetic field. Lowering the potential barrier will naturally make chain vortices start oscillating at lower T. The spring constant k between closer chain vortices increases, thus making it easier for a more rigid incommensurate chain of vortices to slide freely as a whole. This explains why our experimental results show that T d tends to decrease as B Ќ increases (Fig. <ref type="figure">5</ref>).</p><p>We expected to be able to detect the direct indication of the vortex movement at the very beginning of the oscillation under the assumption that vortex lines move as straight rods; hence, we attempted to observe the vortex motion while T gradually increased and crossed T d . However, the individual vortex images were gradually blurred, and no sign of vortex movement was detected. As a result, our experiments cannot rule out the possibility that a chain vortex line was split into pancake vortices (4) that oscillated in each layer independently for different layers, thus blurring the averaged magnetic field of the vortex line. Even in this case, the partial disappearance of vortex images can be explained because the oscillation of pancake chain vortices in each layer can have the nodes fixed by the surrounding straight vortex lines belonging to the triangular lattices.</p><p>The disappearance of the vortex images may be explained by assuming that the vortex lines are greatly tilted <ref type="bibr">(7)</ref>. Indeed, the image contrast was shown to decrease when vortex lines were trapped along columnar defects tilted by 70° <ref type="bibr">(13)</ref>. However, in the present experiment we were able to prove that the observed vortex image disappearance was not attributable to the vortex-line tilting, because the vortex images remained invisible even at a large defocusing distance ⌬f. The image contrast of tilted vortex lines, which is weak at a relatively short ⌬f, must become as vis-ible as that of nontilted vortex lines at greater ⌬fs <ref type="bibr">(13)</ref>. Our experiments cannot rule out the possibility that the vortex lines do not simply tilt, but that their magnetic fluxes are somehow blurred in the chain direction <ref type="bibr">(14)</ref>.</p><p>The above discussion may be too simplified and may overlook several features of this phenomenon. For example, the adjacent lines of vortices on both sides of the disappearing vortex chains in Figs. <ref type="figure" target="#fig_4">3A</ref> and <ref type="figure" target="#fig_5">4</ref> are not straight; they are slightly bent in such a way that the regions of the disappeared chains are wider at the vortex oscillation and narrower at the oscillation nodes. This may be due to the effect of the locally violent oscillation of vortices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Field-Effect Modulation of the Conductance of Single Molecules</head><p>Jan Hendrik Scho ¨n,* Hong Meng, Zhenan Bao</p><p>Field-effect transistors based on two-component self-assembled monolayers of conjugated and insulating molecules were prepared; the conductance through them can be varied by more than three orders of magnitude by changing the applied gate bias. With very small ratios of conjugated to insulating molecules in the twocomponent monolayer, devices with only a few "electrically active" molecules can be achieved. At low temperatures, the peak channel conductance is quantized in units of 2e 2 /h (where e is the electron charge and h is Planck's constant). This behavior is indicative of transistor action in single molecules. On the basis of such single-molecule transistors, inverter circuits with gain are demonstrated.</p><p>Modern microelectronics and computation are advancing at an extremely fast rate. At the heart of this field has been the technology of complementary logic metal-oxide semiconductor (CMOS)-based integrated circuits. However, fundamental physical limitations as well as increasingly prohibitive cost associated with fabrication facilities might slow down further miniaturization of devices to increase computation power within the next couple of decades (1, 2). To continue the trend to ever faster and </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E P O R T S</head><p>cheaper computers, new schemes will be required. One such approach is toward molecular devices <ref type="bibr">(3,</ref><ref type="bibr">4 )</ref>, where the idea is that only a few or even just one molecule could be used to perform basic electronic functions <ref type="bibr">(5)</ref>. Previous work has tended to focus on two-terminal devices: for example, negative differential resistance (6 ), rectifiers <ref type="bibr">(7 )</ref>, and reconfigurable switching <ref type="bibr">(8)</ref>. Three-terminal devices, i.e., transistors, could offer several advantages for logic operations compared with two-terminal switches, the most important of which is "gain." As one example of that, an electromechanical amplifier that uses a single C 60 molecule has been reported <ref type="bibr">(9)</ref>. In addition, field-effect devices based on single nanotubes have been demonstrated <ref type="bibr">(10 -14 )</ref>. However, for these devices, the active channel length was defined by the resolution of lithography rather than the molecular scale <ref type="bibr">(15)</ref>. Here, we report on fieldeffect transistor (FET) action, i.e., conductance modulation through a third electrode, in devices consisting of only several "electrically active" molecules. The channel length of 10 to 20 Å is defined by the thickness of a self-assembled monolayer (SAM) rather than lithography. Moreover, the peak conductance at low temperatures is quantized in units of 2e 2 /h, indicating that the conductance of single molecules is modulated.</p><p>We prepared vertical self-assembled monolayer field-effect transistors (SAMFETs) <ref type="bibr">(15)</ref> using monolayers of alkanedithiols (e.g., 1,5pentanedithiol) mixed with 4,4Ј-biphenyldithiol or 5,5Ј-terthiophenedithiol (Fig. <ref type="figure" target="#fig_1">1A</ref>). The alkanedithiol was chosen to have a length similar to that of the conjugated molecule. A highly doped Si substrate, which is structured with conventional lithography and anisotropic etching to define vertical steps, was used as the gate electrode. A thin layer of thermally grown SiO 2 was used as a gate insulator. To fabricate a source electrode, we deposited a gold layer by thermal evaporation. A thiolterminated monolayer was then self-assembled on the gold surface. Ellipsometry was used to confirm that only a monolayer has been deposited. Finally, the drain electrode was prepared by shallow angle shadow evaporation of gold onto a cooled substrate (ϳ100 K) to avoid damage to the SAM and form an active contact area of about 0.8 ϫ 0.1 m 2 . As the gated conduction in organic FETs takes place only within 50 Å from the semiconductor-insulator interface ( <ref type="formula">16</ref>), only several thousand molecules will be probed in such SAMFETs, where the channel length is defined by the thickness of the monolayer. No signs of macroscopic phase separation were observed experimentally in similar two-component SAMs with data reported in the literature <ref type="bibr" target="#b31">(17)</ref><ref type="bibr" target="#b32">(18)</ref><ref type="bibr" target="#b33">(19)</ref>. We therefore assume that the conjugated molecules, i.e., 4,4Ј-biphenyldithiol or 5,5Ј-terthiophenedithiol, are homogeneously and statistically distributed within the alkanethiol matrix. However, the possibility of bundles of conjugated molecules within the SAM cannot be ruled out completely. Nevertheless, the use of two-component SAMs allows us to study transistor action in single molecules or small bundles of molecules.</p><p>Control experiments reveal that samples consisting of pure alkanedithiol SAMs do not show any conductance modulation because of gate bias variation. All the data shown here are results from 4,4Јbiphenyldithiol, even though similar characteristics have been observed for 5,5Јterthiophenedithiol.</p><p>The transfer characteristics of the SAMFETs scale with the ratio of conjugated to insulating molecules in the two-component SAM (Fig. <ref type="figure" target="#fig_1">1B</ref>), suggesting that the properties of individual molecules are responsible for the conductance modulation rather than interactions of molecules with their nearest neighbors. However, it is difficult to explain the strong conductance modulation solely on the basis of quantummechanical treatment of simple coherent transport through a monolayer as first-principle calculations indicate a modulation of more than one order of magnitude for pphenylenedithiol <ref type="bibr" target="#b34">(20)</ref>. However, it is particularly noteworthy that resonances and strong modulation have been observed and studied for single-molecule junctions <ref type="bibr" target="#b35">(21)</ref>. Additional effects could include a gate modulation of the potential distribution along the channel length, a suppression of the barrier at the contacts <ref type="bibr" target="#b36">(22)</ref><ref type="bibr" target="#b37">(23)</ref><ref type="bibr" target="#b38">(24)</ref>, or a conformational change of the molecule <ref type="bibr" target="#b39">(25)</ref>. At low temperatures (below 200 K), the transfer characteristics show a wellpronounced peak of the conductance as a function of gate voltage (Fig. <ref type="figure" target="#fig_2">2A</ref>). Although quite broad, this peak might be related to resonant electron transfer. However, more detailed investigations will be needed to develop a better understanding of  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E P O R T S</head><p>the microscopic processes underlying the transistor action (Fig. <ref type="figure" target="#fig_2">2B</ref>) in these devices.</p><p>For very "dilute" (ratio 1: 5000) two-component SAMs, the peak conductance of the different investigated devices is quantized in units of 2e 2 /h (Fig. <ref type="figure" target="#fig_4">3A</ref>). Assuming a homogeneous distribution of the conjugated molecules in the SAM, we should find about two molecules in the active area of the device. However, in some devices, one or also more than two molecules might assemble in this region. This is in accordance with the results depicted in Fig. <ref type="figure" target="#fig_4">3A</ref>, assuming that the maximum conductance through a single molecule is given by 2e 2 /h. We found that the value of the gate voltage leading to the conductance peak can differ from device to device and is ascribed to different positions of the active molecule with respect to the gate insulator. Consequently, the effective field experienced by the molecule varies for different SAMFETs depending on its position relative to the gate insulator (vertical step). The peak conductance quantization is also observed for two-component SAMs with lower ratios of alkanedithiols compared with the conjugated species (Fig. <ref type="figure" target="#fig_4">3B</ref>).</p><p>These results indicate that the conductance through a single molecule can be modulated by the field effect, leading to transistor action in a single molecule or small cluster. As the off-current of the SAMFET is limited by the leakage through the alkanedithiol matrix, the actual conductance modulation should be many orders of magnitude larger than 10 3 , which is observed for the devices reported here. From the transfer characteristics, a transconductance (differential change of the drain current with the gate voltage for a constant drain voltage) in the range of 150 A/V is estimated for a single molecular SAMFET at low temperature (4 K), decreasing to about 10 A/V at room temperature. One obvious way of increasing this value would be to decrease the gate insulator thickness. The control of placement of single molecules though more complexed self-assembly techniques (26 ) may lead to further improvements in device performance as well as simpler device design. Nevertheless, a small signal voltage gain, necessary for amplification, was observed for inverters consisting of two SAMFETs, which exhibited switching characteristics of one single molecule in the active channel. Figure <ref type="figure" target="#fig_5">4</ref> shows the static switching characteristics of such an inverter circuit, which is a basic building block for more complex logic circuits. Here, the output switches from logic "1" (Ϫ2 V) to logic "0" (0 V) when the input switches from logic 0 to logic 1. A gain up to 10 is obtained (see inset in Fig. <ref type="figure" target="#fig_5">4</ref>), demonstrating the possibility of switching and amplification based on single molecular devices.</p><p>Although many challenges remain, the demonstration of FET action with a single electroactive molecule can be regarded as an important step toward "molecular electronics." Moreover, the use of two-component SAMs will allow the study of gating effects on various molecules. With molecular heterostructures and molecular wires, it might be possible to combine the insulating and semiconducting properties as well as the contacts within a single molecule or supramolecular architecture.</p><p>1.00x10 -3 1.25x10 -3 1.50x10 -3 1.75x10 -3 0 2 4 6 8 B Number of Devices 1 : 500 Peak Conductance (S) 12 14 16 18 20 22</p><p>Peak Conductance (2e 2 /h) 0.0 0.0 -0.5 -1.0 -1.5 -2.0 0.0 -0.5 -1.0 -1.5 -2.0 0 2 4 6</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gain</head><p>Drive FET R E P O R T S 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 Editor's Note: For more information on the investigation, please see the summary and full report of the committee, which are available at <ref type="url" target="www.lucent.com/news_events/">www.lucent.com/news_events/</ref> researchreview.html.</p><formula xml:id="formula_1">Load FET V out V in V s V out (V) V in (V) 0 -1 -2 V in (V)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Origin of a Most Contentious Rock</head><p>IN "METASOMATIC ORIGIN OF QUARTZpyroxene rock, Akilia, Greenland and implications for Earth's earliest life" (Reports, 24 May, p. 1448), C. M. Fedo and M. J. Whitehouse conclude that rocks previously interpreted as metamorphosed sedimentary banded iron formation (BIF) and thought to contain the oldest evidence of life are instead highly deformed and metasomatized ultramafic igneous rocks. This conclusion is based, in part, on a comparison of trace element characteristics in the banded quartz-pyroxene rocks and various mafic and ultramafic igneous rocks. Unfortunately, data for only one of the ten banded rocks analyzed are shown in all of their chemical discrimination diagrams (Fig. <ref type="figure" target="#fig_4">3</ref>). Although this one sample (AK 38) is consistent with the hypothesis, data for the nine remaining samples are very different and reveal it to be a misleading "proxy for the entire quartz-pyroxene lithology" as stated. Indeed, ratios of Th/Sc, Cr/Th, Cr/Y, and TiO 2 /P 2 O 5 in the nine samples overlap those reported for the Isua BIF and are distinct from those in ultramafic rocks. It is unlikely that a combination of metasomatic gains and losses could have produced such a match. Given that the origin of banding in these rocks is equivocal and that some elemental data (rare earth element) are incompatible with either an ultramafic or BIF precursor, ratios of the least mobile trace elements would seem to be an appropriate means to constrain protolith identity. This being the case, the original BIF interpretation should be considered viable until more definitive evidence (perhaps oxygen isotopes) becomes available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>J. MICHAEL PALIN</head><p>Department of Geology, University of Otago, Post Office Box 56, Leith Street, Dunedin 9001, New Zealand. E-mail: michael.palin@stonebow.otago.ac.nz</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>OUR STUDY INTEGRATED (i) DETAILED structural observations, (ii) mineralogy, (iii) geochemistry, and (iv) regional geologic events for interpreting rocks that have been repeatedly deformed and metasomatized over approximately 2 billion years. Palin questions our proposed metasomatized ultramafic igneous origin for quartz-pyroxene rocks on Akilia solely on the basis of assessment of a few geochemical ratios that overlap the field of Isua banded iron formation (BIF) (see Fig. <ref type="figure" target="#fig_4">3A</ref>), suggesting that they support previous claims (1, 2) for a BIF protolith. We are not surprised by the broad compositional range in Cr/Th versus Th/Sc or TiO 2 versus P 2 O 5 for the quartz-pyroxene rocks and pyroxenite boudins, considering that metasomatic quartz (and likely carbonate) has diluted their original ultramafic composition by in excess of 90% in some samples. In addition to overlapping the field of </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 4 .Fig. 5 .</head><label>45</label><figDesc>Fig. 4. Disappearing images of more vortices in a single chain (T ϭ 57 K, B Ќ ϭ 0.8 mT, ϭ 80°). We attribute the disappearance of the vortex images to the synchronous oscillation of vortices between the node vortices a and b along the chain direction, just like a coupled oscillation. Fig. 5. Disappearance temperature T d versus magnetic flux density perpendicular to the film B Ќ . T d decreased greatly as B Ќ increased. This tendency can be explained by assuming the movement of chain vortices as being that of a coupled oscillation of chain vortices situated on the periodic potential distribution (see Fig. 3C). When vortices are dense (large B Ќ and small a), the periodic potential barrier becomes lower as a result of the overlap of the magnetic fields of surrounding triangular vortices, and chain vortices can more easily start oscillating at lower T, thus leading to lower T d .</figDesc><graphic coords="1,225.50,72.77,164.11,121.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. (A) SAMFET structure. A highly doped Si substrate is used as the gate electrode, a thermally grown SiO 2 layer acts as gate insulator, the gold source electrode is deposited by thermal evaporation, and the active semiconducting material is a two-component SAM of alkanedithiols mixed with 4,4Ј-biphenyldithiol or 5,5Ј-terthiophenedithiol. The drain contact is defined by shallow angle shadow evaporation of gold. The active region of the device is magnified. (B) Transfer characteristics at room temperature of two SAMFETs (drain-source voltage of Ϫ0.5 V ). The control corresponds to a "pure" 4,4Ј-biphenyldithiol SAM, whereas the second one is based on a twocomponent SAM (4,4Ј-biphenyldithiol to alkanedithiol ratio is 1:100). The inset shows the current at a gate and drain-source voltage of Ϫ0.5 V as a function of the mixture ratio.</figDesc><graphic coords="2,48.50,512.16,120.00,153.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. (A) Transfer characteristics at 4 K of a two-component SAMFETs (ratio 1: 5000). (B) Transistor characteristics at 4 K of a two-component SAMFETs (ratio 1: 5000).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Histogram of the peak conductance at 4 K of various two-component SAMFETs for a ratio 1: 5000 (A) and 1: 500 (B) revealing quantization in units of 2e 2 /h.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Output characteristics at 4 K of an inverter with two twocomponent SAMFETs (ratio of 1: 5000). The small signal gain is plotted in the inset revealing the possibility of amplification and switching of SAMFETs based on single molecular operation. V s is the supply voltage of -2 V.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>CREDIT: C. FEDO/GEORGE WASHINGTON UNIVERSITYImage not available for online use.The rocks under discussion.C O M PA S S LETTERS SCIENCE &amp; SOCIETY POLICY FORUM BOOKS ET AL. PERSPECTIVES REVIEWS</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_0"><p>DECEMBER 2001 VOL 294 SCIENCE www.sciencemag.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>www.sciencemag.org SCIENCE VOL 294 7 DECEMBER 2001</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Retracted 1 November 2002; see last page Downloaded from https://www.science.org at Case Western Reserve University on April 12, 2026</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Downloaded from https://www.science.org at Case Western Reserve University onApril 12, 2026   </p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Abrikosov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sov. Phys. JETP</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1174</biblScope>
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. A. Abrikosov, Sov. Phys. JETP 5, 1174 (1957).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Gammel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Huse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page">165</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. J. Bishop, P. L. Gammel, D. A. Huse, C. A. Murray, Science 255, 165 (1992).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">3610</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Oral et al., Phys. Rev. Lett. 80, 3610 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Clem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">7837</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. R. Clem, Phys. Rev. B 43, 7837 (1991).</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Bolle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page">112</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. A. Bolle et al., Phys. Rev. Lett. 66, 112 (1991).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Buzdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Simonov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JETP Lett</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">191</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. I. Buzdin, A. Yu. Simonov, JETP Lett. 51, 191 (1990).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Koshelev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page">187</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. E. Koshelev, Phys. Rev. Lett. 83, 187 (1999).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename><surname>Grigorieva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Steeds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Paul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica C</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="issue">240</biblScope>
+			<biblScope unit="page">2705</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. V. Grigorieva, J. W. Steeds, G. Balakrishnan, D. M. Paul, Physica C 235-240, 2705 (1994).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page">51</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Harada et al., Nature 360, 51 (1992).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kawasaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">1342</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Kawasaki et al., Appl. Phys. Lett. 76, 1342 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Floria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mazo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Phys</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">505</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. M. Floria, J. J. Mazo, Adv. Phys. 45, 505 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reichhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">6534</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Reichhardt, C. J. Olson, F. Nori, Phys. Rev. B 58, 6534 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tonomura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">412</biblScope>
+			<biblScope unit="page">620</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Tonomura et al., Nature 412, 620 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">More detailed simulations and experiments to pinpoint the cause of the disappearance of chain-vortex images are now in progress</title>
+		<editor>A. Tonomura et al.</editor>
+		<imprint/>
+	</monogr>
+	<note>in preparation</note>
+	<note type="raw_reference">More detailed simulations and experiments to pin- point the cause of the disappearance of chain-vortex images are now in progress (A. Tonomura et al., in preparation).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Bishop for their useful suggestions</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>We</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Koshelev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hashizume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kagoshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Onogi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gammel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Supported by SORST</title>
+		<imprint>
+			<publisher>Japan Science and Technology Corporation</publisher>
+			<date type="published" when="2001-09-04">JST. 4 September 2001. November 2001</date>
+		</imprint>
+	</monogr>
+	<note>accepted 1 References and Notes</note>
+	<note type="raw_reference">We thank F. Nori, A. Koshelev, T. Hashizume, S. Kagoshima, T. Onogi, P. Gammel, and D. Bishop for their useful suggestions. Supported by SORST, Japan Science and Technology Corporation (JST). 4 September 2001; accepted 1 November 2001 References and Notes</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Brinkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Pinto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bell Labs Tech. J</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">57</biblScope>
+			<date type="published" when="1997">Autumn 1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. F. Brinkman, M. R. Pinto, Bell Labs Tech. J. 2 (no. 4), 57 (Autumn 1997).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<ptr target="http://public.itrs.net/Files/2000UpdateFinal/2KUdFinal.htm" />
+		<title level="m">Overall Roadmap Technology Characteristics, International Technical Roadmap for Semiconductors</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Overall Roadmap Technology Characteristics, Inter- national Technical Roadmap for Semiconductors 2000 (available at http://public.itrs.net/Files/ 2000Update Final/2KUdFinal.htm).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Joachim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Gimzewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aviram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">408</biblScope>
+			<biblScope unit="page">541</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Joachim, J. K. Gimzewski, A. Aviram, Nature 408, 541 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Reed</surname></persName>
+		</author>
+		<title level="m">Proc. IEEE</title>
+		<meeting>IEEE</meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page">652</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. A. Reed, Proc. IEEE 87, 652 (1999).</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aviram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ratner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">277</biblScope>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Aviram, M. A. Ratner, Chem Phys. Lett. 29, 277 (1974).</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page">1224</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Chen et al., Appl. Phys. Lett. 77, 1224 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Metzger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">950</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. M. Metzger, Acc. Chem. Res. 32, 950 (1999).</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Collier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="page">1172</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. P. Collier et al., Science 289, 1172 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Joachim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Gimzewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page">353</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Joachim, J. K. Gimzewski, Chem. Phys. Lett. 265, 353 (1997).</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Tans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R M</forename><surname>Verschueren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dekker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page">49</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. J. Tans, A. R. M. Verschueren, C. Dekker, Nature 393, 49 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Martel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">2447</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Martel et al., Appl. Phys. Lett. 73, 2447 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Avouris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">292</biblScope>
+			<biblScope unit="page">706</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. C. Collins, M. S. Arnold, P. Avouris, Science 292, 706 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Derycke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Martel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Appenzeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ph</forename><surname>Avouris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+	<note type="raw_reference">V. Derycke, R. Martel, J. Appenzeller, Ph. Avouris, Nano Lett., in press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Dai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">1597</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. W. Zhou, J. Xong, H. J. Dai, Appl. Phys. Lett. 76, 1597 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Scho ¨n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">413</biblScope>
+			<biblScope unit="page">713</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. H. Scho ¨n, H. Meng, Z. Bao, Nature 413, 713(2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dodabalapur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Torsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">268</biblScope>
+			<biblScope unit="page">270</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Dodabalapur, L. Torsi, H. E. Katz, Science 268, 270 (1995).</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Whitesides</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page">6560</biblScope>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. D. Bain, G. M. Whitesides, J. Am. Chem. Soc. 110, 6560 (1988).</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1370</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Langmuir 5, 1370 (1989).</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Folkers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Laibinis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Whitesides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Deutch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">563</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. P. Folkers, P. E. Laibinis, G. M. Whitesides, J. J. Deutch, Phys. Chem. 98, 563 (1994).</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Di</forename><surname>Ventra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Pantelides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Lang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">3448</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Di Ventra, S. T. Pantelides, N. D. Lang, Appl. Phys. Lett. 76, 3448 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Datta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ratner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">4292</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Xue, S. Datta, M. A. Ratner, J. Chem. Phys. 115, 4292 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Natori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">4879</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Natori, J. Appl. Phys. 76, 4879 (1994).</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Emberly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kirczenow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">10451</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. G. Emberly, G. Kirczenow, Phys. Rev. B 62, 10451 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fujimaru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsumura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn. J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">2090</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Fujimaru, H. Matsumura, Jpn. J. Appl. Phys. 35, 2090 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Donhauser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">292</biblScope>
+			<biblScope unit="page">2303</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. J. Donhauser et al., Science 292, 2303 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Bumm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page">1705</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. A. Bumm et al., Science 271, 1705 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">dross for many valuable discussions</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>We</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Abusch-Magder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ch</forename><surname>Capasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kloc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Zhitenev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1066171</idno>
+		<imprint>
+			<date type="published" when="2001-09-12">12 September 2001. 25 October 2001. 8 November 2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Konstanz</orgName>
+		</respStmt>
+	</monogr>
+	<note>University of California at Los Angeles for his support of an internship at Lucent Technologies Include this information when citing this paper</note>
+	<note type="raw_reference">We thank D. Abusch-Magder, E. Bucher, F. Capasso, Ch. Kloc, J. A. Rogers, N. Zhitenev, and E. A. Chan- dross for many valuable discussions. J.H.S. is grate- ful to E. Bucher for the use of the laboratory during his stay at the University of Konstanz. H.M. thanks F. Wudl of University of California at Los Angeles for his support of an internship at Lucent Technologies. 12 September 2001; accepted 25 October 2001 Published online 8 November 2001; 10.1126/science.1066171 Include this information when citing this paper.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

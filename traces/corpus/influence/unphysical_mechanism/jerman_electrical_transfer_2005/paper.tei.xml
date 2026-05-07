@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Electrical Transfer of Molecule Information into Water, Its Storage, and Bioeffects on Plants and Bacteria</title>
+				<funder ref="#_RuUCRV3">
+					<orgName type="full">Slovenian Ministry of Higher Education, Science and Technology</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Department of Plant Physiology and Miklavž Grabnar</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Department of Molecular Genetics</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2005-01">2005-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Igor</forename><surname>Jerman</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BION , Institute for Bioelectromagnetics and New Biology , Ljubljana , Slovenia</note>
+								<orgName type="department">Institute for Bioelectromagnetics and New Biology</orgName>
+								<orgName type="laboratory">BION</orgName>
+								<address>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Romana</forename><surname>Ružič</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rok</forename><surname>Krašovec</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BION , Institute for Bioelectromagnetics and New Biology , Ljubljana , Slovenia</note>
+								<orgName type="department">Institute for Bioelectromagnetics and New Biology</orgName>
+								<orgName type="laboratory">BION</orgName>
+								<address>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Metod</forename><surname>Škarja</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BION , Institute for Bioelectromagnetics and New Biology , Ljubljana , Slovenia</note>
+								<orgName type="department">Institute for Bioelectromagnetics and New Biology</orgName>
+								<orgName type="laboratory">BION</orgName>
+								<address>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lea</forename><surname>Mogilnicki</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BION , Institute for Bioelectromagnetics and New Biology , Ljubljana , Slovenia</note>
+								<orgName type="department">Institute for Bioelectromagnetics and New Biology</orgName>
+								<orgName type="laboratory">BION</orgName>
+								<address>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Electrical Transfer of Molecule Information into Water, Its Storage, and Bioeffects on Plants and Bacteria</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Electromagnetic Biology and Medicine</title>
+						<title level="j" type="abbrev">Electromagnetic Biology and Medicine</title>
+						<idno type="ISSN">1536-8378</idno>
+						<idno type="eISSN">1536-8386</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">24</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="341" to="353"/>
+							<date type="published" when="2005-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">2B8B686BF1370524400A2BAEF07AA2F7</idno>
+					<idno type="DOI">10.1080/15368370500381620</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Adaptive mutation</term>
+					<term>Coherent oscillations</term>
+					<term>Collective modes</term>
+					<term>Electric transfer</term>
+					<term>Escherichia coli</term>
+					<term>Germination</term>
+					<term>Heat stress</term>
+					<term>Lepidium sativum</term>
+					<term>Magnesium</term>
+					<term>Molecule information</term>
+					<term>Water memory</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The controversial phenomenon of the so-called water memory recently has been gaining in scientific credibility, either through direct empirical findings or theoretical considerations. The related researches mostly tackle the phenomenon subject to the homeopathic procedure, that is, a sequence of dilutions and shakings. Most likely this phenomenon is mediated via phonons originating from shaking. According to both our and others' experiments, we assumed that besides phonons polarization waves originating from a strong pulsed electric field also would transmit molecule information into water. The hypothesis was tested experimentally on various biological systems-here we describe the tests on bacteria and plants. The results were very positive and encouraging: Both organisms reacted to an information imprint of a chosen substance. Since both groups of experiments were performed in different places and under different researchers there is a very strong indication that the phenomenon is real, which put forth new questions and research possibilities.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phenomenon</head><p>The controversial phenomenon of the so-called water memory recently has been gaining in scientific credibility, either through direct empirical findings or through theoretical considerations. In its most widespread variant-let us call it homeopathic-it involves a series of dilutions (10 or 100 times each) and shakings Address correspondence to Igor Jerman, BION, Institute for Bioelectromagnetics and New Biology, Stegne 21, 1000 Ljubljana, Slovenia. E-mail: igor.jerman@bion.si (also called potentization, activation, or succussion) of an original substance (we shall call it a donor substance with its donor molecules). At the end, one gets a so-called ultrahigh dilution, where often no donor molecule is present any more. Among well-performed researches published in peer reviewed journals and involving the effects of ultrahigh dilutions of biologically effective substances on organisms; we may mention the ones by Endler et al. <ref type="bibr" target="#b0">[1]</ref>, by Davenas et al. <ref type="bibr" target="#b1">[2]</ref>, Belon et al. <ref type="bibr" target="#b2">[3]</ref>, Betti et al. <ref type="bibr" target="#b3">[4]</ref>, and Ruiz-Vega et al. <ref type="bibr" target="#b4">[5]</ref>.</p><p>Endler and coworkers <ref type="bibr" target="#b0">[1]</ref> showed that an ultrahigh dilution of a hormone thyroxin can influence the growth and development of tadpoles in water. Davenas and coworkers <ref type="bibr" target="#b1">[2]</ref> demonstrated that certain highly diluted substances (called Silica 6C and Silica 10C) can induced a statistically significant increase in the immune function, as measured in macrophages in the blood of mice. Belon et al. <ref type="bibr" target="#b2">[3]</ref> performed similar and highly reliable experiments, actually representing a multicenter study. They found that ultrahigh dilutions of histamine (10 -30 -10 -38 M) exert an effect on basophile activity confirmed by flow cytometry. The effects were not observed by histidine, which is in favor of the specificity of this effect. Experiments involving plants and their poisons including blind experiments showed statistically significant effects of 45D potency (this means 45 × 1 10 consecutive dilutions and shakings) of As 2 O 3 on the germination of wheat seedlings whose seeds have been poisoned previously with a material dose of the same substance <ref type="bibr" target="#b3">[4]</ref>. Moreover, caffeine and 30C potency (this means 30 × 1 100 consecutive dilutions and shakings) of the starting solution of caffeine similarly affect sleep patterns of rats <ref type="bibr" target="#b4">[5]</ref>.</p><p>Among the well-performed researches, published in highly rated peer reviewed journals, involving chemical systems and their physical features, we may mention the study that used a standard calorimetric method at 25 C <ref type="bibr" target="#b5">[6]</ref>. The authors demonstrated that mixing 0.01 mol/kg of NaOH with ultrahigh diluted HCl (or inversely, by mixing an acid with the ultrahigh diluted base) produces a significant excess of heat, for which there is no standard explanation. The Rey's experiment was set up via thermoluminescence <ref type="bibr" target="#b6">[7]</ref>, the scientifically well-explored process in which a salt solution emits light while it is being heated. Rey demonstrated that ultrahigh diluted aqueous solutions of LiCl as well as NaCl emitted light with wavelengths that were in a total accordance with wavelengths of light that were emitted by the control solutions of LiCl or NaCl. In both cases, the ultrahigh diluted solutions contained no excess of donor ions in comparison to pure distilled water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model</head><p>In any case, the phenomenon of water memory should consist of three stages: the transfer of molecule (and also of an atom or an ion, if it is about them) information (here, the term information stands for the specific influence, the molecules of a given substance exert on their surrounding via interactions with it. Because of their unique energy levels such interactions create specific modifications of various quantum fields surrounding the molecules, such as the field of virtual photons, the phonon field, the polarisation field, eventually the polariton field, etc.) from the donor substance into water-transfer stage; the storage of this information in water for longer time (water memory sensu stricto)-storage stage; and an observable biological, chemical, or physical effect of the stored molecule information-effective stage. The investigation of the laws and mechanisms concerning the first two stages is within the domain of physics, while the third stage should be approached from other scientific disciplines (chemistry, biology), too.</p><p>According to our knowledge and consideration, the transfer stage in the homeopathic dilution and potentization conduct could be implemented via strong excitations of phonons produced during the succussion of a diluted donor substance. The starting point for these phonons should be the quantum vibrational field of the donor molecules, together with its influence exerted on their surroundings via the field of its virtual photons and quasi particles, like phonons, polarization quanta (if the molecules are polar or it is about ions), etc. This field, distinctive of any atom, molecule or ion should then be mediated via phonons from the donor molecules to the water ones. There it should change the state of some basic coherent quantum electromagnetic (EM) field of water as predicted by the quantum field theoretical proposition of Del Giudice, Preparata, and Vitiello <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. Here the mechanism first proposed by Fröhlich <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref> also may help in the spreading of this influence as well as its imprinting, that is by selectively exciting (here the specifics of each substance play its role) some collective modes through the whole system (solution or even pure water in ultrahigh dilution procedures). The energy input to these modes would come from shaking. The field, since being either in some of the many possible (coherent) ground states <ref type="bibr" target="#b8">[9]</ref> or through its supposed stability based on Bose condensation of polar molecular modes also should have storage capabilities (memory); here, we could speak about the information imprint of the donor substance or about the donor water imprint (or better of an imprint in water's coherent EM field). On the other hand we may speak about substance informed water. These three terms will be used as synonyms in the following text like: information imprint of magnesium, or magnesium water imprint, or magnesium informed water.</p><p>In a contact with an organism or some chemical <ref type="bibr" target="#b5">[6]</ref> or under certain physical regime <ref type="bibr" target="#b6">[7]</ref>, the coherent EM water field should provoke similar quantum excitations as the original substance, thus, somewhat imitate it. According to this hypothesis, we should expect similar (but not necessarily equal) effects from informed water as from the original substance. The already mentioned published experiments strongly speak in favor of this thesis.</p><p>On the other side, there are experiments and papers affirming that it is possible to expose water to AC EM field and that such water have a similar biological effect as the direct exposure of organisms to the applied fields <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>. Fesenko <ref type="bibr" target="#b15">[16]</ref> even suggests that mediation via water can represent the bulk of mechanisms for the nonthermal biological effects of EMFs on organisms. Besides, there are experiments showing that molecule information can be transferred to water via electric or EM fields <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b18">19]</ref>. All this taken together encouraged us to enlarge our hypothesis in regards to the transfer stage, namely that information can be transferred not only by shaking (presumably phonons) as in ultrahigh dilution experiments, but also by other means like polarization waves and their quanta. To test this hypothesis we constructed a special device for producing strong electric field pulses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Testing</head><p>To test the hypothesis that information of a given substance can be transmitted and stored into water also by a strong electric field, we exposed two very different biological systems, namely plants, cress seedlings (Lepidium sativum) and bacteria (Escherichia coli) to water previously exposed to a pulsed electric field that was assumed to transfer a chosen molecule information to water. We expected that the bioeffects on the involved organisms would be similar to the donor substances.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plants</head><p>The plants represented cress seeds (Lepidium sativum L.) that formed our well-tested, controlled, and already published biological sensor system, originally designed to test biological effects of EMFs <ref type="bibr" target="#b19">[20]</ref>. The seeds (50 per Petri dish) were put into Petri dishes (4 for every experimental group) and then watered with 3 ml of Amanita muscaria dust (Sigma) informed water, the tested group; 3 ml of sham informed water (donor: bidistilled water), EF control group; and 3 ml of bidistilled water, key control group with no processed information. Therefore, we had 3 groups, one tested and 2 control ones. Every type of experiment was repeated 4-6 times (see also Figs. <ref type="figure" target="#fig_0">2</ref><ref type="figure" target="#fig_1">3</ref><ref type="figure" target="#fig_2">4</ref>as discussed later). As a substance, Amanita dust inhibits germination of cress seedlings, the level of which depends on the concentration of its solution.</p><p>The gist of the system represents a controlled heat stress that is applied after the subjection of the seeds to the examined stimulus. Here, the expectation is that a mild stress factor, for instance the application of electromagnetic field, would prepare the germinating seed for the heat stress, such as in the experiments with human cells <ref type="bibr" target="#b20">[21]</ref>, or as it is known from the studies on multiple environmental stress factors, which showed that the exposure of tissue to moderate stress induces resistance to other stresses <ref type="bibr" target="#b21">[22]</ref>. In comparison with the control group, the tested seedlings should better stand the heat stress than the control ones. The applied heat stress implies the exposure of seedlings after 24 hours of germination to 42 C in an incubator for 40 min. After taking the Petri dishes with seeds out from the incubator, they reached room temperature again in 2.5 hours. The average room temperature (measured inside the growth box) was 23 1 ± 0 8 C. Each experiment lasted 48 hours.</p><p>After 48 hours of the experiment, the length of seedlings (the stem length from the upper limit of the radicle to the cotyledons) was measured. The seeds were considered as germinated and included in the measurements when their radicles were longer than 4 mm. The experiments using the same type of informed water and the same physiological conditions were performed two to four times. Since the distribution of the radicle lengths was normal, we calculated the arithmetic mean and standard deviation. The statistical significance p of the results concerning every individual experiment was measured by using the Student t-test for comparison between the 2 groups (2-tailed) or ANOVA analysis for comparison of 3 groups within themselves. The significance was determined by Tamhane or LSD test that depends on the in/equality of variances (Levene statistics). The significances are marked as follows: * p &lt; 0 05, * * p &lt; 0 01, and * * * p &lt; 0 001.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacteria</head><p>We used Escherichia coli K-12 strain SJ134 that carry an enzyme Ebg -galactosidase that efficiently utilizes sugar lactulose. The expression of the enzyme is under the control of the ebgR-encoded repressor and only ebgR -mutants (adaptive mutants with disrupted ebgR gene) can utilize lactulose as the source of carbon and energy (for detailed description of the strain read Hall <ref type="bibr" target="#b22">[23]</ref> and references therein).</p><p>Bacteria were cultivated on a mineral salts medium that contained disaccharide lactulose (lactulose selection medium) or glycerol as the only source of carbon and energy (glycerol medium) (for details see Hall <ref type="bibr" target="#b23">[24]</ref>). We considered the lactulose selection medium containing 0.4 mM MgSO 4 and no supplements as the control environment (CE). The source of magnesium (MgSO 4 ), lactulose, or other supplementary compounds were added to reach the final concentration of the lactulose selection medium cooled at 55 C.</p><p>To determine the distribution of adaptive mutants we used an assay as described by Hall <ref type="bibr" target="#b22">[23]</ref>. In short, assay begins with a number of independent bacterial cultures, each one inoculated with 2 3 × 10 3 genetically identical (ebgR + ) SJ134 cells. They then are allowed to grow on a liquid glycerol medium for 24 hours ±10 min to approximately 10 7 cells. The entire culture is then plated on the agar lactulose selection medium; the plates are incubated at 30 C for at least 6 days. The colonies appearing on Day 4, 5, and 6 are treated as adaptive mutants; adaptive mutations occur after Day 1, 2, and 3 of incubation, respectively.</p><p>In order to test the hypotheses we enriched the CE either with a defined concentration of 4.6 mM MgSO 4 , substance that significantly lowers the frequency of the adaptive mutants or with water informed by the same substance. Water and the media containing any information imprints were never exposed to temperatures exceeding 60 C or metal surfaces and were always treated with rubber gloves. To examine the phenomenon as scrupulously as possible, we designed four experimental groups: the tested one with CE + information imprint of MgSO 4 (7 independent experiments), the first control with CE + 4.6 mM MgSO 4 (7 independent experiments), the second control: CE + information imprint of distilled water (4 independent experiments) and the third (overall) control: CE (18 independent experiments).</p><p>The statistical analysis was performed as follows. First, we calculated the frequency of adaptive mutants from 5 to 9 parallel plates of the same experimental group after first, second and the third day of incubation. We put together frequencies of adaptive mutants per day for every experimental group. Next, the values of the first 3 groups were separately tested against the frequencies of adaptive mutants from CE (overall control) by using the Student t-test (2-tailed).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Technology of Molecule Information Transfer</head><p>To perform a desired information transfer of the donor substance into water via a strong electric field, we constructed a system consisting of a high voltage pulsed electric field source (26 kV, frequency of pulses: 1.7 Hz) and a gold-plated wire that was installed into a quartz test tube with a (donor) compound. The quartz test tube was placed into an ordinary glass test tube filled with distilled water that was intended as a receiver of molecule (or ion or atom) information. The donor was always a sterile (nearly) saturated aqueous solution of the chosen compound. Chemical analysis of the receiver was performed in the Activation Laboratories Ltd. (Ontario, Canada) and proved that, under these conditions, an absolute chemical isolation between the source and the receiver was achieved (see also Fig. <ref type="figure">1</ref>). The composite static geomagnetic field was 46 ± 4 µT , measured by a Proton Magnetometer GMS-8. The horizontal geomagnetic field was 22 ± 3 µT measured by a Hall probe (Gaussmeter RFL 912). The background sinusoidal MF Figure <ref type="figure">1</ref>. Scheme of the imprinting device. The magnets were not considered as essential to the process, but were found to be of some help to stabilize the information transfer. For this technology of information transfer we propose the name ELIBRA (ELectrically Imprinted viBRAtion).</p><p>did not exceed 0.15 µT, as measured by a Holaday HI 3604, designed to evaluate electric and magnetic fields, measuring MF within the range from 10 -5 to 2 µT.</p><p>After 15 min the high voltage source was turned off and informed water was given a special care in further handling. Cotton or rubber gloves were always used and metal equipment (i.e., pipettes, test tube frame) always avoided; only wood, plastic, or Styrofoam equipment was used (following the standard recommendations from homoeopathy, namely that metal parts destroy or conduct away the stored information).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plants</head><p>The results stemming from germinating cress seeds performed in the morning (Fig. <ref type="figure" target="#fig_0">2</ref>) showed that Amanita dust informed water (donor: saturated aqueous solution of Amanita muscaria dust) produced statistically significant differences in the growth of seedlings as compared to the control (by 15%). The effects were inhibitory, which means that the stress reaction to the applied heat was enhanced by the information imprint. However, in these experiments even information imprint of bidistilled water (donor: 100% bidistilled water, group "InfWater") produced statistically significant effects (6-9%), but they were less inhibitory and distinctive from the results with Amanita dust informed water.</p><p>The results performed in the afternoon (Fig. <ref type="figure" target="#fig_1">3</ref>) also showed statistically significant effects of Amanita dust informed water (by 6%), however they showed the opposite polarity and were minor in effect than in the former experiments. In this case information imprint of bidistilled water did not produce biological effects.  It was difficult to imagine why such discrepancy in the polarity of the results existed while a lot of experiments were performed in both cases (Figs. <ref type="figure" target="#fig_0">2</ref> and <ref type="figure" target="#fig_1">3</ref>). The experiments were strictly performed with the same procedure, the only difference being the starting time of the experiments. To test the assumption that just the daily starting time is behind these bewildering results, we performed additional 4 experiments: 2 starting in the morning and the other 2 in the afternoon of the same day. The results confirmed the significance of the start time of the experiments. The experiments performed in the morning showed inhibition of the growth of seedlings as compared to the control (by 20-25%), while the experiments performed in the afternoon produced stimulatory effects (by 14-15%). The average growth of the control groups was similar in all these experiments (see Fig. <ref type="figure" target="#fig_2">4</ref>). The results were highly statistically significant and in complete harmony with the previous experiments performed through the years 2003 and 2005.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacteria</head><p>After the first 24 hours of incubation the information imprint of MgSO 4 (donor: saturated aqueous solution of MgSO 4 , and MgSO 4 in the molecular form (CE + 4.6 mM MgSO 4 , final concentration 5 mM) induced the same statistically significant (p &lt; 0 01) decrease in the number of adaptive mutants relative to the control environment (CE see Fig. <ref type="figure" target="#fig_3">5</ref>). After the second day the number of adaptive mutants  was conforming to the number in the control environment, the decreasing effect was seen again after the third day of the incubation. The information imprint of distilled water (donor: 100% distilled water) and (NH 4 2 SO 4 water imprint (donor: saturated aqueous solution of (NH 4 2 SO 4 , or (NH 4 2 SO 4 in the molecular form (final concentration 13 mM; additional experiments) did not have statistically significant impact on the distribution of adaptive mutants after any day of examination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The so-called memory of water is a phenomenon that can be divided into 3 distinct stages. The first is the transfer of molecule, ion, atom, electromagnetic information into water. This is the stage of information transfer and imprinting into water. The second stage is the storage of this imprint for a longer time, much longer than allowed by the present conventional physics of water that allows only short term memory in terms of some (tens) of picoseconds. From this perspective it is not important if water retains memory for hours or years-all this is much more than even nanoseconds. The third stage is also very important and should be studied thoroughly: the stage of an expression of stored information.</p><p>Our research on plants and bacteria (and others, since the here presented experiments are only a part of our examinations performed so far) coupled to similar investigations of other researchers demonstrate that the mechanism for a substance information transfer is not only one. Other published researches speak at least of 2 widely different mechanisms: one involving shaking (presumably phonons are the agents of transmission) and the other that involves electromagnetic field <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b18">19]</ref>. Our research adds another possibility, implemented via strong electric field pulses; seemingly, the information transfer would be put into effect via electric polarization waves. It confirms the possibility that water can be informed even without any direct molecular contact with the donor substance, which is not the case with ultrahigh dilutions. The question that is opened through all this research is whether the coding process is the same in all these cases; in other words, would information of the same substance be stored in the same way through all different methods or is it stored according to the transfer mode. It should be answered through future investigations. For the beginning, they could be based on the assumption that differently coded information would have different effects, at least on organisms.</p><p>Along with other research ours here-presented also confirm the memory of water that spans much longer terms than picoseconds. There is strong evidence that the disputed phenomenon is real and deserves a proper examination. The most pertinent question here is the mechanisms for the storage of information imprint. Is it really about the coherent EM field of water, some Bose-like excitations of particular stable collective modes, or are there so called water clusters <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref>.</p><p>The third stage of the phenomenon also deserves a great attention. Our experiments, as well as much other research show that the stored molecule information works in a similar way as the donor substance; in our experiments that clearly was seen with the research on bacteria. On the other hand, our experiments with plants demonstrated that they reacted to the information imprint in an opposite way if exposed in the morning in comparison to the afternoon exposures. The contradictory reaction as regards different times of germination here was most probably due to the plant circadian rhythm. The information imprint should have an impact on the physiology of organisms, especially if they are exposed to some stress agent. Now, it depends on the organism's previous physiological state, where the reaction will go: in our case whether the Amanita dust water imprint would prepare seeds for the heat stress (as in the afternoon experiments) or it would lull them so that the heat stress would even more shock them (as seen in the morning experiments). We may say that with organisms the decoding process of the information imprint often depends on the physiological state, something that is known also when applying weak electromagnetic fields. Frequently they have biological effects only when organisms are out of their physiological equilibrium.</p><p>Future investigations should shed more light how organisms sense and react to the stored information imprint. Very promising approach is demonstrated by Sukul et al. <ref type="bibr" target="#b28">[29]</ref>. By using a standard biochemical procedure, they showed that ions of HgCl 2 and information imprint of HgCl 2 are sensed by the same protein. Besides, since organisms are composed mostly of water, can this water be informed either by substances or by exogenous EM fields themselves, too? Fesenko in harmony with his experiments claims that long-term changes in water properties exposed to EM fields mediate the EM bioeffects <ref type="bibr" target="#b15">[16]</ref>.</p><p>The read-out process of information, stored in water, by organisms most probably takes place via the influence of this information. This manifested itself in a changed state of the coherent EM field of water, or in the excitations of particular collective modes on the coherent endogenous field of the organism with its own excited collective modes. The latter field, composed of the Fröhlich-like excitations of different collective modes can be influenced by the informed water with interactions, analogous to the interactions between such (Fröhlich like) systems, as proposed by <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b29">30]</ref>. In the information transfer, instead of physical attraction a frequency shifting of the interacting collective modes could be the most important influence on the organism or generally on some other system under consideration, thus, altering its behavior. Due to a domain-like structure of the coherent state of either water with its intrinsic EM field or that of the organism, the interaction between the 2 systems also could be of a kind typical for the interference between various coherent domains, that is, by a Josephson-like mechanism <ref type="bibr" target="#b29">[30]</ref>. Regarding the proposed mechanisms for the effects of stored information to take place, the changes occur on a very subtle level, with little or even no observable effects on the bulk properties of the affected system <ref type="bibr" target="#b30">[31]</ref>. Therefore, the system must either be complex enough to be able to transduce the subtle changes in its (mostly) quantum level to some macroscopic observable differences of its state (and the living organisms are surely of that kind), or the measuring apparatus should be capable of measuring very small differences of some appropriate parameters, presumably being sensitive to such influences (as in thermoluminescence experiments, Ref. <ref type="bibr" target="#b6">[7]</ref>).</p><p>The phenomenon of water memory is not witchcraft or a bad science; it is a very big and deeply scientific challenge that will demand much research and thorough theoretical considerations. If it proves positive, it may revolutionize physics, chemistry, biology, and their applications like human and veterinary medicine, agriculture, and biotechnology.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The comparison of the effect (percentage of the control) of Amanita dust informed water (group infAmanita) and information imprint of bidistilled water (group infWater) on the growth reaction of cress germinating seeds-immediately after the information transfer (4 experiments with total 2,347 germinated seedlings)-performed in the year 2003. All the experiments started in the morning between 8 a.m. and 9 a.m. The control (100%) was bidistilled water with no processed information. The significance is marked as: * p &lt; 0 05 and * * * p &lt; 0 001.</figDesc><graphic coords="8,93.96,70.06,313.20,178.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The comparison of the effect (percentage of the control) of Amanita dust informed water (group infAmanita) and information imprint of bidistilled water (group infWater) on the growth reaction of cress germinating seeds-immediately after the information transfer (2 experiments with total 1,536 germinated seedlings)-performed in the year 2005. All the experiments started in the afternoon between 3 p.m. and 4 p.m. The control (100%) was bidistilled water with no processed information. The significance is marked as: * p &lt; 0 05.</figDesc><graphic coords="8,93.96,379.45,313.20,185.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. The comparison of the effects of Amanita dust informed water (group infAmanita) on the growth reaction of cress germinating seeds started during 2 different hours of the day 8 a.m. and 1 p.m. (4 experiments with total 1,536 seedlings performed in the year 2005). The control was bidistilled water with no processed information. The significance is marked as: * * * p &lt; 0 001.</figDesc><graphic coords="9,85.45,358.44,335.52,229.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. The difference in the number of newly appearing ebgR -colonies (adaptive mutants) relative to the overall control (CE) after three days of incubation at 30 C. The CE (100%) represent an average calculated from 18 independent experiments (exps.), the CE + 4.6 mM MgSO 4 from 7 exps.; the CE + information imprint of MgSO 4 from 7 exps. and the CE + information imprint of distilled water from 4 exps. Every independent experiment included at least 5 to 9 parallel plates for any group. The significance is marked on bars as follows: * * p &lt; 0 01.</figDesc><graphic coords="10,84.96,69.80,330.72,172.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,91.45,69.60,324.00,191.28" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors acknowledge the support from the <rs type="institution">Biology Department of Biotechnical Faculty</rs>, especially <rs type="person">Marjana Regvar</rs> from the <rs type="funder">Department of Plant Physiology and Miklavž Grabnar</rs> from the <rs type="funder">Department of Molecular Genetics</rs>. Many thanks also to <rs type="person">Barry G. Hall</rs> for bacterial strains, <rs type="person">James A. Shapiro</rs> for his thorough comments of the work on bacteria, and <rs type="person">Robert T. Leskovar</rs> for his precious help concerning statistical analysis.</p><p>The research on bacteria was supported by grant <rs type="grantNumber">L3-2416-0487-00</rs> from the <rs type="funder">Slovenian Ministry of Higher Education, Science and Technology</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_RuUCRV3">
+					<idno type="grant-number">L3-2416-0487-00</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Transmission of hormone information by non-molecular means</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pongratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Wijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Waitti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hilger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brandmeier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB J</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">2313</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Endler, P.C.; Pongratz, W.; van Wijk, R.; Waitti, K.; Hilger, H.; Brandmeier, R. Transmission of hormone information by non-molecular means. FASEB J. 1994, 8, Abs. 2313.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Effect on mouse peritoneal macrophages of orally administered very high dilutions of silica</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Davenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Poitevin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="313" to="319" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davenas, E.; Poitevin, B.; Benveniste, J. Effect on mouse peritoneal macrophages of orally administered very high dilutions of silica. Eur. J. Pharmacol 1987, 135, 313-319.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Histamine dilutions modulate basophil activation</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Belon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cumps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ennis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Mannaioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roberfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sainte-Laudy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A C</forename><surname>Wiegant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inflamm. Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="181" to="188" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Belon, P.; Cumps, J.; Ennis, M.; Mannaioni, P.F.; Roberfroid, M.; Sainte-Laudy, J.; Wiegant, F.A.C. Histamine dilutions modulate basophil activation. Inflamm. Res. 2004, 53, 181-188.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effect of high dillutions of Arsenicum album on wheat seedlings poisoned with the same substance</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Betti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brizzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peruzzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. Homeopat. J</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="86" to="89" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Betti, L.; Brizzi, M.; Nani, D.; Peruzzi, M. Effect of high dillutions of Arsenicum album on wheat seedlings poisoned with the same substance. Br. Homeopat. J. 1987, 86, 86-89.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Comparative effect of Coffea cruda potencies on rats</title>
+		<author>
+			<persName><forename type="first">Ruiz</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Perez Ordaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leon Hueramo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sancez Diaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="80" to="84" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ruiz Vega, G.; Perez Ordaz, L.; Leon Hueramo, O.; Cruz Vazquez, E.; Sancez Diaz, N. Comparative effect of Coffea cruda potencies on rats. Homeopathy 2002, 91, 80-84.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Thermodynamics of extremely diluted aqueous solutions</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Elia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Niccoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. NY Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">879</biblScope>
+			<biblScope unit="page" from="241" to="248" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Elia, V.; Niccoli, M. Thermodynamics of extremely diluted aqueous solutions. Ann. NY Acad. Sci. 1999, 879, 241-248.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Thermoluminescence of ultra-high dilutions of lithium chloride and sodium chloride</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica A</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page" from="67" to="74" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rey, L. Thermoluminescence of ultra-high dilutions of lithium chloride and sodium chloride. Physica A 2003, 323, 67-74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Water as a free electric dipole laser</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Preparata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vitiello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1085" to="1088" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Giudice, E.; Preparata, G.; Vitiello, G. Water as a free electric dipole laser. Physical Review Letters 1988, 61 (9): 1085-1088.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Is the &quot;memory of water&quot; a physical impossibility</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ultra High Dilution: Physiology and Physics</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="117" to="119" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Giudice, E. Is the &quot;memory of water&quot; a physical impossibility. In Ultra High Dilution: Physiology and Physics; Endler, P.C., Schulte, J., Eds.; Kluwer Academic Publishers: Netherlands, 1994; 117-119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Coherent electrodynamics in water</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Preparata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fundamental Research in Ultra High Dilution and Homoeopathy</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="89" to="103" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Giudice, E.; Preparata, P. Coherent electrodynamics in water. In Fundamental Research in Ultra High Dilution and Homoeopathy; Schulte, J., Endler, P.C., Eds.; Kluwer Academic: Netherlands, 1998; 89-103.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Preparata</surname></persName>
+		</author>
+		<title level="m">QED Coherence in Matter</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Scientific Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Preparata, G. QED Coherence in Matter. World Scientific Publishing: Singapore.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Coherence and electromagnetic fields in living matter</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vitiello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanobiology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="221" to="228" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vitiello, G. Coherence and electromagnetic fields in living matter. Nanobiology 1992, 1 221-228.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bose condensation of strongly excited longitudinal electric modes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fröhlich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="402" to="403" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fröhlich, H. Bose condensation of strongly excited longitudinal electric modes. Phys. Lett. 1968, 26A, 402-403.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Theoretical Physics and Biology</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fröhlich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biological Coherence and Response to External Stimuli</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Fröhlich</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ed</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="1" to="24" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fröhlich, H. Theoretical Physics and Biology. In Biological Coherence and Response to External Stimuli; Fröhlich, H. Ed.; Springer-Verlag: Berlin, 1988; 1-24.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Weak extremelly high frequency microwaves affect pollen tube emergence and growth in kiwifruit: pollen grain irradiation and water mediated effects</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Calzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Borghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Betti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dal Rio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Migliori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Trebbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Speranza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alternat. Complem. Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="217" to="233" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Calzoni, G.L.; Borghini, F.; Del Giudice, E.; Betti, L.; Dal Rio, F.; Migliori, M.; Trebbi, G.; Speranza, A. Weak extremelly high frequency microwaves affect pollen tube emergence and growth in kiwifruit: pollen grain irradiation and water mediated effects. J. Alternat. Complem. Med. 2003, 9 (8), 217-233.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Changes in the state of water, induced by radiofrequency electromagnetic fields</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Fesenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Gluvstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEBS Lett</title>
+		<imprint>
+			<biblScope unit="volume">267</biblScope>
+			<biblScope unit="page" from="53" to="55" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fesenko, E.E.; Gluvstein, A.Y. Changes in the state of water, induced by radiofrequency electromagnetic fields. FEBS Lett. 1995, 267, 53-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Preliminary microwave irradiation of water solutions changes their channel-modifying activity</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Fesenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Geletyuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>Kazachenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Chemeris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEBS Lett</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="49" to="52" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fesenko, E.E.; Geletyuk, V.I.; Kazachenko, V.N.; Chemeris, N.K. Preliminary microwave irradiation of water solutions changes their channel-modifying activity. FEBS Lett. 1995, 366, 49-52.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Transfer of information from molecules by means of electronic amplification</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Citro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scott-Morley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pongratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ultra High Dilution: Physiology and Physics</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="209" to="214" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Citro, M.; Smith, C.W.; Scott-Morley, A.; Pongratz, W.; Endler, P.C. Transfer of information from molecules by means of electronic amplification. In Ultra High Dilution: Physiology and Physics; Endler, P.C., Schulte, J., Eds.; Netherlands, 1994; 209-214.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Activation of human neutrophils by electronically transmitted phorbol-myristate acetate</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Belkadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jurgens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kahhak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas, Y.; Schiff, M.; Belkadi, L.; Jurgens, P.; Kahhak, L.; Benveniste, J. Activation of human neutrophils by electronically transmitted phorbol-myristate acetate. Medical Hypotheses 2000, 54, 33-39.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Weak magnetic field decreases heat stress in cress seedlings</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ružič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electromag. Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="53" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ružič, R.; Jerman, I. Weak magnetic field decreases heat stress in cress seedlings. Electromag. Biol. Med. 2002, 21 (1), 43-53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Application of magnetic field-induced heat shock protein 70 for presurgical cytoprotection</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Head</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goodman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cell. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="577" to="583" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Han, L.; Lin, H.; Head, M.; Jin, M.; Blank, M.; Goodman, R. Application of magnetic field-induced heat shock protein 70 for presurgical cytoprotection. J. Cell. Biochem. 1998, 71, 577-583.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Heat-shock proteins and cross-tolerance in plants</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sabehat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lurie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiol. Plant</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="437" to="441" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sabehat, A., Weiss, D., Lurie, S. Heat-shock proteins and cross-tolerance in plants. Physiol. Plant 1998, 103, 437-441.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Adaptive mutagenesis at ebgR is regulated by PhoPQ</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="page" from="2862" to="2865" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hall, B.G. Adaptive mutagenesis at ebgR is regulated by PhoPQ. J. Bacteriol. 1998, 180, 2862-2865.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Spectra of spontaneous growth-dependent and adaptive mutations at ebgR</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="1149" to="1155" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hall, B.G. Spectra of spontaneous growth-dependent and adaptive mutations at ebgR. J. Bacteriol. 1999, 181, 1149-1155.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Conservation of structure in aqueous ultra high dilutions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ultra High Dilution: Physiology and Physics</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="105" to="116" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schulte, J. Conservation of structure in aqueous ultra high dilutions. In Ultra High Dilution: Physiology and Physics; Endler, P.C., Schulte, J., Eds.; Netherlands, 1994; 105-116.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Affects of potentization in aqueous solutions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. Homeopath. J</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="155" to="160" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schulte, J. Affects of potentization in aqueous solutions. Br. Homeopath. J. 1999, 88, 155-160.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Experimental evidence for intrinsic luminescence of water</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Lobyshev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Shikhlinskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Ryzhikov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Liq</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="73" to="81" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lobyshev, V.I.; Shikhlinskaya, R.E.; Ryzhikov, B.D. Experimental evidence for intrinsic luminescence of water. J. Mol. Liq. 1999, 82, 73-81.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Small water clusters (Clathrates) in the homoeopathic preparation process</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Anagnostatos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ultra High Dilution: Physiology and Physics</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht; Netherlands</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="page" from="121" to="128" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anagnostatos, G.S. Small water clusters (Clathrates) in the homoeopathic preparation process. In Ultra High Dilution: Physiology and Physics; Endler, P.C., Schulte, J., Eds.; Dordrecht: Netherlands, 121-128.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Potentized Mercuric chloride and Mercuric iodide enhance -amylase activity in vitro</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Sukul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sukul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Sinhababu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="217" to="220" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sukul, N.C.; De, A.; Sukul, A.; Sinhababu, S.P. Potentized Mercuric chloride and Mercuric iodide enhance -amylase activity in vitro. Homeopathy, 2002, 91, 217-220.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Selective long range dispersion forces between large systems</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fröhlich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="153" to="154" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fröhlich, H. Selective long range dispersion forces between large systems. Phys. Lett. 1972, 39A, 153-4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Magnetic flux quantization and Josephson behavior in living systems</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Doglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Milani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vitiello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica. Scripta</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">786</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Giudice, E.; Doglia, S.; Milani, M.; Smith, C.W.; Vitiello, G. Magnetic flux quantization and Josephson behavior in living systems. Physica. Scripta. 1989, 40, 786.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Outline of expermental physical methods to investigate specific structures of UHDs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ultra High Dilution: Physiology and Physics</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Endler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schulte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="105" to="116" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schulte, J.; Endler, P.C. Outline of expermental physical methods to investigate specific structures of UHDs. In Ultra High Dilution: Physiology and Physics; Endler, P.C., Schulte, J., Eds.; Netherlands, 1994; 105-116.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

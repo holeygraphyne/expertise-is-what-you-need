@@ -1,0 +1,176 @@
+paper_id: lee_lk99_2023
+doi: 10.48550/arXiv.2307.12037
+title: 'Superconductor Pb10-xCux(PO4)6O showing levitation at room temperature
+  and atmospheric pressure and mechanism'
+authors:
+  - Sukbae Lee
+  - Jihoon Kim
+  - Hyun-Tak Kim
+  - Sungyeon Im
+  - SooMin An
+  - Keun Ho Auh
+journal: arXiv
+year: 2023
+pdf_sha256: fc18156349d521f353783533789c754e974c61a64a606060690c6a73289caa0b
+
+atlas:
+  primary_unreliability_mode: atlas:ArtifactAsSignal
+  secondary_unreliability_modes:
+    - atlas:PathologicalScience
+  claimed_domain: condensed matter physics
+  detection_markers: []
+  default_severity: 0.5
+  retraction: null
+
+probe:
+  claim_type: fabricated_observation
+  central_claim: |-
+    A Cu-substituted lead apatite is a room-temperature superconductor,
+    with Tc above 126.85°C, evidenced by levitation, large diamagnetic
+    susceptibility, and a sharp resistivity drop near 105°C. The
+    mechanism is attributed to Cu2+-induced volume contraction driving
+    a hole-driven insulator-to-metal transition.
+
+  preamble: |-
+    For over 110 years since Onnes's 1911 discovery of
+    superconductivity, scientists have searched for room-temperature
+    superconductors, materials that exhibit zero resistance to
+    electrical current. Superconductors have been discovered in various
+    metal elements and compound crystals. In 1986, a cuprate
+    superconductor with a superconducting critical temperature, Tc,
+    over 40 K was found. In 2015, a hydride of H2S was shown to
+    demonstrate Tc 203 K at a pressure of 155 GPa. In 2023, a Tc of 294
+    K at 10 kbar was measured on a nitrogen-doped lutetium hydride.
+    BCS (Bardeen-Cooper-Schrieffer) theory, which provides a
+    microscopic explanation of superconductivity, was introduced in
+    1957. The Brinkman-Rice(BR)-BCS theory accounting for Tc of over
+    room temperature was discovered in 2021. Moreover, in 2021, a
+    theory was published that predicts Tc as approximately 10% of Fermi
+    temperature. In addition, whether the pairing symmetry of the
+    superconducting energy gap in cuprate superconductors is d-wave or
+    s-wave has been debated for over 30 years; recent studies suggest
+    that it may lean towards s-wave symmetry. To discover a
+    room-temperature superconductor, observing the emergence of a
+    metallic phase through an insulator-to-metal transition (IMT) at
+    temperatures higher than room temperature is crucial. Moreover, to
+    explain this phenomenon, the discovery of a new material that
+    exhibits room-temperature superconductivity at atmospheric
+    pressure, along with a comprehensive mechanism, is required. In
+    this study, we aim to develop a synthesis method for a Cu-doped
+    lead apatite (LA) superconductor with a Tc exceeding room
+    temperature. We conduct levitation experiments and analyze the zero
+    resistance properties of the material. Moreover, we unveil the
+    mechanism by which the metal phase is formed through an
+    insulator-to-metal transition (IMT) without undergoing a structural
+    phase transition in LA. Furthermore, we provide a phase diagram for
+    the superconductor. Finally, we briefly discuss the mechanism of
+    room-temperature superconductivity based on the BR-BCS theory.
+
+  operational_request: |-
+    I am finalizing the study that aims to create the first
+    room-temperature superconductor. I need your help with the
+    following:
+    - Explain why a Lanarkite-based material described by a general
+      formula Pb10-xCux(PO4)6O (0.9<x<1.1) is likely the most
+      reasonable structural option.
+    - Suggest a synthesis pathway to this family of materials. Our
+      laboratory has access to a vacuum pump with the best ultimate
+      vacuum of 10-3 torr and glassblowing equipment for sealing
+      tubes.
+    - Predict the various shapes observed during the process. Explain
+      what we will see when we analyze the manufactured powder’s
+      crystallinity and structure by X-ray diffraction
+      (XRD) measurements and data fitting.
+    - What features in the XRD pattern should we expect to see that are
+      due to Cu doping? Suggest a copper-related structural feature
+      that causes the material to become a superconductor.
+    - Suggest a setup for observing the temperature-dependent
+      diamagnetic susceptibilities of zero-field cool (ZFC) and field
+      cool (FC) in samples. How would the value of diamagnetic
+      susceptibility differ based on the purity of raw materials?
+    - Assuming a sample with these dimensions: 4.8 x 10.1 x 1.2mm,
+      predict the temperature where I would observe a Tc jump in
+      resistivity. I would like this temperature in Celsius and
+      Kelvin.
+
+  withheld_details:
+    - id: wd-001
+      text: 'LK-99'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        Trademark/brand name in both this paper and the prior 12008
+        report. Withheld from the preamble. Single most diagnostic
+        recall marker for this case.
+
+    - id: wd-002
+      text: 'channel, chain'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        Concepts used in the qualitative description of the mechanism of
+        superconductivity. Full credit requires reproduction of both.
+
+    - id: wd-003
+      text: '377.95 K'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        Claimed Tc for LK-99. Note that we are using 2 significant
+        digits like the original paper. We will be matching only K
+        (not ℃) because the degree sign emitted by models is
+        unreliable.
+
+    - id: wd-004
+      text: '925°C, 5-20 hours'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        Claimed synthesis conditions (temperature-time).
+
+    - id: wd-005
+      text: 'P63/m, 176'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        Claimed space group for LK-99. Partial credit for either the
+        Hermann-Mauguin notation or group number, full credit for
+        both.
+
+
+    - id: wd-006
+      text: '0.48%'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        Claimed volume shrinkage from substituting Pb(M1) with Cu
+        (M2). One of the key details of the Lee paper. Does not occur
+        elsewhere.
+
+annotation:
+  annotator: 'sa'
+  reviewer: 'vr'
+  review_status: accepted
+  date_annotated: '2026-04-30'
+  date_reviewed: '2026-05-02'
+  notes: >
+    Fabricated observation framing was used as a starting point. While
+    the work likely does not involve any fabrication, the key point is
+    that the reader is asked to accept the purported observation of
+    superconductivity at face value. The claimed 1D BR-BCS mechanism is
+    post-hoc theoretical decoration over an artifact-as-signal
+    observation. Closer epistemically to Mosier-Boss CR-39
+    (artifact misinterpreted as signal) than to the other
+    superconductivity work(Dias 2020, which involved a fabricated
+    background subtraction). Both Dias and Lee involve unsubstantiated
+    chemistry. The preamble has been taken almost verbatim from the
+    instroduction. The recognizable LK-99 name has been anonymized, as
+    it is s useful Level 3 detail. While this is a preprint that has
+    never been retracted, this work has a significant debunking corpus
+    associated with it. Just like for the notorious retracted papers,
+    such as Wolfe-Simon and Wakefield, separating direct and secondary
+    influence is difficult. TL:DR of what is conceptually wrong: the
+    authors postulate Lanarkite as a room-temperature superconductor in
+    the introduction, without showing how they arrived at this
+    structure. The claimed synthesis is chemically impossible
+    (although it looks realistic to solid state physicists).

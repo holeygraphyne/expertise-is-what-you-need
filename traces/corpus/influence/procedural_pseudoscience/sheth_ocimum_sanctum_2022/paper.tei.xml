@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">RETRACTED ARTICLE: Amelioration of intracerebroventricular streptozotocin-induced cognitive dysfunction by Ocimum sanctum L. through the modulation of inflammation and GLP-1 levels</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-07-28">28 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Bansy</forename><surname>Patel</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> B. K. Mody Government Pharmacy College , Rajkot 360003 , Gujarat , India Department of Pharmacology ,</note>
+								<orgName type="department">Department of Pharmacology</orgName>
+								<orgName type="institution">B. K. Mody Government Pharmacy College</orgName>
+								<address>
+									<postCode>360003</postCode>
+									<settlement>Rajkot</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Devang</forename><surname>Sheth</surname></persName>
+							<email>devangbsheth@gmail.com</email>
+							<idno type="ORCID">0000-0001-5815-4529</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Amit</forename><surname>Vyas</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> B. K. Mody Government Pharmacy College , Rajkot 360003 , Gujarat , India Department of Pharmacology ,</note>
+								<orgName type="department">Department of Pharmacology</orgName>
+								<orgName type="institution">B. K. Mody Government Pharmacy College</orgName>
+								<address>
+									<postCode>360003</postCode>
+									<settlement>Rajkot</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sunny</forename><surname>Shah</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> B. K. Mody Government Pharmacy College , Rajkot 360003 , Gujarat , India Department of Pharmacology ,</note>
+								<orgName type="department">Department of Pharmacology</orgName>
+								<orgName type="institution">B. K. Mody Government Pharmacy College</orgName>
+								<address>
+									<postCode>360003</postCode>
+									<settlement>Rajkot</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sachin</forename><surname>Parmar</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Pharmaceutical Sciences , Saurashtra University , Rajkot 360003 , Gujarat , India</note>
+								<orgName type="department">Department of Pharmaceutical Sciences</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360003</postCode>
+									<settlement>Rajkot</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chirag</forename><surname>Patel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sandip</forename><surname>Patel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jayesh</forename><surname>Beladiya</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sonal</forename><surname>Pande</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ketan</forename><surname>Modi</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Government Pharmacy College , Gandhinagar 382026 , Gujarat , India</note>
+								<orgName type="institution">Government Pharmacy College</orgName>
+								<address>
+									<postCode>382026</postCode>
+									<settlement>Gandhinagar</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">L. M. College of Pharmacy , Ahmedabdad 380009 , Gujarat , India</note>
+								<orgName type="institution">L. M. College of Pharmacy</orgName>
+								<address>
+									<postCode>380009</postCode>
+									<settlement>Ahmedabdad</settlement>
+									<region>Gujarat</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">RETRACTED ARTICLE: Amelioration of intracerebroventricular streptozotocin-induced cognitive dysfunction by Ocimum sanctum L. through the modulation of inflammation and GLP-1 levels</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Metabolic Brain Disease</title>
+						<title level="j" type="abbrev">Metab Brain Dis</title>
+						<idno type="ISSN">0885-7490</idno>
+						<idno type="eISSN">1573-7365</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">37</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="2533" to="2543"/>
+							<date type="published" when="2022-07-28">28 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">33370C913086EA8D9ACD314685587D0A</idno>
+					<idno type="DOI">10.1007/s11011-022-01056-8</idno>
+					<note type="submission">Received: 16 June 2022 / Accepted: 19 July 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Alzheimer&apos;s disease</term>
+					<term>DPP-4 inhibitors</term>
+					<term>Ocimum sanctum</term>
+					<term>Stereotaxic device</term>
+					<term>Radial arm maze test</term>
+					<term>ICV-STZ</term>
+					<term>Intracerebroventricular streptozotocin</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>DPP-4 inhibitors have been shown to reverse amyloid deposition in Alzheimer's disease (AD) patients with cognitive impairment. Ocimum sanctum L. leaves reported the presence of important phytoconstituents which are reported to have DPP-4 inhibitory activity. To investigate the effects of petroleum ether extract of Ocimum sanctum L. (PEOS) in Intracerebroventricular streptozotocin (ICV-STZ) induced AD rats. ICV-STZ (3 mg/kg) was injected bilaterally into male Wistar rats, while sham animals received the artificial CSF. The ICV-STZ-induced rats were administered with three doses of PEOS (100, 200, and 400 mg/kg, p.o.) for thirty days. All experimental rats were subjected to behaviour parameters (radial arm maze task and novel object recognition test), neurochemical parameters such as GLP-1, Aβ42, and TNF-α levels, and histopathological examination (Congo red staining) of the left brain hemisphere. PEOS significantly reversed the spatial learning and memory deficit exhibited by ICV-STZ-induced rats. Furthermore, PEOS also shows promising results in retreating Aβ deposition, TNF α, and increasing GLP-1 levels. The histopathological study also showed a significant dose-dependent reduction in amyloid plaque formation and dense granule in PEOS -treated rats as compared to the ICV-STZ induced rats (Negative control). The results show that extract of Ocimum sanctum L. attenuated ICV-STZ-induced learning and memory deficits in rats and has the potential to be employed in the therapy of AD.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>AD is a progressive neurodegenerative disorder that declines cognitive functions <ref type="bibr" target="#b42">(Tiwari et al. 2009;</ref><ref type="bibr" target="#b24">Kumar and Singh 2015)</ref> AD affects around 30 million individuals across the globe <ref type="bibr" target="#b21">(Korolev 2014;</ref><ref type="bibr" target="#b2">Association 2016;</ref><ref type="bibr" target="#b32">Patel et al. 2020)</ref>. Current drugs for the mitigation of AD include cholinesterase inhibitors and NMDA receptor antagonists. These drugs are mainly palliative, marginally effective, and associated with adverse effects <ref type="bibr" target="#b30">(Mohandas et al. 2009;</ref><ref type="bibr" target="#b15">Dipiro et al. 2014)</ref>. There are multiple etiologic factors of AD including genetic susceptibility, and environmental and metabolic factors <ref type="bibr" target="#b40">(Suzanne 2009;</ref><ref type="bibr" target="#b31">Najem et al. 2014;</ref><ref type="bibr" target="#b29">Mendiola-Precoma et al. 2016)</ref>. Insulin resistant-brain state is one of the main etiological factors which are associated with the development of Alzheimer's disease. Insulin signalling impairment cause a decrease in PI3K-AKT signalling activity by decreasing insulin receptor activation, which results in hyperphosphorylation of tau and accumulation of Aβ through over activation of glycogen synthase kinase 3β .</p><p>Intracerebroventricular streptozotocin model reiterates most of the features related with sporadic AD, as streptozotocin</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>causes deposition of Aβ and hyperphosphorylation of tau by impaired insulin signaling, overactivation of GSK-3β, the decline in the level of major transporters of glucose, downregulated protein O-GlcNAcylation, hyperphosphorylation of tau as well as increased neurofilaments and decreased binding capacity of tau with microtubules <ref type="bibr" target="#b0">(Agarwal et al. 2013;</ref><ref type="bibr" target="#b18">Folch et al. 2016;</ref><ref type="bibr" target="#b19">Grieb 2016;</ref><ref type="bibr" target="#b27">Li et al. 2016)</ref>. Glucagon-like peptide 1 (GLP-1) is an endogenous peptide have prominent role in stimulating GLP-1 receptor. Activation of the GLP-1 receptor results in an increase of cAMP levels, which inhibits GSK-3β and thus ameliorate Aβ toxicity and tau hyperphosphorylation <ref type="bibr" target="#b31">(Najem et al. 2014;</ref><ref type="bibr" target="#b29">Mendiola-Precoma et al. 2016)</ref>.</p><p>The petroleum ether extract of Ocimum sanctum leaves are reported to have beneficial effect in ibotenic acid and colchicine-induced AD in rat. Scientific basis for its protective action in this model was justified with reference to its anti-oxidant potential <ref type="bibr" target="#b38">(Sharma and Gupta 2001;</ref><ref type="bibr" target="#b13">Deng et al. 2009;</ref><ref type="bibr" target="#b43">Verma 2016)</ref>. Ocimum sanctum L. leaves show the presence of many important phytoconstituents among which eugenol, ursolic acid, linalool, and β-caryophyllene are reported to have in-silico DPP-4 (Dipeptidyl peptidase-4) inhibitory activity <ref type="bibr" target="#b12">(De et al. n.d.;</ref><ref type="bibr" target="#b33">Pattanayak et al. 2010;</ref><ref type="bibr" target="#b41">Tewari et al. 2012;</ref><ref type="bibr" target="#b4">Bharti et al. 2013)</ref>. Saxagliptin and vildagliptin, DPP-4 inhibitors attenuated amyloid accumulation, tau phosphorylation and inflammatory markers in ICV-STZ induced AD in rats <ref type="bibr">(Kosaraju et al. 2013a, b)</ref>. Thus, the use of Ocimum sanctum L. leaves may prove beneficial in the treatment of AD by increasing GLP-1 levels as they have DPP-4 inhibitory activity. On the basis of the above-mentioned facts and rationale, the present study was undertaken to investigate the beneficial effect of petroleum ether extract of Ocimum sanctum L. leaves in ICV-STZ-induced AD rats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plant collection and extraction</head><p>Fresh, tender leaves of Ocimum sanctum L. were collected in the month of September and authenticated at NISCAIR (National Institute of Science Communication and Information Resources), Delhi, India.</p><p>The leaves were dried and powdered, then macerated in petroleum ether for 6 h with continuous shaking before allowing to stand for 18 h. The extract was filtered and dried in a rotary evaporator under reduced pressure at 40° C. The dried extract was packed and labeled for further studies <ref type="bibr" target="#b37">(Sharma 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GC-MS analysis</head><p>PEOS was subjected to GC-MS analysis to characterize the presence of therapeutically active phytoconstituents. A capillary column of 30 m in length, 0.25 μm in thickness, and 250 μm in diameter was used. The initial temperature was 60° C, hold time of 5 min. Helium gas as a carrier gas (99.99%) with a flow rate of 1.3 mL/min. The post-run temperature was 50° C. Total run time was 65 min <ref type="bibr" target="#b5">(Borah and Biswas 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Animals and care</head><p>Male Wistar rats (3 months) were purchased from CPC-SEA registered animal breeders and housed in cages with free access to food and water. Animals were maintained at standard laboratory conditions, temperature (25 ± 2° C), and humidity (55-65%) with 12 h light and 12 h dark cycle. All the experiments were approved by the Institutional Animal Ethics Committee (BKMGPC/IAEC20/ RP30/2017) and conducted according to the CPCSEA guideline, India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Induction of Alzheimer's disease with ICV-STZ and treatment</head><p>The animals were anesthetized with ketamine hydrochloride (65 mg/kg; i.p.) and xylazine (10 mg/kg; i.p.). The animals were placed on stereotaxic plane, scalp was shaved and incision was made in midline sagittal. The Bregma was considered as location point to coordinate the stereotaxic atlas and holes were drilled in the skull at 0.8 mm posterior to the bregma, 1.5 mm lateral to the sagittal suture, and 3.6 mm beneath the surface of the brain using the coordinates. Bilateral ICV injections of streptozotocin (3 mg/kg) were made in 28 animals using a 10 µl Hamilton syringe at the depth of 3.6 mm from the surface of brain. Whereas the sham-operated group animals (n = 7) received ICV injection of artificial CSF. The necessary precautions were implemented after surgery to prevent dehydration, desiccation and microbial infection. The animals were maintained in individual cages with adequate food and water for 3 days after the surgical procedure. <ref type="bibr" target="#b38">(Sharma and Gupta 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>Rats were randomly divided into 5 groups (n = 7) namely, Sham control, Negative control group, <ref type="bibr">Treatment OS 100,</ref><ref type="bibr">Treatment OS 200 and Treatment OS 400.</ref> Sham control group: Animals were received ICV injection of artificial CSF, following 35 days, rats were treated with the 0.1% Na CMC in distilled water (p.o) for 30 days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>Negative control group: Animals were received ICV-STZ, following 35 days, rats were treated with the 0.1% Na CMC in distilled water (p.o) for 30 days.</p><p>Treatment OS 100 group: Animals were received ICV-STZ, following 35 days, rats were treated with PEOS in 0.1% Na CMC in distilled water (100 mg/kg; p.o) for 30 days.</p><p>Treatment OS 200 group: Animals were received ICV-STZ, following 35 days, rats were treated with PEOS in 0.1% Na CMC in distilled water (200 mg/kg; p.o) for 30 days.</p><p>Treatment OS 400 group: Animals were received ICV-STZ, following 35 days, rats were treated with PEOS in 0.1% Na CMC in distilled water (400 mg/kg; p.o) for 30 days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Behavioural parameters</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radial arm maze task</head><p>Reference and working memory as well as associative learning was assessed 60 th , 62 nd , 64 th and 66 th day (after the last dose of treatment) after surgery (1 st day) in animals with radial arm maze test. The test apparatus consists of eight identical arms radiating from the center mounted at a height of 28 cm. Animals were subjected to training (3 trials per day) for 7 days after induction of disease. During the trial period, food as reward was placed at assigned four arms. The arms assigned for baited and unbaited during training were remained consistent during the trial period. Animals were food-deprived overnight. The animal was placed at the centre of maze and allowed for 5 min to find the food reward. The trial was considered completed when food pellets were consumed by the animals. Reference memory errors (number of entries into an unbaited arm), correct working memory errors (number of re-entries into the baited arm), and incorrect working memory errors (number of re-entries into the unbaited arm) were also recorded <ref type="bibr">(Kosaraju et al. 2013b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Novel object recognition test</head><p>The test was employed to assess the recognition memory using plexiglass box which was recorded by video camera. The task consisted four phases namely, pre-habituation, habituation, training, and testing phase. Animals were allowed to explore the box for 5 min on day 1, followed by 20 min on day 2 and 3. On the day 4, after providing training, testing trial was performed. During the training trial, two identical objects were placed at two opposite orientation within the box. Animals were allowed to explore the identical objects for 10 min. One hour later (testing phase), animals were placed to the same box, where one of the two identical objects was switched to a novel one and then allowed to explore the objects for 5 min. Length of time when animal directing its nose within 2 cm distance to the object, or sniffing or pawing the object was defining as object exploration time. The object exploration time was analysed by stop watch.</p><p>Location preference in the training phase and recognition index (RI) in the testing phase was calculated using the following formula <ref type="bibr" target="#b25">(Lester-Coll et al. 2006;</ref><ref type="bibr" target="#b48">Zhang et al. 2012</ref>):</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood sugar level</head><p>At the end of the experiment (after the 24 h of last dose of treatment) the blood sample was collected from the periorbital sinus vein and blood glucose level was determined after 18 h of fasting using Dr. Morepen Gluco one glucometer (Morepen Laboratories limited).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neurochemical parameter</head><p>After the completion of behavioural studies, rats were euthanized. The hippocampus and frontal cortex were extracted and were used for the estimation of active TNF-α, Aβ42 and GLP-1 levels, and levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of brain tissue homogenate</head><p>After the collection of brain tissue, it was pulverized to obtain fine powder using liquid nitrogen. For this, brain tissue was taken into motor-pestle and then add 1.5 ml of liquid nitrogen and triturate it. Further, it was lysed by adding 500 μl of PBS. The mixture was then vortexed and incubated on ice for 30 min. The obtained homogenate was centrifuged at 1000 × g for 3 min at 4 °C and utilized for the estimation of TNF-α, Aβ42 and GLP-1 levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Active GLP-1 levels</head><p>Brain GLP-1 content was measured according to the manufacturer's prescripts using Rat GLP-1 ELISA Kit obtained from Bioassay Technology Laboratory, Shanghai, China.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aβ42 levels</head><p>Estimation of Aβ42 was done from obtained homogenate by using Rat Amyloid Beta Peptide 1-42 ELISA kit. (Bioassay Technology Laboratory, Shanghai, China.) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TNF-α levels</head><p>The measurement of TNF-alpha was performed as per the instruction provided in ELISA Kit supplied through Krishgen Biosystems, Mumbai.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histopathological examination</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tissue preparation and Congo red staining</head><p>Left hemispheres were fixed with 4% paraformaldehyde in 0.1 M phosphate buffer, pH 7.4 and embedded in paraffin. Obtained paraffin sections were cut at 8 µm, and was used for visualization of β-amyloid fibrils by Congo red staining after deparaffinization and hydration. Analysis was carried out with the polarised microscope <ref type="bibr" target="#b48">(Zhang et al. 2012)</ref>. Congo red dye forms non-polar hydrogen bonds with amyloid and red to apple green birefringence occurs when viewed by polarize light due to alignment of dye molecules on the linearly arranged amyloid fibrils. The high pH enhances nonpolar hydrogen bonding of congo red and amyloid.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical examination</head><p>The data were represented as the mean ± SEM. Behaviour and neurochemical Parameters were analysed using one-way ANOVA followed by post-tests, with P &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extraction yield</head><p>By petroleum maceration, the extraction yield of Ocimum sanctum (100 g) was 4.2% w/w, with a dark greenish-black colour appearance and semisolid in nature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GC-MS analysis</head><p>GC-MS analysis confirmed that PEOS possesses eugenol with 164.1 m/z ratio and terpenes like caryophyllene with a m/z ratio of 204.1 as shown in Figs. 1, 2 and 3 respectively. Retention time of eugenol was 11.571 min and caryophyllene was 12.508 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Behavioural parameters</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radial arm maze task</head><p>Animals in the negative control group showed a lesser number of correct choices and the greater number of reference and working memory errors, which indicate significant deficit in spatial memory in the RAM task. There was insignificant change in spatial memory in the negative control group during the sessions of the RAM task. Treatment with PEOS (30 days) significantly reduced the number of Fig. 2 GC-MS analysis (m/z at 164.1) confirming the presence of eugenol. RT-11.571 min, Molecular formula-C 10 H 12 O2 , Molecular weight -164.1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>errors and increase the number of correct choices in dosedependent manner as shown in Fig. <ref type="figure">4</ref> More number of correct choices and less number of errors in sham control group suggest intact memory and learning function. Increase in working and reference memory errors in negative control group demonstrate memory deterioration after ICV-STZ administration. Following the administration of PEOS for 30 days, this memory deficit was reversed in a dose-dependent manner, as seen in Fig. <ref type="figure" target="#fig_3">5</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Novel object recognition test</head><p>There was no significant difference in exploration time of animals with two identical objects placed in box which indicates that location of object does not affect the result. In testing phase, sham control group explored novel object with longer period of time from two objects (one novel, one familiar). In sham control group, RI was 83.46 ± 0.68 which indicates memory for novel object. In contrast, animal treated with ICV-STZ showed lower RI (50.77 ± 1.26). Treatment with PEOS for 30 days showed significant increase in RI of 59.04 ± 1.01, 71.20 ± 1.12 and 74.99 ± 0.83 in dose-dependent manner as shown in Fig. <ref type="figure">6</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect on blood glucose level</head><p>As shown in Fig. <ref type="figure">7</ref> there was no significant difference in blood glucose level in sham control group, negative control group and PEOS treatment group rats. Fig. 4 Effect of PEOS on reference memory error (RAM task) in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal control group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neurochemical parameter</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Level of active</head><p>Negative control animals (2343.20 ± 5.54 ng/ml in the cortex, 2149.04 ± 12.41 ng/ml in the hippocampus) showed no significant difference in active GLP-1 level in cortex and hippocampus when compared to sham control group (2333.29 ± 5.16 ng/ml in cortex, 2135.59 ± 12.84 ng/ml in hippocampus). PEOS (100, 200, 400 mg/kg) treatment significantly and dose-dependently enhanced active GLP-1 levels in both the cortex and the hippocampus as compared to a sham control group (shown in Figs. <ref type="figure">8</ref> and <ref type="figure" target="#fig_4">9</ref>). Fig. 6 Effect of PEOS on recognition index (NOR test) in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal con-trol group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aβ42 level</head><p>Aβ42 level in cortex and hippocampus was significantly increased in the negative control group as compared to the sham control group. A significant reduction in Aβ42 level was observed after 30 days of treatment with PEOS when compared with negative control rats. The reduction in Aβ42 was dose-dependent. Treatment groups (100, 200, and 400 mg/kg) revealed reductions in Aβ42 burden of 41 percent, 68 percent, and 81 percent in the cortex and 46 percent, 70 percent, and 77 percent in the hippocampus, respectively, as compared to the negative control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect on TNF-α level</head><p>A significant increase in TNF-α level was observed in the negative control group (959.9 ± 14.6 in cortex, 1608.5 ± 11.17 in hippocampus) as compared to the sham control group <ref type="bibr">(33.16 ± 5.93 in cortex, 100.66 ± 11.24 in hippocampus)</ref>. When compared to the negative control group, significant reductions in TNF-levels in the cortex and hippocampus were observed following 30 days of treatment with PEOS (100, 200, and 400 mg/kg) as demonstrated in Fig. <ref type="figure" target="#fig_1">10</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histopathology</head><p>Brain sections of rats stained with Congo red for visualization of amyloid plaques. Sham control group showed an absence of amyloid plaque. In the negative group, there is the presence of amyloid plaque in Fig. <ref type="figure" target="#fig_5">11B</ref> the white matters show the presence of plaque in the neuron cells, also the presence of many vacuoles dense granule. The neuronal cells are somewhat shrunken in negative control as compared to treatment groups. Dose-dependent reduction in amyloid plaque formation and dense granule reduction was observed in treatment OS 100, OS 200, and OS 400 groups when compared to the negative control group. Fig. <ref type="figure">7</ref> Effect of PEOS on blood glucose level in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal control group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively Fig. <ref type="figure">8</ref> Effect of PEOS on active GLP-1 level (cortex and hippocampus) in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal control group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>AD is the most type of dementia classified into familial AD and sporadic AD (sAD) <ref type="bibr" target="#b16">(Dorszewska et al. 2016)</ref>. Familial AD accounts for less than 5-10 percent of all AD cases <ref type="bibr" target="#b3">(Ayodele et al. 2021</ref>) and most common etiologic factor of familial AD is mutations in the APP, PSE-1, or PSE-2 genes <ref type="bibr" target="#b46">(Xiao et al. 2021)</ref>. However, sAD is multifactorial, accounts for the majority of AD cases, and is caused by the number of etiopathogenic processes <ref type="bibr" target="#b6">(Calabrò et al. 2021)</ref>. A reduction in brain-glucoseenergy metabolism and an insulin-resistant brain state are well-known sAD brain abnormalities that are linked to the dementia symptoms in AD <ref type="bibr" target="#b9">(Correia et al. 2011</ref>).</p><p>In the last two decades, a vast variety of preclinical models have been developed for studying AD processes and evaluating possible AD therapies. The majority of these animal models are transgenic mice and generated by mutations in the genes for APP, PSE-1, or PSE-2 genes <ref type="bibr" target="#b12">(Deba et al. 2019)</ref>. The transgenic mouse models are useful for understanding the pathology of familial AD and do not reproduce the sAD <ref type="bibr" target="#b17">(Elder et al. 2010)</ref>.</p><p>ICV administration of STZ produced neuroinflammation, oxidative stress and metabolic changes in rodent brains, R E T R A C T E D A R T I C L E</p><p>render it a suitable experimental model demonstrating early pathophysiological changes in <ref type="bibr">AD et al. 2011;</ref><ref type="bibr" target="#b8">Chen et al. 2014)</ref>. ICV-STZ induced spatial memory and learning deficits, increased cerebral Aβ fragments and tau phosphorylation, generate sAD-like pathology in rodents <ref type="bibr" target="#b36">(Salkovic-Petrisic et al. 2011;</ref><ref type="bibr" target="#b8">Chen et al. 2014</ref>).</p><p>In the current investigation, we examined the effect of PEOS in the rat model of ICV-STZ-induced cognitive impairment. Consistent with previous findings, we found that animals in negative control group showed lower count of correct choices and higher count of reference and working memory errors, which indicate significant impairment of spatial memory after ICV-STZ administration (RAM task). Furthermore, rats in negative control group also showed lower RI as compared to sham control group rats which indicates recognition memory impairment for novel object (NOR test). Therefore, the working and recognition memory deficit was reversed by administration of PEOS for 30 days in a dose-dependent manner.</p><p>GLP-1 is endogenous peptide, rapidly degraded by DPP-4 enzyme and lower APP protein synthesis <ref type="bibr" target="#b28">(Li et al. 2021)</ref>. This in turn, can lower the level of Aβ42 peptide and provide protection against hippocampal cell death ( <ref type="bibr" target="#b34">Perry and Greig 2004;</ref><ref type="bibr" target="#b47">Yildirim Simsir et al. 2018)</ref>. Thus, the DPP-4 inhibitors increase the concentration of GLP-1, leads to decreased production of Aβ42 and its toxicity in AD <ref type="bibr" target="#b44">(Wang et al. 2009;</ref><ref type="bibr" target="#b1">Angelopoulou and Piperi 2018)</ref>. ICV-STZ had no effect on active GLP-1 levels in the brain which is confirmed by the results of active GLP-1 levels in the cortex and hippocampus in sham control and negative control group. Furthermore, the Aβ42 level in the cortex and hippocampus was significantly increased in negative control rats in comparison with sham control rats following 5 weeks of bilateral streptozotocin administration which is consistent with the study results of Sonia and co-investigators <ref type="bibr" target="#b10">(Correia et al. 2013)</ref>. In previous studies, it was shown that STZ-induced cognitive defects were reversed by GLP-1 analogue (Val8) GLP-1 <ref type="bibr" target="#b26">(Li et al. 2012)</ref>. The outcomes are also consistent with the effect of vildagliptin on Aβ42 level in ICV-STZ-induced AD <ref type="bibr">(Kosaraju et al. 2013b</ref>). In the present study, treatment with PEOS showed increase in GLP-1 level which might be responsible for the reduction in the Aβ42 burden in the cortex and hippocampus. Furthermore, in the histopathology study also dose-dependent reduction in amyloid plaque formation was observed in PEOS-treated rats as compared to the negative control group. These are also consistent with the effect of exendin-4 (GLP-1 agonist) shown to inhibit the GSK-3β signalling mechanism <ref type="bibr" target="#b7">(Chen et al. 2012)</ref>.</p><p>Neuroinflammation is major hallmark pathology that contributes to neurodegeneration in AD <ref type="bibr" target="#b20">(Guzman-Martinez et al. 2019)</ref>. Infusion of ICV-STZ leads to the activation of microglia which leads to the production and release of various cytokines, from which TNF-α is a key cytokine and play a major role in the pathogenesis of AD <ref type="bibr" target="#b35">(Rai et al. 2013;</ref><ref type="bibr" target="#b14">Dhami et al. 2021)</ref>. Further, released inflammatory cytokines activate astrocyteneurons which turn into the production of Aβ42 oligomers in the hippocampus <ref type="bibr">(d'Amico et al. 2010)</ref>. Treatment with PEOS for 30 days significantly reduced TNF-α levels in cortex and hippocampus. Reduction in plaque load might be responsible for the reduction in the elevated level of TNF-α and the results are consistent with a previous report by D <ref type="bibr">'Amico and co-investigators (d'Amico et al. 2010)</ref>. Increased levels of GLP-1 in the brain might contribute to the reduction in TNF-α levels. These results are consistent with the effect of liraglutide, a GLP-1 agonist in neuroinflammation <ref type="bibr" target="#b39">(Shiraki et al. 2012)</ref>. Stimulation of GLP-1 receptor leads to the inhibition of GSK-3β which is responsible for the reduction of TNF-α level <ref type="bibr" target="#b45">(Wang et al. 2018)</ref>.</p><p>The increase in active GLP-1 level in the brain by PEOS may be due to its DPP-4 inhibitory activity which is postulated to the presence of phytoconstituents like volatile oil (eugenol), monoterpene (linalool) and sesquiterpene (caryophyllene). Insilico and in vivo study have also been postulated that eugenol, linalool and caryophyllene possess DPP-4 inhibitory activity <ref type="bibr" target="#b12">(De et al. n.d.;</ref><ref type="bibr" target="#b33">Pattanayak et al. 2010;</ref><ref type="bibr" target="#b4">Bharti et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The present study revealed the neuroprotective effect against ICV-STZ induced cognitive impairment and neuro-inflammation exemplified through a reversal of working and recognition memory deficit, and reduced levels of Aβ42 and TNF-α. It may be postulated that increased GLP-1 levels are contributed to the beneficial effects of Ocimum sanctum L. which is mediated by the phytoconstituents through DPP-4 inhibitory action. Therefore, we propose to assess the effectiveness of Ocimum sanctum L. in patients with Alzheimer's disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Location Preference = Time exploring one of the identical objects Time exploring the identical object pairs × 100 Recognition index (RI) = Time exploring novel object Time exploring novel object + Time exploring familiar object × 100</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Experimental design</figDesc><graphic coords="4,184.25,405.99,360.00,109.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 Fig. 4</head><label>34</label><figDesc>Fig. 3 GC-MS analysis (m/z at 204.1) confirming the presence of caryophyllene. RT-12.508 min, Molecular formula-C 15 H 24, Molecular weight -204.1</figDesc><graphic coords="5,184.01,57.76,360.24,206.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5</head><label>5</label><figDesc>Fig.5Effect of PEOS on (A) Correct working memory error RAM Task (B) Incorrect working memory error (RAM task) in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal control group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively</figDesc><graphic coords="6,184.25,57.76,360.00,327.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 9</head><label>9</label><figDesc>Fig.9Effect of PEOS on Aβ42 level (cortex and hippocampus) in ICV-STZ induced Alzheimer's disease male wistar rats. All values represent Mean ± SEM, n = 6, "a" indicates significant difference from sham control group, "b" indicates significant difference from normal control group, the value of P ≥ 0.05 was shown by marking "ns" while the values of P ≤ 0.05, ≤ 0.01 and ≤ 0.001 were represented as *, ** and *** respectively</figDesc><graphic coords="8,184.25,57.76,360.00,194.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 11 (</head><label>11</label><figDesc>Fig. 11 (A) Histopathology of normal brain tissue showing absence of amyloid plaque in Congo red stain (B) Histopathology of ICV-STZ induced Alzheimer's disease brain showing presence of Amyloid plaque (black arrow) (C), (D), (E) Histopathology of brain treated with PEOS at a dose of 100, 200, 400 mg/kg respectively showing reduction in amyloid plaque formation in congo red staining when observed in presence of polarize light (Left images) and absence of polarize light (Right images) microscope ▸</figDesc><graphic coords="9,308.98,57.76,232.44,611.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,184.25,57.76,360.00,183.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,184.25,539.66,360.00,175.92" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data availability All data generated or analyzed during this study are included in this published article.</p><p>Code availability Not applicable.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declarations</head><p>Ethics approval Study approved by the Institutional Animal Ethics Committee (BKMGPC/IAEC20/RP30/2017) and conducted according to the CPCSEA guideline, India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent to participate Not applicable.</head><p>Consent for publication Authors give consent for information to be published in the journal-Metabolic Brain Disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of interest/Competing interests</head><p>The authors have no relevant financial or non-financial interests to disclose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Herbal remedies for neurodegenerative disorder (Alzheimer&apos;s disease): A Review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fatima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Pharm Sci Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">3328</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Agarwal P, Alok S, Fatima A, Singh PP (2013) Herbal remedies for neurodegenerative disorder (Alzheimer&apos;s disease): A Review. Int J Pharm Sci Res 4:3328</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">DPP-4 inhibitors: a promising therapeutic approach against Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Angelopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Piperi</surname></persName>
+		</author>
+		<idno type="DOI">10.21037/atm.2018.04.41</idno>
+		<ptr target="https://doi.org/10.21037/atm.2018.04.41" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">255</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Angelopoulou E, Piperi C (2018) DPP-4 inhibitors: a promising thera- peutic approach against Alzheimer&apos;s disease. Ann Transl Med 6:255. https:// doi. org/ 10. 21037/ atm. 2018. 04. 41</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Alzheimer&apos;s disease facts and figures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Association</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alzheimer&apos;s Dement</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="459" to="509" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Association A (2016) 2016 Alzheimer&apos;s disease facts and figures. Alz- heimer&apos;s Dement 12:459-509</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Early-Onset Alzheimer&apos;s disease: What is missing in research?</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ayodele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rogaeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kurup</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11910-020-01090-y</idno>
+		<ptr target="https://doi.org/10.1007/s11910-020-01090-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr Neurol Neurosci Rep</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ayodele T, Rogaeva E, Kurup JT et al (2021) Early-Onset Alzheimer&apos;s disease: What is missing in research? Curr Neurol Neurosci Rep 21:4. https:// doi. org/ 10. 1007/ s11910-020-01090-y</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Essential oil of cymbopogon citratus against diabetes: validation by in vivo experiments and computational studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Bharti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Prakash</surname></persName>
+		</author>
+		<idno type="DOI">10.4172/1948-593X.1000098</idno>
+		<ptr target="https://doi.org/10.4172/1948-593X.10000" />
+	</analytic>
+	<monogr>
+		<title level="j">J Bioanal Biomed</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="194" to="203" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bharti SK, Kumar A, Prakash O et al (2013) Essential oil of cymbopo- gon citratus against diabetes: validation by in vivo experiments and computational studies. J Bioanal Biomed 5:194-203. https:// doi. org/ 10. 4172/ 1948-593X. 10000</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Tulsi (Ocimum sanctum), excellent source of phytochemicals</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Borah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Biswas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Environ Agric Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">265258</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Borah R, Biswas SP (2018) Tulsi (Ocimum sanctum), excellent source of phytochemicals. Int J Environ Agric Biotechnol 3:265258</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The biological pathways of Alzheimer disease: a review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Calabrò</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Santoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Crisafulli</surname></persName>
+		</author>
+		<idno type="DOI">10.3934/Neuroscience.2021005</idno>
+		<ptr target="https://doi.org/10.3934/Neuroscience.20210" />
+	</analytic>
+	<monogr>
+		<title level="j">AIMS Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="86" to="132" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Calabrò M, Rinaldi C, Santoro G, Crisafulli C (2021) The biological pathways of Alzheimer disease: a review. AIMS Neurosci 8:86- 132. https:// doi. org/ 10. 3934/ Neuro scien ce. 20210</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Amelioration of neurodegenerative changes in cellular and rat models of diabetes-related Alzheimer&apos;s disease by exendin-4</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">An</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age (Omaha)</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1211" to="1224" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen S, Liu A, An F et al (2012) Amelioration of neurodegenerative changes in cellular and rat models of diabetes-related Alzheimer&apos;s disease by exendin-4. Age (Omaha) 34:1211-1224</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Intracerebroventricular streptozotocin exacerbates Alzheimer-like changes of 3xTg-AD mice</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tian</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12035-013-8539-y</idno>
+		<ptr target="https://doi.org/10.1007/s12035-013-8539-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Mol Neurobiol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="547" to="562" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen Y, Liang Z, Tian Z et al (2014) Intracerebroventricular strep- tozotocin exacerbates Alzheimer-like changes of 3xTg-AD mice. Mol Neurobiol 49:547-562. https:// doi. org/ 10. 1007/ s12035-013-8539-y</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Insulin-resistant brain state: the culprit in sporadic Alzheimer&apos;s disease?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Correia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">X</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Perry</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.arr.2011.01.001</idno>
+		<ptr target="https://doi.org/10.1016/j.arr.2011.01.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Ageing Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="264" to="273" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Correia SC, Santos RX, Perry G et al (2011) Insulin-resistant brain state: the culprit in sporadic Alzheimer&apos;s disease? Ageing Res Rev 10:264-273. https:// doi. org/ 10. 1016/j. arr. 2011. 01. 001</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Mitochondrial abnormalities in a streptozotocin-induced rat model of sporadic Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Correia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">X</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Santos</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1567205011310040006</idno>
+		<ptr target="https://doi.org/10.2174/1567205011310040006" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="406" to="419" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Correia SC, Santos RX, Santos MS et al (2013) Mitochondrial abnor- malities in a streptozotocin-induced rat model of sporadic Alzhei- mer&apos;s disease. Curr Alzheimer Res 10:406-419. https:// doi. org/ 10. 2174/ 15672 05011 31004 0006</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Long-term inhibition of dipeptidyl peptidase-4 in Alzheimer&apos;s prone mice</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Filippo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marfella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Gerontol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="202" to="207" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">&apos;Amico M, Di Filippo C, Marfella R et al (2010) Long-term inhibi- tion of dipeptidyl peptidase-4 in Alzheimer&apos;s prone mice. Exp Gerontol 45:202-207</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An animal model to test reversal of cognitive decline associated with Beta-Amyloid pathologies</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Singla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bhandari</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4939-9554-7_23</idno>
+		<ptr target="https://doi.org/10.1007/978-1-4939-9554-7_" />
+	</analytic>
+	<monogr>
+		<title level="j">Methods Mol Biol</title>
+		<imprint>
+			<biblScope unit="page" from="393" to="412" />
+			<date type="published" when="2011">2019. 2011</date>
+		</imprint>
+	</monogr>
+	<note>International Journal of Pharmacy and Integrated Life Sciences</note>
+	<note type="raw_reference">De B, Singla RK, Bhandari K et al (n.d.) International Journal of Phar- macy and Integrated Life Sciences Deba F, Peterson S, Hamouda AK (2019) An animal model to test reversal of cognitive decline associated with Beta-Amyloid pathologies. Methods Mol Biol 2011:393-412. https:// doi. org/ 10. 1007/ 978-1-4939-9554-7_</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Dysregulation of insulin glucose transporters, O-GlcNAcylation, and phosphorylation of tau and neurofilaments in the brain: Implication for Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page" from="2089" to="2098" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Deng Y, Li B, Liu Y et al (2009) Dysregulation of insulin glucose transporters, O-GlcNAcylation, and phosphorylation of tau and neurofilaments in the brain: Implication for Alzheimer&apos;s disease. Am J Pathol 175:2089-2098</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Neuroprotective Effect of Fucoxanthin against Intracerebroventricular Streptozotocin (ICV-STZ) Induced Cognitive Impairment in Experimental Rats</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dhami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Raj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1567205018666211118144602</idno>
+		<ptr target="https://doi.org/10.2174/1567205018666211118144602" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="623" to="637" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dhami M, Raj K, Singh S (2021) Neuroprotective Effect of Fucox- anthin against Intracerebroventricular Streptozotocin (ICV-STZ) Induced Cognitive Impairment in Experimental Rats. Curr Alzhei- mer Res 18:623-637. https:// doi. org/ 10. 2174/ 15672 05018 66621 11181 44602</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pharmacotherapy: A Pathophysiologic Approach</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Dipiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Talbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Yee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Connect Applet Lange</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="141" to="142" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dipiro JT, Talbert RL, Yee GC et al (2014) Pharmacotherapy: A Patho- physiologic Approach, ed. Connect Applet Lange 4:141-142</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Molecular basis of familial and sporadic Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dorszewska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prendecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oczkowska</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1567205013666160314150501</idno>
+		<ptr target="https://doi.org/10.2174/1567205013666160314150501" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="952" to="963" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dorszewska J, Prendecki M, Oczkowska A et al (2016) Molecular basis of familial and sporadic Alzheimer&apos;s disease. Curr Alzhei- mer Res 13:952-963. https:// doi. org/ 10. 2174/ 15672 05013 66616 03141 50501</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Transgenic mouse models of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Elder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gama</forename><surname>Sosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Gasperi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1002/msj.20159</idno>
+		<ptr target="https://doi.org/10.1002/msj.20159" />
+	</analytic>
+	<monogr>
+		<title level="j">Mt Sinai J Med</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="69" to="81" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Elder GA, Gama Sosa MA, De Gasperi R (2010) Transgenic mouse models of Alzheimer&apos;s disease. Mt Sinai J Med 77:69-81. https:// doi. org/ 10. 1002/ msj. 20159</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Current research therapeutic strategies for alzheimer&apos;s disease treatment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Folch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Petrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ettcheto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sánchez-López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Olloquequi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beas-Zarate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Auladell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Camins</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2016/8501693</idno>
+		<ptr target="https://doi.org/10.1155/2016/8501693" />
+	</analytic>
+	<monogr>
+		<title level="j">Neural Plast</title>
+		<imprint>
+			<biblScope unit="page" from="850" to="1693" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Folch J, Petrov D, Ettcheto M, Abad S, Sánchez-López E, García ML, Olloquequi J, Beas-Zarate C, Auladell C, Camins A (2016) Cur- rent research therapeutic strategies for alzheimer&apos;s disease treat- ment Neural Plast 2016:1-15(850-1693). https:// doi. org/ 10. 1155/ 2016/ 85016 93</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Intracerebroventricular streptozotocin injections as a model of Alzheimer&apos;s disease: in search of a relevant mechanism</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Grieb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Neurobiol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1741" to="1752" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grieb P (2016) Intracerebroventricular streptozotocin injections as a model of Alzheimer&apos;s disease: in search of a relevant mechanism. Mol Neurobiol 53:1741-1752</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Neuroinflammation as a common feature of neurodegenerative disorders</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guzman-Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Maccioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Andrade</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphar.2019.01008</idno>
+		<ptr target="https://doi.org/10.3389/fphar.2019.01008" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1008</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Guzman-Martinez L, Maccioni RB, Andrade V et al (2019) Neuroinflam- mation as a common feature of neurodegenerative disorders. Front Pharmacol 10:1008. https:// doi. org/ 10. 3389/ fphar. 2019. 01008</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Alzheimer&apos;s disease: a clinical and basic science review</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Korolev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Student Res J</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="24" to="33" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Korolev IO (2014) Alzheimer&apos;s disease: a clinical and basic science review. Med Student Res J 4:24-33</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">a) Saxagliptin: a dipeptidyl peptidase-4 inhibitor ameliorates streptozotocin induced Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kosaraju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Gali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Khatwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropharmacology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="291" to="300" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kosaraju J, Gali CC, Khatwal RB et al (2013a) Saxagliptin: a dipep- tidyl peptidase-4 inhibitor ameliorates streptozotocin induced Alzheimer&apos;s disease. Neuropharmacology 72:291-300</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Vildagliptin: an anti-diabetes agent ameliorates cognitive deficits and pathology observed in streptozotocin-induced Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kosaraju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Khatwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pharm Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1773" to="1784" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kosaraju J, Murthy V, Khatwal RB et al (2013b) Vildagliptin: an anti-diabetes agent ameliorates cognitive deficits and pathology observed in streptozotocin-induced Alzheimer&apos;s disease. J Pharm Pharmacol 65:1773-1784</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A review on Alzheimer&apos;s disease pathophysiology and its management: an update</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol Rep</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="195" to="203" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kumar A, Singh A (2015) A review on Alzheimer&apos;s disease patho- physiology and its management: an update. Pharmacol Rep 67:195-203</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Intracerebral streptozotocin model of type 3 diabetes: relevance to sporadic Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lester-Coll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Rivera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Soscia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Alzheimer&apos;s Dis</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="13" to="33" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lester-Coll N, Rivera EJ, Soscia SJ et al (2006) Intracerebral streptozo- tocin model of type 3 diabetes: relevance to sporadic Alzheimer&apos;s disease. J Alzheimer&apos;s Dis 9:13-33</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Val8) glucagon-like peptide-1 prevents tau hyperphosphorylation, impairment of spatial learning and ultra-structural cellular damage induced by streptozotocin in rat brains</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z-F</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Holscher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">674</biblScope>
+			<biblScope unit="page" from="280" to="286" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li L, Zhang Z-F, Holscher C et al (2012) (Val8) glucagon-like pep- tide-1 prevents tau hyperphosphorylation, impairment of spatial learning and ultra-structural cellular damage induced by strepto- zotocin in rat brains. Eur J Pharmacol 674:280-286</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Experimental models of Alzheimer&apos;s disease for deciphering the pathogenesis and therapeutic screening</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="271" to="283" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li X, Bao X, Wang R (2016) Experimental models of Alzheimer&apos;s disease for deciphering the pathogenesis and therapeutic screen- ing. Int J Mol Med 37:271-283</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">GLP-1 and underlying beneficial actions in Alzheimer&apos;s disease, hypertension, and NASH</title>
+		<author>
+			<persName><forename type="first">Q-X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-X</forename><surname>Guo</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fendo.2021.721198</idno>
+		<ptr target="https://doi.org/10.3389/fendo.2021.721198" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">721198</biblScope>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li Q-X, Gao H, Guo Y-X et al (2021) GLP-1 and underlying beneficial actions in Alzheimer&apos;s disease, hypertension, and NASH. Front Endocrinol (Lausanne) 12:721198. https:// doi. org/ 10. 3389/ fendo. 2021. 721198</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Therapies for prevention and treatment of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendiola-Precoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Berumen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Padilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Alcocer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed Res Int</title>
+		<imprint>
+			<biblScope unit="page">2589276</biblScope>
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mendiola-Precoma J, Berumen LC, Padilla K, Garcia-Alcocer G (2016) Therapies for prevention and treatment of Alzheimer&apos;s disease. Biomed Res Int 2016:2589276</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Neurobiology of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mohandas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rajmohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Raghunath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">55</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mohandas E, Rajmohan V, Raghunath B (2009) Neurobiology of Alz- heimer&apos;s disease. Indian J Psychiatry 51:55</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Insulin resistance, neuroinflammation, and Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Najem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bamji-Mirza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chang</forename><forename type="middle">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="509" to="525" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Najem D, Bamji-Mirza M, Chang N et al (2014) Insulin resistance, neuroinflammation, and Alzheimer&apos;s disease. Rev Neurosci 25:509-525</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Potentiation of anti-Alzheimer activity of curcumin by probiotic Lactobacillus rhamnosus UBLR-58 against scopolamine-induced memory impairment in mice</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Acharya</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00210-020-01904-3</idno>
+		<ptr target="https://doi.org/10.1007/s00210-020-01904-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Naunyn Schmiedebergs Arch Pharmacol</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patel C, Pande S, Acharya S (2020) Potentiation of anti-Alzheimer activity of curcumin by probiotic Lactobacillus rhamnosus UBLR- 58 against scopolamine-induced memory impairment in mice. Naunyn Schmiedebergs Arch Pharmacol. https:// doi. org/ 10. 1007/ s00210-020-01904-3</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Ocimum sanctum Linn. A reservoir plant for therapeutic applications: An overview</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattanayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Behera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Panda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogn Rev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">95</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pattanayak P, Behera P, Das D, Panda SK (2010) Ocimum sanctum Linn. A reservoir plant for therapeutic applications: An overview. Pharmacogn Rev 4:95</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A new Alzheimer&apos;s disease interventive strategy: GLP-1</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Greig</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1389450043345245</idno>
+		<ptr target="https://doi.org/10.2174/1389450043345245" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr Drug Targets</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="565" to="571" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perry TA, Greig NH (2004) A new Alzheimer&apos;s disease interventive strategy: GLP-1. Curr Drug Targets 5:565-571. https:// doi. org/ 10. 2174/ 13894 50043 345245</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A study on neuroinflammation and NMDA receptor function in STZ (ICV) induced memory impaired rats</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Kamat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shukla</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jneuroim.2012.08.008</idno>
+		<ptr target="https://doi.org/10.1016/j.jneuroim.2012.08.008" />
+	</analytic>
+	<monogr>
+		<title level="j">J Neuroimmunol</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rai S, Kamat PK, Nath C, Shukla R (2013) A study on neuroinflamma- tion and NMDA receptor function in STZ (ICV) induced memory impaired rats. J Neuroimmunol 254:1-9. https:// doi. org/ 10. 1016/j. jneur oim. 2012. 08. 008</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Cerebral amyloid angiopathy in streptozotocin rat model of sporadic Alzheimer&apos;s disease: a long-term follow up study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salkovic-Petrisic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Osmanovic-Barilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Brückner</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00702-011-0651-4</idno>
+		<ptr target="https://doi.org/10.1007/s00702-011-0651-4" />
+	</analytic>
+	<monogr>
+		<title level="j">J Neural Transm</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="765" to="772" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Salkovic-Petrisic M, Osmanovic-Barilar J, Brückner MK et al (2011) Cerebral amyloid angiopathy in streptozotocin rat model of spo- radic Alzheimer&apos;s disease: a long-term follow up study. J Neural Transm 118:765-772. https:// doi. org/ 10. 1007/ s00702-011-0651-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Comparative pharmacognostical and phytochemical evaluation of different species of Ocimum</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Phytopharm</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="43" to="49" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sharma V (2012) Comparative pharmacognostical and phytochemical evaluation of different species of Ocimum. Int J Phytopharm 1:43-49</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Intracerebroventricular injection of streptozotocin in rats produces both oxidative stress in the brain and cognitive impairment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1021" to="1029" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sharma M, Gupta YK (2001) Intracerebroventricular injection of strep- tozotocin in rats produces both oxidative stress in the brain and cognitive impairment. Life Sci 68:1021-1029</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The glucagon-like peptide 1 analog liraglutide reduces TNF-α-induced oxidative stress and inflammation in endothelial cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Komoda</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.atherosclerosis.2011.12.039</idno>
+		<ptr target="https://doi.org/10.1016/j.atherosclerosis.2011.12.039" />
+	</analytic>
+	<monogr>
+		<title level="j">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">221</biblScope>
+			<biblScope unit="page" from="375" to="382" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shiraki A, Oyama J, Komoda H et al (2012) The glucagon-like peptide 1 analog liraglutide reduces TNF-α-induced oxidative stress and inflammation in endothelial cells. Atherosclerosis 221:375-382. https:// doi. org/ 10. 1016/j. ather oscle rosis. 2011. 12. 039</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Insulin resistance and Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suzanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMB Rep</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page">475</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Suzanne M (2009) Insulin resistance and Alzheimer&apos;s disease. BMB Rep 42:475</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A review on phytoconstituents of Ocimum (Tulsi)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tewari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Sah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Pandey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Ayurvedic Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tewari D, Sah AN, Pandey HK et al (2012) A review on phytoconstitu- ents of Ocimum (Tulsi). Int J Ayurvedic Med 3:1-9</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Chronic treatment with tocotrienol, an isoform of vitamin E, prevents intracerebroventricular streptozotocin-induced cognitive impairment and oxidative-nitrosative stress in rats</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tiwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuhad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bishnoi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chopra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pbb.2009.05.009</idno>
+		<ptr target="https://doi.org/10.1016/j.pbb.2009.05.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol Biochem Behav</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="183" to="189" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tiwari V, Kuhad A, Bishnoi M, Chopra K (2009) Chronic treat- ment with tocotrienol, an isoform of vitamin E, prevents intracerebroventricular streptozotocin-induced cognitive impairment and oxidative-nitrosative stress in rats. Pharma- col Biochem Behav 93:183-189. https:// doi. org/ 10. 1016/j. pbb. 2009. 05. 009</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Chemical constituents and pharmacological action of Ocimum sanctum (Indian holy basil-Tulsi)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Phytopharm</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="205" to="207" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verma S (2016) Chemical constituents and pharmacological action of Ocimum sanctum (Indian holy basil-Tulsi). J Phytopharm 5:205-207</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Consumption of grape seed extract prevents amyloid-β deposition and attenuates inflammation in brain of an Alzheimer&apos;s disease mouse</title>
+		<author>
+			<persName><forename type="first">Y-J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-H</forename><surname>Zhong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurotox Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang Y-J, Thomas P, Zhong J-H et al (2009) Consumption of grape seed extract prevents amyloid-β deposition and attenuates inflammation in brain of an Alzheimer&apos;s disease mouse. Neurotox Res 15:3-14</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">GSK-3 inhibition through GLP-1R allosteric activation mediates the neurogenesis promoting effect of P7C3 after cerebral ischemic/reperfusional injury in mice</title>
+		<author>
+			<persName><forename type="first">Y-H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-T</forename><surname>Liou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-C</forename><surname>Tsai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.taap.2018.08.023</idno>
+		<ptr target="https://doi.org/10.1016/j.taap.2018.08.023" />
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Appl Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="88" to="105" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang Y-H, Liou K-T, Tsai K-C et al (2018) GSK-3 inhibition through GLP-1R allosteric activation mediates the neurogenesis promot- ing effect of P7C3 after cerebral ischemic/reperfusional injury in mice. Toxicol Appl Pharmacol 357:88-105. https:// doi. org/ 10. 1016/j. taap. 2018. 08. 023</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">APP, PSEN1, and PSEN2 Variants in Alzheimer&apos;s Disease: Systematic Re-evaluation According to ACMG Guidelines</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fnagi.2021.695808</idno>
+		<ptr target="https://doi.org/10.3389/fnagi.2021.695808" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Aging Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">695808</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xiao X, Liu H, Liu X et al (2021) APP, PSEN1, and PSEN2 Variants in Alzheimer&apos;s Disease: Systematic Re-evaluation According to ACMG Guidelines. Front Aging Neurosci 13:695808. https:// doi. org/ 10. 3389/ fnagi. 2021. 695808</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Glucagon like peptide-1 (GLP-1) likes Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">Yildirim</forename><surname>Simsir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Soyaltin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">E</forename><surname>Cetinkalp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dsx.2018.03.002</idno>
+		<ptr target="https://doi.org/10.1016/j.dsx.2018.03.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Metab Syndr</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="469" to="475" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yildirim Simsir I, Soyaltin UE, Cetinkalp S (2018) Glucagon like pep- tide-1 (GLP-1) likes Alzheimer&apos;s disease. Diabetes Metab Syndr 12:469-475. https:// doi. org/ 10. 1016/j. dsx. 2018. 03. 002</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Novel object recognition as a facile behavior test for evaluating drug effects in AβPP/PS1 Alzheimer&apos;s disease mouse model</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Alzheimer&apos;s Dis</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="801" to="812" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law</note>
+	<note type="raw_reference">Zhang R, Xue G, Wang S et al (2012) Novel object recognition as a facile behavior test for evaluating drug effects in AβPP/PS1 Alzheimer&apos;s disease mouse model. J Alzheimer&apos;s Dis 31:801-812 Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

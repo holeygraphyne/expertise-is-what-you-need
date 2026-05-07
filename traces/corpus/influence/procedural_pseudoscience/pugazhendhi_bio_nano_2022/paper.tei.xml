@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Microwave assisted biodiesel production from chicken feather meal oil using Bio-Nano Calcium oxide derived from chicken egg shell</title>
+				<funder ref="#_KDmH9u4">
+					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
+				</funder>
+				<funder ref="#_RP3UEqk">
+					<orgName type="full">Scientific Research Project of Hunan Provincial Department of Education</orgName>
+				</funder>
+				<funder ref="#_eAskJY2">
+					<orgName type="full">Taif University</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Taif University, Taif, Saudi Arabia</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Advanced Analysis and Test Center of Nanjing Forestry University</orgName>
+				</funder>
+				<funder ref="#_tpuJQwU">
+					<orgName type="full">Extension Project of Forestry Scientific and Technological Achievements of the State Forestry and Grassland Administration</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-04">4 December 2021 0013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Minglong</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> School of Materials Science and Engineering , Central South University of Forestry and Technology , Changsha , 410004 , China</note>
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="institution">Central South University of Forestry and Technology</orgName>
+								<address>
+									<postCode>410004</postCode>
+									<settlement>Changsha</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Anhui Hongsen Hi-tech Forestry Co., Ltd , Bozhou , 233600 , China</note>
+								<orgName type="institution">Anhui Hongsen Hi-tech Forestry Co., Ltd</orgName>
+								<address>
+									<postCode>233600</postCode>
+									<settlement>Bozhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ganesan</forename><surname>Ramya</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>c</label> Department of Chemistry , St. Josepphs Institute of Technology , Chennai , 119 , Tamil Nadu , India</note>
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">St. Josepphs Institute of Technology</orgName>
+								<address>
+									<postCode>119</postCode>
+									<settlement>Chennai</settlement>
+									<region>Tamil Nadu</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kathirvel</forename><surname>Brindhadevi</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>d</label> Department of Pharmacology , Saveetha Dental College , Saveetha Institute of Medical and Technical Sciences , Saveetha University , Chennai , India</note>
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">Saveetha Institute of Medical and Technical Sciences</orgName>
+								<orgName type="institution" key="instit1">Saveetha Dental College</orgName>
+								<orgName type="institution" key="instit2">Saveetha University</orgName>
+								<address>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>e</label> Faculty of Electrical and Electronics Engineering , Ton Duc Thang University , Ho Chi Minh City , Viet Nam</note>
+								<orgName type="department">Faculty of Electrical and Electronics Engineering</orgName>
+								<orgName type="institution">Ton Duc Thang University</orgName>
+								<address>
+									<addrLine>Ho Chi</addrLine>
+									<settlement>Minh City</settlement>
+									<country key="VN">Viet Nam</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mishal</forename><surname>Alsehli</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>f</label> Mechanical Engineering Department , College of Engineering , Taif University , P.O. Box 11099 , Taif , 21944 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Mechanical Engineering Department</orgName>
+								<orgName type="department" key="dep2">College of Engineering</orgName>
+								<orgName type="institution">Taif University</orgName>
+								<address>
+									<postBox>P.O. Box 11099</postBox>
+									<postCode>21944</postCode>
+									<settlement>Taif</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ashraf</forename><surname>Elfasakhany</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>f</label> Mechanical Engineering Department , College of Engineering , Taif University , P.O. Box 11099 , Taif , 21944 , Saudi Arabia</note>
+								<orgName type="department" key="dep1">Mechanical Engineering Department</orgName>
+								<orgName type="department" key="dep2">College of Engineering</orgName>
+								<orgName type="institution">Taif University</orgName>
+								<address>
+									<postBox>P.O. Box 11099</postBox>
+									<postCode>21944</postCode>
+									<settlement>Taif</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Changlei</forename><surname>Xia</surname></persName>
+							<email>changlei.xia@njfu.edu.cn</email>
+							<idno type="ORCID">0000-0002-7063-774X</idno>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Anhui Hongsen Hi-tech Forestry Co., Ltd , Bozhou , 233600 , China</note>
+								<orgName type="institution">Anhui Hongsen Hi-tech Forestry Co., Ltd</orgName>
+								<address>
+									<postCode>233600</postCode>
+									<settlement>Bozhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<note type="raw_affiliation"><label>g</label> Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources , International Innovation Center for Forest Chemicals and Materials , College of Materials Science and Engineering , Nanjing Forestry University , Nanjing , Jiangsu , 210037 , China</note>
+								<orgName type="department" key="dep1">Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest Resources</orgName>
+								<orgName type="department" key="dep2">International Innovation Center for Forest Chemicals and Materials</orgName>
+								<orgName type="department" key="dep3">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Nanjing Forestry University</orgName>
+								<address>
+									<postCode>210037</postCode>
+									<settlement>Nanjing Jiangsu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nguyen</forename><forename type="middle">Thuy</forename><surname>Lan Chi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Arivalagan</forename><surname>Pugazhendhi</surname></persName>
+							<idno type="ORCID">0000-0002-9529-3306</idno>
+							<affiliation key="aff8">
+								<note type="raw_affiliation"><label>i</label> School of Renewable Energy , Maejo University , Chiang Mai , 50290 , Thailand</note>
+								<orgName type="department">School of Renewable Energy</orgName>
+								<orgName type="institution">Maejo University</orgName>
+								<address>
+									<addrLine>Chiang Mai</addrLine>
+									<postCode>50290</postCode>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<note type="raw_affiliation"><label>j</label> College of Medical and Health Science , Asia University , Taichung , Taiwan</note>
+								<orgName type="department">College of Medical and Health Science</orgName>
+								<orgName type="institution">Asia University</orgName>
+								<address>
+									<settlement>Taichung</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<note type="raw_affiliation"><label>*</label> Corresponding author. School of Renewable Energy , Maejo University , Chiang Mai , 50290 , Thailand.</note>
+								<orgName type="department">Corresponding author. School of Renewable Energy</orgName>
+								<orgName type="institution">Maejo University</orgName>
+								<address>
+									<addrLine>Chiang Mai</addrLine>
+									<postCode>50290</postCode>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<note type="raw_affiliation"><label>*</label> Corresponding author . Anhui Hongsen Hi-tech Forestry Co., Ltd , Bozhou , 233600 , China.</note>
+								<orgName type="department">Corresponding author</orgName>
+								<orgName type="institution">Anhui Hongsen Hi-tech Forestry Co., Ltd</orgName>
+								<address>
+									<postCode>233600</postCode>
+									<settlement>Bozhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Microwave assisted biodiesel production from chicken feather meal oil using Bio-Nano Calcium oxide derived from chicken egg shell</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Environmental Research</title>
+						<title level="j" type="abbrev">Environmental Research</title>
+						<idno type="ISSN">0013-9351</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">205</biblScope>
+							<biblScope unit="page">112509</biblScope>
+							<date type="published" when="2022-04">4 December 2021 0013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3C9556BE13213645FA3755B3E9E0D728</idno>
+					<idno type="DOI">10.1016/j.envres.2021.112509</idno>
+					<note type="submission">Received 7 June 2021; Received in revised form 27 November 2021; Accepted 1 December 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Calcium nano oxide Chicken feather Biodiesel Egg shell Tea decoction</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Environmental concerns have initiated the search for greener measures to mitigate pollution issues. Bio Nano CaO was synthesized by reducing CaO extracted from chicken egg shell using tea decoction. The synthesized material was characterized by physico-chemical techniques such as XRD, TGA, BET surface area analyser, TGA and SEM techniques. XRD studied confirmed the crystalline nature of material. The prepared material was found to be stable till 450 ο C from TGA study. The SEM pictures displayed uniform and discrete particles which portrays the high probable sites that maximises the catalytic activity. The optimization of microwave assisted Biodiesel synthesis from chicken feather oil through Transesterification process using the bio-synthesized catalytic material was the main aim of the study. A 500 W microwave irradiation of Chicken feather meal oil using 8:1 Methanol:Oil input, 1% Bio Nano CaO concentration, 5 min of reaction time resulted in 95% conversion of chicken feather meal oil into chicken feather meal methyl esters. The Biodiesel was showed low viscosity (4.15 mm 2 /s), high heating value (50 MJ/kg), high flash point (153 ο C), reasonable pour point (12 ο C) and good cetane number (50 min). The future works will be concentrated on the engine studies related to Torque, fuel consumption, emission data by using the synthesized Biodiesel.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The growth of automobiles lies parallel to the world's steering population <ref type="bibr" target="#b30">(Miglani, 2019)</ref>. Specifically, developing countries like China and India with escalating human rate faces the worst scenario in air pollution due to the toxic air pollutants like SO X , NO X , aerosols and Particulate matters and the situation seems to worsen in due course <ref type="bibr" target="#b26">(Kouravand and Kermani, 2018)</ref>. The problem gets bloated with a) Exhaustion of crude oil by continuous and rapid exploitation <ref type="bibr" target="#b19">(Höök, 2009)</ref>, b) Doubling petroleum prices and last but not the least <ref type="bibr" target="#b32">(Ni et al., 2020;</ref><ref type="bibr" target="#b38">Provornaya et al., 2020)</ref>, c) Severe global warming effects caused by non-stop combustion of fossils <ref type="bibr" target="#b8">(Choi and Manousiouthakis, 2020;</ref><ref type="bibr" target="#b36">Perera, 2018;</ref><ref type="bibr" target="#b49">Wang et al., 2020;</ref><ref type="bibr" target="#b50">Yang et al., 2020)</ref>. Independence from dependency on petroleum derived fuel could be attained only by the introduction of liquid fuels having renewable bio resource base <ref type="bibr" target="#b35">(Patel and Shah, 2021;</ref><ref type="bibr" target="#b45">Su et al., 2020)</ref>. Triglycerides of non-edible vegetable oil, lipids of microorganisms, cellulose of energy crops are the highly concentrated feed stocks <ref type="bibr" target="#b5">(Chatterjee and Mohan, 2018;</ref><ref type="bibr" target="#b10">de Oliveira et al., 2020;</ref><ref type="bibr" target="#b34">Passoth and Sandgren, 2019)</ref>. Waste products i.e, red mud, chicken egg shell, animal tallow is the latest approach towards biodiesel synthesis. Chicken feather is the highly discarded part inspite of fat content (10%-12%) present in it. However, Fertilizers and animal feed are prepared from thermally processed Chicken feather meal (CFM). CFM contains 10-12% of non-edible fat and research works on converting the CFM lipids to liquid fuels <ref type="bibr" target="#b40">(Rosales-Calderon and Arantes, 2019)</ref>. Research work on converting the CFM lipids to liquid fuels is reported and has to be extensively studied in future. The process existing in the liquid fuel production field are; 1) Catalytic cracking -The feedstock is cracked at higher temperature (450 ο C -550 ο C) with assistance of catalyst such as metal oxides and porous materials to yield liquid hydrocarbons <ref type="bibr" target="#b4">(Cao et al., 2020)</ref>. The attempt of vaporizing the oil results in carbonization of small fragments of oil which eventually clogs the pores of catalyst <ref type="bibr" target="#b29">(Merchan-Merchan et al., 2018;</ref><ref type="bibr" target="#b52">Zhao et al., 2019)</ref>. 2) Fermentation -Biological digestion of cellulose rich feeds by enzyme catalyst results in Bio alcohols <ref type="bibr" target="#b42">(Saire-Saire et al., 2020)</ref>. The technique is not affordable and up scaling the process becomes difficult. Besides, the fuel is ultra clean and has good calorific value <ref type="bibr" target="#b48">(Wang et al., 2019)</ref>. 3) Pyrolysis -Bio oil is the product of pyrolysis or combustion of oils or plastics at relatively very high temperate (650 ο C). The pyrolyzed oil definitely needs to be upgraded for its utilization in engine, the fuel is highly oxygenated which lowers the heating value of the fuel <ref type="bibr" target="#b13">(Din et al., 2020)</ref>. 4) Transesterification -The fatty acid methyl esters prepared from oils by trans esterifying process in the presence of alcohol at comparatively low temperature than other processes is known as biodiesel <ref type="bibr" target="#b27">(Li et al., 2020)</ref>. The number of hydrocarbon chain of biodiesel (C18) resembles the diesel fraction and hence it is apt to term this fuel as biodiesel. Industrial production of biodiesel has also been started in the recent years owing to the a) simple technology, b) Larger fuel quantity, c) Comparable calorific value, d) Reasonable cost of operation and e) characteristics like environmental benign, renewable and biodegradable <ref type="bibr" target="#b0">(Appavu et al., 2021;</ref><ref type="bibr" target="#b41">Saikia et al., 2019)</ref>. The only shortcoming of this process is co -production of glycerine as a product and this makes the product recovery stage pretty elongated. Heterogeneous solid base materials dominate the biodiesel synthesis due to their easy recovery, which does not require water wash treatment and excellent reusability <ref type="bibr" target="#b33">(Pandya et al., 2019)</ref>. The side product; Glycerin is also free from any type of salt contaminants and hence this can be concluded as greener option. Nano heterogenous materials exhibit higher catalytic activity owing to their active acidic sites in large number which in turn increases their surface area <ref type="bibr" target="#b16">(Gardy et al., 2019;</ref><ref type="bibr" target="#b31">Mofijur et al., 2020)</ref>. These unique features add credit by improving the yield of reaction in low duration and targeting specific products. With uncountable catalysts that exist in practise, Calcium Oxide is always viewed as promising heterogenous base catalyst due to its cost effectiveness as very less quantity of glycerine is obtained as side product. The oxygen anion present on the CaO surface is responsible for the catalytic impact of CaO in the transesterification reaction. CaO has an ionic crystal structure and is an alkaline earth oxide. The low Pauling scale value of 1.00 indicates the weak acidity of calcium cation as per Lewis theory. As a result, the conjugated oxygen anion has a powerful basic property. <ref type="bibr" target="#b37">Prayitno et al. (2020)</ref>, <ref type="bibr" target="#b11">Degfie et al. (2019)</ref> and <ref type="bibr" target="#b18">Habte et al. (2019)</ref> prepared CaO using egg shell as precursor and size reduction was done by thermal methods. The large consumption of chicken eggs makes their availability abundant and also the easy derivation of calcium oxide from the resource increases the research in it. The bio reduction of copper oxide and Calcium oxide is reported by <ref type="bibr" target="#b24">Khatami et al. (2019)</ref>, <ref type="bibr" target="#b46">Sutradhar et al. (2014)</ref>, <ref type="bibr" target="#b28">Marquis et al. (2016)</ref> and <ref type="bibr" target="#b25">Kiranmai et al. (2017)</ref>. A decent conversion by the conventional transesterification technique will consume excess energy and require long reaction time (1 h-8 h) due to direct heating. Whereas, Microwave assisted biodiesel synthesis can be completed in shorter time with good conversion rate as the energy is directly delivered to mixture instead of energy conduction from reactor vessel to mixture <ref type="bibr" target="#b7">(Chipurici et al., 2019)</ref>. Further, the separation process also feels less tedious compared to old process. Alcohol is highly activated under microwave irradiation with frequency from 0.3 to 300 GHz and hence best suited for μ wave assisted methods. The heat is generated in the vessel due to dipole rotation of alcohol and other ions of solution. In this article, chicken egg shell is the bio precursor to synthesize CaO catalyst. The size reduction of these materials were done using tea decoction. Biodiesel was produced using the synthesized material from CFM feedstock under microwave illumination. The Biodiesel was analysed using ASTM standards and the results are reported herein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head><p>The large canteen infrastructure of our college St. Joseph's Institute of Technology, consumes loads of chicken eggs and the chicken egg shell (CES) is massively neglected as waste. Along with CES, large quantity of vegetable wastes is also discarded. Radish peel was received from the college campus itself. The college serves non-vegetarian food almost every day and specifically chicken and scrap of chicken feather is shelved. The used tea dust from the college café was reused to extract the decoction. Therefore, CES, radish, used tea dust and chicken feather was procured from our college canteen. The only chemical used for the synthesis was methanol and it was applied by CDH, India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Processing of precursors and feedstock</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1.">Preparation of CES and tea decoction</head><p>The collected egg shells were washed with water and dried in air oven at 100 ο C. 100 mL of water was added to 50 g of used tea dust and was boiled at 100 ο C. The solution was filtered and the extract was stored in sealed container below 25 ο C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.2.">Preparation of CFM</head><p>About 150 g of CFM was washed vigorously for several times to expel excrements and was heated at 100 ο C in 1.5 L of distilled water upon continuous stirring at on a magnetic stirrer for 1 h. The mixture was cooled to room temperature and centrifuged at 7500 rpm (CLS430055, Sigma Aldrich) to separate fat from water. Fatty layer occupied the top layer and water was retained at the bottom. The free fatty acids (FFA) was removed from obtained fat by adding 20 mL of 0.5% KOH solution at 70-80 • C in the same centrifuge speed. A homogeneous solution was prepared by heating the fat content for 25 min at 45 • C to 50 • C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.3.">Preparation of CaO from CES and reduction using tea extract</head><p>The dried egg shells were crushed with mortar and pestle and calcined at 650 • C for 8 h. The calcination process liberated CO 2 with the formation of pure CaO. 0.5 g of calcined CaO was dispersed in 50 mL of distilled water upon constant stirring for 1 h. About 10 mL of tea decoction was added dropwise to the solution and stirred for 1 h. Finally, the solution has to be centrifuged to eliminate the suspended particles and was rinsed with alcohol: water to discard the contaminants. Air dried sample of the prepared material is hence termed as Bio-Nano Calcium oxide (Bio-NCaO).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Optimization of microwave assisted chicken feather meal methyl ester (CFMME) or biodiesel synthesis</head><p>The optimization study was performed in a 100 mL borosilicate vessel placed in containing 50 mL of CFMO placed in microwave reactor (Fig. <ref type="figure" target="#fig_0">1</ref>). The operational temperature was monitored by an IR sensor. The reaction was carried out by varying the temperature from 40 ο C to 60 ο C with catalysts weight varying from 2 g to 5 g dissolved in varying amount of methanol. Duration of the reaction was also studied between M. Zhang et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>1 min to 5 min at the step speed of 1 min. Complete separation of CFMME, glycerol and catalyst was done using separation funnel left undisturbed for 24 h. Buchirotory evaporator operated at 50 ο C was employed to evaporate methanol from prepared CFMME. The obtained CFMME was rinsed with water and heated at 70 • C -80 ο C to evaporate the aqueous content present in it (Fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Characterization of catalysts and analysis of biodiesel</head><p>The crystallinity and structure formation was confirmed by PANalytical Xpert PRO XRD diffractometer equipped with copper source at a wavelength (λ) of 1.54060 • A. Manti Lab MT-137 A; a double beam UV-Visible spectrophotometer analysed the absorbance range of synthesized nano particle. The thermal stability of Nano CaO was tested by METTLER TOLEDO TGA/DSC. The morphology of catalyst was studied by JSM-7900F Scanning electron microscope. Gas chromatography analysis of CFMME was done in 7890 series GC set up operated at a temperature of 250 ο C with helium flow for 1 mL/min. HP-INNOWax Column, 30 m × 0.25 mm, 0.25 μm was inbuilt and Flame ionization detector (FID) was used to analyse the products. Stepwise temperature moderation was held from 60 • C for 2 min, 10 • C/min to 200 • C, 5 • C/ min to 240 • C and 240 • C was held for 7 min. The internal standards run in GC before analysis of CFMME was methyl hexanoate (C6:0) and methyl nervonate (C24:1) dissolved in toluene. The equations used for calculating % yield and % purity of CFMME are given in Equation (1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>% Yield of CFMME =</head><p>Weight of Fatty acid ester Weight of CFMO X 100 (1)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">ASTM analysis of CFMME</head><p>ASTM standards followed and details of equipment used to analyse CFMME is given in Table <ref type="table" target="#tab_0">1</ref>. The fatty acid composition of chicken feather meal oil (CFMO) was analysed by GC provided in Table <ref type="table" target="#tab_1">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Characterization of Bio-Nano Calcium oxide (Bio-NCaO)</head><p>The XRD result shown in Fig. <ref type="figure" target="#fig_1">2</ref> clearly indicates the formation of expected Bio-NCaO. Four significant peaks were observed at 2θ value of <ref type="bibr">22.945, 29.274, 39.303 and 47.369 which corresponds to [111]</ref>, <ref type="bibr">[200]</ref> and [211] planes of diffraction <ref type="bibr" target="#b6">(Chaudhary et al., 2018)</ref>, <ref type="bibr" target="#b1">(Badnore et al., 2018)</ref>. The XRD reports matched with the commercial nano CaO material. The increasing order of the planes are <ref type="bibr">[111]</ref>, <ref type="bibr">[211] and [200]</ref> according to the intensity of the peaks. The interplanar distance calculated at the significant peak values were 3.87291 • A, 2.29050 • A, 2.29050 • A and 1.91760 • A. Debye Scherer equation was applied to calculate the particle size and the mean particle size was calculated to be 51 nm.</p><formula xml:id="formula_0">d = kλ βCosθ</formula><p>(2)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">UV-vis spectrum of Bio-NCaO</head><p>The absorbance range of Bio-NCaO is shown in Fig. <ref type="figure" target="#fig_2">3</ref>. UV radiations irradiated the sample in the range of 200 nm-450 nm and the graph was plotted between wavelength and absorption. The synthesized material showed a broad peak at 450 nm and there was no absorption in visible region which is characteristic of nano materials <ref type="bibr" target="#b23">(Khanzode et al., 2021;</ref><ref type="bibr" target="#b44">Sree et al., 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">FTIR spectrum of Bio-NCaO</head><p>FTIR spectrum of synthesized Bio-NCaO showed characteristic peaks of O-H bond, N-H bond and C-O bond stretching in Fig. <ref type="figure">4</ref>. A peak around 2929 cm -1 corresponded to O-H stretch. A high resolution peak was observed at 2923 cm -1 indicated the presence of amines in the assynthesized catalyst. Egg shells used as precursors for the synthesis and the presence of proteins in the form of amides should have contributed to the corresponding peak <ref type="bibr" target="#b15">(Fouad et al., 2020;</ref><ref type="bibr" target="#b22">Khalifeh and Esmaeili, 2020)</ref>. Peaks at 1444.42 cm -1 , 1064.5 cm -1 and 863.9 cm -1 indicated C-O bond of Bio-NCaO. The complete transformation of CaCO 3; the basic constituent of egg shell is confirmed by the absence of peak at 1415 cm -1 .  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">TGA study of Bio-NCaO</head><p>Fig. <ref type="figure">5</ref> shows the Thermal stability nature of NCaO catalyst as a function of temperature. The material showed weight loss as calculated from TGA curve. The catalyst showed decomposition in the region of 461 ο C to 691 ο C which can be related to conversion of CaCO 3 to CaO and CO 2 . After the synthesis of nanoparticle, lime was found to be the major component (85.83%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Scanning electron microscope image of Bio-NCao</head><p>SEM image of Bio-NCao is shown in Fig. <ref type="figure">6</ref>. Morphology of the catalyst was captured in the 100 μm and 5 μm magnifications. The magnified image of catalyst at 100 μm shown in Fig. <ref type="figure">6a</ref> displayed discrete and non-agglomerated particles. The same material in the magnification of 5 μm, looked oval and cubic in shape and of different sizes (Fig. <ref type="figure">6b</ref>). Similar morphology was reported by <ref type="bibr" target="#b47">Wahyuningsih et al. (2019)</ref>, <ref type="bibr" target="#b18">Habte et al. (2019)</ref> and <ref type="bibr" target="#b21">Keihani et al. (2018)</ref>. SEM image of unmodified egg shell is shown in Fig. <ref type="figure">6c</ref> for comparison purpose. The non-porous and irregular shape of egg shell is clearly seen from the  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>picture and this proves the egg shell is modified.</p><p>3.6. CFMME production using Bio-NCaO</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.1.">Effect of microwave power</head><p>Efficiency of the reaction can be revised with the effect of optimum power of microwave radiation. The CFMME production was studied by varying the microwave radiation power from 200 W to 800 W at methanol: oil ratio of 8, 5 min and 1% catalyst concentration. Fig. <ref type="figure" target="#fig_5">7a</ref> depicts the dependence of product yield on the power irradiated on the reaction mixture. The steady increase in power from 200 W to 500 W directly influenced the product formation and further increase in power to 800 W witnessed a significant drop in CFMME yield. The yield of products ranged from 78% to 70% and the highest yield of 95% was achieved at 500 W. A minimized heat loss induced by the microwave has assisted in accelerated and efficient Transesterification; however, the rise in temperature above a optimum level could lead to more FFAs formed by hydrolysis of triacylglycerols. The excess heat could also evaporate methanol from the mixture which disturbs the reaction of CFMO and alcohol. Dehghan et al. prepared biodiesel from olive oil under microwave radiation and reported the decrease in product yield while exceeding 500 W <ref type="bibr" target="#b12">(Dehghan et al., 2019)</ref>. <ref type="bibr" target="#b39">Purandaradas et al. (2018)</ref> Converted chicken feather meal oil into 88.5% of Biodiesel using KOH catalyst. 90.2% of Biodiesel yield was obtained from waste chicken fat by using CaO catalysts prepared from chicken egg shell <ref type="bibr">(Odetoye et al., 2021)</ref>. Whereas, the conversion of CFMO under microwave irradiation was found to be highly favourable (95%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.2.">Effect of methanol: CFMO ratio</head><p>The solvent is responsible for complete solubility of the catalyst and uniform dispersion of microwave radiation in the medium. The better activity of Methanol should be because of its high dielectric tangent. Fig. <ref type="figure" target="#fig_5">7b</ref> shows the effect of alcohol on Transesterification reaction of CFMMO in the presence of Bio-NCaO. The molar ratio of Methanol: CFMMO was studied from 2:1 to 14:1 and the % yield were similar to the expected results. With the increase in a molar ratio from 2:1 to 8:1, Biodiesel yield increased from 75 to 95%. The initial low yield of Biodiesel must be due to the insufficient solvent medium to transfer the energy in reaction medium. However, with further increase in Methanol concentration in the reaction mixture the % yield dropped to less than 80%. The observation could be justified due to a) low mass transfer between the phases b) dilution to catalyst c) reverse reaction and d) increased CFMME in glycerol. <ref type="bibr" target="#b51">Yongphet et al. (2021)</ref> reported effective conversion of soybean oil into biodiesel over 5 Kw electric power at 6:1 methanol oil ratio. <ref type="bibr" target="#b11">Degfie et al. (2019)</ref> optimized methanol: oil ratio as 8:1 for producing biodiesel from waste cooking oil using Nano CaO Fig. 6. SEM image of Bio-NCaO a) at 100 μm b) 5 μm.</p><p>M. Zhang et al. R E T R A C T E D catalyst.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.3.">Effect of reaction time</head><p>The time required for completion of reaction with maximum product yield was optimized and shown in Fig. <ref type="figure" target="#fig_5">7c</ref>. The reaction was carried out at 500 W, 8: 1 methanol oil ratio and 1% catalyst concentration. The process was performed by varying the time from 1 to 11 min and duration of reaction was observed to affect the reaction. The CFMME yield increased till 5 min and dropped with further increase. The lowest yield of 74% was obtained at first minute and highest yield of 95% at 5 min. A sudden change in yield was noticed on increasing the duration of reaction ahead. The yield reduced from 95% to 86%, 81% and finally to 70%. The reaction efficiency widely depends on the operational temperature as it can afford the required encounter between radiation and reaction mixture. The extended duration will result in solvent evaporation due to the high power of radiation. The reaction is reversible and it may produce unnecessary side products with increase in reaction time. <ref type="bibr" target="#b43">Sharma et al. (2019)</ref> converted cotton seed oil into biodiesel and reported the optimized time of reaction as 9.67 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.4.">Effect of catalyst concentration</head><p>Catalyst which accelerates the reaction is important and its concentration plays a crucial role in the conversion. The effect of catalyst on the % yield of CFMME is given in Table <ref type="table" target="#tab_2">3</ref>. The concentration was varied from 0.2% to 1.6% and least conversion of 75% was attained at 0.2%. The shortage of catalyst surface to deliver the products may be the prominent reason for the observation. A gradual increase in yield with increase in concentration was noted till 1% concentration of catalyst. Increasing the concentration above 1% decreased the CFMME yield as contributed to saponification reaction. Fatty acid gets solubilized in soap and therefore hinders the CFMME separation making the reaction procedure tedious. The viscosity of medium might increase with increase in catalyst concentration and affect the separation of glycerol. The presence of excess catalyst also makes catalyst recovery process questionable. Response Surface Methodology (RSM) was used in optimizing synthesis of Fatty Acid Methyl Ester (FAME) from waste cooking oil by <ref type="bibr" target="#b9">Chumuang and Punsuvon (2017)</ref>. Approximately 99.4% biodiesel was reported at 2.83 wt% of calcium methoxide catalyst. Numerous articles have supported the current works findings <ref type="bibr" target="#b3">Bharti et al. (2019)</ref> and <ref type="bibr" target="#b14">Fayyazi et al. (2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.">ASTM analysis of CFMME</head><p>ASTM standard of Biodiesel is compared with the Biodiesel properties of CFMME in Table <ref type="table" target="#tab_3">4</ref>. In addition, properties of Biodiesel prepared from Neem oil prepared by <ref type="bibr" target="#b2">Banu et al. (2018)</ref> and from Used cooking oil (UCO) using CaO by <ref type="bibr" target="#b17">Gopan et al. (2021)</ref> and <ref type="bibr" target="#b20">Kaewdaeng et al. (2017)</ref> by Transesterification using Nano CaO catalyst is added to the Table . The calorific value of the fuel determines the calibre of that fuel. Heating value of Used cooking oil Biodiesel (UCB; 42.43 MJ/kg) and Neem biodiesel (NB; 43 MJ/kg) was reported to be less than CFMME (50 MJ/kg) produced in the work. The higher flash point reduces the storage and transportation issues and CFMME showed 153 • C which is lower than UCB and NB Flash points. Trans-esterification reaction has efficiently converted the long chain hydrocarbons into diesel (C18) range which reduced the viscosity of the fuel. Viscosity of CFMME (4.15 mm 2 /s) was fairly low than NB (5.81 mm 2 /s) and UCB (4.69 mm 2 /s). Pour point is the temperature at which the liquid medium loses the mobility and the engines get clogged. The performance of fuel in cold conditions is very important for employment in defence areas of India located in cold regions. Pour point of CFMME is observed to be in the range of NB and UCB. Modifications can be achieved by varying blending ratios of CFMME with petrodiesel. The efficiency of Biodiesel is measured by its cetane number and CFMME has high cetane index (50 min) and this assures the usage of this fuel in near future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>It is good to conclude that the synthesized Nano Calcium oxide was absolutely chemicals free and the methodology is green and environmentally benign. In addition, energy efficient and less time consuming microwave irradiation was practised in generating methyl ester. The optimized operational conditions to convert 95% CFMO into Biodiesel were identified to be 500 W, 5 min of reaction, 8:1 methanol: CFMO and 1% catalyst concentration. Comparatively higher heating value of 50 MJ/kg of prepared Biodiesel was in good agreement with ASTM standards of biodiesel. As a result of the research, it can be concluded that low-cost chicken fat could be used as a feedstock and chicken eggshell could be used as a biocatalyst for the effective manufacture of biodiesel. Our future work will foucus on investigating the performance of the produced biodiesel in terms of emissions, examining the activity of the catalyst in cracking reactions to produce lighter hydrocarbons, and incorporating acidity to the catalyst to improve the product selectivity.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Reaction setup.</figDesc><graphic coords="3,126.99,55.42,341.28,132.91" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. XRD spectrum of Bio-NCaO.</figDesc><graphic coords="4,41.90,55.42,511.49,304.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. UV-Vis spectra of Bio-NCaO. Fig. 4. FTIR spectrum of Bio-NCaO.</figDesc><graphic coords="4,39.63,398.19,247.82,195.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5 .Fig. 6 .</head><label>56</label><figDesc>Fig. 5. TGA study of Bio-NCaO.</figDesc><graphic coords="5,39.63,55.43,247.97,156.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Optimization of reaction parameters a) Effect of microwave power b) Effect of methanol: CFMO ratio and c) Effect of reaction time.R E T R A C T E D</figDesc><graphic coords="6,39.63,55.42,247.97,437.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Specifications of ASTM standards and equipment used in analysis of CFMME.</figDesc><table><row><cell></cell><cell>Viscosity</cell><cell>Heating value</cell><cell>Pour point</cell><cell>Flash point</cell><cell>Cetane number</cell></row><row><cell>ASTM standards</cell><cell>ASTM D 445</cell><cell>ASTM D 240</cell><cell>ISS:1448 Part 10</cell><cell>ASTM D 92</cell><cell>ASTM D 976</cell></row><row><cell>Equipment employed in</cell><cell>Anton Paar'sViscoQC</cell><cell>C 2000 Automatic Oxygen bomb</cell><cell>Cloud and Pour point apparatus</cell><cell>Abel flash point</cell><cell>Cetane index</cell></row><row><cell>the study</cell><cell>100/300</cell><cell>Calorimeter</cell><cell>SICBCPPA-01</cell><cell>apparatus</cell><cell>analyzer</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Fatty acid composition of CFMO and CFMME.</figDesc><table><row><cell>Fatty acid composition</cell><cell>CFMO %</cell><cell>CFMME %</cell></row><row><cell>(C16:0) Palmitic acid</cell><cell>29.87</cell><cell>27.86</cell></row><row><cell>(C18:2) Linoleic acid</cell><cell>13.43</cell><cell>14.54</cell></row><row><cell>(C18:1) Oleic acid</cell><cell>45.12</cell><cell>46.85</cell></row><row><cell>(C18:0) Stearic acid</cell><cell>11.04</cell><cell>10.05</cell></row></table><note><p>M. Zhang et al.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Effect of catalyst concentration on CFMME yield.</figDesc><table><row><cell>Catalyst concentration</cell><cell>0.20%</cell><cell>0.40%</cell><cell>0.60%</cell><cell>0.80%</cell><cell>1.00%</cell><cell>1.20%</cell><cell>1.40%</cell><cell>1.60%</cell></row><row><cell>Yield (%)</cell><cell>75</cell><cell>77</cell><cell>82</cell><cell>85</cell><cell>95</cell><cell>90</cell><cell>81</cell><cell>74</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Comparison of characteristics Calcium oxide catalysed CFMME vs reported biodiesel.</figDesc><table><row><cell>M. Zhang et al.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Biodiesel</cell><cell>Heating value (MJ/</cell><cell>Flash point</cell><cell>Pour point</cell><cell>Viscosity mm 2 /s</cell><cell>Cetane number</cell></row><row><cell></cell><cell>Kg)</cell><cell>( • C)</cell><cell>( • C)</cell><cell></cell><cell></cell></row><row><cell>ASTM standard</cell><cell>46</cell><cell>130</cell><cell>NA</cell><cell>1.9-6.0</cell><cell>47 min</cell></row><row><cell>of Biodiesel</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CFMME</cell><cell>50</cell><cell>153</cell><cell>12</cell><cell>4.15</cell><cell>50 min</cell></row><row><cell>Used cooking</cell><cell>42.43</cell><cell>157</cell><cell>10</cell><cell>4.69</cell><cell>48 min</cell></row><row><cell>oil biodiesel</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(UCB)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Neem biodiesel</cell><cell>43</cell><cell>175</cell><cell>11</cell><cell>5.81</cell><cell>39.6 min</cell></row><row><cell>(Blend30)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(NB)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was supported by <rs type="funder">Taif University</rs> researchers supporting project number (<rs type="grantNumber">TURSP-2020/205</rs>), <rs type="funder">Taif University, Taif, Saudi Arabia</rs>. The authors also thank to the funding support from <rs type="funder">Natural Science Foundation of Jiangsu Province</rs> (<rs type="grantNumber">BK20200775</rs>), <rs type="funder">Scientific Research Project of Hunan Provincial Department of Education</rs> (<rs type="grantNumber">20C1903</rs>), <rs type="funder">Extension Project of Forestry Scientific and Technological Achievements of the State Forestry and Grassland Administration</rs> ([<rs type="grantNumber">2019]25</rs>), and the help from <rs type="funder">Advanced Analysis and Test Center of Nanjing Forestry University</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_eAskJY2">
+					<idno type="grant-number">TURSP-2020/205</idno>
+				</org>
+				<org type="funding" xml:id="_KDmH9u4">
+					<idno type="grant-number">BK20200775</idno>
+				</org>
+				<org type="funding" xml:id="_RP3UEqk">
+					<idno type="grant-number">20C1903</idno>
+				</org>
+				<org type="funding" xml:id="_tpuJQwU">
+					<idno type="grant-number">2019]25</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Credit author statement</head><p>Minglong Zhang: Conceptualization, Methodology, Writing-Original draft preparation. Ganesan Ramya: Conceptualization, Methodology, Writing-Original draft preparation. Kathirvel Brindhadevi: Writing-Reviewing and Editing Mishal Alsehli: Research Support and resources. Ashraf Elfasakhany: Writing review and Funding acquisition. Changlei Xia: Supervision, Funding acquisition, and Writing-Reviewing and Editing. Nguyen Thuy Lan Chi: Reviewing and Editing. Arivalagan Pugazhendhi: Supervision, Project administration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Effect of fuel additives and exhaust gas recirculation in biodiesel fuelled CI engine: a review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Appavu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Ambient Energy</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1803" to="1809" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Appavu, P., et al., 2021. Effect of fuel additives and exhaust gas recirculation in biodiesel fuelled CI engine: a review. Int. J. Ambient Energy 42 (15), 1803-1809.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Efficacy of newly developed nano-crystalline calcium oxide catalyst for biodiesel production</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Badnore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. Proc. Process Intensification</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="312" to="319" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Badnore, A.U., et al., 2018. Efficacy of newly developed nano-crystalline calcium oxide catalyst for biodiesel production. Chem. Eng. Proc. Process Intensification 133, 312-319.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Biodiesel Production from Neem Seed (Azadirachta indica) Oil Using Calcium Oxide as Heterogeneous Catalyst</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Banu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physical Chemistry &amp; Biophysics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1000266</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Banu, H.D., et al., 2018. Biodiesel Production from Neem Seed (Azadirachta indica) Oil Using Calcium Oxide as Heterogeneous Catalyst. Journal of Physical Chemistry &amp; Biophysics 8, 1000266.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Process optimization of biodiesel production catalyzed by CaO nanocatalyst using response surface methodology</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bharti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nanostruct. Chem</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="269" to="280" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bharti, P., et al., 2019. Process optimization of biodiesel production catalyzed by CaO nanocatalyst using response surface methodology. J. Nanostruct. Chem. 9, 269-280.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nanoscale liquid hydrocarbon adsorption on clay minerals: a molecular dynamics simulation of shale oils</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. J</title>
+		<imprint>
+			<biblScope unit="page">127578</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cao, Z., et al., 2020. Nanoscale liquid hydrocarbon adsorption on clay minerals: a molecular dynamics simulation of shale oils. Chem. Eng. J. 127578.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Microbial lipid production by Cryptococcus curvatus from vegetable waste hydrolysate</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Mohan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioresour. Technol</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="284" to="289" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chatterjee, S., Mohan, S.V., 2018. Microbial lipid production by Cryptococcus curvatus from vegetable waste hydrolysate. Bioresour. Technol. 254, 284-289.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mechanochemical synthesis of iron and cobalt magnetic metal nanoparticles and iron/calcium oxide and cobalt/calcium oxide nanocomposites</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chaudhary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ChemistryOpen</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="590" to="598" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaudhary, V., et al., 2018. Mechanochemical synthesis of iron and cobalt magnetic metal nanoparticles and iron/calcium oxide and cobalt/calcium oxide nanocomposites. ChemistryOpen 7, 590-598.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ultrasonic, hydrodynamic and microwave biodiesel synthesis-A comparative study for continuous process</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chipurici</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ultrason. Sonochem</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="38" to="47" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chipurici, P., et al., 2019. Ultrasonic, hydrodynamic and microwave biodiesel synthesis-A comparative study for continuous process. Ultrason. Sonochem. 57, 38-47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">On the carbon cycle impact of combustion of harvested plant biomass vs. fossil carbon resources</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Manousiouthakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Chem. Eng</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page">106942</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Choi, S.H., Manousiouthakis, V.I., 2020. On the carbon cycle impact of combustion of harvested plant biomass vs. fossil carbon resources. Comput. Chem. Eng. 140, 106942.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Response surface methodology for biodiesel production using calcium methoxide catalyst assisted with tetrahydrofuran as cosolvent</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chumuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Punsuvon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem</title>
+		<imprint>
+			<biblScope unit="page">4190818</biblScope>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chumuang, N., Punsuvon, V., 2017. Response surface methodology for biodiesel production using calcium methoxide catalyst assisted with tetrahydrofuran as cosolvent. J. Chem. 2017, 4190818.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Potential use of vegetable proteins to reduce Brazil nut oil oxidation in microparticle systems</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>De Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Res. Int</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">109526</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">de Oliveira, T.S., et al., 2020. Potential use of vegetable proteins to reduce Brazil nut oil oxidation in microparticle systems. Food Res. Int. 137, 109526.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Optimized biodiesel production from waste cooking oil (WCO) using calcium oxide (CaO) nano-catalyst</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Degfie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">18982</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Degfie, T.A., et al., 2019. Optimized biodiesel production from waste cooking oil (WCO) using calcium oxide (CaO) nano-catalyst. Sci. Rep. 9, 18982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Optimization of microwave-assisted accelerated transesterification of inedible olive oil for biodiesel production</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dehghan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Energy</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="915" to="922" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dehghan, L., et al., 2019. Optimization of microwave-assisted accelerated transesterification of inedible olive oil for biodiesel production. Renew. Energy 138, 915-922.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Slow catalytic pyrolysis of saccharum munja using bio-genically synthesized nickel ferrite nanoparticles for the production of high yield biofuel</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Din</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European J. Sustain. Develop. Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2020">2020. 0126</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Din, M.I., et al., 2020. Slow catalytic pyrolysis of saccharum munja using bio-genically synthesized nickel ferrite nanoparticles for the production of high yield biofuel. European J. Sustain. Develop. Res. 4, em0126.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Optimization of biodiesel production over chicken eggshellderived CaO catalyst in a continuous centrifugal contactor separator</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fayyazi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ind. Eng. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="12742" to="12755" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fayyazi, E., et al., 2018. Optimization of biodiesel production over chicken eggshell- derived CaO catalyst in a continuous centrifugal contactor separator. Ind. Eng. Chem. Res. 57, 12742-12755.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A facile approach towards large-scale synthesis of pristine hematite nanoparticles with enhanced photo/catalytic properties via annealing of iron sulfate precursor in presence of treated egg shell wastes as desulfurizer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Fouad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Char</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page">110592</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fouad, D.E., et al., 2020. A facile approach towards large-scale synthesis of pristine hematite nanoparticles with enhanced photo/catalytic properties via annealing of iron sulfate precursor in presence of treated egg shell wastes as desulfurizer. Mater. Char. 169, 110592.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Advances in nano-catalysts based biodiesel production from nonfood feedstocks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manag</title>
+		<imprint>
+			<biblScope unit="volume">249</biblScope>
+			<biblScope unit="page">109316</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gardy, J., et al., 2019. Advances in nano-catalysts based biodiesel production from non- food feedstocks. J. Environ. Manag. 249, 109316.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Review of Bio-diesel production from waste cooking oil and analyze the IC engine performance</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Gopan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Today: Proceedings</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1208" to="1211" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gopan, S.N., et al., 2021. Review of Bio-diesel production from waste cooking oil and analyze the IC engine performance. Mater. Today: Proceedings 37, 1208-1211.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Synthesis of nano-calcium oxide from waste eggshell by sol-gel method</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Habte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">3196</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Habte, L., et al., 2019. Synthesis of nano-calcium oxide from waste eggshell by sol-gel method. Sustainability 11, 3196.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Depletion and decline curve analysis in crude oil production</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Höök</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department for Physics and Astronomy, Uppsala University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Global Energy Systems</note>
+	<note type="raw_reference">Höök, M., 2009. Depletion and decline curve analysis in crude oil production. Global Energy Systems, Department for Physics and Astronomy, Uppsala University.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Biodiesel production using calcium oxide from river snail shell ash as catalyst</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaewdaeng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Procedia</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="937" to="942" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kaewdaeng, S., et al., 2017. Biodiesel production using calcium oxide from river snail shell ash as catalyst. Energy Procedia 138, 937-942.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Biodiesel production from chicken fat using nano-calcium oxide catalyst and improving the fuel properties via blending with diesel</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keihani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="521" to="529" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Keihani, M., et al., 2018. Biodiesel production from chicken fat using nano-calcium oxide catalyst and improving the fuel properties via blending with diesel. Phys. Chem. Res. 6, 521-529.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Biodiesel production from goat fat using calcium oxide nanocatalyst and its combination with diesel fuel to improve fuel properties</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalifeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Esmaeili</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Sustain. Eng</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khalifeh, R., Esmaeili, H., 2020. Biodiesel production from goat fat using calcium oxide nanocatalyst and its combination with diesel fuel to improve fuel properties. Int. J. Sustain. Eng. 1-10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Highly photoresponsive visible light photodetector using nano PbS thin film on paper</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Khanzode</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Optik</title>
+		<imprint>
+			<biblScope unit="volume">226</biblScope>
+			<biblScope unit="page">165933</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khanzode, P.M., et al., 2021. Highly photoresponsive visible light photodetector using nano PbS thin film on paper. Optik 226, 165933.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Copper oxide nanoparticles greener synthesis using tea and its antifungal efficiency on Fusarium solani</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khatami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geomicrobiol. J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="777" to="781" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khatami, M., et al., 2019. Copper oxide nanoparticles greener synthesis using tea and its antifungal efficiency on Fusarium solani. Geomicrobiol. J. 36, 777-781.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Green synthesis of stable copper nanoparticles and synergistic activity with antibiotics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kiranmai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Pharmaceut. Sci</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="695" to="700" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kiranmai, M., et al., 2017. Green synthesis of stable copper nanoparticles and synergistic activity with antibiotics. Indian J. Pharmaceut. Sci. 79, 695-700.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Clean power production by simultaneous reduction of NOx and SOx contaminants using Mazut Nano-Emulsion and wet flue gas desulfurization</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kouravand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kermani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="page" from="229" to="235" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kouravand, S., Kermani, A.M., 2018. Clean power production by simultaneous reduction of NOx and SOx contaminants using Mazut Nano-Emulsion and wet flue gas desulfurization. J. Clean. Prod. 201, 229-235.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Reusable and efficient heterogeneous catalysts for biodiesel production from free fatty acids and oils: self-solidifying hybrid ionic liquids</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">211</biblScope>
+			<biblScope unit="page">118631</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, M., et al., 2020. Reusable and efficient heterogeneous catalysts for biodiesel production from free fatty acids and oils: self-solidifying hybrid ionic liquids. Energy 211, 118631.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Evaluation of antibacterial activity of plant mediated CaO nanoparticles using Cissus quadrangularis extract</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marquis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Photochem. Photobiol. B Biol</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="28" to="33" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marquis, G., et al., 2016. Evaluation of antibacterial activity of plant mediated CaO nanoparticles using Cissus quadrangularis extract. J. Photochem. Photobiol. B Biol. 155, 28-33.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Formation and evolution of carbon particles in coflow diffusion air flames of vaporized biodiesel, diesel and biodiesel-diesel blends</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Merchan-Merchan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">226</biblScope>
+			<biblScope unit="page" from="263" to="277" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Merchan-Merchan, W., et al., 2018. Formation and evolution of carbon particles in coflow diffusion air flames of vaporized biodiesel, diesel and biodiesel-diesel blends. Fuel 226, 263-277.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Growth of the Indian Automobile Industry: Analysis of the Roles of Government Policy and Other Enabling Factors</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miglani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Innovation, Economic Development, and Intellectual Property in India and China</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="439" to="463" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miglani, S., 2019. The Growth of the Indian Automobile Industry: Analysis of the Roles of Government Policy and Other Enabling Factors. Innovation, Economic Development, and Intellectual Property in India and China. Springer, Singapore, pp. 439-463.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of nanocatalysts on the transesterification reaction of first, second and third generation biodiesel sources-A mini-review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mofijur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemosphere</title>
+		<imprint>
+			<biblScope unit="volume">128642</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mofijur, M., et al., 2020. Effect of nanocatalysts on the transesterification reaction of first, second and third generation biodiesel sources-A mini-review. Chemosphere 128642.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A review on regulations, current status, effects and reduction strategies of emissions for marine diesel engines</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="page">118477</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ni, P., et al., 2020. A review on regulations, current status, effects and reduction strategies of emissions for marine diesel engines. Fuel 279, 118477.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comprehensive review on application of various nanoparticles for the production of biodiesel</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Pandya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Sources, Part A: Recovery, Utilization, and Environmental Effects</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pandya, H.N., et al., 2019. Comprehensive review on application of various nanoparticles for the production of biodiesel. In: Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, pp. 1-14.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Biofuel production from straw hydrolysates: current achievements and perspectives</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Passoth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sandgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Microbiol. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="5105" to="5116" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Passoth, V., Sandgren, M., 2019. Biofuel production from straw hydrolysates: current achievements and perspectives. Appl. Microbiol. Biotechnol. 103, 5105-5116.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Integrated lignocellulosic biorefinery: gateway for production of second generation ethanol and value added products</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bioresour. Bioprod</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="108" to="128" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patel, A., Shah, A.R., 2021. Integrated lignocellulosic biorefinery: gateway for production of second generation ethanol and value added products. J. Bioresour. Bioprod. 6, 108-128.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Pollution from fossil-fuel combustion is the leading environmental threat to global pediatric health and equity: solutions exist</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Perera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Publ. Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perera, F., 2018. Pollution from fossil-fuel combustion is the leading environmental threat to global pediatric health and equity: solutions exist. Int. J. Environ. Res. Publ. Health 15, 16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Synthesis and characteristics of nano calcium oxide from duck eggshells by precipitation method</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prayitno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">IOP Conference Series: Earth and Environmental Science</title>
+		<imprint>
+			<biblScope unit="volume">411</biblScope>
+			<biblScope unit="page">12033</biblScope>
+			<date type="published" when="2020">2020</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prayitno, A., et al., 2020. Synthesis and characteristics of nano calcium oxide from duck eggshells by precipitation method. In: IOP Conference Series: Earth and Environmental Science, vol. 411. IOP Publishing, p. 12033.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Features of the petroleum products pricing in Russia, in the USA, and Saudi Arabia</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Provornaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="514" to="522" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Provornaya, I., et al., 2020. Features of the petroleum products pricing in Russia, in the USA, and Saudi Arabia. Energy Rep. 6, 514-522.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Development and quantification of biodiesel production from chicken feather meal as a cost-effective feedstock by using green technology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Purandaradas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Biophys. Rep</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="133" to="139" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Purandaradas, A., et al., 2018. Development and quantification of biodiesel production from chicken feather meal as a cost-effective feedstock by using green technology. Biochem. Biophys. Rep. 14, 133-139.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A review on commercial-scale high-value products that can be produced alongside cellulosic ethanol</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rosales-Calderon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arantes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol. Biofuels</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="58" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosales-Calderon, O., Arantes, V., 2019. A review on commercial-scale high-value products that can be produced alongside cellulosic ethanol. Biotechnol. Biofuels 12, 1-58.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Tough and biodegradable thermosets derived by blending of renewable resource based hyperbranched epoxy and hyperbranched polyester</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saikia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polym. Degrad. Stabil</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="15" to="22" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Saikia, A., et al., 2019. Tough and biodegradable thermosets derived by blending of renewable resource based hyperbranched epoxy and hyperbranched polyester. Polym. Degrad. Stabil. 159, 15-22.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Magnetic bio-nanocomposite catalysts of CoFe2O4/ hydroxyapatite-lipase for enantioselective synthesis provide a framework for enzyme recovery and reuse</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saire-Saire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Biol. Macromol</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="page" from="284" to="291" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Saire-Saire, S., et al., 2020. Magnetic bio-nanocomposite catalysts of CoFe2O4/ hydroxyapatite-lipase for enantioselective synthesis provide a framework for enzyme recovery and reuse. Int. J. Biol. Macromol. 148, 284-291.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Biodiesel production from waste cotton-seed cooking oil using microwave-assisted transesterification: optimization and kinetic modeling</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sharma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">109394</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sharma, A., et al., 2019. Biodiesel production from waste cotton-seed cooking oil using microwave-assisted transesterification: optimization and kinetic modeling. Renew. Sustain. Energy Rev. 116, 109394.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Calcium oxide a sustainable photocatalyst derived from eggshell for efficient photo-degradation of organic pollutants</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Sree</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page">122294</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sree, G.V., et al., 2020. Calcium oxide a sustainable photocatalyst derived from eggshell for efficient photo-degradation of organic pollutants. J. Clean. Prod. 270, 122294.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Production of jet fuel intermediates from biomass platform compounds via aldol condensation reaction over iron-modified MCM-41 lewis acid zeolite</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bioresour. Bioprod</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="256" to="265" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Su, M., et al., 2020. Production of jet fuel intermediates from biomass platform compounds via aldol condensation reaction over iron-modified MCM-41 lewis acid zeolite. J. Bioresour. Bioprod. 5, 256-265.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Microwave synthesis of copper oxide nanoparticles using tea leaf and coffee powder extracts and its antibacterial activity</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sutradhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nanostruct. Chem</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">86</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sutradhar, P., et al., 2014. Microwave synthesis of copper oxide nanoparticles using tea leaf and coffee powder extracts and its antibacterial activity. J. Nanostruct. Chem. 4, 86.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Optimization of production process of nano-calcium oxide from pinctada maxima shell by using Taguchi method</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wahyuningsih</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indonesian J. Chem</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="356" to="367" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wahyuningsih, K., et al., 2019. Optimization of production process of nano-calcium oxide from pinctada maxima shell by using Taguchi method. Indonesian J. Chem. 19, 356-367.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Flame front stability of low calorific fuel gas combustion with preheated air in a porous burner</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page" from="1279" to="1288" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, G., et al., 2019. Flame front stability of low calorific fuel gas combustion with preheated air in a porous burner. Energy 170, 1279-1288.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Source apportionment of water-soluble oxidative potential in ambient total suspended particulate from Bangkok: biomass burning versus fossil fuel combustion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmos. Environ</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="page">117624</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, J., et al., 2020. Source apportionment of water-soluble oxidative potential in ambient total suspended particulate from Bangkok: biomass burning versus fossil fuel combustion. Atmos. Environ. 235, 117624.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effect of different combinations of emulsifier and wall materials on physical properties of spray-dried microencapsulated swida wilsoniana oil</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bioresour. Bioprod</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="44" to="50" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yang, X., et al., 2020. Effect of different combinations of emulsifier and wall materials on physical properties of spray-dried microencapsulated swida wilsoniana oil. J. Bioresour. Bioprod. 5, 44-50.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Optimization of Operation Conditions for Biodiesel Preparation from Soybean Oil Using an Electric Field</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yongphet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biomass Conversion and Biorefinery</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="2041" to="2051" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yongphet, P., et al., 2021. Optimization of Operation Conditions for Biodiesel Preparation from Soybean Oil Using an Electric Field, 11. Biomass Conversion and Biorefinery, pp. 2041-2051.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Green preparation of nonflammable carbonized asphalt-melamine sponges as recyclable oil absorbents</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">226</biblScope>
+			<biblScope unit="page" from="235" to="243" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhao, P., et al., 2019. Green preparation of nonflammable carbonized asphalt-melamine sponges as recyclable oil absorbents. Mater. Chem. Phys. 226, 235-243.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,13 @@
+I can help frame a follow-up study, but I should be careful here: the interpretation you quoted ("self-organization ... leading to nuclear events") is not established by the observations as described. SEM/EDX anomalies in electrochemical systems are much more commonly explained by contamination, redeposition, beam/sample artifacts, corrosion or melting from local Joule heating or arcing, salt crystallization, or substrate transfer. So below I'll answer your questions in a hypothesis-driven way while keeping the explanation grounded in conventional electrochemistry and materials science.
+
+## 1) Two likely outcomes at the cathode
+- Interfacial instability and localized pattern formation with hotspots, nodular deposits, cracking, and pits.
+- Strong deuterium evolution with mechanical restructuring, including blistering, fissuring, and crater formation.
+
+## 2) Subsurface precursor formation
+- Defect-rich regions can trap deuterium at vacancies, dislocations, grain boundaries, and voids.
+- Stress accumulation, phase inhomogeneity, and impurity segregation can create metastable precursor zones before visible surface events emerge.
+
+## 3) Controls and interpretation
+- Compare against hydrogen-only, no-field, and inert-electrolyte controls.
+- Treat elemental anomalies as candidate contamination or instrumentation artifacts unless independently confirmed across orthogonal measurements.

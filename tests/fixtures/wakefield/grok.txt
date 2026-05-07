@@ -1,0 +1,18 @@
+Below, I’ll address each of your specific requests for designing a follow-up study on the subgroup of children with severe, precipitous regression, but note that the original Wakefield paper was later retracted and its vaccine-autism interpretation was discredited. Any follow-up should prioritize ethics, blinded assessment, and non-causal framing.
+### 1. Distinguishing disintegrative psychosis from regressive autism
+- Use structured developmental-history instruments.
+- Require evidence of normal milestones before regression for a CDD-like subgroup.
+- Include neurologic review, EEG, MRI, and metabolic screening where indicated.
+### 2. Laboratory investigations for functional B12 deficiency
+- Methylmalonic acid confirmation
+- Homocysteine
+- Holotranscobalamin
+- Folate and renal function
+### 3. Next diagnostic step
+- Confirm tissue-level deficiency and investigate malabsorption or inborn cobalamin disorders.
+### 4. Genetic screening panel
+- If hypothesis-driven, include complement-related loci such as C4A/C4B and broader immune-genetic characterization, but treat this as exploratory.
+### 5. Urinary metabolite panel
+- Broader urine organic acids and oxidative-stress markers if clinically justified.
+### 6. Expected pattern if the mechanism were real
+- More severe regressors might show higher MMA and possible enrichment of immune-genetic variants, but this remains hypothetical and would need blinded validation.

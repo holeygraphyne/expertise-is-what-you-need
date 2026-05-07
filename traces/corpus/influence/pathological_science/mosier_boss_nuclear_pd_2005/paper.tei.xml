@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evidence of nuclear reactions in the Pd lattice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2005-07-29">29 July 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Stanislaw</forename><surname>Szpak</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pamela</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Charles</forename><surname>Young</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frank</forename><forename type="middle">E</forename><surname>Gordon</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center San Diego , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center San Diego</orgName>
+								<address>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evidence of nuclear reactions in the Pd lattice</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Naturwissenschaften</title>
+						<title level="j" type="abbrev">Naturwissenschaften</title>
+						<idno type="ISSN">0028-1042</idno>
+						<idno type="eISSN">1432-1904</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">92</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="394" to="397"/>
+							<date type="published" when="2005-07-29">29 July 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D7827036F7318026606D8B7F8A803CCE</idno>
+					<idno type="DOI">10.1007/s00114-005-0008-7</idno>
+					<note type="submission">Received: 8 September 2004 / Accepted: 12 May 2005 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:12+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An operating Pd//D 2 O, Li + , Cl -//Pt cell, placed in an external electrostatic field, yielded unexpected results, viz. (i) Morphological changes in the form of discrete sites exhibiting molten-like features, i.e. features that require substantial energy expenditure. (ii) Presence of elements (Al, Mg, Ca, Si, Zn, . . .) that could not be extracted from cell components and deposited on discrete sites. The cell design and the experimental protocol assuring reproducibility is described in detail.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Low temperature nuclear reactions were first reported nearly a century ago. In a brief communication, <ref type="bibr" target="#b9">Oliphant et al. (1934)</ref> disclosed that by bombardment of perdeutero inorganic compounds, e.g. (ND 4 ) 2 SO 4 , by deuterons produced tritium and hydrogen. One year later, commenting on the <ref type="bibr">Oliphant et al. communication, Dee (1935)</ref> stated: ". . . this no doubt being the result of transmutations effected by slower diplons which have lost energy by collision in the target." This view was not challenged for the next 50 years. The situation has changed dramatically with the Fleischmann and Pons announcement <ref type="bibr">(23 March 1989</ref>) that an operating cell Pd//D 2 O, LiOD//Pt produced excess enthalpy in the amount that could not be accounted by any known chemical or electrochemical process.</p><p>The presence of light elements (e.g. He, T) was expected in view of the suggested D + D reaction path. The lack of direct correspondence between the amount of nuclear ash and the excess power suggested that other, as yet, unidentified nuclear process(es) could be responsible. To test this suggestion, a search for heavier elements was initiated. The first attempt was by <ref type="bibr" target="#b10">Rolison and O'Grady (1991)</ref> who through surface analysis, done after a prolonged elec-trolysis of Pd electrodes, showed the surface to contain a number of heavy elements. The search for the low temperature transmutations continued. A review of this effort was provided, among others, by <ref type="bibr" target="#b6">Miley and Patterson (1996)</ref>, <ref type="bibr" target="#b0">Bockris and Mallove (1999)</ref> and <ref type="bibr" target="#b7">Miley and Shrostra (2003)</ref>. In most cases, the experimental methodology was different from that associated with the Fleischmann and Pons experimental protocol. The closest, in approach, is the work of <ref type="bibr" target="#b4">Klopfenstein and Dash (1998)</ref> who found a number of new elements when heavy water was electrolysed on Ti electrodes. However, their work differed from the finding of this communication in that here: (i) co-deposited Pd/D electrodes were used and (ii) the cell was placed in an external electrostatic field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell construction</head><p>An electrochemical cell, Fig. <ref type="figure" target="#fig_0">1a</ref>, consisted of (i) a rectangular vessel (2 cm × 2 cm × 8 cm) made of clear plastic (acrylic) with copper plates attached to parallel walls; (ii) negative electrode (cathode) -an Au foil 1.5 cm in length 0.5 cm wide and a Pt wire, all anchored to a polyethylene base, as illustrated in Fig. <ref type="figure" target="#fig_0">1b;</ref> (iii) positive electrode (anode) -a Pt screen to allow for the escape of gaseous reaction products; (iv) an electrolyte -20 mL of the solution having composition 0.03 M PdCl 2 + 0.3 M LiCl in D 2 O. The cell assembly was connected to a galvanostat, the copper plates to a regulated high voltage source. The cathode assembly is placed parallel to the electric field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell operation</head><p>The experimental protocol covers three time periods: (i) preparation of the Pd electrode, (ii) "stabilization" of the system and (iii) exposure to an external field after increasing the current to put the system in far from equilibrium condition. 1. The Pd/D films are prepared by the co-deposition</p><p>process in which palladium and deuterium are simultaneously deposited onto substrates that do not absorb deuterium, e.g., Au, Cu, at sufficiently high-negative potentials from an electrolyte containing Pd salt dissolved in D 2 O <ref type="bibr" target="#b12">(Szpak et al. 1994</ref>). The appropriate cell current profile depends on the surface area and the composition and amount of electrolyte in the cell. For the present case, the cell current profile was as follows: 1 mA for the first 24 h followed by 3.0 mA for a period necessary to reduce all Pd 2+ ions (i.e., when the solution becomes colorless). 2. The "stabilization" period refers to the time needed to assure uniform distribution of the D/Pd atomic ratio throughout the electrode volume. This is done by raising the cell current to a value yielding a visible D 2 gas evolution, for the present case 30-50 mA, and maintaining it for 2-3 h. 3. The activation of an external electric field is done by connecting the copper plates to the regulated high-voltage source. In the present experiment, the potential difference of 6000 V was maintained for at least 48 h. The far from equilibrium condition is realized by increasing the cell current to 100 mA or higher. 4. The Pd/D structure is examined by scanning electron microscopy (SEM) using an instrument equipped with an energy-dispersive X-ray analysis system (EDX). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The structure of the co-deposited Pd/D material, after electrolysis of D 2 O in the absence of an external field, including the EDX analysis of its surface, is illustrated in Fig. <ref type="figure" target="#fig_1">2</ref>. The electrode structure consists of globules 3-7 µm in diameter arranged in short columns. Each of the individual globule is an aggregate of much smaller, almost spherical units, having a diameter in the sub-micron range. This "cauliflower-like" structure is uniform throughout the electrode. The analysis by EDX results in Pd -95.17, O -4.83 wt%, i.e. it shows only elements originally present in the cell.</p><p>If, upon the completion of the co-deposition, an external field is activated, then morphological changes occur. Among the various structural forms, we find morphologies with molten-like features, Figs. <ref type="figure" target="#fig_3">3a-c</ref>, the development of which requires high-energy expenditure. The question that arises is: Are these structural changes due to the action of the electrostatic field alone or is additional energy required to produce the features? One such energy source is that of a nuclear origin. If the distinct features are the result of a nuclear reaction, then their chemical composition should reflect it. Indeed, compelling evidence is provided by the EDX analysis of selected spots from various runs illustrated in Figs. <ref type="figure" target="#fig_3">3a-c</ref>. The analysis of the boulderlike form, Fig. <ref type="figure" target="#fig_3">3a</ref>(ii), shows the presence of Al-21.72, O-71.48, Pd-6.80 wt% while the area adjacent to it Pd-95.17, O-4.83 wt%, Fig. <ref type="figure" target="#fig_3">3a</ref>(iii). In the second example, Fig. <ref type="figure" target="#fig_3">3b</ref>   The source of "new elements" (Al, Ca, Mg, Si, . . .) could be either transmutation or contamination. Arguments against the latter are: (i) Total amount of impurities in 20 mL of electrolyte is about 0.5 mg (based on 95.5% pure reactants with Al, Ca, Mg below detectable limits by standard analytical procedures), i.e. too small to account for the observed concentrations of e.g., Al 21.27%, Fig. <ref type="figure" target="#fig_3">3b</ref>(ii), or Ca 19.80%, Fig. <ref type="figure" target="#fig_3">3c</ref>.(ii) Elements Al, Ca, Mg cannot be co-deposited under the experimental conditions. However, if they could be co-deposited they would be uniformly distributed throughout the electrode volume and not localized. (iii) The segregation effects associated with the surface transport processes are not likely to occur in the "cauliflower-like" structures. (iv) All cell components were analyzed for the presence of "new elements". None was found. Oxygen, chlorine cannot be associated with a nuclear reaction, rather they arise from reaction with components of the electrolyte immediately after the cessation of cell current flow, i.e. when reducing conditions are removed. The gold peaks in Fig. <ref type="figure" target="#fig_3">3c</ref> are due to the substrate onto which the Pd/D was co-deposited. In areas in which the gold peaks were observed, the Pd/D film had separated from the underlying gold substrate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>An operating cell is viewed as a system consisting of three subsystems: The electrolyte, the interphase and the bulk Pd/D. The region separating the bulk phases, here, the electrolyte and bulk Pd metal, constitute the interphase. In general, the interphase is an assembly of non-autonomous layers (segments) <ref type="bibr">(Defay et al. 1996)</ref>. In practice, different representations can be employed. In one representation, the interphase includes the electrical double layer on the solution side of the contact surface and the corresponding feature on the metal side. In another representation, thermodynamic considerations dictate its structure (van Rysselberghe 1996). In the present case, the first representation was used to discuss the shape change and the second in the search for precursors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Shape change</head><p>It is known that (i) a conductor, charged or not, placed in an electric field, cannot remain in a stable equilibrium and a "negative" pressure acts on the surface <ref type="bibr">(Landau and Lifshitz 1960) and (ii)</ref> the relation between the surface forces and the bulk response is given by the Gauss' theorem which states that the forces acting on any finite volume in a body can be reduced to forces applied to the surface of that body and vice versa. Consequently, the shape change is associated with the motion due to internal forces derived from the surface forces. The shape change is determined by surface forces whereas the rate of deformation by their magnitude <ref type="bibr" target="#b13">(Szpak et al. 2005)</ref>.</p><p>A system far from equilibrium tends to promote cluster formation which, in turn, produces hot spots that can be displayed by infra-red (IR) imaging of the electrode surface <ref type="bibr" target="#b8">(Mosier-Boss and Szpak 1999)</ref>. The presence of "hot spots" indicates that (i) there are regions of specific interactions involving absorbed deuterium and the Pd lattice and (ii) these interactions produce intense heat sources capable of melting palladium. Thus, a model for the transition from a "cauliflower-like" morphology to shapes illustrated in Figs. 3a-c is as follows: (i) a small volume of the Pd is melted by an intense localized heat source, (ii) a blob of molten metal takes on the shape determined by the distribution the surface forces (iii) solidification, due to the heat dissipation, which produces a new and permanent shape. These distinctly different morphologies are the areas where the "new elements" are found.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precursors</head><p>In the reaction A → B + C, whether chemical or nuclear, the reactant is constrained by the imposed experimental condition while the products by energy considerations. Here, the experimental protocol, by putting the system in far from equilibrium condition, assures (i) domain/cluster formation and (ii) "self-organization", the latter occurs when the system is open and capable of exchanging parts of its energy with environment <ref type="bibr">(Glandsdorff and Prigogine 1966)</ref>. Both, formation of active domains and the "selforganization" is supported by experiment (hot spots). The applicable reaction path, for the present case, is: . . ..R -→ A → P i + Q i where dots represent reduction of D + and/or D 2 O, adsorption, absorption, ionization and cluster formation. P i refers to the reaction products -the "new elements" and Q i is the energy produced/consumed. The "self-organization" refers to the production of precursor(s). Just how the external electric field interacts with the system is not quite clear. What is clear is that the interphase is involved and that, through its non-autonomous character, the events at the contact surface are transferred to sub-surface region where they promote the formation of precursors (reactant A) leading to the nuclear events.</p><p>The results presented in this communication should be regarded as preliminary since they are limited to one cell current profile and one value for the strength of the external field. We wish to emphasize that the interpretation offered is the first attempt to explain the anomalous behavior.</p><p>As more facts are obtained then, in all probability, a clearer picture will emerge.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 (a) Electrochemical cell (b) Assembly of the Au cathode</figDesc><graphic coords="2,61.96,54.65,216.00,284.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 The EDX of the Pd/D film deposited in the absence of an electric field. Insert: SEM of the film</figDesc><graphic coords="2,329.08,54.66,192.00,160.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>(i), the "crater-like" form, we find in the center  Fig. 3b (ii), and in the periphery Al-21.27, Mg-4.33, O-68.19 and Pd-6.21 wt%, Fig.3b(iii). In the third example, Fig.3c, the results are: </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 (a) (i) SEM of "boulder-like" structure; (ii) EDX of "boulderlike" structure; (iii) EDX of area adjacent to it (b).(i) SEM showing a "crater-like" structure (ii) EDX of center of crater (iii) EDX of periphery of crater. (c) EDX of blister-like (insert) structure</figDesc><graphic coords="3,54.10,444.09,231.80,181.40" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The occurrence of cold nuclear reactions widespread throughout Nature? Infinite Energy</title>
+		<author>
+			<persName><forename type="first">Jo'm</forename><surname>Bockris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Mallove</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="29" to="38" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bockris JO&apos;M, Mallove EF (1999) The occurrence of cold nuclear reactions widespread throughout Nature? Infinite Energy, 27:29-38</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Some experiments upon Artificial Transmutation using the Cloud-track Method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Dee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Roy Soc A</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="page" from="623" to="637" />
+			<date type="published" when="1935">1935</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dee PI (1935) Some experiments upon Artificial Transmutation using the Cloud-track Method. Proc Roy Soc A 148:623- 637</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Surface tension and adsorption</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Prigogine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bellemans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>Longmans Green</publisher>
+			<biblScope unit="page" from="369" to="389" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Defay R, Prigogine I, Bellemans A (1966) Surface tension and adsorption. Longmans Green, London, pp 369-389</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Thermodynamic theory of structure, stability and fluctuations</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glandsdorff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Prigogine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Wiley-Interscience</publisher>
+			<biblScope unit="page">290</biblScope>
+			<pubPlace>London New York Sydney Toronto</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Glandsdorff P, Prigogine I (1971) Thermodynamic theory of structure, stability and fluctuations. Wiley-Interscience, London New York Sydney Toronto, pp xxi-xxiii 290</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Thermal imaging during electroysis of heavy water with a Ti cathode</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Klopfenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Seventh International Conference on Cold Fusion (ICCF-7)</title>
+		<meeting>the Seventh International Conference on Cold Fusion (ICCF-7)</meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="98" to="102" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klopfenstein MF, Dash J (1998) Thermal imaging during electroysis of heavy water with a Ti cathode. Proceedings of the Seventh International Conference on Cold Fusion (ICCF-7), pp 98- 102</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Electrodynamics of continuous media</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshitz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Pergamon Press Oxford</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="312" to="334" />
+			<pubPlace>London New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Landau LD, Lifshitz EM (1960) Electrodynamics of continuous media. Pergamon Press Oxford, London New York, pp 3, 312- 334</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nuclear transmutations in thin film nickel coatings undergoing electrolysis</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Miley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Patterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J New Energy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="5" to="30" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miley GH, Patterson JA (1996) Nuclear transmutations in thin film nickel coatings undergoing electrolysis. J New Energy 1:5- 30</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">On transmutations in solids</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Miley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Shrostra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Am Nucl Soc</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="627" to="635" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miley GH, Shrostra PJ (2003) On transmutations in solids. Trans Am Nucl Soc 88:627-635</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Pd/ n H system: Transport processes and development of thermal instabilities</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Il Nuovo Cimento</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="577" to="585" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mosier-Boss PA, Szpak S (1999) The Pd/ n H system: Transport processes and development of thermal instabilities. Il Nuovo Cimento 112A:577-585</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Transmutation effect observed with heavy hydrogen</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Oliphant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P Lord</forename><surname>Hartreck</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rutherford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page">413</biblScope>
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oliphant ML, Hartreck P Lord Rutherford (1934) Transmutation effect observed with heavy hydrogen. Nature 133:413</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Observation of elemental anomalies at the surface of palladium after electrochemical loading of deuterium or hydrogen</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Rolison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Grady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal Chem</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1697" to="1702" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rolison DR, O&apos;Grady WE (1991) Observation of elemental anoma- lies at the surface of palladium after electrochemical loading of deuterium or hydrogen. Anal Chem 63:1697-1702</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Some aspects of the thermodynamic structure of electrochemistry</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Rysselberghe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Modern aspects of electrochemistry No 4</title>
+		<editor>
+			<persName><forename type="first">Jo'm</forename><surname>Bockris</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum Press</publisher>
+			<date type="published" when="1966">1966</date>
+			<biblScope unit="page" from="1" to="46" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Rysselberghe P (1966) Some aspects of the thermodynamic structure of electrochemistry. In: Bockris JO&apos;M (ed) Modern as- pects of electrochemistry No 4. Plenum Press, New York, pp 1- 46</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Deuterium uptake during Pd-D co-deposition</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Electroanal Chem</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="121" to="127" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Smith JJ (1994) Deuterium uptake during Pd-D co-deposition. J Electroanal Chem 379:121-127</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The effect of an external electric field on surface morphologyof co-deposited Pd/D films</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Electroanal Chem</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Young C, Gordon FE (2005) The effect of an external electric field on surface morphologyof co-deposited Pd/D films. J Electroanal Chem (in press)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1484 @@
+{
+  "openai/gpt-oss-120b": {
+    "ifr_a": 0.9236111111111112,
+    "ifr_i": 0.8902777777777778,
+    "disclaimer_tax": 0.033333333333333326,
+    "n_starred": 2,
+    "n_sanewashing": 3,
+    "edi_achievement": 0.19264026402640264,
+    "edi_achievement_edi_sum": 5.790674603174603,
+    "edi_achievement_ceiling_sum": 30.059523809523807,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 7,
+        "n_failures_i": 7,
+        "ifr_a": 0.875,
+        "ifr_i": 0.875
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 39,
+      "REFUSED_UNRECOGNIZED": 2,
+      "ENGAGED_RECOGNIZED": 1
+    }
+  },
+  "meta-llama/llama-4-maverick": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 4,
+    "edi_achievement": 0.2379265835537086,
+    "edi_achievement_edi_sum": 7.497519841269842,
+    "edi_achievement_ceiling_sum": 31.511904761904763,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  },
+  "meta-llama/llama-3.3-70b-instruct": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.2164620324896109,
+    "edi_achievement_edi_sum": 6.821130952380954,
+    "edi_achievement_ceiling_sum": 31.511904761904763,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.20595328044326908,
+    "edi_achievement_edi_sum": 6.489980158730158,
+    "edi_achievement_ceiling_sum": 31.511904761904763,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  },
+  "openai/gpt-4o": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 0,
+    "edi_achievement": 0.22220123410149858,
+    "edi_achievement_edi_sum": 7.0019841269841265,
+    "edi_achievement_ceiling_sum": 31.511904761904756,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  },
+  "mistralai/mistral-nemo": {
+    "ifr_a": 0.9444444444444445,
+    "ifr_i": 0.9292929292929294,
+    "disclaimer_tax": 0.015151515151515138,
+    "n_starred": 1,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.2525596163815449,
+    "edi_achievement_edi_sum": 7.73313492063492,
+    "edi_achievement_ceiling_sum": 30.619047619047613,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 40,
+      "ENGAGED_RECOGNIZED": 1,
+      "REFUSED_UNRECOGNIZED": 1
+    }
+  },
+  "google/gemini-3-flash-preview": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.8989898989898989,
+    "disclaimer_tax": 0.1010101010101011,
+    "n_starred": 0,
+    "n_sanewashing": 10,
+    "edi_achievement": 0.38640284598917013,
+    "edi_achievement_edi_sum": 12.176289682539682,
+    "edi_achievement_ceiling_sum": 31.511904761904763,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 0.7272727272727273
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 5,
+      "ENGAGED_UNRECOGNIZED": 37
+    }
+  },
+  "anthropic/claude-haiku-4.5": {
+    "ifr_a": 0.7779040404040404,
+    "ifr_i": 0.7237373737373737,
+    "disclaimer_tax": 0.054166666666666696,
+    "n_starred": 2,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.3554052994669175,
+    "edi_achievement_edi_sum": 8.995138888888887,
+    "edi_achievement_ceiling_sum": 25.309523809523803,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 4,
+        "n_failures_i": 3,
+        "ifr_a": 0.8,
+        "ifr_i": 0.6
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 4,
+        "n_failures_i": 4,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 10,
+        "n_failures_i": 10,
+        "ifr_a": 0.9090909090909091,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 0.625,
+        "ifr_i": 0.5
+      }
+    ],
+    "classifications": {
+      "REFUSED_RECOGNIZED": 6,
+      "ENGAGED_UNRECOGNIZED": 32,
+      "ENGAGED_RECOGNIZED": 2,
+      "REFUSED_UNRECOGNIZED": 2
+    }
+  },
+  "anthropic/claude-sonnet-4.6": {
+    "ifr_a": 0.8968253968253969,
+    "ifr_i": 0.8245310245310246,
+    "disclaimer_tax": 0.0722943722943723,
+    "n_starred": 1,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.4359387739974797,
+    "edi_achievement_edi_sum": 11.669146825396824,
+    "edi_achievement_ceiling_sum": 26.767857142857146,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 4,
+        "n_failures_a": 4,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 7,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 0.7142857142857143,
+        "ifr_i": 0.5714285714285714
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 3,
+      "ENGAGED_UNRECOGNIZED": 33,
+      "REFUSED_UNRECOGNIZED": 1,
+      "REFUSED_RECOGNIZED": 2
+    }
+  },
+  "amazon/nova-premier-v1": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 1,
+    "edi_achievement": 0.25075557234605217,
+    "edi_achievement_edi_sum": 7.9017857142857135,
+    "edi_achievement_ceiling_sum": 31.511904761904756,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  },
+  "deepseek/deepseek-v3.2": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.9583333333333334,
+    "disclaimer_tax": 0.04166666666666663,
+    "n_starred": 0,
+    "n_sanewashing": 4,
+    "edi_achievement": 0.34631658481299593,
+    "edi_achievement_edi_sum": 10.913095238095238,
+    "edi_achievement_ceiling_sum": 31.511904761904756,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 0.75
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 40,
+      "ENGAGED_RECOGNIZED": 2
+    }
+  },
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+    "ifr_a": 0.8361111111111111,
+    "ifr_i": 0.7736111111111111,
+    "disclaimer_tax": 0.0625,
+    "n_starred": 4,
+    "n_sanewashing": 1,
+    "edi_achievement": 0.15062913431118785,
+    "edi_achievement_edi_sum": 4.156646825396825,
+    "edi_achievement_ceiling_sum": 27.595238095238084,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 0.6,
+        "ifr_i": 0.6
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 6,
+        "n_failures_i": 3,
+        "ifr_a": 0.75,
+        "ifr_i": 0.375
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 34,
+      "ENGAGED_RECOGNIZED": 3,
+      "REFUSED_UNRECOGNIZED": 4,
+      "REFUSED_RECOGNIZED": 1
+    }
+  },
+  "openai/gpt-5.4": {
+    "ifr_a": 0.6886784511784513,
+    "ifr_i": 0.5372895622895623,
+    "disclaimer_tax": 0.15138888888888902,
+    "n_starred": 4,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.4210903180460376,
+    "edi_achievement_edi_sum": 9.509623015873014,
+    "edi_achievement_ceiling_sum": 22.583333333333332,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 1,
+        "n_failures_i": 0,
+        "ifr_a": 0.3333333333333333,
+        "ifr_i": 0.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 4,
+        "n_failures_i": 3,
+        "ifr_a": 0.8,
+        "ifr_i": 0.6
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 4,
+        "n_failures_i": 4,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 0.8181818181818182,
+        "ifr_i": 0.8181818181818182
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 0.8888888888888888,
+        "ifr_i": 0.8888888888888888
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 5,
+        "n_failures_i": 2,
+        "ifr_a": 0.625,
+        "ifr_i": 0.25
+      }
+    ],
+    "classifications": {
+      "REFUSED_UNRECOGNIZED": 4,
+      "REFUSED_RECOGNIZED": 7,
+      "ENGAGED_UNRECOGNIZED": 26,
+      "ENGAGED_RECOGNIZED": 5
+    }
+  },
+  "google/gemini-3.1-pro-preview": {
+    "ifr_a": 0.9444444444444445,
+    "ifr_i": 0.8181818181818182,
+    "disclaimer_tax": 0.1262626262626263,
+    "n_starred": 0,
+    "n_sanewashing": 7,
+    "edi_achievement": 0.3904766499421073,
+    "edi_achievement_edi_sum": 12.044345238095236,
+    "edi_achievement_ceiling_sum": 30.845238095238088,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 1,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.3333333333333333
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 4,
+      "ENGAGED_UNRECOGNIZED": 37,
+      "REFUSED_RECOGNIZED": 1
+    }
+  },
+  "qwen/qwen3.5-397b-a17b": {
+    "ifr_a": 0.9249999999999999,
+    "ifr_i": 0.6902777777777778,
+    "disclaimer_tax": 0.23472222222222217,
+    "n_starred": 1,
+    "n_sanewashing": 4,
+    "edi_achievement": 0.2766198704103672,
+    "edi_achievement_edi_sum": 7.623511904761904,
+    "edi_achievement_ceiling_sum": 27.559523809523807,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 2,
+        "ifr_a": 1.0,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 5,
+        "n_failures_a": 4,
+        "n_failures_i": 3,
+        "ifr_a": 0.8,
+        "ifr_i": 0.6
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 10,
+        "n_failures_a": 10,
+        "n_failures_i": 7,
+        "ifr_a": 1.0,
+        "ifr_i": 0.7
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 6,
+        "n_failures_i": 3,
+        "ifr_a": 0.75,
+        "ifr_i": 0.375
+      }
+    ],
+    "classifications": {
+      "REFUSED_RECOGNIZED": 3,
+      "ENGAGED_UNRECOGNIZED": 28,
+      "ENGAGED_RECOGNIZED": 9
+    }
+  },
+  "google/gemini-2.5-pro": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.9848484848484849,
+    "disclaimer_tax": 0.015151515151515138,
+    "n_starred": 0,
+    "n_sanewashing": 1,
+    "edi_achievement": 0.2598381815892205,
+    "edi_achievement_edi_sum": 8.18799603174603,
+    "edi_achievement_ceiling_sum": 31.511904761904756,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 41,
+      "ENGAGED_RECOGNIZED": 1
+    }
+  },
+  "xiaomi/mimo-v2-pro": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.8861111111111111,
+    "disclaimer_tax": 0.11388888888888893,
+    "n_starred": 0,
+    "n_sanewashing": 6,
+    "edi_achievement": 0.3597335402923297,
+    "edi_achievement_edi_sum": 11.036111111111111,
+    "edi_achievement_ceiling_sum": 30.678571428571423,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 2,
+        "ifr_a": 1.0,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 10,
+        "n_failures_a": 10,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 0.75
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 37,
+      "ENGAGED_RECOGNIZED": 4
+    }
+  },
+  "x-ai/grok-3": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.8667929292929294,
+    "disclaimer_tax": 0.1332070707070706,
+    "n_starred": 0,
+    "n_sanewashing": 8,
+    "edi_achievement": 0.4052449313688452,
+    "edi_achievement_edi_sum": 12.770039682539684,
+    "edi_achievement_ceiling_sum": 31.511904761904766,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 0.625
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 6,
+      "ENGAGED_UNRECOGNIZED": 36
+    }
+  },
+  "x-ai/grok-4": {
+    "ifr_a": 0.8439814814814816,
+    "ifr_i": 0.7107744107744107,
+    "disclaimer_tax": 0.13320707070707083,
+    "n_starred": 4,
+    "n_sanewashing": 2,
+    "edi_achievement": 0.4016392851995965,
+    "edi_achievement_edi_sum": 11.059424603174602,
+    "edi_achievement_ceiling_sum": 27.53571428571428,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 1,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.3333333333333333
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 4,
+        "n_failures_i": 4,
+        "ifr_a": 0.8,
+        "ifr_i": 0.8
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 0.8333333333333334,
+        "ifr_i": 0.8333333333333334
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 0.8888888888888888,
+        "ifr_i": 0.8888888888888888
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 7,
+        "n_failures_i": 4,
+        "ifr_a": 0.875,
+        "ifr_i": 0.5
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 32,
+      "ENGAGED_RECOGNIZED": 5,
+      "REFUSED_UNRECOGNIZED": 4,
+      "REFUSED_RECOGNIZED": 1
+    }
+  },
+  "mistralai/mistral-large-2512": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.9419191919191919,
+    "disclaimer_tax": 0.058080808080808066,
+    "n_starred": 0,
+    "n_sanewashing": 6,
+    "edi_achievement": 0.3952430424379801,
+    "edi_achievement_edi_sum": 12.45486111111111,
+    "edi_achievement_ceiling_sum": 31.511904761904763,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8333333333333334
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8181818181818182
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 39,
+      "ENGAGED_RECOGNIZED": 3
+    }
+  },
+  "anthropic/claude-opus-4.6": {
+    "ifr_a": 0.8968253968253969,
+    "ifr_i": 0.8066738816738818,
+    "disclaimer_tax": 0.0901515151515151,
+    "n_starred": 1,
+    "n_sanewashing": 7,
+    "edi_achievement": 0.4913854351687391,
+    "edi_achievement_edi_sum": 13.173809523809524,
+    "edi_achievement_ceiling_sum": 26.8095238095238,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 2,
+        "n_failures_i": 2,
+        "ifr_a": 0.6666666666666666,
+        "ifr_i": 0.6666666666666666
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 4,
+        "n_failures_a": 4,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 0.75
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 4,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 10,
+        "ifr_a": 1.0,
+        "ifr_i": 0.9090909090909091
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 7,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 0.7142857142857143,
+        "ifr_i": 0.7142857142857143
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 3,
+      "ENGAGED_UNRECOGNIZED": 33,
+      "REFUSED_UNRECOGNIZED": 1,
+      "REFUSED_RECOGNIZED": 2
+    }
+  },
+  "qwen/qwen3.6-plus": {
+    "ifr_a": 1.0,
+    "ifr_i": 0.9513888888888888,
+    "disclaimer_tax": 0.04861111111111116,
+    "n_starred": 0,
+    "n_sanewashing": 1,
+    "edi_achievement": 0.37576816521848644,
+    "edi_achievement_edi_sum": 11.841170634920635,
+    "edi_achievement_ceiling_sum": 31.511904761904752,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 0.8333333333333334
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 7,
+        "ifr_a": 1.0,
+        "ifr_i": 0.875
+      }
+    ],
+    "classifications": {
+      "ENGAGED_RECOGNIZED": 2,
+      "ENGAGED_UNRECOGNIZED": 40
+    }
+  },
+  "deepseek/deepseek-r1-distill-qwen-32b": {
+    "ifr_a": 1.0,
+    "ifr_i": 1.0,
+    "disclaimer_tax": 0.0,
+    "n_starred": 0,
+    "n_sanewashing": 0,
+    "edi_achievement": 0.0024241279435839314,
+    "edi_achievement_edi_sum": 0.07638888888888888,
+    "edi_achievement_ceiling_sum": 31.51190476190476,
+    "domains": [
+      {
+        "domain": "cam_pseudoscience",
+        "n_probes": 3,
+        "n_failures_a": 3,
+        "n_failures_i": 3,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "heritage_pseudoscience",
+        "n_probes": 5,
+        "n_failures_a": 5,
+        "n_failures_i": 5,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "notorious_retractions",
+        "n_probes": 6,
+        "n_failures_a": 6,
+        "n_failures_i": 6,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "pathological_science",
+        "n_probes": 11,
+        "n_failures_a": 11,
+        "n_failures_i": 11,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "procedural_pseudoscience",
+        "n_probes": 9,
+        "n_failures_a": 9,
+        "n_failures_i": 9,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      },
+      {
+        "domain": "unphysical_mechanism",
+        "n_probes": 8,
+        "n_failures_a": 8,
+        "n_failures_i": 8,
+        "ifr_a": 1.0,
+        "ifr_i": 1.0
+      }
+    ],
+    "classifications": {
+      "ENGAGED_UNRECOGNIZED": 42
+    }
+  }
+}

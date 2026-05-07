@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Formation of Neural Circuits in an Expanded Version of Darwin’s Theory: Effects of DNAs in Extra Dimensions and within the Earth’s Core on Neural Networks</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Scientific Foundation Spiroski (publications)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-09-10">10-Sep-2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Massimo</forename><surname>Fioranelli</surname></persName>
+							<email>massimo.fioranelli@gmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alireza</forename><surname>Sepehri</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><forename type="middle">Grazia</forename><surname>Roccia</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cota</forename><surname>Linda</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chiara</forename><surname>Rossi</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amos</forename><surname>Dawodo</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Petar</forename><surname>Vojvodic</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Clinic for Psychiatric Disorders &quot;Dr . Laza Lazarevic&quot; , Belgrade , Serbia;</note>
+								<orgName type="department">Clinic for Psychiatric Disorders &quot;Dr</orgName>
+								<orgName type="institution">Laza Lazarevic&quot;</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country>Serbia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacopo</forename><surname>Lotti</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy;</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Victoria</forename><surname>Barygina</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Department of Biomedical Experimental and Clinical Sciences , University of Florence , Florence , Italy;</note>
+								<orgName type="department">Department of Biomedical Experimental and Clinical Sciences</orgName>
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<settlement>Florence</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aleksandra</forename><surname>Vojvodic</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Dermatology and Venereology , Military Medical Academy , Belgrade , Serbia;</note>
+								<orgName type="department">Department of Dermatology and Venereology</orgName>
+								<orgName type="institution">Military Medical Academy</orgName>
+								<address>
+									<settlement>Belgrade</settlement>
+									<country>Serbia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Uwe</forename><surname>Wollina</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>5</label> Department of Dermatology and Allergology , Städtisches Klinikum Dresden , Dresden , Germany;</note>
+								<orgName type="department">Department of Dermatology and Allergology</orgName>
+								<orgName type="institution">Städtisches Klinikum Dresden</orgName>
+								<address>
+									<settlement>Dresden</settlement>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Tirant</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>6</label> G. Marconi University , Rome , Italy;</note>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Van</forename><forename type="middle">Thuong</forename><surname>Nguyen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Torello</forename><surname>Lotti</surname></persName>
+							<affiliation key="aff7">
+								<note type="raw_affiliation"><label>8</label> Department of Dermatology , University of G. Marconi , Rome , Italy</note>
+								<orgName type="department">Department of Dermatology</orgName>
+								<orgName type="institution">University of G. Marconi</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<note type="raw_affiliation">Department of Nuclear Physics , Sub-nuclear and Radiation , G. Marconi University , Rome , Italy.</note>
+								<orgName type="department" key="dep1">Department of Nuclear Physics</orgName>
+								<orgName type="department" key="dep2">Sub-nuclear and Radiation</orgName>
+								<orgName type="institution">G. Marconi University</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Formation of Neural Circuits in an Expanded Version of Darwin’s Theory: Effects of DNAs in Extra Dimensions and within the Earth’s Core on Neural Networks</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Open Access Macedonian Journal of Medical Sciences</title>
+						<title level="j" type="abbrev">Open Access Maced J Med Sci</title>
+						<idno type="ISSN">e: 1857-9655</idno>
+						<idno type="eISSN">1857-9655</idno>
+						<imprint>
+							<publisher>Scientific Foundation Spiroski (publications)</publisher>
+							<biblScope unit="volume">7</biblScope>
+							<biblScope unit="issue">18</biblScope>
+							<biblScope unit="page" from="3113" to="3117"/>
+							<date type="published" when="2019-09-10">10-Sep-2019</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D8CED9584FBEED5FF19E823363283A2E</idno>
+					<idno type="DOI">10.3889/oamjms.2019.769</idno>
+					<note type="submission">Received: 03-Sep-2019; Revised: 14-Sep-2019; Accepted: 15-Sep-2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Neural network</term>
+					<term>DNAs</term>
+					<term>Extra dimensions</term>
+					<term>Earth</term>
+					<term>Darwin</term>
+					<term>Earthquake</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AIM:</head><p>In this paper, inspiring Darwin's theory, we propose a model which connects evolutions of neural circuits with evolutions of cosmos. In this model, in the beginning, there are some closed strings which decay into two groups of open strings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS:</head><p>First group couple to our universe from one side and produce matters like some genes of DNAs and couple to an anti-universe from another side with opposite sign and create anti-matters like some anti-genes of anti-DNAs. Second group couple to the star and planet's cores like the earth's core from one side and produce anti-matters like stringy black anti-DNA and couple to outer layers of stars and planets like the earth from other side and produce matters like some genes of DNAs on the earth. Each DNA or anti-DNA contains some genetic circuits which act like the circuits of receiver or sender of radio waves. To transfer waves of these circuits, some neurons emerge which some of them are related to genetic circuits of anti-DNAs in anti-universe, and some are related to genetic circuits of stringy black anti-DNA within the earth's core. A collection of these neural circuits forms the little brain on the heart at first and main brain after some time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS:</head><p>To examine the model, we remove effects of matters in outer layers of earth in the conditions of microgravity and consider radiated signals of neural circuits in a chick embryo. We observe that in microgravity, more signals are emitted by neural circuits respect to normal conditions. This is a signature of exchanged waves between neural circuits and structures within the earth's core.</p><p>CONCLUSION: These communications help some animals to predict the time and place of an earthquake.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Until now, two parallel theories have been proposed which one describes evolutions of biological systems and another explains evolutions of cosmos. In biology, Charles Darwin suggested the theory of evolutions and considers the process of developing Human and animals from single-cell creatures <ref type="bibr" target="#b0">[1]</ref>, <ref type="bibr" target="#b1">[2]</ref>. In cosmology, string theory considers evolutions of cosmos and predicts that the origin of all cosmological objects like black holes, stars, planets and even universes are some highly excited strings <ref type="bibr" target="#b2">[3]</ref>, <ref type="bibr" target="#b3">[4]</ref>, <ref type="bibr" target="#b4">[5]</ref>, <ref type="bibr" target="#b6">[6]</ref>. Also, in this theory, there are some extra dimensions which have direct relations with the process of birth and expanding of universes <ref type="bibr" target="#b6">[6]</ref>, <ref type="bibr" target="#b7">[7]</ref>, <ref type="bibr" target="#b8">[8]</ref>. However, there isn't a theory which considers the effects of cosmological evolutions on biological systems. Does the question arise that what is the relation between string theory and the theory of evolution in biology? For example, should there be a relationship between neural circuits of the brain and <ref type="url" target="https://www.id-press.eu/mjms/index">https://www.id-press.eu/mjms/index</ref> extra dimensions? Until now, many scientists believe that neural circuits in the brain have the main role in voluntary decisions. Although, some investigators have proved the existence a little brain on the heart which acts like a real brain in the head <ref type="bibr" target="#b9">[9]</ref>, <ref type="bibr" target="#b10">[10]</ref>. Also, recent investigations show that patients who gave hearts from donors, obtain some characteristics of them <ref type="bibr" target="#b11">[11]</ref>. Thus, there is a possibility that some characteristics be related to some neural circuits out of the head. These neural circuits may be emerged around initial DNA during developing of the embryo. Before the formation of the head, genes of initial DNAs have a structure like the electronic structures of sender or receiver of radio waves and emit some signals <ref type="bibr" target="#b12">[12]</ref>. These signals are carried by molecules of blood and transferred to another place. For this reason, first, a heart emerges which in addition to its main roles, exchange waves with other cells and medium. Eventually, the first group of neurons are emerged near the heart and build a little brain. After some time, the second group of neurons from the neural circuits in the head. These considerations show that initial DNAs have direct effects on the creation of neural circuits.</p><p>On the other hand, some investigators showed that there are some missing genes that their effects could be observed in chemical products <ref type="bibr" target="#b13">[13]</ref>, <ref type="bibr" target="#b14">[14]</ref>. If we assume that these missing genes are genes of DNAs in extra dimensions, thus, their effects should be observed in neural circuits. Some neural circuits should be produced by missing genes in extra dimensions.</p><p>In this research, we generalise Darwin's theory to cosmology and show that there is a direct relationship between the evolutions of neural circuits and evolutions of the universe. In our model, the origin of biological matters like DNAs and cosmological objects like planets, stars and even universes are closed strings. These closed stings decay into open strings. These strings not only produce cosmological objects but also create DNAs on the earth, anti-DNAs in another universe and stringy black anti-DNAs within the earth's core. Each of these DNAs contains genetic circuits like the circuits of receiver or sender of radio waves. To transfer waves of these genes, some neurons emerge which by joining them neural networks in the brain or little brain are emerged. Thus, some neural circuits in brains correspond to genetic circuits of anti-DNAs in anti-universe and stringy DNAs within the earth's core.</p><p>The outline of this paper as follows: In section II, we consider the role of genetic circuits of initial DNAs on the earth information of neural circuits. In section III, we study the effect of anti-DNAs in antiuniverses and stringy anti-DNA within the earth's core on the formation of neural circuits. In section IV, we recover exchanged waves between neural circuits and stringy anti-DNA within the earth's core in the condition of microgravity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The role of genetic circuits of initial DNAs information of neural circuits</head><p>Previously, it has been shown that each gene could act as the receiver of the sender of radio waves <ref type="bibr" target="#b12">[12]</ref>. This is because each part of a gene behaves like one element of an electronic circuit. For example, adenine and thymine have different topologies, and charge distributions and electric fields could be exchanged between their manifolds. This causes that one of them plays the role of the page with a positive charge and another plays the role of the page with a negative charge. Consequently, two pages with opposite charges emerge and a capacitor is emerged (See Figure <ref type="figure" target="#fig_0">1</ref>). Also, guanine and cytosine have different topologies and charge distributions. Consequently, an electric field emerges between them and a capacitor is produced (See Figure 2). On the other hand, each gene is coiled several times around various axes and has the shape of an inductor (See Figure <ref type="figure" target="#fig_2">3</ref>). Collecting these devices produces an electronic circuit like the circuit of a receiver or sender of waves (see Figure <ref type="figure" target="#fig_3">4</ref>). Each gene emits some waves to communicate with other genes and medium. For analysing signals of each gene, one circuit should emerge that receive signals, analyse and send responses. These circuits are formed from neurons. On the other hand, each of these genes emits several types of waves. To transmit these waves between cells, there should be several terminals or receiver in dendrite and axons of a neuron. These neurons join to each other and form a circuit related to one special gene. A collection of these circuits builds neural network interior of a brain (see Figure <ref type="figure">5</ref>). However, before the formation of the main brain, some neural circuits are emerged around stem cells to form the little brain. In these conditions, in the absence of head in the early stages of embryos, most of the initial signals of initial DNA are transformed by blood molecules from the heart to other cells, and thus, the little brain is formed on the heart first. Then, after some time, the second collection of neuronal circuits emerge which build the neural circuits of a brain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 5: Emergence of neural circuits by exchanging waves between genetic circuits and medium</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The role of the black stringy anti-DNA interior of the earth's core and anti-DNA in anti-universe information of neural circuits of a brain</head><p>One of the main questions in science is about the ability of animals for predicting earthquakes. This ability shows that there should be a relation between neuronal circuits in brain and structures within the earth's core. On the other hand, according to cosmological ideas, there are some anti-universes which are emerged on some anti-branes and interact with our universe. If these theories are true, there should be a relation between DNAs in our universe and DNAs in anti-universes? DNAs in anti-universes should have direct effects on neuronal circuits in the brain.</p><p>Summing over these ideas, we propose a new model which connects cosmological models with biological evolutions. In this model, there are some closed strings which decay and produce open strings coupled to two manifolds, one related to the universe and another related to anti-universe. Two sides of each open string have opposite signs and produce matters on one universe and anti-matters on another universe. Consequently, if a gene of a DNA emerges on one universe, an anti-gene of an anti-DNA is produced on another universe. On the other hand, some closed strings decay and produce two types of open strings, which one type produces genes of stringy black anti-DNAs within some stars and planets like the earth's core, and another type produces genes of DNAs on the planets like the earth. Also, one side of open strings are placed within the earth's core, and another side is located on outer layers of earth. Consequently, around the stringy structure within the earth, some anti-matters emerge and in outer layers of earth, the matter emerges. Thus, each DNA on the earth has two parts, one part includes genes in connection with genes of anti-universe, and another includes genes in connection with genes of stringy black anti-DNA within the earth. These genes have some genetic circuits which exchange waves with each other and medium.</p><p>To transfer these waves, some neuronal circuits emerge. Collections of these neural circuits produce little brain and brain. Thus, each neural network in each brain includes some neuronal circuits which exchange waves with DNAs on the earth, stringy black anti-DNAs within the earth and anti-DNAs in an anti-universe (See Figure <ref type="figure" target="#fig_4">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Using of microgravity for recovery of exchanged waves between neural circuits, anti-DNAs and stringy black anti-DNA within the earth</head><p>To observe the effects of structures within the earth's core, we should remove the effects of matters which are existed on outer layers of earth. To this aim, we use a clinostat to produce the conditions of microgravity. Also, for analysing the process of formation of neuronal circuits, we use of chick embryos. We locate two groups of fertilised eggs in an incubator, one in the condition of microgravity and another in normal conditions. After ten hours, we take one egg of each group, break them and measure their waves by connecting them to a scope. We repeat this experiment for every ten hours until 17 days (See figure <ref type="figure" target="#fig_5">7</ref>). Our results show that in the condition of microgravity, larger values of currents could be observed. This means that in these conditions, the number of exchanged waves between the earth and neuronal circuits increases. This is because that by removing effects of gravity of the matter in outer layers, effects of stringy black anti-DNA within the earth's core on the neuronal circuits could be observed better. In this research, we have expanded Darwin's theory by connecting it to cosmology and proposed a model which shows that the origin of life is closed strings. In this theory, before the formation of the universe, there are some closed strings which live on the zero-dimensional manifold. These strings decay and two types of open strings emerge. Two sides of each open string have opposite signs. The first type of open strings connects two different manifolds.</p><p>These strings produce matters like some genes of DNAs in our universe, and another side creates anti-matter like some anti-genes of anti-DNAs in anti-universe. The second type of open strings connects two points of one manifold. They create matters like some genes of some DNAs on the planets like the earth and another produce matters like some anti-genes of some anti-DNAs within the planet's cores like the earth's core. Each gene has a circuit and acts as the receiver or sender of radio waves. To transfer waves of genes, some neurons emerge which join to each other and form a neural network. Thus, some neural circuits exchange waves with stringy anti-DNA within the earth and anti-DNA in an anti-universe. To examine this assumption, we considered radiated waves of neural networks in a chick embryo in the condition of microgravity. Our experiments have shown that by removing the effects of gravity and matters in outer layers of earth, more waves were emitted by neurons. This means that in these conditions, neurons exchange more waves with structures within the earth's core.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: A capacitor is formed from Adenine and Thymine</figDesc><graphic coords="2,327.90,265.83,208.80,73.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: A capacitor is formed from guanine and cytosine</figDesc><graphic coords="2,327.90,429.82,208.80,59.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Each gene is coiled several times, and its structure is similar to an inductor</figDesc><graphic coords="2,332.35,591.30,201.60,138.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Each gene has a circuit like the circuit of the sender or receiver of radio waves</figDesc><graphic coords="3,59.15,143.20,237.60,88.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6 :</head><label>6</label><figDesc>Figure 6: Neural circuits in a brain may be produced by exchanging waves between DNAs on the earth, anti-DNAs in anti-universe and stringy DNAs within the earth's core</figDesc><graphic coords="3,313.40,442.67,237.60,259.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 7 :</head><label>7</label><figDesc>Figure 7: A method for considering the effects of stringy black DNA within the earth's core on the neuronal circuits</figDesc><graphic coords="4,58.20,495.82,237.60,116.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 8 :</head><label>8</label><figDesc>Figure 8: Currents of neuronal circuits in terms of time for a chick embryo</figDesc><graphic coords="4,313.40,57.84,237.60,143.06" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Bowler</surname></persName>
+		</author>
+		<title level="m">Evolution: The History of an Idea (3rd completely rev. and expanded</title>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bowler PJ. Evolution: The History of an Idea (3rd completely rev. and expanded ed. University of California Press, 2013.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Charles Darwin</surname></persName>
+		</author>
+		<title level="m">The Power of Place</title>
+		<imprint>
+			<publisher>Jonathan Cape</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Browne J. Charles Darwin: The Power of Place. 2. Jonathan Cape, 2002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smolin</surname></persName>
+		</author>
+		<title level="m">The Life of the Cosmos</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York and Weidenfeld and Nicolson</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smolin L. The Life of the Cosmos Oxford University Press. New York and Weidenfeld and Nicolson, London. 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">String balls at the LHC and beyond</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Emparan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics Letters B</title>
+		<imprint>
+			<biblScope unit="volume">526</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="393" to="398" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dimopoulos S, Emparan R. String balls at the LHC and beyond. Physics Letters B. 2002; 526(3-4):393-8.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Some Speculations about Black Hole Entropy in String Theory</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Susskind</surname></persName>
+		</author>
+		<idno>hep-th/9309145</idno>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Susskind L. Some Speculations about Black Hole Entropy in String Theory. hep-th/9309145;</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Braneless Black Holes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Halyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rajaraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Susskind</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0370-2693(96)01544-4</idno>
+		<ptr target="https://doi.org/10.1016/S0370-2693(96)01544-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">392</biblScope>
+			<biblScope unit="page" from="319" to="322" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Halyo E, Rajaraman A, Susskind L. Braneless Black Holes. Phys. Lett. B 1997; 392:319-322. https://doi.org/10.1016/S0370-2693(96)01544-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Correspondence principle for black holes and strings</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Polchinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevD.55.6189</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevD.55.6189" />
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review D</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="6189" to="6197" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Horowitz GT, Polchinski J. Correspondence principle for black holes and strings. Physical Review D. 1997; 55(10):6189-97. https://doi.org/10.1103/PhysRevD.55.6189</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Large mass hierarchy from a small extra dimension</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Randall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Raman</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.83.3370</idno>
+		<ptr target="https://doi.org/10.1103/PhysRevLett.83.3370" />
+	</analytic>
+	<monogr>
+		<title level="j">Phys Rev Lett</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="3370" to="3373" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Randall L, Raman S. Large mass hierarchy from a small extra dimension. Phys Rev Lett. 1999; 83:3370-3373. https://doi.org/10.1103/PhysRevLett.83.3370</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Large Extra Dimensions: Becoming acquainted with an alternative paradigm. Crossing the boundaries: Gauge dynamics at strong coupling</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shifman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Mod Phys A</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="199" to="225" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shifman M. Large Extra Dimensions: Becoming acquainted with an alternative paradigm. Crossing the boundaries: Gauge dynamics at strong coupling. Int J Mod Phys A. 2009; 25:199-225.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The little brain on the heart</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Armour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cleve Clin J Med</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="51" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armour, JA. The little brain on the heart. Cleve Clin J Med. 2007; 74(1):S48-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Potential clinical relevance of the &apos;little brain&apos; on the mammalian heart</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Armour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Physiol</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="348" to="353" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armour JA. Potential clinical relevance of the &apos;little brain&apos; on the mammalian heart. Exp Physiol. 2015; 100(4):348-353.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Heart&apos;s Code: Tapping the wisdom and power of our heart energy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pearsall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Broadway Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pearsall P. The Heart&apos;s Code: Tapping the wisdom and power of our heart energy. New York; Broadway Books, 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A mathematical model for DNA</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sepehri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Geom Methods Mod Phys</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">1750152</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sepehri A. A mathematical model for DNA, Int J Geom Methods Mod Phys. 2017; 14:1750152.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The hunt for dark DNA</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0262-4079(18)30440-8</idno>
+		<ptr target="https://doi.org/10.1016/S0262-4079(18)30440-8" />
+	</analytic>
+	<monogr>
+		<title level="j">New Scientist</title>
+		<imprint>
+			<biblScope unit="volume">237</biblScope>
+			<biblScope unit="issue">3168</biblScope>
+			<biblScope unit="page" from="29" to="31" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hargreaves A. The hunt for dark DNA. New Scientist. 2018; 237(3168):29-31. https://doi.org/10.1016/S0262-4079(18)30440-8</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Introducing &apos;dark DNA&apos;-the phenomenon that could change how we think about evolution</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Academic rigour</note>
+	<note>journalistic flair</note>
+	<note type="raw_reference">Hargreaves A. Introducing &apos;dark DNA&apos;-the phenomenon that could change how we think about evolution. Academic rigour. journalistic flair. 2017.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

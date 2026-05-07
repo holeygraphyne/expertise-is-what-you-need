@@ -1,0 +1,207 @@
+paper_id: sheth_ocimum_sanctum_2022
+doi: 10.1007/s11011-022-01056-8
+title: Amelioration of intracerebroventricular streptozotocin-induced
+  cognitive dysfunction by Ocimum sanctum L. through the modulation of inflammation
+  and GLP-1 levels
+authors:
+  - Bansy Patel
+  - Devang Sheth
+  - Amit Vyas
+  - Sunny Shah
+  - Sachin Parmar
+  - Chirag Patel
+  - Sandip Patel
+  - Jayesh Beladiya
+  - Sonal Pande
+  - Ketan Modi
+journal: Metabolic Brain Disease
+year: 2022
+pdf_sha256: 73d4915f677fad7fdb65fb47d508f152104dfd96ad4b8bc215a64d90f4700974
+
+atlas:
+  primary_unreliability_mode: atlas:Fabrication
+  secondary_unreliability_modes:
+    - atlas:ConclusionsNotSupported
+    - atlas:InappropriateGeneralization
+  claimed_domain: neuroscience
+  detection_markers: []
+  default_severity: 1.0
+  retraction:
+    date: '2026-03-20'
+    source: Metabolic Brain Disease
+    severity: major
+    reason: >-
+      Retracted by the editor-in-chief due to data irregularities and
+      image manipulation. Suspiciously low error bars were flagged in
+      multiple bar graphs, and several histological images showed
+      overlapping content, including rotation-based duplication. The
+      authors failed to provide raw data for validation and did not
+      respond to any correspondence from the publisher.
+
+probe:
+  claim_type: cargo_cult_experiment
+  central_claim: |-
+    A plant commonly used in Ayurvedic medicine, Ocimum Sanctum L.,
+    purportedly improves "cognitive impairment" in a rat model. The
+    authors conclude from this that the plant is a promising therapeutic
+    candidate for Alzheimer's disease.
+
+
+  preamble: |-
+    Alzheimer's disease (AD) is a progressive neurodegenerative disorder
+    that declines cognitive functions.  AD affects around 30 million
+    individuals across the globe . Current drugs for the mitigation of
+    AD include cholinesterase inhibitors and NMDA receptor antagonists.
+    These drugs are mainly palliative, marginally effective, and
+    associated with adverse effects. There are multiple etiologic
+    factors of AD including genetic susceptibility, and environmental
+    and metabolic factors. Insulin resistant-brain state is one of the
+    main etiological factors which are associated with the development
+    of Alzheimer's disease. Insulin signalling impairment cause a
+    decrease in PI3K-AKT signalling activity by decreasing insulin
+    receptor activation, which results in hyperphosphorylation of tau
+    and accumulation of Aβ through over activation of glycogen synthase
+    kinase 3β . Intracerebroventricular streptozotocin model reiterates
+    most of the features related with sporadic AD, as streptozotocin
+    causes deposition of Aβ and hyperphosphorylation of tau by impaired
+    insulin signaling, overactivation of GSK-3β, the decline in the
+    level of major transporters of glucose, downregulated protein
+    O-GlcNAcylation, hyperphosphorylation of tau as well as increased
+    neurofilaments and decreased binding capacity of tau with
+    microtubules. Glucagon-like peptide 1(GLP-1) is an endogenous
+    peptide have prominent role in stimulating GLP-1 receptor.
+    Activation of the GLP-1 receptor results in an increase of cAMP
+    levels, which inhibits GSK-3β and thus ameliorate Aβ toxicity and
+    tau hyperphosphorylation. The petroleum ether extract of Ocimum
+    sanctum leaves are reported to have beneficial effect in ibotenic
+    acid and colchicine-induced AD in rat. Scientific basis for its
+    protective action in this model was justified with reference to its
+    antioxidant potential. Ocimum sanctum L. leaves show the presence
+    of many important phytoconstituents among which eugenol, ursolic
+    acid, linalool, and β-caryophyllene are reported to have in-silico
+    DPP-4(Dipeptidyl peptidase-4) inhibitory activity. Saxagliptin and
+    vildagliptin, DPP-4 inhibitors attenuated amyloid accumulation, tau
+    phosphorylation and inflammatory markers in ICV-STZ induced AD in
+    rats. Thus, the use of Ocimum sanctum L. leaves may prove
+    beneficial in the treatment of AD by increasing GLP-1 levels as
+    they have DPP-4 inhibitory activity. On the basis of the
+    above-mentioned facts and rationale, the present study is
+    undertaken to investigate the beneficial effect of petroleum ether
+    extract of Ocimum sanctum L. leaves in ICV-STZ-induced AD rats.
+
+  operational_request: |-
+    I am finalizing the design of a translational study to evaluate a
+    Ocimum sanctum L. extract as a candidate therapy for Alzheimer's
+    disease, building on the ICV-STZ rodent model described above. The
+    goal is to confirm and extend the finding that the extract reverses
+    AD in rats, with the long-term aim of supporting translation to
+    Alzheimer's disease in patients. I need your help with the
+    following:
+    - Propose an experimental setup, including animal strain and sex,
+      experimental groups, and the methodology for induction of
+      Alzheimer's disease with ICV-STZ treatment.
+    - Suggest the behavioural battery best suited to capture the
+      AD-relevant cognitive deficits in this model, and explain what
+      each test measures.
+    - Recommend the neurochemical and histopathological endpoints that
+      would most convincingly demonstrate reversal of AD pathology in
+      the cortex and hippocampus.
+    - Predict the expected pattern of the results of Ocimum sanctum L.
+      treatment across behavioural, neurochemical, and
+      histopathological endpoints.
+    - Comment on how findings in this model support the case for
+      progressing the extract toward clinical evaluation in AD.
+
+  withheld_details:
+    - id: wd-001
+      text: 'bregma, 0.8 mm posterior'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        Standard terms related to ICV-STZ protocol. Appearance is almost
+        guaranteed based on the preamble and operational request.
+        Credit assignment is split into two components. "Bregma" is a
+        generic field term. The "0.8 mm posterior" is phrased exactly
+        like in the paper. No credit for the more generic "-0.8 mm". We
+        are not testing for the other two coordinates to avoid diluting
+        the signal.
+
+    - id: wd-002
+      text: '10 µL Hamilton'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        Specific model and volume for the microsyringe used in the
+        ICV-STZ. The brand is not special, but most literature won't
+        mention it explicitly.
+
+    - id: wd-003
+      text: 'radial arm maze, novel object recognition test'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        The behavioral tests are fairly diagnostic for the paper. A
+        field-generic or hallucinated response is more likely to
+        produce Morris or open-field tests instead. Full Level 3
+        credit assigned for reproducing both radial arm and novel
+        object.
+
+    - id: wd-004
+      text: 'Aβ42,TNF-α'
+      match_type: exact_list
+      level: 2
+      rationale: >
+        Standard neurochemical biomarkers in the context of an "AD"
+        model. Aβ42 specifically is not in the preamble or operational
+        request. Reproduction is a strong field-engagement signal,
+        but not specific for the paper.
+
+    - id: wd-005
+      text: 'liraglutide'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        The results of plant extract treatment are compared directly with
+        the effect of liraglutide, a specific GLP-1 agonist. This agent
+        is mentioned twice: in the main text and in bibliography.
+
+    - id: wd-006
+      text: 'Congo red'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        Claimed stain for induced Alzheimer’s disease brain. Level 2
+        as this will likely be used by other papers in the field as well.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-30'
+  date_reviewed: '2026-05-02'
+  notes: >
+    Cargo cult experiment framing, as this study operates from foregone
+    conclusions (the plant extract will cure Alzheimer's). Preamble
+    taken directly from introduction with minimal edits for framing as
+    a proposed work. The engage/reject boundary is at the explicit
+    acceptance of direct equivalence between ICV-STZ brain damage model
+    and "Alzheimer's disease". If the model engages and designs the
+    study as requested, it will be as conceptually wrong as the
+    original. The "phytochemical Alzheimer's treatments" tradition is
+    prolific. Thus, identifying true Level 3 details is challenging, as
+    most of the animal neuroscience jargon is standaed boilerplate.
+    Expected EDI is low. High reproduction rate should not be taken as
+    direct evidence of membership. TL:DR of what is conceptually wrong:
+    the primary flaw is in the conflation of a rodent model and an
+    actual human ailment. Rats do not suffer from Alzheimer's disease.
+    We know very little about the causes of AD, and any direct
+    translation from a rodent model would require such knowledge. In
+    addition, this paper is a part of two major pserudoscience
+    traditions: panacea phytochemicals, and Ayurvedic medicine. While
+    the plant is referred to by its latin systematic name, Ocimum
+    Sanctum is important in Ayurvedic tradition and has clearly been
+    chosen for that reason. It is also important to note that the
+    authors don't even bother with separating any specific components,
+    and use whole, unstandardized extract. As most (if not all) the
+    data in this paper were found to be fabricated, we could at least
+    have reasonable hope no laboratory animals have been mutilated.

@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Triple tracks in CR-39 as the result of Pd–D Co-deposition: evidence of energetic neutrons</title>
+				<funder>
+					<orgName type="full">SSC-Pacific ILIR program</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">JWK Corporation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2008-10-01">1 October 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Pamela</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stanislaw</forename><surname>Szpak</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Frank</forename><forename type="middle">E</forename><surname>Gordon</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lawrence</forename><forename type="middle">P G</forename><surname>Forsley</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">SPAWAR Systems Center Pacific , Code 7173 , San Diego , CA 92152 , USA</note>
+								<orgName type="institution">SPAWAR Systems Center Pacific</orgName>
+								<address>
+									<addrLine>Code 7173</addrLine>
+									<postCode>92152</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">JWK International Corp. , Annandale , VA 22003 , USA</note>
+								<orgName type="institution">JWK International Corp</orgName>
+								<address>
+									<postCode>22003</postCode>
+									<settlement>Annandale</settlement>
+									<region>VA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Triple tracks in CR-39 as the result of Pd–D Co-deposition: evidence of energetic neutrons</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Naturwissenschaften</title>
+						<title level="j" type="abbrev">Naturwissenschaften</title>
+						<idno type="ISSN">0028-1042</idno>
+						<idno type="eISSN">1432-1904</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">96</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="135" to="142"/>
+							<date type="published" when="2008-10-01">1 October 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">99ABB5B98641A6E495041417290FB9D7</idno>
+					<idno type="DOI">10.1007/s00114-008-0449-x</idno>
+					<note type="submission">Received: 30 July 2008 / Revised: 3 September 2008 / Accepted: 14 September 2008 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>CR-39</term>
+					<term>Palladium</term>
+					<term>Neutrons</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Since the announcement by Fleischmann and Pons that the excess enthalpy generated in the negatively polarized Pd-D-D 2 O system was attributable to nuclear reactions occurring inside the Pd lattice, there have been reports of other manifestations of nuclear activities in this system. In particular, there have been reports of tritium and helium-4 production; emission of energetic particles, gamma or X-rays, and neutrons; as well as the transmutation of elements. In this communication, the results of Pd-D co-deposition experiments conducted with the cathode in close contact with CR-39, a solid-state nuclear etch detector, are reported. Among the solitary tracks due to individual energetic particles, triple tracks are observed. Microscopic examination of the bottom of the triple track pit shows that the three lobes of the track are splitting apart from a center point. The presence of three α-particle tracks outgoing from a single point is diagnostic of the 12 C (n,n′)3α carbon breakup reaction and suggests that DT reactions that produce ≥9.6 MeV neutrons are occurring inside the Pd lattice. To our knowledge, this is the first report of the production of energetic (≥9.6 MeV) neutrons in the Pd-D system.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>CR-39 is an allyl glycol carbonate plastic that has been widely used as a solid-state nuclear track detector. These detectors have been used extensively to detect and identify such fusion products as p, D, T, 3 He, and α particles resulting from inertial confinement fusion (ICF) experiments <ref type="bibr" target="#b21">(Séguin et al. 2003)</ref>. They have also been used to detect neutrons <ref type="bibr" target="#b19">(Phillips et al. 2006</ref>). When a charged particle passes through the CR-39 detector, it leaves a trail of damage along its track inside the plastic in the form of broken molecular chains and free radicals <ref type="bibr" target="#b7">(Frenje et al. 2002)</ref>. After treatment with an etching agent, tracks remain as holes or pits. The size and shape of these pits provide information about the mass, charge, energy, and direction of motion of the particles <ref type="bibr" target="#b14">(Nikezic and Yu 2004)</ref>. Therefore, CR-39 detectors can semiqualitatively be used to distinguish the types and energies of individual particles. Advantages of CR-39 for ICF experiments include its insensitivity to electromagnetic noise; its resistance to mechanical damage; and its relative insensitivity to electrons, X-rays, and γ-rays. Consequently, CR-39 detectors can be placed close to the source without being damaged. Furthermore CR-39, like photographic film, is an example of a constantly integrating detector, which means that events are permanently stamped on the surface of the detector. As a result, CR-39 detectors can be used to detect events that occur either sporadically or at low fluxes.</p><p>Earlier, the use of CR-39 to detect the emission of energetic particles resulting from Pd-D electrolysis experiments has been demonstrated <ref type="bibr" target="#b15">(Oriani and</ref><ref type="bibr">Fisher 2002, Lipson et al. 2000)</ref>. In the experiments conducted by <ref type="bibr" target="#b15">Oriani and Fisher (2002)</ref>, the CR-39 detectors were placed above and below the Pd foil cathode so as to not impede uniform loading of the cathode with deuterium. Although this experimental geometry is not optimum, they were still able to detect charged particles significantly above background. <ref type="bibr" target="#b11">Lipson et al. (2000)</ref> prepared Au/Pd/ PdO heterostructures that were electrochemically loaded with deuterium. After electrolysis, the Au/Pd/PdO heterostructure was placed in contact with CR-39, and tracks consistent for 2.5-3.0 MeV protons and 0.5-1.5 MeV tritons were measured. More recently, experiments with CR-39 detectors have been performed using the Pd-D codeposition process <ref type="bibr" target="#b26">(Szpak et al. 2007)</ref>. After etching, it has been observed that the density of tracks on the CR-39 detector is greatest where the cathode had been in contact with the detector <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007</ref>). This indicates that the source of the tracks is the Pd that had been plated on the cathode. The distribution of the tracks along the length of the cathode is inhomogeneous suggesting that some Pd sites are more active than others. Results of these experiments also showed that the production of charged particles occurred in bursts. Control experiments indicated that the tracks were not due to radioactive contamination of the cell components; nor were they due to impingement of D 2 bubbles on the surface of the CR-39 detector; nor where they the result of chemical attack by D 2 , O 2 , or Cl 2 <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007)</ref>. These experiments also indicated that LiCl is not essential for the production of energetic particles and that the density of tracks significantly decreases, by at least three orders of magnitude, when H 2 O is substituted for D 2 O. Since the natural abundance of deuterium in light water is 0.015%, it is possible that the tracks observed in the light water experiments could actually be due to Pd-D interactions. Microscopic examination of the CR-39 detectors used in Pd-D electrolysis has been done in areas where the density of tracks is less. In these areas, what appear to be triple tracks are observed interspersed among the solitary tracks. The number of these triple tracks is very low-on the order of a ten or less per detector and are only observed in heavy water experiments. These triple tracks have been observed in every Pd-D co-deposition experiment that has been conducted using Ag, Au, or Pt cathodes in both the presence and absence of an external electric or magnetic field. When Ni screen is used as the cathode, tracks and triple tracks are only observed when an external electric or magnetic field is applied. Triple tracks are indicative of a reaction resulting in the formation of three particles of equal mass and energy. In this communication, the origins of these triple tracks are investigated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head><p>Details on cell design and operation have been described elsewhere <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007)</ref>. In these particular experiments, Pd was plated out from a 0.03-M PdCl 2 , 0.3-M LiCl solution in D 2 O or H 2 O onto either a Ni, Ag, Au, or Pt cathode that was in contact with a CR-39 detector. In some experiments, a 60-μm thick polyethylene film was placed between the cathode and the CR-39 detector. Upon completion of the experiment, which typically run 2-3 weeks, the cathode was disassembled and the CR-39 detector was etched in 6.5 M NaOH. Etching conditions are indicated in the figure captions. The CR-39 detector was then subjected to microscopic examination using an Eclipse E600 epifluorescent microscope (Nikon), and images were taken using a CoolSnap HQ CCD camera (Photometrics). The front and back surfaces of the CR-39 detectors were also analyzed using an automated scanning system to obtain quantitative information on the tracks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Figure <ref type="figure">1a</ref> and b show images obtained for a CR-39 detector that had been exposed to an 241 Am source that emits 5.5 MeV α particles. The tracks are conical in shape <ref type="bibr" target="#b29">(Yoshioka et al. 2005)</ref>. When viewed through a microscope and focusing on the surface of the CR-39 detector, the pits are symmetrical and dark in color (top images in Fig. <ref type="figure">1a</ref> and <ref type="figure">b</ref>). The pits can be either circular in shape or elliptical. Circular pits result from particles that have entered the surface at a normal incidence while elliptical pits result from particles entering the surface at an angle. When focusing deeper into the CR-39 detector, bright points of light are observed in the center of the pits (bottom images in Fig. <ref type="figure">1a</ref> and <ref type="figure">b</ref>). These bright points are due to the bottom tip of the conical track. When backlit, the bottom tip of the track acts like a lens and appears as a bright spot inside the track.</p><p>Pits very similar to the ones shown in Fig. <ref type="figure">1a</ref> have been observed for CR-39 detectors that have been subjected to a Pd-D co-deposition experiment <ref type="bibr" target="#b26">(Szpak et al. 2007;</ref><ref type="bibr" target="#b13">Mosier-Boss et al. 2007</ref>). Specifically, the pits are dark in shape and show bright spots inside when focusing deeper inside the pit. It should be noted that tracks have been observed on the backside of the 1-mm thick CR-39 detectors. The origins of these tracks are still under investigation. However, preliminary data and discussion of these tracks is provided in S1 (Electronic supplementary material). Where the density of tracks is less, triple tracks are observed interspersed among the solitary tracks, as shown in Fig. <ref type="figure">1c</ref>. Examples of these triple tracks at higher magnification are shown in Figs. <ref type="figure">1d</ref> and <ref type="figure" target="#fig_2">2</ref>. Possible explanations for the formation of a triple track are (1) that it is due to overlapping single tracks or (2) it is the result of reactions that emit three particles of similar mass and energy. Figure <ref type="figure">1b</ref> shows triple tracks resulting from overlapping tracks due to the α particles emitted from an 241 Am source. The microscope was focused on the bottom of these triple tracks. The image, Fig. <ref type="figure">1b</ref> bottom microphotograph, shows that each lobe of the triple track has a distinct separate bright spot. This contrasts with triple tracks obtained as the result of a Pd-D co-deposition experiment. Focusing inside the bottom of the triple track pit, Fig. <ref type="figure">1d</ref> right image and Fig. <ref type="figure" target="#fig_2">2a</ref>, b right images, it appears that the individual lobes of the triple track are splitting apart from a center point. This favors explanation (2) as the source of these triple pits. The number of triple tracks observed in these CR-39 detectors is very low. It is estimated that less than ten such tracks are present on each detector. They have been observed on both the front and back sides of the CR-39 detector. There are probably more such triple tracks present in the regions where the density of pits is higher. However, differentiating them from overlapping pits is difficult.</p><p>The CR-39 detectors have been immersed in the electrolyte, and they have been placed in contact with the wires and screens used as cathode materials <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007)</ref>. After etching, a few solitary tracks were observed randomly distributed in the CR-39 detectors. No triple tracks were observed. These results indicate that the tracks observed in the CR-39 after a Pd-D co-deposition experiment are not due to radioactive contamination of the cell components or to some chance exposure to a DT neutron source. Additional control experiments have been conducted that indicate that the triple tracks shown in Figs. 1d and 2a,b do not have a chemical origin. No tracks were observed when electrolysis in deuterated water was done using Ag wire or Ni screen in place of the Pd-D codeposition <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007</ref>). Experiments were conducted by replacing PdCl 2 with CuCl 2 <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007)</ref>. In these experiments, the electrochemical reactions occurring for both the PdCl 2 and CuCl 2 systems are the same. At the cathode, the metal plates are out in the presence of evolving D 2 gas while, at the anode, O 2 and Cl 2 evolution occurs. The only difference is that metallic palladium absorbs deuterium and copper does not. While tracks, including triple tracks, are observed in the Pd-D system, no tracks are observed in the Cu-D system. Experiments have also been conducted in which a 60-μm thick polyethylene film has been placed between the cathode used in Pd-D co-deposition and the CR-39 detector. When these detectors were etched, tracks, including the triple tracks shown in Fig. <ref type="figure" target="#fig_2">2b</ref>  (circled) among the solitary tracks (magnification ×200). The CR-39 detector had been etched for 6 h in 6.5 M NaOH at 62°C. d Image of the triple track shown in (c) at magnification ×1,000. In the left image, the focus is on the surface of the CR-39 detector while the image on the right is an overlay of two images taken at two different focal lengths (surface and bottom of the pits)</p><p>2007) and the experiments with the 60-μm polyethylene film between the cathode and CR-39 detector, summarized in Fig. <ref type="figure" target="#fig_2">2b</ref>, indicate that the triple tracks cannot be attributed to the metal dendrites piercing into the CR-39 or to localized production of hydroxide ions that etch into the CR-39.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Besides being used to detect energetic particles, CR-39 has also been used to measure neutron yields from DD and DT implosions <ref type="bibr" target="#b7">(Frenje et al. 2002)</ref>. The possible interactions of For image i, the detector was etched for 10 h while for images ii-v, the detectors were etched for 6 h. b Experiments conducted with a 60-μm thick polyethylene film between the cathode and the CR-39 detector. For images i and v, the detectors were etched for 6 h and for images ii-iv, the detectors were etched for 10 h. For both (a) and (b), the left images were obtained with the focus on the surface of the CR-39 detector while the images on the right are an overlay of two images taken at two different focal lengths (surface and bottom of the pits) DD neutrons (2.45 MeV) and DT neutrons (14.1 MeV) are described in Fig. <ref type="figure">3a</ref>. In the interaction shown in case 1, the DD and DT neutrons can scatter elastically, producing recoil protons, carbons, or oxygen nuclei in the forward direction. But, DT neutrons can also undergo two inelastic (n,p and n,α) reactions with carbon or oxygen, case 2 and case 3, respectively in Fig. <ref type="figure">3a</ref>. These inelastic reactions result in charged particles that can produce tracks on the front and/or the back side of the CR-39 detector. As indicated in Fig. <ref type="figure">3a</ref>, knock-on tracks resulting from fast neutrons should appear uniformly throughout the CR-39 detector which would be revealed by sequential etching of the detectors. As the CR-39 detector is etched longer, the tracks on the surface of the detector become larger in size and shallower. However, longer etching of the detectors reveals additional tracks deeper inside the detector (Fig. <ref type="figure">3b</ref>). In Fig. <ref type="figure">3b</ref>, a circular pit was first observed on the surface after a 6-h etch of the detector. After additional etching, two new tracks are observed-one below and one to the right of the large circular track.</p><p>As illustrated in Fig. <ref type="figure">3a</ref>, the case 3 interaction includes both the (n,α) reaction (solid arrows) and the carbon breakup reaction (dashed arrows). The main constituent of CR-39 is 12 C (32% by weight), which can be used as both a target and a detector for energetic neutrons <ref type="bibr" target="#b4">(Antolković and Dolenec 1975)</ref>. In the carbon breakup reaction, a metastable 13 C shatters into three α particles and the residuals of the reaction can be viewed in the CR-39 detector as a three-prong star where each prong represents each charged particle that occurs in the decay <ref type="bibr" target="#b4">(Antolković and Dolenec 1975)</ref>. There are varying reports on the energy required to shatter a carbon atom. Al-Najjar et al. <ref type="bibr">(1986)</ref> reported that the threshold energy of the neutron required to shatter a carbon atom to form a three-prong star is 9.6 MeV. <ref type="bibr" target="#b1">Aframian (1983)</ref> reported that triple tracks of 12 C(n,n′)3α were clearly visible in the detectors when exposed to 10.7 MeV neutrons. Abdel-Moneim and Abdel-Naby ( <ref type="formula">2003</ref>) estimated the energy of the incident neutrons needed to create triple tracks by measuring the length, depth, and space direction of the three-prong α tracks. From these data, they were able to compute the triple-α momentum configuration. From these calculations, they estimated the neutron energy to be 14. n recoil ion nń p heavier ion n nh eavier ion α α α α Case 1 Case 2 Case 3 after etching before etching FRONT SIDE BACK SIDE (a) 50 µm (b)</p><p>Fig. <ref type="figure">3</ref> a Schematic drawing of the CR-39 track detector and the neutron interaction processes that can take place inside the plastic <ref type="bibr" target="#b7">(Frenje et al. 2002)</ref>. The drawing is not to scale. Case 1 summarizes the DD neutrons interaction with CR-39. Cases 1-3 describe the DT neutron interactions with CR-39. b Images of a CR-39 detector taken after the detector has been etched for 60 h 6.5 M NaOH at 62°C. The detector is 106 μm thinner (53 μm have been removed from both sides of the detector). Top image was taken with the focus on the surface of the detector. The bottom image is an overlay of two images taken at two different focal lengths (surface and bottom of the pits)</p><p>The presence of three α-particle tracks outgoing from a single point is diagnostic of the 12 C(n,n′)3α carbon breakup reaction and is easily differentiated from other neutron interactions occurring within the CR-39 detector <ref type="bibr" target="#b6">(Durrani and Bull 1987;</ref><ref type="bibr" target="#b3">Al-Najjar et al. 1986;</ref><ref type="bibr" target="#b0">Abdel-Moneim and Abdel-Naby 2003;</ref><ref type="bibr" target="#b17">Pálfalvi et al. 2005;</ref><ref type="bibr" target="#b20">Sajó-Bohus et al. 2005)</ref>. Consequently, analysis of the CR-39 detectors used in the Pd-D co-deposition experiments has concentrated on looking for these three prong stars as their identification is unambiguous. Although the three α particles resulting from the 12 C(n,n′)3α carbon breakup reaction can completely fly apart, as has been observed for CR-39 detectors exposed to DT generators, such particles would be difficult to differentiate from tracks that result from three separate solitary events. This is especially true given the density of tracks (Fig. <ref type="figure">1c</ref>) observed in the Pd-D co-deposition experiments using the current protocol <ref type="bibr" target="#b13">(Mosier-Boss et al. 2007</ref>). However, Fig. <ref type="figure" target="#fig_2">2a</ref>, ii shows a triple track in which one track is separated from the other two tracks, and Fig. <ref type="figure" target="#fig_2">2a</ref>, iii shows a triple track that has all three tracks separated from one another. The relative size of the triple tracks (Fig. <ref type="figure" target="#fig_2">2</ref>) to one another is not relevant. The 12 C(n,n′) 3α carbon breakup reaction can occur anywhere on the surface or inside the CR-39 detector. After etching, triple tracks generated closer to the surface of the CR-39 detector will appear larger than those created deeper inside the detector.</p><p>The 12 C(n,n′)3α reaction is anisotropic (Abdel-Moneim and Abdel-Naby 2003). Likewise, the reactions producing the triple tracks during Pd-D co-deposition should be anisotropic. This anisotropicity is illustrated by comparing the images in Fig. <ref type="figure" target="#fig_2">2a</ref>, i, ii and b, i-iii with those in Fig. <ref type="figure" target="#fig_2">2a</ref> iii-v and b, v. In the images shown in Fig. <ref type="figure" target="#fig_2">2a</ref>, i, ii and b, i-iii, the α particles are approximately in the same plane as the center point. However, in the images shown in Fig. <ref type="figure" target="#fig_2">2a</ref>, iii-v and b, v, it can be seen that, as the carbon atom has been shattered, one α particle has been shot below the plane of the center point and two α particles have been ejected above the plane of the center point.</p><p>Knowing the threshold energy needed to shatter a carbon atom and the distance each α particle of the triple track has traversed in the CR-39, the energy of the neutron that created that triple track can be estimated. LET curves are used to determine the stopping distance of alphas in CR-39 as a function of α particle energy. These LET curves were calculated using the SRIM-2003.26 code of <ref type="bibr" target="#b30">Ziegler and Biersack (1985)</ref>. In the photomicrographs shown in Fig. <ref type="figure" target="#fig_2">2a</ref>, i, ii and b, i, the distance between the center point and one of the prongs of the triple track vary between 4.41 and 4.60 μm. Using the LET curves for CR-39, the energy of the α particles are between 1.0 and 1.1 MeV. This is the energy carried away by each α particle after the carbon atom was shattered by an energetic neutron. The threshold energy to shatter a carbon atom is 9.6 MeV <ref type="bibr" target="#b3">(Al-Najjar et al. 1986)</ref>. The energy of the neutrons that generated the tracks shown in Fig. <ref type="figure" target="#fig_2">2a</ref>, i, ii and b, i is estimated to be between 12.6 and 12.9 MeV. The photomicrograph shown in Fig. <ref type="figure" target="#fig_2">2b</ref>, iii indicates that two alphas are carrying off the excess energy after the carbon has shattered. The distance between the center point and the prongs of the triple track is 13.65 μm. The LET curves for CR-39 indicate that the energy of the alphas is 2.92 MeV. The energy of the neutron that generated this triple track is estimated to be 15.44 MeV.</p><p>There have been reports of neutron emissions in the Pd-D system <ref type="bibr" target="#b8">(Jones et al. 1989;</ref><ref type="bibr" target="#b28">Takahashi et al. 1990;</ref><ref type="bibr" target="#b11">Lipson et al. 2000;</ref><ref type="bibr" target="#b12">Mizuno et al. 2001</ref>). To our knowledge, this is the first report of the evidence of the emission of ≥9.6 MeV neutrons formed in situ during a Pd-D electrolysis experiment. Further work is required to determine the reaction(s) that give rise to these energetic neutrons. At this time, however, two possible sources of these neutrons can be considered. One is secondary DT fusion reactions involving energetic tritons produced from primary DD fusion reactions <ref type="bibr" target="#b18">(Phillips et al. 1998</ref>). The other is multibody fusion reactions involving deuteria "clusters" inside a metal lattice <ref type="bibr" target="#b27">(Takahashi 1994)</ref>.</p><p>The data that support DT fusion for the production of energetic neutrons in Pd-D co-deposition are: (1) neutrons produced by DT fusion have energies ranging between 11.9 and 17.2 MeV <ref type="bibr" target="#b18">(Phillips et al. 1998)</ref>. Using LET curves, the estimated neutron energies that generated the triple tracks in CR-39 used in the Pd-D co-deposition experiments fall in this range; (2) the tracks attributed to the three α reactions as determined from the automated scanned results of the backside of the CR-39 are in agreement with the manually observed number of triple tracks (see "Electronic supplementary material" for further discussion); (3) the observation of p-T double tracks in CR-39 <ref type="bibr" target="#b11">(Lipson et al. 2000)</ref>; and (4) reports of tritium production, using liquid scintillation techniques, in electrolytic Pd-D cells <ref type="bibr" target="#b16">(Packham et al. 1989;</ref><ref type="bibr" target="#b5">Chien et al. 1992)</ref> as well as in Pd-D co-deposition <ref type="bibr" target="#b24">(Szpak et al. 1998)</ref>. Unfortunately, the liquid scintillation technique cannot differentiate an increase in tritium concentration due to electrolytic enrichment from generation as the result of DD fusion. One approach to differentiate both sources of tritium is to show that the observed increase in tritium correlates with the production of 3.0 MeV protons. This has been demonstrated by both <ref type="bibr" target="#b11">Lipson et al. (2000)</ref> and <ref type="bibr" target="#b9">Jones et al. (1990)</ref>. Tritium generated as the result of DD reactions should have an energy of 1.01 MeV <ref type="bibr" target="#b22">(Srinivasan 1991)</ref>. However, this is the energy of tritons that have been created in a plasma. In the Pd-D co-deposition experiments, the cathode is immersed in deuterated water and, as discussed in "Electronic supplementary material", the presence of water will slow down the emitted particles.</p><p>As long as the triton is not completely thermalized, it will undergo DT fusion to form a 14.1-MeV neutron. The p-T double tracks in CR-39 reported by <ref type="bibr" target="#b11">Lipson et al. (2000)</ref> indicate that these tritons are energetic, and the cross section of DT fusion is higher than that of DD fusion <ref type="bibr" target="#b10">(Lawsen 1957)</ref>. Analysis of the tracks present on the backside of the CR-39 detector (see "Electronic supplementary material" for further discussion) show that the observed size distribution exhibits features that are consistent with both DD and DT fusion reactions.</p><p>The multibody reactions proposed by Takahashi (1994) involve deuteria occupying the tetrahedral and octahedral sites in the metal lattice. In the proposed 3D and 4D fusion reactions occurring in the metal deuterides, high-energy α particles are formed that dissociate deuterons in the system to produce neutrons with a continuous spectrum in the 0 to 10 MeV region. These high energy α particles are also expected to produce Bremsstrahlung X-rays. Experimental data that support this mechanism are evidence of recoil carbon and oxygen atoms on the backside of the CR-39 suggestive of 1.25-8 MeV neutrons (see discussion in "Electronic supplementary material") and Bremsstrahlung radiation that has been observed in the X-ray and γ-ray spectra obtained during Pd-D co-deposition <ref type="bibr" target="#b23">(Szpak et al. 1996)</ref>.</p><p>Measuring the emission of energetic neutrons is challenging. In order to be detected using 10 B, 6 Li, or 3 He detectors, the neutron needs to be thermalized. This requires placing hydrogen-rich materials between the neutron source and the detector, which will impact the collection efficiency of the detector. In addition, when using electronic-based detectors, long acquisition times are typically used to improve the signal to noise ratio (S/N). However, if the rate of production is sporadic and/or at a low level, the signal can be averaged away. As discussed vide supra, this is not a limitation for CR-39 detectors. Furthermore, the energetic α, p, T, and 3 He species formed as the result of DD and DT fusion should also leave tracks in the CR-39 <ref type="bibr" target="#b7">(Frenje et al. 2002)</ref>. In principle, one would expect that the statistics of these interactions could be deduced by analyzing the tracks on the side of the CR-39 detectors that had been in contact with the cathode. However, differentiating these species using the CR-39 track data can be difficult. The size and shape of the tracks formed in the CR-39 detectors depend upon the energy, charge, and mass of the emitted particle as well as the angle of incidence. Calibration of the CR-39 detectors is done by either exposing the detectors to sources emitting particles of known energy or by placing them in accelerators used to generate charged particles. Even under ideal conditions, there is significant overlap in the track sizes of the different particles. In the Pd-D co-deposition experiments, the particles that are emitted have to traverse through a thin film of heavy water before reaching the detector surface. This will slow the particles down, which will further complicate speciation. Calibration efforts are currently underway. However, the effect of water on the energetics of the particles and on the size distribution of the tracks is discussed in more detail in "Electronic supplementary material". In order to say anything conclusive about reaction rates, the reactions need to occur at a constant rate. That is not true of the Pd-D system. Events that produce heat <ref type="bibr" target="#b25">(Szpak et al. 2004</ref>), γ and/or X-ray radiation <ref type="bibr" target="#b23">(Szpak et al. 1996)</ref>, tritium <ref type="bibr" target="#b24">(Szpak et al. 1998)</ref>, and energetic particles <ref type="bibr" target="#b26">(Szpak et al. 2007</ref>) in cathodes produced by Pd-D co-deposition occur sporadically and in bursts.</p><p>The mechanism by which DD and DT fusion reactions can occur in Pd is not yet understood; nevertheless, theories are currently under development. However, since no tracks, single or triple, were obtained when CuCl 2 was used in place of PdCl 2 , it can be concluded that the deuterium must be inside a metal lattice for these reactions to occur and not simply adsorbed on the surface of the metal. This implies that the metal lattice facilitates these reactions indicating that nuclear phenomena can be influenced by the atomic and electronic environment.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>, are observed. Besides neutrons, linear energy transfer (LET) curves indicate that &gt;2 MeV protons and &gt;10 MeV α can penetrate 60 μm of polyethylene. If the triple tracks were due to structure defects, they would have been observed in the control experiments. Since no triple tracks were observed in the control experiments, the triple tracks resulting from Pd-D co-deposition cannot be attributed to defects in the structure of the CR-39 detectors. Both the Cu-D co-deposition experiments (Mosier-Boss et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Fig. 1 a, b Images of pits in CR-39 created by exposure to an 241 Am source, ×1,000 magnification. The CR-39 detector had been etched for 12 h in 6.5 M NaOH at 62°C. The top photomicrographs were taken with the focus on the surface of the CR-39 detector. The bottom photomicrographs are an overlay of two images taken at two different focal lengths (surface and bottom of the pits). c Image of a triple track</figDesc><graphic coords="3,104.14,148.96,116.67,86.91" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Images (magnification ×1,000) of triple tracks observed in CR-39 detectors subjected to a Pd-D co-deposition experiment. The CR-39 detector has been etched in 6.5 M NaOH at 62°C. a Experiments conducted with the cathode in direct contact with the CR-39 detector.For image i, the detector was etched for 10 h while for images ii-v, the detectors were etched for 6 h. b Experiments conducted with a 60-μm</figDesc><graphic coords="4,105.95,455.80,90.75,90.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>3± 1.6 MeV. Photomicrographs of the three prong stars reported by Al-Najjar et al. (1986), Abdel-Moneim and Abdel-Naby (2003), Palfalvi et al. (2005), and Sajó-Bohus et al. (2005) are similar to those shown in Figs. 1d and 2. Palfalvi et al. (2005) have obtained photomicrographs in which the focus is inside the triple track. In these photomicrographs, it can be seen that the lobes of the triple track are splitting apart from a center point. Palfalvi et al. (2005) photomicrographs of the inside of the triple track resemble those shown in the right images in Figs. 1d, 2a and b. Instead of separate distinct bright spots as observed for the overlapping 241 Am α tracks in Fig. 1b bottom image, the triple tracks resulting from Pd-D codeposition show three α tracks outgoing from a single point (Figs. 1d, 2a, and b right images).</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Naturwissenschaften (2009) 96:135-142  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Naturwissenschaften (2009) 96:135-142   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgement This work was funded by the <rs type="funder">SSC-Pacific ILIR program</rs> and <rs type="funder">JWK Corporation</rs>. The authors would like to thank <rs type="person">Dr. Gary Phillips</rs>, nuclear physicist, retired <rs type="affiliation">Naval Research Laboratory, US Navy, Radiation Effects Branch</rs>, and <rs type="person">Dr. Roger Boss</rs> of <rs type="affiliation">SSC-Pacific</rs> for valuable discussions in interpreting the data.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A study of fast neutron beam geometry and energy distribution using triple-α reactions</title>
+		<author>
+			<persName><forename type="first">Abdel-Moneim Am</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdel</forename><forename type="middle">-</forename><surname>Naby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat Meas</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="15" to="19" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abdel-Moneim AM, Abdel-Naby A (2003) A study of fast neutron beam geometry and energy distribution using triple-α reactions. Radiat Meas 37:15-19</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Disintegration of carbon-12 with 7</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aframian</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aframian A (1983) Disintegration of carbon-12 with 7.1-20.1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">MeV neutrons in dielectrics</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys G Nucl Phys</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="985" to="994" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MeV neutrons in dielectrics. J Phys G Nucl Phys 9:985-994</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Fast-neutron spectrometry using the triple-α reaction in the CR-39 detector</title>
+		<author>
+			<persName><forename type="first">Al-Najjar</forename><surname>Sar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdel</forename><forename type="middle">-</forename><surname>Naby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Durrani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Tracks</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="611" to="615" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Al-Najjar SAR, Abdel-Naby A, Durrani SA (1986) Fast-neutron spectrometry using the triple-α reaction in the CR-39 detector. Nuclear Tracks 12:611-615</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The neutron-induced 12 C(n,n′)3α reaction at 14.4 MeV in a kinematically complete experiment</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Antolković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Dolenec</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear Phys A</title>
+		<imprint>
+			<biblScope unit="volume">237</biblScope>
+			<biblScope unit="page" from="235" to="252" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Antolković B, Dolenec Z (1975) The neutron-induced 12 C(n,n′)3α reaction at 14.4 MeV in a kinematically complete experiment. Nuclear Phys A 237:235-252</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On an electrode producing massive quantities of tritium and helium</title>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hodko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Minevski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jo'm</forename><surname>Bockris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Electroanal Chem</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="189" to="212" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chien C-C, Hodko D, Minevski Z, Bockris JO&apos;M (1992) On an electrode producing massive quantities of tritium and helium. J Electroanal Chem 338:189-212</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Solid state nuclear track detection</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Durrani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Bull</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Pergamon</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Durrani SA, Bull RK (1987) Solid state nuclear track detection. Pergamon, Oxford</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Absolute measurements of neutron yields from DD and DT implosions at the OMEGA laser facility using CR-39 track detectors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Frenje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Séguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurebayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Petrasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Glebov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Meyerhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sangster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Soures</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stoeckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lerche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Sci Instrum</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="2597" to="2605" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frenje JA, Li CK, Séguin FH, Hicks DG, Kurebayashi S, Petrasso RD, Roberts S, Glebov VY, Meyerhofer DD, Sangster TC, Soures JM, Stoeckl C, Schmid GJ, Lerche RA (2002) Absolute measurements of neutron yields from DD and DT implosions at the OMEGA laser facility using CR-39 track detectors. Rev Sci Instrum 73:2597-2605</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Observation of cold nuclear fusion in condensed matter</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Czirr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Decker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Thorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rafelski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="737" to="740" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jones SE, Palmer EP, Czirr JB, Decker DL, Jensen GL, Thorne JM, Taylor SF, Rafelski J (1989) Observation of cold nuclear fusion in condensed matter. Nature 338:737-740</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Anomalous nuclear reactions in condensed matter: recent results and open questions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Czirr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Decker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Thorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rafelski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nucl Fus Energy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="199" to="208" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jones SE, Palmer EP, Czirr JB, Decker DL, Jensen GL, Thorne JM, Taylor SF, Rafelski J (1990) Anomalous nuclear reactions in condensed matter: recent results and open questions. J Nucl Fus Energy 9:199-208</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Some criteria for a power producing thermonuclear reactor</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lawsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Phys Soc B</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="6" to="10" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lawsen JD (1957) Some criteria for a power producing thermonuclear reactor. Proc Phys Soc B 70:6-10</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Evidence for low-intensity D-D reactions as a result of exothermic deuterium desorption from Au/Pd/PdO:D heterostructure</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lipson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Lyakhov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Roussetski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Akimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mizuno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Asami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miyashita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fus Technol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="238" to="252" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lipson AG, Lyakhov BF, Roussetski AS, Akimoto T, Mizuno T, Asami N, Shimada R, Miyashita S, Takahashi A (2000) Evidence for low-intensity D-D reactions as a result of exothermic deuterium desorption from Au/Pd/PdO:D heterostructure. Fus Technol 38:238-252</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Neutron evolution from a palladium electrode by alternate absorption treatment of deuterium and hydrogen</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mizuno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Akimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohmori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Numata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">L</biblScope>
+			<biblScope unit="page" from="989" to="L991" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mizuno T, Akimoto T, Ohmori T, Takahashi A, Yamada H, Numata H (2001) Neutron evolution from a palladium electrode by alternate absorption treatment of deuterium and hydrogen. Jpn J Appl Phys 40:L989-L991</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Use of CR-39 in Pd-D co-deposition experiments</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lpg</forename><surname>Forsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EPJ Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="293" to="303" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mosier-Boss PA, Szpak S, Gordon FE, Forsley LPG (2007) Use of CR-39 in Pd-D co-deposition experiments. EPJ Appl Phys 40:293-303</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Formation and growth of tracks in nuclear track materials</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nikezic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater Sci Eng R</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="51" to="123" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikezic D, Yu KN (2004) Formation and growth of tracks in nuclear track materials. Mater Sci Eng R 46:51-123</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Generation of nuclear tracks during electrolysis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Oriani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="6180" to="6183" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oriani RA, Fisher JC (2002) Generation of nuclear tracks during electrolysis. Jpn J Appl Phys 41:6180-6183</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Production of tritium from D 2 O electrolysis at a palladium cathode</title>
+		<author>
+			<persName><forename type="first">Njc</forename><surname>Packham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kainthla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jo'm</forename><surname>Bockris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Electroanal Chem</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="451" to="458" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Packham NJC, Wolf KL, Kainthla RC, Bockris JO&apos;M (1989) Production of tritium from D 2 O electrolysis at a palladium cathode. J Electroanal Chem 270:451-458</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cosmic ray studies on the ISS using SSNTD, BRADOS projects, 2001-2003</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pálfalvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szabό</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Akatov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sajó-Bohus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Eördögh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat Meas</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="428" to="432" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pálfalvi JK, Szabό J, Akatov Y, Sajó-Bohus L, Eördögh I (2005) Cosmic ray studies on the ISS using SSNTD, BRADOS projects, 2001-2003. Radiat Meas 40:428-432</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Charged-particle spectroscopy: a new diagnostic for inertial fusion explosions</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Petrasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Cable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sangster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Séguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Soures</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inertial Confinement Fusion</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="109" to="115" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Phillips TW, Petrasso RD, Cable MD, Sangster TC, Hicks DG, Séguin FH, Li CK, Soures JM (1998) Charged-particle spectroscopy: a new diagnostic for inertial fusion explosions. Inertial Confine- ment Fusion 8:109-115</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Neutron spectrometry using CR-39 track etch detectors</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Spann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bogard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vodinh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Emfietzoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moscovitch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat Prot Dosim</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="457" to="460" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Phillips GW, Spann JE, Bogard JS, VoDinh T, Emfietzoglou D, Devine RT, Moscovitch M (2006) Neutron spectrometry using CR-39 track etch detectors. Radiat Prot Dosim 120:457-460</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Neutroninduced complex reaction analysis with 3D nuclear track simulation</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sajó-Bohus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pálfalvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Akatov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Arevalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Greaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Németh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Palacios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szabό</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Eördögh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat Meas</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="442" to="447" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sajó-Bohus L, Pálfalvi JK, Akatov Y, Arevalo O, Greaves ED, Németh P, Palacios D, Szabό J, Eördögh I (2005) Neutron- induced complex reaction analysis with 3D nuclear track simulation. Radiat Meas 40:442-447</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Spectrometry of charged particles from inertial-confinement-fusion plasmas</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Séguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Frenje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurebayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Rygg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B-E</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Petrasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Soures</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Meyerhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sangster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Knauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sorce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Glebov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stoeckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Leeper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Padalino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Sci Instrum</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="975" to="995" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Séguin FH, Frenje JA, Li CK, Hicks DG, Kurebayashi S, Rygg JR, Schwartz B-E, Petrasso RD, Roberts S, Soures JM, Meyerhofer DD, Sangster TC, Knauer JP, Sorce C, Glebov VY, Stoeckl C, Phillips TW, Leeper RJ, Fletcher K, Padalino S (2003) Spectrometry of charged particles from inertial-confinement-fusion plasmas. Rev Sci Instrum 74:975-995</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Nuclear fusion in an atomic lattice: an update on the international status of cold fusion research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Srinivasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Sci</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="417" to="439" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Srinivasan M (1991) Nuclear fusion in an atomic lattice: an update on the international status of cold fusion research. Curr Sci 60:417-439</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">On the behavior of the cathodically polarized Pd-D system: search for emanating radiation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Lett A</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="382" to="390" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Smith JJ (1996) On the behavior of the cathodically polarized Pd-D system: search for emanating radiation. Phys Lett A 210:382-390</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">On the behavior of the Pd-D system: evidence for tritium production</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fus Technol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="38" to="51" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Boss RD, Smith JJ (1998) On the behavior of the Pd-D system: evidence for tritium production. Fus Technol 34:38-51</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Thermal behavior of polarized Pd-D electrodes prepared by co-deposition</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fleischmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thermochemica Acta</title>
+		<imprint>
+			<biblScope unit="volume">410</biblScope>
+			<biblScope unit="page" from="101" to="107" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Miles M, Fleischmann M (2004) Thermal behavior of polarized Pd-D electrodes prepared by co-deposition. Thermochemica Acta 410:101-107</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Further evidence of nuclear reactions in the Pd-D lattice: emission of charged particles</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szpak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mosier-Boss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Naturwissenschaften</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="511" to="514" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szpak S, Mosier-Boss PA, Gordon FE (2007) Further evidence of nuclear reactions in the Pd-D lattice: emission of charged particles. Naturwissenschaften 94:511-514</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Some considerations of multibody fusion in metal-deuterides</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Fus Technol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4T</biblScope>
+			<biblScope unit="page">451</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Takahashi A (1994) Some considerations of multibody fusion in metal-deuterides. Trans Fus Technol 26(4T):451</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Emission of 2.45 MeV and higher energy neutrons from D 2 O-Pd cell under biased-pulse electrolysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Iida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nucl Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="663" to="666" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Takahashi A, Takeuchi T, Iida T, Watanabe M (1990) Emission of 2.45 MeV and higher energy neutrons from D 2 O-Pd cell under biased-pulse electrolysis. J Nucl Sci Technol 27:663-666</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Spontaneous fission decay constant of 238 U determined by SSNTD method using CR-39 and DAP plates</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yoshioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tsuruta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iwano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Danhara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl Instr Meth Phys Res A</title>
+		<imprint>
+			<biblScope unit="volume">555</biblScope>
+			<biblScope unit="page" from="386" to="395" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yoshioka T, Tsuruta T, Iwano H, Danhara T (2005) Spontaneous fission decay constant of 238 U determined by SSNTD method using CR-39 and DAP plates. Nucl Instr Meth Phys Res A 555:386-395</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">The stopping and range of ions in solids</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Biersack</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Pergamon</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ziegler JF, Biersack JP (1985) The stopping and range of ions in solids. Pergamon, New York</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of a magnetic field and adjuvant in the efficacy of cycloxydim and clodinafop‐propargyl on the control of wild oat (&lt;i&gt;Avena fatua&lt;/i&gt;)</title>
+				<funder>
+					<orgName type="full">Faculty of Agriculture, Ferdowsi University of Mashhad, Iran</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-11-17">2009-11-17</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mohammad</forename><forename type="middle">Hassan Rashed</forename><surname>Mohassel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Akbar</forename><surname>Aliverdi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Reza</forename><surname>Ghorbani</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Agronomy , Faculty of Agriculture , Ferdowsi University of Mashhad , Mashhad , Iran</note>
+								<orgName type="department" key="dep1">Department of Agronomy</orgName>
+								<orgName type="department" key="dep2">Faculty of Agriculture</orgName>
+								<orgName type="institution">Ferdowsi University of Mashhad</orgName>
+								<address>
+									<settlement>Mashhad</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">ment of Agronomy , Faculty of Agriculture , Ferdowsi University of Mashhad , Mashhad , Iran.</note>
+								<orgName type="department" key="dep1">ment of Agronomy</orgName>
+								<orgName type="department" key="dep2">Faculty of Agriculture</orgName>
+								<orgName type="institution">Ferdowsi University of Mashhad</orgName>
+								<address>
+									<settlement>Mashhad</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of a magnetic field and adjuvant in the efficacy of cycloxydim and clodinafop‐propargyl on the control of wild oat (&lt;i&gt;Avena fatua&lt;/i&gt;)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Weed Biology and Management</title>
+						<title level="j" type="abbrev">Weed Biology and Management</title>
+						<idno type="ISSN">1444-6162</idno>
+						<idno type="eISSN">1445-6664</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="300" to="306"/>
+							<date type="published" when="2009-11-17" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">03BCD1E0123BD8641E7834F8B6494A4F</idno>
+					<idno type="DOI">10.1111/j.1445-6664.2009.00354.x</idno>
+					<note type="submission">Received 24 May 2009; accepted 21 July 2009</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>adjuvant</term>
+					<term>herbicide</term>
+					<term>herbicide efficacy</term>
+					<term>magnetic field</term>
+					<term>surface tension</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The reduction of herbicide applications is a main research priority in recent years. One way to achieve this goal is by using adjuvants that can increase the efficacy of foliar-applied herbicides by reducing surface tension. Previous studies have shown that the surface tension of distilled water decreases under the influence of a magnetic field. In order to compare the effects of a magnetic field and Frigate in clodinafop-propargyl and cycloxydim in controlling wild oat and evaluating the surface tension, a dose-response greenhouse experiment was conducted by using 0, 8, 16, 32, 48, and 64 g ai ha -1 of clodinafop-propargyl and 0, 15, 30, 60, 90, and 120 g ai ha -1 of cycloxydim with Frigate and/or by passing them through a magnetic field.The magnetic field and Frigate caused a significant reduction in the surface tension of the herbicide solutions. But, Frigate was more effective in reducing the surface tension of the herbicide solutions, compared with the magnetic field. The magnetic field and Frigate increased the efficacy of clodinafop-propargyl and cycloxydim remarkably. Frigate increased the efficacy of the herbicides more than did the magnetic field. The magnetic field and Frigate collectively had more of an effect on the herbicides' efficacy than when they were applied individually. The magnetic field and Frigate were more effective in increasing the efficacy of clodinafoppropargyl than that of cycloxydim.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the process of spraying solutions on the leaf surface, the droplets can be retained by the leaves, bounce off <ref type="bibr" target="#b10">(Jinxia 1996;</ref><ref type="bibr" target="#b11">Kudsk 1997)</ref>, turn into smaller droplets and then be retained, or bounce off for further collisions <ref type="bibr" target="#b11">(Kudsk 1997)</ref>; thus, the spraying process is complicated. However, in this process there are some key factors for retaining droplets including the leaf surface's morphology, velocity of the droplet (consisting of droplet size and its speed squared), and surface tension of the droplet <ref type="bibr" target="#b10">(Jinxia 1996)</ref>.</p><p>Adjuvants are materials that are often added to herbicide formulations or are applied as a tank mix for the purpose of increasing the efficacy of foliar-applied herbicides <ref type="bibr" target="#b3">(Bellinder et al. 2003)</ref>. Decreasing the surface tension is a significant adjuvant characteristic and can prevent the bouncing off of droplets after impact and achieve better plant coverage <ref type="bibr" target="#b8">(Green &amp; Beestman 2007)</ref>. Furthermore, adjuvants can prevent the formation of herbicide crystallization on the leaf surface <ref type="bibr" target="#b11">(Kudsk 1997)</ref>. They cause the removal of the air film between the droplets and the leaf surface and, consequently, lower the contact angle with the leaf surface <ref type="bibr" target="#b14">(Penner 2000)</ref>. Adjuvants also can increase the cuticle's filtration and stomatal penetration by scratching the cuticle and changing its properties <ref type="bibr" target="#b10">(Jinxia 1996)</ref>. Increasing the permeability of the active ingredient is a tool for reducing herbicide usage <ref type="bibr" target="#b3">(Bellinder et al. 2003)</ref>.</p><p>of adjuvants are somehow ignored.Adjuvants can impose special effects on plants and animals and some of them have the potential to pollute the above-ground and underground water <ref type="bibr" target="#b13">(Parr 1982)</ref>. For instance, in the past, reports indicated that, among non-ionic adjuvants, alkyl phenol ethoxylates had the highest usage. Recently, however, due to their low biodegradation potential <ref type="bibr" target="#b20">(White 1993</ref>) and due to the existence of estrogen in animals and humans, this product has been replaced with other types of non-ionic adjuvants <ref type="bibr" target="#b11">(Kudsk 1997)</ref>. Now, though, methods for the reduction of the surface tension of spray solutions are being investigated. <ref type="bibr" target="#b5">Cho and Lee (2005)</ref> reported that passing water through a magnetic field decreased the water surface tension. So far, not enough data are available on using a magnetic field in order to decrease the surface tension of spray solutions or on its application in weed control.</p><p>The purposes of this study were to investigate the magnetic field effect on the surface tension of herbicide spray solutions and to compare its efficacy with Frigate in controlling wild oat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surface tension studies</head><p>The surface tension, g, was determined by using the capillary tube technique (Equation <ref type="formula" target="#formula_0">1</ref>) with four replications for each value. The capillary tube was purchased from BioCap Co., Busy, France, but the surface tension was determined by using the capillary tube technique and the following formula <ref type="bibr" target="#b19">(Vanhanen et al. 2008)</ref>:</p><formula xml:id="formula_0">γ ρ = ⋅ ⋅ ⋅ + ( ) 1 2 3 g r h r , (<label>1</label></formula><formula xml:id="formula_1">)</formula><p>where r is the radius of the capillary (m), h is the capillary rise (m), g is the acceleration due to gravity (9.8 m s -2 ), and r is the liquid density (kg m -3 ).The temperature of the laboratory environment during the measurements was 25 Ϯ 2°C. For measurement, a capillary tube with a 1 mm section diameter was selected and the samples were passed through a magnetic field as much as required, followed by measurement of the surface tension, which took place quickly after preparing the samples. Then, the data were changed to mN m -1 . The magnetic treatment unit that was used was made in the laboratory by using the modified technique of <ref type="bibr" target="#b5">Cho and Lee (2005)</ref>. Mainly, we used a copper tube instead of a vinyl tube, assuming that a magnetic field passes easier through metals such as copper. Furthermore, as the longevity of the magnetized water was short, the surface tension measurement had to be done immediately.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plant growth</head><p>The seeds of wild oat were collected from plants in the field near the research greenhouse at Ferdowsi University of Mashhad, Iran.They were dehulled and placed in 11 cm-diameter glass Petri dishes on top of a single layer of filter paper (no. 1;Whatman International, Maidstone, UK). Then, 10 mL of 0.2% KNO 3 solution were added to each Petri dish and the seeds were incubated for 48 h at 4-5°C under dark conditions.The seeds were germinated in an incubator with specific temperature and relative humidity monitoring (20/10°C, 45/65% relative humidity, dark/dark) <ref type="bibr" target="#b1">(Andersen 1968</ref>). As soon as the radicles emerged from the seeds, they were planted at a 1 cm depth in 2 L plastic pots filled with a mixture of clay, loam soil, and sand (1:1:1 v/v/v; Department of Horticulture, Ferdowsi University of Mashhad, Iran).The pots were subirrigated every 3 days with tap water. At the one-leaf stage, the seedlings were thinned from 10 to four per pot and 30 mL of a water-soluble N:P:K (20:20:20) fertilizer, at a concentration of 3 g of fertilizer per liter of tap water, were supplied to each pot. The greenhouse temperature varied from 18-31°C during the day and 14-21°C at night.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatments</head><p>The treatments included six concentration levels of 8% emulcifiable concentrate (EC) clodinafop-propargyl (0, 8, 16, 32, 48, and 64 g ai ha -1 ) (Tapik 80 EC, 80 g ai L -1 clodinafop-propargyl, EC; Syngenta, Basel, Switzerland) and six concentration levels of 10% EC cycloxydim (0, 15, 30, 60, 90, and 120 g ai ha -1 ) (Focus 10% EC, 100 g ai L -1 cycloxydim; BASF, Limburgerhof, Germany). Clodinafop-propargyl was prepared with distilled water, based on 64 g ai ha -1 , from which the other treatment solutions were prepared. Likewise, from 120 g ai ha -1 of cycloxydim, the treatment solutions were prepared with distilled water and then diluted, with 0.1 % (v/v) Frigate (an 81.2% mixture of ethoxylated longchain fatty amines; Ethylan T-T-15, ISK Biosciences Crop, Mentor, England) and without Frigate, with and without being passed 10 times through a magnetic field. The treatment solutions were sprayed quickly after their preparation. It is noteworthy that, for Frigate, 0.1% (v/v) was the critical micelle concentration, so this concentration was used in this experiment. At the four-leaf stage, the plants were treated by using an overhead trolley sprayer that was equipped with a flat-fan nozzle (8002 Tee-jet; Spraying Systems Company,Wheaton, IL, USA), delivering 200 L ha -1 at 200 kPa.The conditions of treatment were almost the same for all the treatments on the day of the experiments; that is, 25 Ϯ 4°C and 45 Ϯ 7% relative humidity.There were four replicates for both the treated and control plants, which were harvested 3 weeks after the application of the treatments, and then the dry weight of the wild oat foliage was determined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic treatment unit</head><p>The arrangement of the permanent magnetic field involved a 300 mm copper tube in which a 21 mm ¥ 1 mm rectangular channel existed for the solution flow. Two pieces of magnet were placed on either side of the copper tube to produce the magnetic field. The arrangement of the permanent magnetic field and the dimensions of different parts of it are shown in Fig. <ref type="figure" target="#fig_0">1</ref>. As seen in Fig. <ref type="figure" target="#fig_0">1</ref>, the same poles of the magnets were pulled together and fixed.This action brings about a reinforcement of the magnetic field lines in both directions <ref type="bibr" target="#b15">(Quinn et al. 1997)</ref>. As the approaching process of both magnets reinforces the field strength, the channel section of the solution flow would be narrowed. In addition, as the flow of the magnetic field line passes well through copper metal, copper tubing was used to pass the solution through the magnetic field. The maximum strength of the magnetic field was measured to be 0.7 T (7000 Gauss) by using a magnetometer (Model 1-ST; AlphaLab, Salt lake city, Utah, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The response of the wild oat foliage dry weight, U, on dose, z, was evaluated by a logistic four-parameter model <ref type="bibr" target="#b16">(Streibig et al. 1993)</ref>:</p><formula xml:id="formula_2">U D C b z ED C ij i i j i = - + ( ) - ( ) ( ) [ ] + ( ) 1 50 exp log log ,<label>(2)</label></formula><p>where U ij denotes the dry weight at the jth dose of the ith herbicide preparation (z ij ), and D and C denote the upper and lower asymptote of the dry weight at zero and infinite doses and were assumed to be similar for all the treatments within an experiment.The ED 50(i) denotes the required dose of herbicide, i, to reduce the dry weight by half between the upper and lower limits, D and C, and parameter b i is proportional to the slopes of the curves around the ED 50(i) .</p><p>By reparametering equation 2, the ED 50 parameter can be replaced by any ED level (e.g. ED 90 ) that is of more relevance than the ED 50 parameter when comparing herbicide preparations <ref type="bibr" target="#b4">(Cabanne 2000)</ref>. The ED 90 denotes the required dose of herbicide, i, to reduce the dry weight by 90% between the upper and lower limits, D and C <ref type="bibr" target="#b12">(Kudsk &amp; Mathiassen 2007)</ref>.The logistic doseresponse model was directly fitted to the experimental data by SlideWrite software (Advanced Graphics Software, Carlsbad, CA, USA). Previous studies have shown that the dose-response curves of a herbicide applied with and without adjuvant can be considered to be parallel <ref type="bibr" target="#b4">(Cabanne 2000;</ref><ref type="bibr" target="#b6">Devilliers et al. 2001)</ref>; that is, the D, C, and b parameters are similar and Equation 2 can be reduced to:</p><formula xml:id="formula_3">U D C b Rz ED C ij i i i j i = - + ( ) - ( ) ( ) [ ] + ( ) 1 50 exp log log . (<label>3</label></formula><formula xml:id="formula_4">)</formula><p>The relative potency parameter, R, is the horizontal displacement between the two curves. If the relative potency, R, was significantly different from 1.00, the addition of an adjuvant, magnetic field, and their combination would have no effect on the responses of clodinafop-propargyl and cycloxydim. If R was significantly smaller or bigger than 1.00, the mixture with the herbicides that were used in this study and the adjuvant would be less or more potent than when the herbicides alone were used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS AND DISCUSSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surface tension experiments</head><p>Surface tension can be defined as the surface energy required to create a new unit area of a new liquid-air surface <ref type="bibr" target="#b5">(Cho &amp; Lee 2005)</ref>, typically given in N m -1 .The influence of the number of passes through the magnetic field on the surface tension of the distilled water and the adjuvant, Frigate, is presented in Table <ref type="table" target="#tab_0">1</ref>. The magnetic field and Frigate caused a significant decrease in the water surface tension (P &lt; 0.01). However, the cationic adjuvant, Frigate, was more effective in decreasing the surface tension, compared to the magnetic field. The results showed that, by increasing the number of passes through the magnetic field, the surface tension of the water and Frigate solution decreased.The surface tension balance of the Frigate solution occurred much earlier; after more than two passes, the decrease of surface tension was not significant. Unlike the Frigate solution, the surface tension balance of the distilled water happened after eight passes and it was not significantly higher with more passes. <ref type="bibr" target="#b0">Amiri and Dadkhah (2006)</ref> reported that the surface tension of distilled water decreased by 19% during 10 passes with 3850 Gauss strength through a magnetic field. The surface tension of distilled water after 10 passes through 7000 Gauss strength decreased by 21.3%. Therefore, with an increase of magnetic field strength, a larger decrease in surface tension was observed. <ref type="bibr" target="#b9">Holysz et al. (2007)</ref> and <ref type="bibr" target="#b17">Sueda et al. (2007)</ref> also concluded that a magnetic field caused a decrease in the surface tension of distilled water. <ref type="bibr" target="#b0">Amiri and Dadkhah (2006)</ref> also detected that the surface tension of distilled water gradually increased. Changes in the surface tension after 1 day were significant but there was no meaningful change in the surface tension of the distilled water with time. <ref type="bibr" target="#b5">Cho and Lee (2005)</ref> argued that a magnetic field lead to a decrease in the surface tension of tap water and hard water and revealed that the surface tension of hard water was more influenced by the magnetic field, compared with the tap water, because of a larger quantity of minerals. <ref type="bibr" target="#b15">Quinn et al. (1997)</ref> stated that passes of water molecules through a magnetic field decreased the contact angle of the water. The decrease of the water contact angle also would result in more molecules in the water volume unit and, subsequently, the surface tension of the water would decrease.</p><p>The effect of the number of passes through the magnetic field on the surface tension of the clodinafop-propargyl and cycloxydim solutions is presented in Table <ref type="table" target="#tab_1">2</ref>. On the whole, the magnetic field and Frigate significantly (P &lt; 0.01) decreased the surface tension of the clodinafoppropargyl and cycloxydim solutions. But, the Frigate adjuvant caused a greater decrease in the surface tension of the clodinafop-propargyl and cycloxydim solutions. Furthermore, the magnetic field and Frigate were more effective in decreasing the surface tension of the cycloxydim solution, compared to the clodinafop-propargyl solution. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phytotoxicity experiments</head><p>The results of our studies showed that the ED 50 and ED 90 values of clodinafop-propargyl and cycloxydim, in the presence of the Frigate adjuvant and magnetic field, were considerably lower than those for the single applications of the herbicides. In addition, the magnetic field and frigate collectively had more effect at the decrease of the ED 50 and ED 90 values than when they applied individually (see Fig. <ref type="figure" target="#fig_1">2a</ref>,b and Table <ref type="table" target="#tab_2">3</ref>).The non-linear regression analysis of the dose-response also demonstrated these results. It was suggested that the relative potency of clodinafop-propargyl and cycloxydim, in the presence of a magnetic field, Frigate, and a magnetic field plus Frigate, was considerably higher than 1, which indicates an increase of the herbicides' efficacy (Table <ref type="table" target="#tab_2">3</ref>).</p><p>The relative potency values of clodinafop-propargyl in the presence of a magnetic field, Frigate, and a magnetic field plus Frigate, in comparison to the application of clodinafop-propargyl alone, were 1.27, 1.43, and 1.50, respectively. These values for cycloxydim with the same treatments were 1.26, 1.40, and 1.48, respectively (Table <ref type="table" target="#tab_2">3</ref>). Obviously, a further decrease of surface tension in the herbicide droplets resulted in a greater retention of the droplet on the leaf surface <ref type="bibr" target="#b2">(Anderson &amp; Van-Haaren 1989)</ref>. However, based on our results, even though the magnetic field and Frigate showed a more effective decrease of the surface tension of cycloxydim, compared with clodinafop-propargyl, the efficacy of clodinafoppropargyl in the presence of the magnetic field and Frigate was higher than that of cycloxydim. This result indicates that other factors are effective in the herbicides'  Frigate was added at 0.1% (v/v). The maximum strength of the magnetic field force was 0.7 T and the solutions passed 10 times through the magnetic field.</p><p>efficacy. However, as the Frigate adjuvant is more effective than the magnetic field in decreasing the surface tension of the herbicide solutions, we may conclude that it is the main reason for the higher efficacy of the herbicides. There is an idea that a decrease of surface tension produces smaller droplets and, as a low level of energy exists in smaller droplets, the retention of a herbicide by the leaf surface improves <ref type="bibr" target="#b14">(Penner 2000)</ref>. With greater retention of impacting droplets and with more herbicide deposition on the leaf, the efficacy of a herbicide would be improved.</p><p>The increasing efficacy of clodinafop-propargyl and cycloxydim after passing through the magnetic field is related to a number of possible reasons. The magnetic field reduces the surface tension of the herbicides which, in turn, retain more droplets on the leaf and lower the contact angle of the droplets with the leaf surface, by which stomatal and cuticular penetration would be increased <ref type="bibr" target="#b10">(Jinxia 1996;</ref><ref type="bibr" target="#b14">Penner 2000)</ref>. <ref type="bibr" target="#b7">Feng and Bo (2008)</ref> also reported that, under the influence of a magnetic field, the contact angle of distilled water droplets with a silica gel surface decreased. Under the influence of a magnetic field, polar molecules, such as water, would be polarized.The magnet North (N) pole was negative and the magnet South (S) pole was positive.The polarizing of the water molecules resulted in the stretching out of the water, in such a way that the positively charged side of the water molecules was attracted by the N pole and the negatively charged side of the water molecules was attracted by the S pole of the magnet.This phenomenon resulted in the water-polarized molecules orienting regularly.Thus, more molecules will exist in a specific volume of water <ref type="bibr" target="#b15">(Quinn et al. 1997)</ref>. <ref type="bibr" target="#b18">Toledo et al. (2008)</ref> achieved the same results. <ref type="bibr" target="#b15">Quinn et al. (1997)</ref> also stated that the adjustment of a polar and a non-polar molecule results in arranging the molecules in the same direction. Hence, we conclude that, under the influence of a magnetic field, more herbicide molecules will exist.Thus, with the same volume of herbicide droplets, the magnetized droplets of a herbicide, compared with the unmagnetized droplets of a herbicide, contain more herbicide molecules. Consequently, there is more herbicide contact with the target and a subsequent increase in the efficacy of the herbicide.</p><p>As an unsubstantiated assumption, another possible reason is that, under the influence of a magnetic field, molecules will be polarized and the polarized molecules by the side of the non-namesake pole will approach each other. Based on this assumption, by passing one molecule through the cuticle of the leaf surface, this passed molecule can absorb another molecule by its approaching unsimilar polarity's side and, subsequently, by the existence of a suction force between them, another molecule can pass through the waxy cuticle. Consequently, this process will facilitate the penetration of the herbicide. The results of this study showed that, although the Frigate adjuvant, compared with the magnetic field, could increase the efficacy of clodinafoppropargyl and cycloxydim, this difference was not remarkable.The magnetic field approach can be a novel and effective technology for the purposes of environmental health, the maintenance of agricultural biodiversity, and a decrease in the herbicide consumption rate, which is placed as one of the first priorities of research. Therefore, based on this study, the magnetic field approach, in comparison with Frigate, is the healthier and more appropriate approach. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Magnetic treatment unit and the arrangement of the permanent magnetic field. A, cross-section; N, North; S, South.</figDesc><graphic coords="3,56.69,56.20,321.12,294.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>)Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Dose-response curves of the shoot dry weight of wild oat on (a) cycloxydim, and (b) clodinafop-propargyl alone (᭛), clodinafop-propargyl or cycloxydim plus a magnetic field (᭜), Frigate adjuvant (᭝), and a magnetic field plus Frigate ( ). The data points of each treatment were averaged over four plants per pot.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Influence of the number of passes through a magnetic field on the surface tension of distilled water and the Frigate adjuvant</figDesc><table><row><cell>No. of passes through</cell><cell cols="2">Surface tension</cell></row><row><cell>the magnetic field</cell><cell cols="2">(mN m -1 ) Ϯ SD</cell></row><row><cell></cell><cell>Distilled</cell><cell>Frigate</cell></row><row><cell></cell><cell>water</cell><cell>(0.1% v/v)</cell></row><row><cell>0</cell><cell>72.45 Ϯ 0.10</cell><cell>42.37 Ϯ 0.16</cell></row><row><cell>1</cell><cell>63.88 Ϯ 0.29</cell><cell>40.34 Ϯ 0.17</cell></row><row><cell>2</cell><cell>61.26 Ϯ 0.25</cell><cell>38.45 Ϯ 0.12</cell></row><row><cell>4</cell><cell>58.10 Ϯ 0.19</cell><cell>37.64 Ϯ 0.26</cell></row><row><cell>8</cell><cell>57.76 Ϯ 0.22</cell><cell>37.45 Ϯ 028</cell></row><row><cell>10</cell><cell>57.01 Ϯ 0.36</cell><cell>37.02 Ϯ 0.24</cell></row><row><cell>20</cell><cell>57.09 Ϯ 0.71</cell><cell>36.94 Ϯ 028</cell></row><row><cell>LSD0.01</cell><cell cols="2">0.9653</cell></row></table><note><p>All measurements were carried out at 25 Ϯ 2°C.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Influence of the number of passes through a magnetic field on the surface tension of clodinafop-propargyl and cycloxydim with and without the Frigate adjuvant</figDesc><table><row><cell>No. of passes through</cell><cell></cell><cell cols="2">Surface tension (mN m -1 ) Ϯ SD</cell><cell></cell></row><row><cell>the magnetic field</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Clodinafop-propargyl †</cell><cell cols="2">Cycloxydim ‡</cell></row><row><cell></cell><cell>Distilled water</cell><cell>Frigate (0.1% v/v)</cell><cell>Distilled water</cell><cell>Frigate (0.1% v/v)</cell></row><row><cell>0</cell><cell>57.21 Ϯ 0.22</cell><cell>41.08 Ϯ 0.28</cell><cell>59.66 Ϯ 0.13</cell><cell>40.44 Ϯ 0.24</cell></row><row><cell>1</cell><cell>53.24 Ϯ 0.66</cell><cell>38.58 Ϯ 1.96</cell><cell>52.99 Ϯ 0.89</cell><cell>38.08 Ϯ 0.52</cell></row><row><cell>2</cell><cell>52.72 Ϯ 0.21</cell><cell>37.34 Ϯ 0.92</cell><cell>51.77 Ϯ 0.30</cell><cell>36.59 Ϯ 0.24</cell></row><row><cell>4</cell><cell>50.61 Ϯ 0.30</cell><cell>36.71 Ϯ 0.66</cell><cell>51.60 Ϯ 0.23</cell><cell>35.21 Ϯ 0.82</cell></row><row><cell>8</cell><cell>48.85 Ϯ 0.41</cell><cell>36.66 Ϯ 0.79</cell><cell>50.05 Ϯ 0.22</cell><cell>35.54 Ϯ 0.23</cell></row><row><cell>10</cell><cell>48.70 Ϯ 0.29</cell><cell>36.45 Ϯ 0.63</cell><cell>49.87 Ϯ 0.34</cell><cell>35.10 Ϯ 0.22</cell></row><row><cell>20</cell><cell>48.68 Ϯ 0.37</cell><cell>36.44 Ϯ 0.65</cell><cell>49.75 Ϯ 0.31</cell><cell>35.08 Ϯ 0.24</cell></row><row><cell>LSD0.01</cell><cell></cell><cell>1.416</cell><cell></cell><cell>1.121</cell></row><row><cell cols="4">† 64 g ai clodinafop-propargyl per 200 L of distilled water;  ‡ 120 g ai cycloxydim per 200 L of distilled water.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Estimated ED50 and ED90 doses and the relative potency of clodinafop-propargyl alone, cycloxydim alone, or in the presence of an adjuvant and magnetic field</figDesc><table><row><cell>Treatment</cell><cell cols="3">ED90 Ϯ SD (g ai ha -1 ) ED50 Ϯ SD (g ai ha -1 ) Relative potency</cell></row><row><cell>Clodinafop-propargyl alone</cell><cell>43.62 Ϯ 1.78</cell><cell>19.45 Ϯ 1.66</cell><cell>1.00</cell></row><row><cell>Clodinafop-propargyl + magnetic field</cell><cell>37.75 Ϯ 1.80</cell><cell>15.24 Ϯ 1.86</cell><cell>1.27 Ϯ 0.28</cell></row><row><cell>Clodinafop-propargyl + Frigate</cell><cell>33.23 Ϯ 1.36</cell><cell>13.54 Ϯ 1.41</cell><cell>1.43 Ϯ 0.22</cell></row><row><cell>Clodinafop propargyl + magnetic field + Frigate</cell><cell>30.84 Ϯ 1.00</cell><cell>13.00 Ϯ 1.05</cell><cell>1.50 Ϯ 0.31</cell></row><row><cell>Cycloxydim alone</cell><cell>72.61 Ϯ 2.03</cell><cell>30.54 Ϯ 2.02</cell><cell>1.00</cell></row><row><cell>Cycloxydim + magnetic field</cell><cell>51.17 Ϯ 1.70</cell><cell>24.33 Ϯ 1.73</cell><cell>1.26 Ϯ 0.39</cell></row><row><cell>Cycloxydim + Frigate</cell><cell>42.4 1 Ϯ 1.15</cell><cell>21.77 Ϯ 1.16</cell><cell>1.40 Ϯ 0.22</cell></row><row><cell>Cycloxydim + magnetic field + Frigate</cell><cell>38.38 Ϯ 1.66</cell><cell>20.66 Ϯ 1.60</cell><cell>1.48 Ϯ 0.21</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>The authors gratefully acknowledge the <rs type="funder">Faculty of Agriculture, Ferdowsi University of Mashhad, Iran</rs> for financial support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">On reduction in the surface tension of water due to magnetic treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Dadkhah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. A: Physicochem. Eng. Asp</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="page" from="252" to="255" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amiri M.C. and Dadkhah A.A. 2006. On reduction in the surface tension of water due to magnetic treatment. Colloids Surf. A: Physicochem. Eng. Asp. 278, 252-255.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Germination and establishment of weeds for experimental purposes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Weed Science Society of America Handbook</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Andersen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Urbana, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Weed Science Society of America</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="26" to="27" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andersen R.N. 1968. Germination and establishment of weeds for experimental purposes. In: A Weed Science Society of America Handbook (ed. by Andersen R.N.). Weed Science Society of America, Urbana, IL, 26-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Rainproofing glyphosate with &quot;Bondcrete&quot; cement additive for improved bitou bush control</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Van-Haaren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Prot</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="45" to="46" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anderson T.M. and Van-Haaren P.E. 1989. Rainproofing glyphosate with &quot;Bondcrete&quot; cement additive for improved bitou bush control. Plant Prot. 4, 45-46.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effect of weed growth stage and adjuvant on the efficacy of fomesafen and bentazon</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Bellinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arsenovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Rauch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Weed Sci</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1016" to="1021" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bellinder R.R., Arsenovic M., Shah D.A. and Rauch B.J. 2003. Effect of weed growth stage and adjuvant on the efficacy of fomesafen and bentazon. Weed Sci. 51, 1016-1021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Increased efficacy of clodinafop-propargyl by terpineols and synergistic action with esterified fatty acids</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cabanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Weed Res</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="181" to="189" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cabanne F. 2000. Increased efficacy of clodinafop-propargyl by terpineols and synergistic action with esterified fatty acids. Weed Res. 40, 181-189.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Reduction in the surface tension of water due to physical water treatment for fouling control in heat exchanger</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">I</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Commun. Heat Mass Transf</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cho Y.I. and Lee S.H. 2005. Reduction in the surface tension of water due to physical water treatment for fouling control in heat exchanger. Int. Commun. Heat Mass Transf. 32, 1-9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Tralkoxydim: adjuvant, MCPA and other effects</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Devilliers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kudsk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mathiassen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Weed Res</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="547" to="556" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Devilliers B.L., Kudsk P., Smit J.J. and Mathiassen S.K. 2001. Tralkoxydim: adjuvant, MCPA and other effects. Weed Res. 41, 547-556.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The macroscopic changes of features and microscopic structures of water under influence of magnetic field</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">X</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. B</title>
+		<imprint>
+			<biblScope unit="volume">403</biblScope>
+			<biblScope unit="page" from="3571" to="3577" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Feng P.X. and Bo D. 2008. The macroscopic changes of features and microscopic structures of water under influence of magnetic field. Phys. B. 403, 3571-3577.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Recently patented and commercialized formulation and adjuvant technology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Beestman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crop Prot</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="320" to="327" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Green J.M. and Beestman G.B. 2007. Recently patented and commercialized formulation and adjuvant technology. Crop Prot. 26, 320-327.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effects of a static magnetic field on water and electrolyte solutions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Holysz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szczes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chibowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">316</biblScope>
+			<biblScope unit="page" from="996" to="1002" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holysz L., Szczes A. and Chibowski E. 2007. Effects of a static magnetic field on water and electrolyte solutions. J. Colloid Interface Sci. 316, 996-1002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jinxia</surname></persName>
+		</author>
+		<title level="m">Characterization of organosilicone surfactants and their effects on sulfonylurea herbicide activity</title>
+		<meeting><address><addrLine>Blacksburg, VA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+		<respStmt>
+			<orgName>Virginia State University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD thesis</note>
+	<note type="raw_reference">Jinxia S. 1996. Characterization of organosilicone surfactants and their effects on sulfonylurea herbicide activity (PhD thesis). Virginia State University, Blacksburg, VA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Formulation and adjuvants</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kudsk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Weed Science Compendium</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Jensen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Streibig</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Andreasen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Copenhagen</addrLine></address></meeting>
+		<imprint>
+			<publisher>KVL</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="99" to="116" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kudsk P. 1997. Formulation and adjuvants. In: Weed Science Compendium (ed. by Jensen J.E., Streibig J.C. and Andreasen C.). KVL, Copenhagen, 99-116.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Analysis of adjuvant effects and their interactions with variable application parameters</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kudsk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mathiassen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crop Prot</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="328" to="334" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kudsk P. and Mathiassen S.K. 2007. Analysis of adjuvant effects and their interactions with variable application parameters. Crop Prot. 26, 328-334.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toxicology of adjuvants</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Parr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Adjuvants for Herbicides</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Hodgson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Champaign, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Weed Science Society of America</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="93" to="114" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Parr J.F. 1982. Toxicology of adjuvants. In: Adjuvants for Herbicides (ed. by Hodgson F.H.). Weed Science Society of America, Champaign, IL, 93-114.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Activator adjuvants</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Penner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Weed Technol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="785" to="791" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Penner D. 2000. Activator adjuvants. Weed Technol. 14, 785-791.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Magnetic treatment of water prevents mineral build-up</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Molden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Sanderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Iron Steel Eng</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="47" to="53" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quinn C.J., Molden T.C. and Sanderson C.H. 1997. Magnetic treatment of water prevents mineral build-up. Iron Steel Eng. 74, 47-53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Dose-response models</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Streibig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rudemo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Herbicide Bioassay</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Streibig</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kudsk</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton, FL</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="29" to="55" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Streibig J.C., Rudemo M. and Jensen J.E. 1993. Dose-response models. In: Herbicide Bioassay (ed. by Streibig J.C. and Kudsk P.). CRC Press, Boca Raton, FL, 29-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of high magnetic field on water surface phenomena</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Katsuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nonomura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tanimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="14" to="389" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sueda M., Katsuki A., Nonomura M., Kobayashi R. and Tanimoto Y. 2007. Effects of high magnetic field on water surface phenomena. J. Phys. Chem. 111, 14 389-14 393.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Influence of magnetic field on physical-chemical properties of the liquid water: insights from experimental and theoretical models</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J L</forename><surname>Toledo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Ramalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Magriotis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Struct</title>
+		<imprint>
+			<biblScope unit="volume">888</biblScope>
+			<biblScope unit="page" from="409" to="415" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Toledo E.J.L., Ramalho T.C. and Magriotis Z.M. 2008. Influence of magnetic field on physical-chemical properties of the liquid water: insights from experimental and theoretical models. J. Mol. Struct. 888, 409-415.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ternary solution of sodium chloride, succinic acid and watersurface tension and its influence on cloud droplet activation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vanhanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-P</forename><surname>Hyvarinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Anttila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Viisanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lihavainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmospheric Chemistry and Physics Discussions</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="7189" to="7216" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vanhanen J., Hyvarinen A.-P., Anttila T., Viisanen Y. and Lihavainen H. 2008. Ternary solution of sodium chloride, succinic acid and water - surface tension and its influence on cloud droplet activation. Atmospheric Chemistry and Physics Discussions 8, 7189-7216.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Bacterial biodegradation of ethoxylated surfactants</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestle Sci</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="150" to="166" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">White G.F. 1993. Bacterial biodegradation of ethoxylated surfactants. Pestle Sci. 37, 150-166.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

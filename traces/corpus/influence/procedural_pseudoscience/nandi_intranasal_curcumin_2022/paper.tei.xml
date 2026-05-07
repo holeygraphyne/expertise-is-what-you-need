@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intranasally Co-administered Berberine and Curcumin Loaded in Transfersomal Vesicles Improved Inhibition of Amyloid Formation and BACE-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Chemical Society (ACS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-11-14">November 14, 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gaurav</forename><surname>Mishra</surname></persName>
+							<idno type="ORCID">0000-0002-8969-0014</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">ACS Omega 2022 , 7 , 43290-43305</note>
+								<address>
+									<addrLine>ACS Omega 2022 7</addrLine>
+									<postCode>43290-43305</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rajendra</forename><surname>Awasthi</surname></persName>
+							<idno type="ORCID">0000-0002-1286-1874</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">ACS Omega 2022 , 7 , 43290-43305</note>
+								<address>
+									<addrLine>ACS Omega 2022 7</addrLine>
+									<postCode>43290-43305</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anurag</forename><forename type="middle">Kumar</forename><surname>Singh</surname></persName>
+							<idno type="ORCID">0000-0003-2125-810X</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">ACS Omega 2022 , 7 , 43290-43305</note>
+								<address>
+									<addrLine>ACS Omega 2022 7</addrLine>
+									<postCode>43290-43305</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Sunil</roleName><forename type="first">Snigdha</forename><surname>Singh</surname></persName>
+							<idno type="ORCID">0000-0001-8344-9054</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">ACS Omega 2022 , 7 , 43290-43305</note>
+								<address>
+									<addrLine>ACS Omega 2022 7</addrLine>
+									<postCode>43290-43305</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sunil</forename><forename type="middle">Kumar</forename><surname>Mishra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Santosh</forename><forename type="middle">Kumar</forename><surname>Singh</surname></persName>
+							<idno type="ORCID">0000-0001-6521-7719</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Manmath</forename><forename type="middle">K</forename><surname>Nandi</surname></persName>
+							<idno type="ORCID">0000-0001-8901-8538</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">ACS Omega 2022 , 7 , 43290-43305</note>
+								<address>
+									<addrLine>ACS Omega 2022 7</addrLine>
+									<postCode>43290-43305</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intranasally Co-administered Berberine and Curcumin Loaded in Transfersomal Vesicles Improved Inhibition of Amyloid Formation and BACE-1</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">ACS Omega</title>
+						<title level="j" type="abbrev">ACS Omega</title>
+						<idno type="ISSN">2470-1343</idno>
+						<imprint>
+							<publisher>American Chemical Society (ACS)</publisher>
+							<biblScope unit="volume">7</biblScope>
+							<biblScope unit="issue">47</biblScope>
+							<biblScope unit="page" from="43290" to="43305"/>
+							<date type="published" when="2022-11-14">November 14, 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">803BF6ED86B7B7EC1ADB9D3729295B6B</idno>
+					<idno type="DOI">10.1021/acsomega.2c06215</idno>
+					<note type="submission">Received: September 26, 2022 Accepted: November 4, 2022 This paper was retracted on July 7, 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Selective permeability of the blood-brain barrier restricts the treatment efficacy of neurologic diseases. Berberine (BBR) and curcumin (CUR)-loaded transferosomes (TRANS) were prepared for the effective management of Alzheimer's disease (AD). The study involved the syntheses of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS by the film hydration method. Vesicles were characterized to ensure the formation of drug-loaded vesicles and their in vivo performance. The particle sizes of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS were 139.2 ± 7, 143.4 ± 8, and 165.3 ± 6.5 nm, respectively. The presence of diffused rings in the SED image indicates the crystalline nature of the payload. Low surface roughness in an AFM image could be associated with the presence of a surface lipid. BBR-CUR-TRANS showed 41.03 ± 1.22 and 47.79 ± 3.67% release of BBR and 19.22 ± 1.47 and 24.67 ± 1.94% release of CUR, respectively, in phosphate buffer saline (pH 7.4) and acetate buffer (pH 4.0). Formulations showed sustained release of both loaded drugs. BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS exhibited a lower percentage of hemolysis than pure BBR and CUR, indicating the safety of the payload from delivery vesicles. Lower percentages of binding were recorded from BBR-CUR-TRANS than BBR-TRANS and CUR-TRANS. Acetylcholinesterase inhibition activity of the prepared transferosomes was greater than that of pure drugs, which are thought to have good cellular penetration. The spatial memory was improved in treated mice models. The level of malondialdehyde decreased in AD animals treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS, respectively, as compared to the scopolamine-induced AD animals. BBR-CUR-TRANS-treated animals showed the highest decrease in the NO level. The catalase level was significantly restored in scopolamine-intoxicated animals treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS. The immunohistochemistry result suggested that the BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS have significantly decreased the regulation of expression of BACE-1 through antioxidant activity. In conclusion, the study highlights the utility of formulated transferosomes as promising carriers for the co-delivery of drugs to the brain.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">INTRODUCTION</head><p>Alzheimer's disease (AD) is an age-related neurodegenerative disorder caused by the accumulation of amyloid beta plaques (Aβ) and neurofibrillary tangles (composed of tau�a microtubule associated stabilizing protein). <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Aβ aggregation forms senile plaques and interferes with the function of the endoplasmic reticulum (ER). This increases the unfolded protein response and causes neuronal apoptosis. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">4</ref> BACE-1, a β-site amyloid precursor protein (APP) cleaving enzyme, is responsible for the cleavage of APP at the β-secretase site. The proteases β-secretase and γ-secretase work together to create Aβ from the APP. <ref type="bibr" target="#b6">5</ref> The accumulation of Aβ in the brain caused several negative effects, including plaque formation, oxidative stress, ER stress, and hyperphosphorylation of tau protein. This ultimately leads to neuronal apoptosis. <ref type="bibr">6</ref> Chronic inflammation and oxidative stress play an important role in the early pathogenesis of AD. It can alter AD development via antiinflammatory and antioxidant activity. <ref type="bibr" target="#b8">7</ref> It binds to the Aβ, influences aggregation and deposition, and modulates tau processing.</p><p>Synthetic drugs are not gaining considerable attention due to their high doses and toxic effects. Targeted systems containing natural bioactives can be beneficial in comparison to the existing conventional synthetic drugs in terms of safety and efficacy. <ref type="bibr" target="#b9">8</ref> In recent years, several studies have reported influencing roles of phytoconstituents in the development and progression of neurodegenerative disorders. Despite their potent anti-inflammatory properties, curcumin (C 21 H 20 O 6 ) (CUR) (Figure <ref type="figure" target="#fig_0">S1A</ref>) and berberine (C 20 H 18 NO 4 + ) (BBR) (Figure <ref type="figure" target="#fig_0">S1B</ref>)-containing polyphenols have limited treatment efficacy associated with their low solubility and low bioavailability. CUR has antioxidant and anti-inflammatory properties. <ref type="bibr" target="#b10">9</ref> Polyphenols with anti-neurodegenerative capabilities have neurotrophins as their primary target. Nanopolyphenols also show neuroprotective effects. When used separately or together, CUR and BBR significantly improve the management of AD. <ref type="bibr" target="#b11">10</ref> CUR can more precisely target AD cellular mechanisms and processes that control the production of cytokines. <ref type="bibr" target="#b12">11</ref> CUR is extracted from the rhizomes of turmeric, which has long been used as a food spice in Southeast Asian countries. <ref type="bibr" target="#b13">12</ref> The neuroprotection effect of BBR is associated with the inhibition of Akt/ERK1/2 survival/ apoptotic signaling pathway/GSK3β/caspase-3 activity and the Jun aminoterminal kinase pathway. <ref type="bibr" target="#b14">13</ref> Single-molecule targeting may show off-target effects. Thus, it can limit the use of single molecule targeting, especially during complex clinical circumstances. BBB may not guarantee the infiltration and retention of nanocarriers in pathological brain tissues via a single molecule-targeting strategy. Targetspecific dual drug-loaded nanoparticles have shown great promise in addressing these limitations. <ref type="bibr" target="#b15">14,</ref><ref type="bibr" target="#b16">15</ref> Co-administration of CUR and BBR has shown improved therapeutic benefits in the treatment of AD. <ref type="bibr" target="#b17">16</ref> Figure <ref type="figure" target="#fig_0">1</ref> presents the hypothesis of this communication.</p><p>Nanomedicines are promising delivery carriers for drugs targeting the central nervous system due to their ability to allow drugs to cross the blood-brain barrier. Despite several reports on the success of developing brain-targeted nanomedicines, these nanocarriers still have limitations with respect to their targeting specificity. Due to the integration of different targeting functions, dual and multi-targeted nano-formulations can precisely deliver the payload to the target site within the brain for the effective treatment of neurodegenerative disorders. <ref type="bibr" target="#b15">14</ref> The study was aimed at exploring the potential of transferosomes for targeted and controlled co-delivery of CUR and BBR to increase their therapeutic benefits. To achieve this aim, transferosomes were prepared using the filmhydration technique. The synthesized transferosomes were evaluated in terms of the vesicle size, zeta potential, polydispersity index (PDI), entrapment efficacy, drug loading, morphology, and in vitro dissolution profile. Hemolytic toxicity and plasma protein binding studies were also carried out. Behavioral studies (Y-Maze and Morris water test), estimation of biochemical parameters (lipid peroxidation, nitrite levels, antioxidant enzyme activity), hematological and immunohistochemical staining, histopathological investigation, pharmacokinetic investigations, and organ distribution studies were done in Swiss Albino mice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">MATERIALS AND METHODS</head><p>2.1. Materials. BBR, CUR, acetonitrile, methanol, and ethanol were obtained from Sigma-Aldrich (Mumbai, India). Sodium deoxycholate (SDC) was purchased from SD Fine Chemicals (Mumbai, India). Span 60 was received from Sigma-Aldrich (Mumbai, India). A dialysis cellulose membrane with a 5000 Da molecular weight cut off was received from Sigma-Aldrich Chemie GmbH (Munich, Germany). Membrane filters were purchased from EMD Millipore Company (Cork, Ireland). Disodium hydrogen phosphate and potassium dihydrogen phosphate were purchased from SISCO Research Laboratories (Mumbai, India). Xylene was procured from El-Nasr Pharmaceutical Co. (Cairo, Egypt). Transmission electron microscopy (TEM) grids coated with carbon were procured from EMS (CF300-Cu, Hatfield, PA). The acetylcholinesterase activity assay kit (Cat. no.: MAK119) was procured from Sigma-Aldrich (St. Louis, MO). DAPI (4′,6-diamidino-2-phenylindole) was obtained from Sigma-Aldrich (St. Louis, MO). Hydrogen peroxide and potassium dichromate (protein estimation kit, Bradford GeNei) were purchased from Merck (Darmstadt, Germany). Acetic acid, ammonium chloride, sodium dihydrogenphosphate, potassium chloride, and disodium hydrogen phosphate were purchased from Sisco Laboratory Limited (Mumbai, India).</p><p>2.2. Methods. 2.2.1. Formulation of BBR and CUR-Loaded Transferosomes. BBR-loaded transferosomes (BBR-TRANS) were formulated by a film hydration method using a rotatory evaporator (IKA RV 10 Auto Pro V, Spain). Briefly, L- α phosphatidylcholine (100 mg) and SDC (1 mg) were taken in a round-bottom flask. 5 mL of methanol was added, and the flask was rotated at 100 rpm at 37 ± 1 °C. Powdered BBR (5 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>mg) was added to the mixture in a controlled manner (1 mg/ min). Stirring was continued for 10 min to make a homogeneous mixture of the drug. The solution was sonicated for 5 min using a probe sonicator (Hielscher UP400ST Ultrasonic Processor) with a pulse of 20 s on and off. The solvent was evaporated under reduced pressure for 90 min at 60 °C to get a dry film. <ref type="bibr" target="#b18">17</ref> 10 mL of Mili Q water was added for the hydration of the film. A similar procedure was repeated for the synthesis of CUR-loaded transferosomes (CUR-TRANS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">Preparation of BBR-CUR-Loaded Transferosomes.</head><p>For the synthesis of BBR-CUR-loaded transferosomes (BBR-CUR-TRANS), BBR-CUR solution was prepared by adding BBR and CUR powder (1:1 ratio) to the normal saline solution containing 0.1% Tween 20 (Figure <ref type="figure" target="#fig_1">S2</ref>). The mixture was vortexed for 5 min at 65 °C to form a homogeneous mixture. The mixture was sonicated using an ultrasonic cleaner (DU-06, Priyanka Corp. Maharashtra, India) to make a clear solution of BBR-CUR. Transferosomes were prepared by a slightly modified thin-layer evaporation technique using phosphatidylcholine (100 mg) and SDC (1 mg), a rotatory evaporator (IKA RV 10 Auto Pro V, Spain). Methanol (5 mL) was added to the round-bottom flask. The flask was rotated at 75 rpm for 7 min. The process temperature was maintained at 60 °C. BBR-CUR solution was added slowly to the roundbottom flask with continuous stirring for 10 min (0.5 mL/ min). A probe sonicator was used to sonicate the solution for 5 min with a 20 s on or off pulse. The solvent was evaporated to form a dry film under reduced pressure for 90 min at 60 °C (IKA RV 10 Auto Pro V Spain). Film hydration was done using 10 mL of Mili Q water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">Characterization of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS. 2.2.3.1. Analysis of Size, Zeta Potential, PDI, Drug</head><p>Loading, and Entrapment Efficiency. Dynamic light scattering (DLS) examinations using a Nano ZS zeta sizer (Malvern Instruments, Malvern, U.K.) were carried out to estimate the hydrodynamic diameter of particles, PDI, and zeta potential (ζ) of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS. Sample preparation was done in microbe-free water as the dispersion medium to avoid contamination. The scattering angle range of 40-150°with an interval of 6°and a refractive index of 1.10 was selected for DLS analysis. A probe sonicator was used to sonicate the samples (Hielscher UP400ST Ultrasonic Processor). Intensity distribution was recorded to determine the particle's hydrodynamic diameter. Laser doppler velocimetry was recorded to estimate zeta potential (ζ) values. An average of five measurements was taken in duplicate for each sample to measure the ζ potential. A Zetasizer (Nano ZS, Malvern Instruments, Malvern, U.K.) equipped with a diode laser was used for size distribution analysis in triplicate at 659 nm. <ref type="bibr" target="#b19">18</ref> For the estimation of drug loading (% DL) and encapsulation efficiency (% EE), 5 mL of samples (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) were dispersed in Milli-Q water (5 mL) and centrifuged (C-24BL, REMI, Maharashtra, India) for 30 min at 10,000 rpm. The supernatant was analyzed to estimate the amount of free drug using a UV-vis spectrophotometer (LT-2800, Labtronics, India) at λ max of 345 nm for BBR and 425 nm for CUR. % EE and % DL were calculated using the following formulas: <ref type="bibr" target="#b14">13,</ref><ref type="bibr" target="#b20">19</ref> DL (%) theoretical amount of drug unentrapped drug amount of drug loaded transferrosomes 100 = × EE (%) theoretical amount of drug unentrapped drug theoretical amount of drug 100 = × 2.2.3.2. Characterization of Morphology.</p><p>The characterization of morphology of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS was done by high-resolution scanning electron microscopy (Nova Nano SEM 450, Singapore), transmission electron microscopy (TEM) (Technai G2T20, FEI, Singapore), and atomic force microscopy (AFM) NTEGRA Prima (NT-MDT Service &amp; Logistics Ltd., Ireland). The morphological and dimensional analysis of the drugloaded transferosomes was done using a scanning electron microscope (Nova-Nano SEM 450FEI, PTE, Singapore)coupled energy-dispersive spectroscopy system (TEAM Pegasus Integrated) with HIKARI Pro and Octane Plus (Tokyo, Japan). The samples were dried in a micro-processed oven (Magicook, Whirlpool, India) at 45 °C for 30 min. Before taking images, the samples were coated with gold using a 7620 EMS SEM sputter coater. A Mega-View III charge-coupled device camera was used to capture images at 200 kV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.3.">In Vitro Dissolution Study and Release Kinetics.</head><p>The in vitro drug dissolution from BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS was determined using a dialysis bag (5000 Da mol. wt. cutoff, width 22.56 mm, diameter 14.3 mm, -50 av. flat, capacity 1.6 mL/cm, HiMedia, India) method. Briefly, the methanolic solutions of BBR (1000 μg) and CUR (1000 μg) were filled separately into a dialysis bag. Similarly, BBR-TRANS particles (≈1 mg of BBR), CUR-TRANS particles (equivalent to 1 mg of CUR), and BBR-CUR-TRANS particles (≈1 mg of BBR and 1 mg of CUR) were taken into the dialysis bag separately. The release studies were carried out at 37 ± 0.5 °C in 100 mL of phosphate buffer saline (PBS pH 7.4) and acidic (pH 4.0). 2 mL of the aliquots were collected at scheduled intervals and replaced with the fresh medium maintained at a similar temperature. The release of BBR and CUR was recorded at 345 and 425 nm, respectively, using a ND1000 Nanodrop UV-Vis spectrophotometer (Thermo-Scientific, Wilmington). The release profiles of BBR and CUR from BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS were compared with those of pure solutions.</p><p>The cumulative drug release versus time (zero order) and the log cumulative percent drug remaining versus time (first order) graphs were used to access drug release kinetics. Higuchi's model was used to confirm the drug release kinetics (cumulative percent drug release vs the square root of time). The drug release mechanism was analyzed according to the Korsmeyer-Peppas' model (log cumulative percent drug release vs log time) to validate whether the drug diffusion is non-Fickian or Fickian. The value of the regression coefficient was used to evaluate the release mechanism.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.4.">In Vitro Acetylcholine Esterase Activity Assay.</head><p>Utilizing a sodium phosphate assay buffer (pH 7.5), an in vitro acetylcholine esterase (AChE) test was performed in a microplate reader (BMG Labtech, Ortenberg, Germany). The AChE test kit's protocol was followed to prepare solution</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>of AChE (Sigma-Aldrich Co. LLC, St. Louis, MO, Cat. no. MAK119). The test medium was composed of 10 mL of inhibitors (BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) and a reagent (190 μL). The inhibitor was produced as a stock solution (20 μM) in sodium phosphate assay buffer (pH 7.5). With the aid of a 1 M inhibitor solution, the AChE activity was measured. Each reaction required 200 μL of sodium phosphate assay buffer containing 2 mg of the reagent. Samples were incubated for 1 h at 25 °C, and the absorbance was measured at 412 nm. The formula below was used to determine the percentage inhibition of activity: <ref type="bibr" target="#b21">20</ref> percentage inhibition activity 1 AB AB 100</p><formula xml:id="formula_0">inhibitors standard = × Ä Ç Å Å Å Å Å Å Å Å Å Å É Ö Ñ Ñ Ñ Ñ Ñ Ñ Ñ Ñ Ñ Ñ</formula><p>where AB inhibitors is the absorbance in the presence of inhibitors and AB standard is the absorbance for the standard calibrator supplied with the assay kit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.4.">Ex Vivo Analysis. 2.2.4.1. Determination of Hemolytic Toxicity.</head><p>The hemolytic toxicity study of pure BBR and CUR and BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS was done with a slight modification from the reported protocol. Whole human blood (8 mL) was collected from a healthy subject and stored in a blood storage EDTAcoated vial. The sample suspension was made in normal saline (0.9% w/v) and centrifuged at 2200 rpm (R-4C DX, REMI, Maharashtra, India). The samples (20 ppm) were prepared in saline. 4 mL of each sample was added in RBCs and incubated for 1 h to allow RBC rupture. The samples were centrifuged, and the supernatant was collected and analyzed using a UV-Vis spectrophotometer at 540 nm. <ref type="bibr" target="#b22">21</ref> RBCs in distilled water were used as controls. The percentage of hemolysis was calculated using the formula below:</p><formula xml:id="formula_1">hemolysis (%) AB AB 100 100 = ×</formula><p>where AB is the sample absorbance, and AB 100 is the absorbance of the formulation-free control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.4.2.">Estimation of Plasma Protein</head><p>Binding. Plasma protein binding of BBR and CUR encapsulated in transferosomes was evaluated by the equilibrium retro-dialysis method (introduction of a formulation into the extracellular space via a microdialysis probe). Briefly, 4 mL of plasma was mixed with 1.2 mL of transferosomes separately for 30 min. The solution was agitated at 120 rpm at 36.5 ± 0.5 °C. Retro dialysis was performed for 6 h at 36.5 ± 0.5 °C using dialysis bags (cut-offs of 5000 Da, Hi Media) filled with 0.5 mL of a 5 percent glucose injection. Aliquots of 200 μL plasma and the resultant dialysate were collected from the glass, and the absorbance was measured at 345 and 425 nm, respectively, for BBR and CUR using a UV-vis spectrophotometer (Thermo-Scientific, Wilmington). The percentage of the plasma protein binding rate of BBR and CUR was calculated.</p><p>2.2.5. In Vivo Analysis. 2.2.5.1. Experimental Animals. Animal testing was carried out on Swiss albino mice (30 ± 5 g). The animals were obtained from the Banaras Hindu University's Animal Research Facility at the Institute of Medical Sciences. The study was done in accordance with the standards established by CPCSEA, Delhi, India. The University's Central Institutional Animal Ethics Committee approved the experimental protocol (Dean/2021/CAEC/ 3051). Polypropylene cages with regular 12 h light/dark cycles were used to house the animals. Standard mouse pellet food and water were freely available to the animals. The animals (four mice per cage) were acclimated to laboratory settings before the study began.</p><p>2.2.5.2. Protocol. Animals were allocated into seven groups (n = 8). Group 1 animals (the control group) received water and a standard diet. Group 2 animals received scopolamine (0.5 mg/kg bw) via an intranasal route. Group 3 animals received pure BBR (0.5 mg/kg bw). Group 4 animals received pure CUR (0.5 mg/kg bw). Group 5 animals received BBR-TRANS (≡0.5 mg/kg bw BBR). Animals of group 6 received CUR-TRANS (≡0.5 mg/kg bw CUR), and those of group 7 received BBR-CUR-TRANS (≡0.25 mg/kg bw of each BBR and CUR) intranasally for up to 7 days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.5.3.">Behavioral Studies.</head><p>In experimental animal groups, the behavioral characteristics were evaluated after 7 days of dosage to look at the motor activity in mice. The locomotor investigation employed the Y-maze and Morris water-maze tests.</p><p>2.2.5.4. Morris Water-Maze Test. Morris water-maze test results were used to assess learning and memory over the course of five days. The apparatus consisted of a white metal pool that was circular (50 cm in height and 160 cm in diameter). The temperature was kept constant at 22 ± 1 °C, and the water level was kept at 26 cm. The water pool was divided into four equal quadrants using water maze software. A translucent acrylic platform (24 cm in height and 12 cm in diameter) was located in the northwest quadrant (below 1.5 cm of the water surface). <ref type="bibr" target="#b23">22</ref> 2.2.5.5. Y-Maze Test. The performance on the Y-maze spontaneous alternation is used to estimate short-term working memory. <ref type="bibr" target="#b24">23</ref> Three arms make up a horizontal labyrinth Y-maze (40 × 4.5 × 12 cm 3 , 120°). The mazes of floors and walls in a dark environment are made of opaque polyethylene plastic. Initially, the animals were kept in one arm, followed by another one in a sequence like 123,213 and so on. Each animal's entry into the other arms within the first 5 min was manually documented. Consecutive admissions into a new arm, followed by a return to the two previously visited arms, were considered successful alternations. Before each test, the labyrinth was properly cleaned to remove all stains and odors. The animals received scopolamine treatment 30 min before the commencement of the trial. Percent alternation was calculated using the following equation: <ref type="bibr" target="#b25">24</ref> alteration (%) number of alterations total number of arm entries 2 100 = × i k j j j y { z z z 2.2.5.6. Biochemical Parameters. The animals were sacrificed via cervical dislocation, followed by painless decapitation. Animal brains were dissected in ice-cold conditions for biochemical examination. At -20 °C, the hippocampus was separated and stored. <ref type="bibr" target="#b26">25</ref> KCl buffer, pH 8.0 (Tris HCl 10 mM, NaCl 140 mM, Triton-X 100 0.5%, KCl 300 mM, and ethylenediaminetetraacetic acid 1 mM), with protease and phosphatase inhibitors added, was used to homogenize the tissue. To extract the supernatant, tissue homogenates were centrifuged at 12,000g for 20 min at 4 °C. The supernatant was examined to determine the levels of nitrite and lipid peroxidation. Antioxidant enzyme (catalase and superoxide dismutase (SOD)) activities were also estimated. <ref type="bibr" target="#b27">26</ref> 2.2.5.7. Estimation of Lipid Peroxidation. The method described by Ohkawa and co-workers was followed to access lipid peroxidation with a slight modification. <ref type="bibr" target="#b28">27</ref> Tissue ACS Omega R e t r a c t e d homogenate (10%) was combined with 10% SDS, and then 20% acetic acid was added. TBA (0.8%) was added to the mixture, which was then heated at 100 °C on a water bath for 60 min. The assay mixture was centrifuged after cooling, and the supernatant was collected. At 532 nm, the absorbance was measured in comparison to the control group. Malondialdehyde (MDA) micromoles per milligram of protein were used to measure lipid peroxidation.</p><p>2.2.5.8. Estimation of Nitrite Levels. The Griess reagent and ammonium chloride were mixed with 10% tissue homogenate. The solution was maintained at 37 °C for 90 min, and the absorbance was recoded at 540 nm. Th standard plot of sodium nitrite (10-100 mM) was made. Micromoles per milliliter were used to assess the nitrite content.</p><p>2.2.5.9. Estimation of the Activity of Antioxidant Enzymes. With the use of a spectrophotometer, the rate of hydrogen peroxide degradation in the substrate was calculated to measure the catalase activity (n mol/min mg protein). In a boiling water bath, the hippocampus homogenate was mixed with potassium dichromate and acetic acid (1:3) for 10 min. The optical density (OD) was measured at 570 nm. As a substrate for SOD activity, reduced nicotinamide adenine dinucleotide was used. <ref type="bibr" target="#b29">28</ref> At 560 nm, the absorbance of both tubes was measured in comparison to a blank. The ability of the enzyme source to prevent nitro blue tetrazolium chloride (NBT) reduction was demonstrated by measuring the OD difference between experimental and control samples. From the enzyme source, protein estimation was done. The unit of SOD enzyme activity is the quantity of enzyme per milligram of protein needed to block 50% OD of NBT in 1 min at 560 nm. <ref type="bibr" target="#b30">29</ref> 2.2.6. Immunohistochemical Staining. Animals were given diethyl ether anesthesia and perfused intracardially with chilled paraformaldehyde (4%) and chilled saline (0.9%) prepared in 0.1 M PBS (pH 7.4). The decapitated brain was placed in 10% paraformaldehyde overnight and transferred to sucrose solution. Using a conventional procedure, immunohistochemical staining of BACE-1 was carried out in the hippocampus. <ref type="bibr" target="#b31">30</ref> Brain slices (20 μm thick) were quickly cut coronally at the hippocampus using a cryomicrotome (Leica, Wetzlar, Germany). At 10 min intervals, the brain sections were washed with 0.01% M PBS (pH 7.4) and blocked with 10% NGS in PBS 0.3% Triton-X 100 and 1% BSA in PBS with Triton-X 100 (PBST) for 1 h.</p><p>Immunohistochemical staining was carried out for BACE-1 and Aβ. The brain sections were incubated at 4 °C for 16 h with a 1:1000 dilution of BACE-1. To remove the unbound primary antibodies, samples were washed twice separately with PBS and 1% BSA-PBS. The samples were incubated at 25 °C for 1 h with a TRITC-conjugated secondary antibody prepared in BSA-PBS (1%). The sections were washed three times (at 3 min intervals) with 1% BSA-PBS. The sections were washed three times with PBS. Finally, sections were mounted on a glass slide using poly-vinyl alcohol with DABCO (Fluka Analytical). The nuclei were counterstained with DAPI for 15 min. A Nikon fluorescence microscope was used for imaging (Thermo Fisher Scientific, Mumbai, India). Immunofluorescence was analyzed using Image J software. The average integrated fluorescent values in the hippocampus were used to express the results.</p><p>Furthermore, to affirm our hypothesis, the Aβ aggregation inhibition study was carried out through immunohistochemical staining. Aβ accumulation leads to AD. The study was carried out with normalized fluorescence intensity and percent inhibition of Aβ aggregation. <ref type="bibr" target="#b32">31</ref> 2.2.7. Hematological and Histopathological Examination. Hematological studies including healthy Swiss albino mice (30 ± 5 g) were used to carry out the experiments. The animals were fed a standard diet and divided into six groups at random (Table <ref type="table" target="#tab_1">1</ref>). Each group contained five animals. <ref type="bibr" target="#b33">32</ref> The animals were fed a consistent diet for the duration of the study (7 days).</p><p>The blood samples were obtained by cardiac puncture and tested for a complete blood count at the end of the seventh day. <ref type="bibr" target="#b34">33</ref> After 28 days, the test animals were put to sleep, anesthetized, and humanely sacrificed. The brain, kidneys, liver, and spleen were surgically removed to obtain connective tissues. Precisely weighed tissue samples were washed with PBS, fixed in 10% formalin solution, and embedded in paraffin. Tissue sections were stained with eosin and hematoxylin. A BX 60 Olympus light microscope was used to examine the tissue samples at a magnification of 40×.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.8.">Pharmacokinetic Profile of Drug Estimation.</head><p>To assure the effective and efficient targeted administration of BBR, CUR, and BBR-CUR combinations delivered by an intranasal route, blood plasma concentration was investigated. <ref type="bibr" target="#b35">34</ref> The animals were divided into seven groups, with five animals in each group. Before starting the experiment, the animals underwent 12 h of fasting. For 12 h, the animals were kept in clean polypropylene cages in an animal house with air conditioning and regular light-dark cycles.</p><p>The animals had unrestricted access to food, water, and a typical mouse pellet diet. The animals of group 1 served as controls. Group 2 received 0.5 mg/kg b/w of pure BBR. Group 3 animals received BBR-TRANS (equivalent to 0.5 mg/kg b/w of BBR). Group 4 received pure CUR (0.5 mg/kg b/w). Group 5 animals were treated with CUR-TRANS equivalent to (0.5 mg/kg b/w of CUR). Group 6 animals were treated with BBR-CUR solution (0.25 mg/kg day BBR; 0.25 mg/kg day CUR), and group 7 animals received BBR-CUR-TRANS (0.25 mg/kg day BBR; 0.25 mg/kg day CUR). Samples were prepared in saline buffer and administered via a nasal route. The blood samples were collected via retro orbital veins at fixed interval using micron size capillary. A high-performance liquid chromatographic (HPLC) equipment was used for sample analysis (Shimadzu Scientific Instruments, Kyoto, Japan). The HPLC system contained a UV-vis detector (SPD-20A) and a system controller (CBM-20). A Kinetex C18 (100 Å, LC column 30 × 2.1 mm 2 , particle size 1.7 μm, Phenomenex) column was used for separation. The mobile phase was filtered using a 0.22 μm membrane filter and degassed. The mobile phase consisted of methanol/water/ acetonitrile (20:30:50, v/v/v) and orthophosphoric acid ACS Omega R e t r a c t e d (0.1%) at a flow rate of 1.0 mL/min. Samples were analyzed at 345 nm and 425 nm, respectively, for BBR and CUR. 2.2.9. Organ Distribution Study. This study was carried out at 10, 30, 60, 120, 240, and 480 min intervals. For the estimation of drug distribution, the animals were sacrificed with all precautions following the cervical dislocation approach. To analyze brain distribution, the washed brain was dissected and rewashed thrice with the normal saline. After the removal of other tissues, the brain was weighed. Quantification of the drug was carried out following HPLC. The brain was crushed and vortexed before the sample was injected. The fluid and the supernatant were used, and a cooling centrifuge was used to separate them. After the brain was weighed, cold saline solution (1:10) was added and homogenized on ice. An aliquot of brain was extracted in acetonitrile and vortexed for 1 min. An HPLC system was used to analyze the BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS complexes after centrifugation (REMI C-24BL, Mumbai, India) at 40 °C and 4000 rpm for 20 min (Shimadzu Scientific Instrument, Kyoto, Japan).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Statistical Treatment of Data.</head><p>The data analysis was done using GraphPad Prism software, Origin software, and Microsoft Excel (version 2019, Microsoft Corporation). To compare behavioral parameters, immunohistochemistry, and biochemical analysis, a one-way ANOVA was used, followed by the Newman-Keuls multiple comparison test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">RESULTS AND DISCUSSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Characterization of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS.</head><p>The unimodal size distribution width was analyzed based on its PDI value. The acceptable PDI value for a dispersed system is &lt;0.7. The PDI value of &gt;0.1 and &lt;0.1 is indicative of a polydisperse and a mono-disperse system, respectively. <ref type="bibr" target="#b36">35</ref> The PDI value of BBR-TRANS was less than that of CUR-TRANS. The highest PDI value was recorded in BBR-CUR-TRANS (Table <ref type="table" target="#tab_2">2</ref>). The higher value of PDI in BBR-CUR-TRANS is indicative of a more dispersible system, leading to the homogeneous distribution of particles.</p><p>Hydrophilic and lipophilic drugs are intercalated within the aqueous compartment and lipid bilayer of these vesicles, respectively. <ref type="bibr" target="#b38">36</ref> Drug entrapment efficiency in lipoidal vesicles is affected by the lipophilic or hydrophilic nature of the drug, surface area of the vesicles, the polymer used, and preparation technique. <ref type="bibr" target="#b38">36,</ref><ref type="bibr" target="#b39">37</ref> The high concentrations of the surfactant (SDC�a hydrophilic surfactant) resulted in pore formation and decreased entrapment efficiency due to the leaching of loaded drug from the vesicles. The % EE and % DL of BBR-  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>TRANS, CUR-TRANS, and BBR-CUR-TRANS were 68.34 ± 2.5, 65.76 ± 3.2, 67.97 ± 2.8, and 17.31 ± 1.5, 12.34 ± 2.2, 15.87 ± 2.7, respectively (Table <ref type="table" target="#tab_2">2</ref>). SEM images revealed formation of uniformly distributed BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS vesicles (Figure <ref type="figure" target="#fig_1">2</ref>). BBR-CUR-TRANS had a larger particle size (165.3 ± 6.5 nm) (Figure <ref type="figure" target="#fig_2">S3A</ref>) than the CUR-TRANS (143.4 ± 8 nm) (Figure <ref type="figure" target="#fig_2">S3B</ref>) and BBR-TRANS (139.2 ± 7 nm) (Figure <ref type="figure" target="#fig_2">S3C</ref>).</p><p>The surface morphology was determined based on TEM analysis. The particle diameter observed in TEM images was smaller than the results of the DLS method. DLS typically produces larger sizes than TEM. This is because, unlike TEM, the DLS technique uses the principle of DLS based on Brownian motion to detect the diffusion coefficient of particles. Therefore, due to the formation of a hydration layer around the particles (since particles are dispersed in the dispersion medium in the DLS technique), particle sizes (hydrodynamic radii) are higher compared to TEM. DLS is an intensity-based technique, while TEM is a number-based one; they are fundamentally different and frequently do not correlate well with data obtained from DLS. Solvated samples are used for DLS, and dry samples are used for TEM under ultrahigh vacuum conditions. TEM calculates the projected surface area based on how much of the incident electrons were transmitted through the sample. DLS measures the hydrodynamic radius of the dispersed particles. <ref type="bibr" target="#b40">38</ref> TEM images of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS are shown in Figure <ref type="figure" target="#fig_2">3</ref>. TEM images confirmed that the size of transferosomes (90-120 nm) is acceptable for nasal administration. <ref type="bibr" target="#b41">39,</ref><ref type="bibr" target="#b42">40</ref> The presence of diffused rings in the SED image indicates the crystalline nature of the payload. The diffused rings are not visible in the SED image of BBR-CUR-TRANS, indicating that the loaded drugs are not in crystalline form (at least not at a higher percentage) (Figure <ref type="figure" target="#fig_3">4</ref>).</p><p>AFM investigation of BBR-CUR-TRANS vesicles was done to acquire surface details in a nanometric range from twodimensional and three-dimensional images (Figure <ref type="figure" target="#fig_4">5</ref>). BBR-CUR-TRANS vesicles had roughness average (Rq) and root mean square (Ra) values of 3.825 and 5.083 nm, respectively. Low surface roughness of the vesicles is associated with the presence of a surface lipid. Sa and Sq values for BBR-TRANS were 1.340 and 1.705, respectively (Figure <ref type="figure" target="#fig_3">S4A</ref>,<ref type="figure">B</ref>). In the case    </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">In Vitro Dissolution Study and Release Kinetics.</head><p>The drug dissolution study is beneficial for accelerating the process of product development and for gaining a deeper understanding of the mechanisms controlling drug release. Before moving forward with an animal study, we conducted an in vitro dissolution study to ensure prolonged drug release in the brain. The release study was conducted to examine the dissolution profiles of berberine and curcumin from the synthesized transferosomes under different pH conditions (acidic, pH 4, and alkaline, pH 7) using a dialysis bag method for 72 h. The alkaline and acidic media were selected to represent the pH of CSF and the hippocampus of the brain, respectively. After 24 h, the release of BBR from BBR-TRANS was found to be 51.11 ± 3.92% and 57.12 ± 2.97%, respectively, in phosphate buffer saline (pH 7.4) and acetate buffer (pH 4.0). After 24 h, 23.15 ± 2.57 and 27.30 ± 3.72% of CUR were released in phosphate buffer saline (pH 7.4) and acetate buffer (pH 4.0), respectively. BBR-CUR-TRANS showed 41.03 ± 1.22 and 47.79 ± 3.67% release of BBR and 19.22 ± 1.47 and 24.67 ± 1.94% release of CUR, respectively, in phosphate buffer saline (pH 7.4) and acetate buffer (pH 4.0) (Figure <ref type="figure" target="#fig_6">6</ref>).</p><p>After 60 h, the drug release was saturated, and until 72 h, no further significant release was observed. As a result, the release study was discontinued after 72 h. Results showed that the drugs were released in a sustained manner from the formulations, which might help in improving the therapeutic benefit of the loaded drug by minimizing their side effects. The release rate of both the drugs (BBR and CUR) was found to be the highest in acidic medium.</p><p>The best-suited kinetic model was chosen based on their goodness of fit, depending on the highest r 2 value. For the formulation illustrating the diffusion-controlled release mechanism, Higuchi's plot is linear and is determined from correlation coefficient values. According to the Korsmeyer-Peppas' model, the n value ranging from 0.43 to 0.85 indicates non-Fickian anomalous diffusion, and n values greater than 0.85 signify a swelling-controlled diffusion mechanism implying polymer matrix expansion. Super case II mode is indicated if the n value exceeds 1. Zero-order kinetics offered the best explanation for the BBR and CUR release profiles from BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS in both dissolution media. With correlation coefficient (r 2 ) values of 0.9966 and 0.9968 and 0.9929 and 0.9937, respectively, in pH 7.4 and pH 4.0, the dissolution data of BBR from BBR-TRANS and BBR-CUR-TRANS demonstrated linearity for Higuchi's plots. The Korsmeyer-Peppas' plots further supported the diffusion theory of drug release by demonstrating fair linearity for BBR-TRANS and BBR-CUR-TRANS (r 2 values of 0.8884 and 0.8628 in pH 7.4 and 0.8864 and 0.8775 in pH 4.0, respectively, with slope values of 0.0651 and 0.0688 and 0.0596 and 0.0618). CUR also showed similar release kinetics and the mechanism of drug release (Table <ref type="table" target="#tab_4">3</ref>).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>3.3. In Vitro Anticholinesterase Activity Assay. Using the Ellman method at a concentration of 1 M, the AChE inhibitory activity of BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS was evaluated from electrophorus electricus (Ee-AChE). BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS all had AChE inhibition activities that were, respectively, 63.75 ± 0.27, 49.14 ± 0.31, 26.33 ± 0.21, 22.81 ± 0.09, and 21.76 ± 0.17%. In comparison to pure BBR and CUR, formulations (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) showed significantly (p &lt; 0.0001) higher AChE inhibitory activity. The combined codelivery impact of BBR and CUR may be the cause of the greater AChE inhibitory action of BBR-CUR-TRANS. It is anticipated that cells would endocytose newly formed transferosomal vesicles, which would then move throughout the cell and exocytose. These incredibly flexible vesicles penetrated the BBB to get to vascular endothelial cells (Figure <ref type="figure" target="#fig_7">7</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Hemolytic Toxicity Study.</head><p>The hemolysis study is a widely used classical assay for acute toxicity screening and assessing hemocompatibility. It reflects the rupture of the erythrocyte membrane. <ref type="bibr" target="#b43">41</ref> This study was done to ensure the biosafety of pure BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS formulations. Formulations with a hemolysis value of &lt;10% are considered non-hemolytic, while values &gt;25% are at risk for hemolysis. <ref type="bibr" target="#b44">42</ref> Pure BBR and CUR exhibited approximately 15.30 and 5.00% hemolysis, respectively, as compared to 12.80, 4.20, and 8.70%, respectively, for BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS. The percentage hemolysis of formulations is lower than the pure solution of the corresponding bioactive, indicating its safe delivery (Figure <ref type="figure" target="#fig_8">8</ref>).</p><p>3.5. Plasma Protein Binding Study. The lower percentage of drug binding confirms good penetration power from the biological membrane. The protein binding efficiency of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS was evaluated from 0-6 h and found to be 81.91, 80.21, and 79.98 percent, respectively (Figure <ref type="figure" target="#fig_9">9</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Behavioral Studies. 3.6.1. Morris Water Maze Test.</head><p>The synergic effect of BBR and CUR co-delivery without causing any toxic behavior has been reported compared to the individually administered actives in the animal models. <ref type="bibr" target="#b45">43</ref> Scopolamine-treated animals took more time (79 s) than the control group (29 s, p &lt; 0.001) to reach the hidden platform. The time taken by the animals treated with pure BBR (42 s), CUR (38 s), BBR-TRANS (30 s), CUR-TRANS (34 s), and BBR-CUR-TRANS (24 s) was considerably less than that of the AD group (79 s, p &lt; 0.001) (Figure <ref type="figure" target="#fig_10">10A</ref>). When the platform was removed at the end of the experiment, a probe test revealed that the scopolamine-intoxicated group spent less time in the target quadrant and more time in the other quadrants than the control, BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS-treated groups. Scopolamine treatment significantly reduced the spatial memory of mice. However, it was improved in animals treated with BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS (Figure <ref type="figure" target="#fig_10">10B</ref>). This could be due to the cognitive impairment associated with BACE-1 upregulation in the hippocampus. <ref type="bibr" target="#b46">44</ref> The administration of BBR and CUR leads to antiinflammation and anti-oxidative stress. Neuroinflammation and oxidative stress are common pathological conditions in AD development and targeting. This can delay the process of   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>cognitive impairment and neuron loss. The cortex and hippocampus are the major brain regions that are injured in AD, which are the principal brain areas responsible for learning and memory functions that are detected in the Morris water maze test. The results showed that BBR and CUR had synergistic effects to reduce proinflammatory cytokine production in both cortex and hippocampal tissues. Because of this, BBR-CUR-TRANS-treated animals had improved spatial memory. Scopolamine administration increased the expression of BACE-1. However, BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS administration downregulated the BACE-1 expression in AD animals.</p><p>3.6.2. Y-Maze Test. The spontaneous alteration in arm entries was calculated in mice. When compared to the control group, the AD mice had fewer spontaneous changes and arm entries. BBR-CUR-TRANS-treated animals had significantly (p &lt; 0.001) increased spontaneous alteration and arm entries than the scopolamine-treated mice (Figure <ref type="figure" target="#fig_10">10C</ref>). This can be explained by the fact that Aβ-aggregation lowers the level of the brain-derived neurotrophic factor (BDNF), which reduces  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>performance in the Y-maze and water maze. Increased BDNF and pERK levels in the hippocampus are linked to these effects. It enhances arm entries and spontaneous changes. <ref type="bibr" target="#b47">45</ref> The administration of BBR and CUR had a protective effect on the cognitive abilities of AD mice. <ref type="bibr" target="#b45">43</ref> 3.7. Biochemical Assay. 3.7.1. Lipid Peroxidation. The MDA level was analyzed to investigate the effect of BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS in the hippocampus of AD in mice. The MDA level was enhanced in the brain hippocampus of AD mice as compared to the control group (p &lt; 0.01). MDA levels are elevated in AD-bearing mice, which is a sign of a weak oxidative stress defense mechanism. Reactive-free radicals can alter the phospholipid structure and functionality in cell membranes, leading to the formation of lipid peroxides and various small compounds, namely MDA. MDA is a peripheral lipid peroxidation biomarker for AD patients. The MDA level was reduced in AD animals treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS as  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>compared to the scopolamine-induced AD mice (p &lt; 0.001) (Figure <ref type="figure" target="#fig_11">11A</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.2.">NO Test.</head><p>The NO level in the hippocampus of scopolamine-induced AD mice was significantly higher (p 0.001) than in the control group. The NO level was significantly decreased in BBR and CUR-treated groups. A considerable decrease in the NO level was observed in BBR-TRANS and CUR-TRANS-treated AD mice. The highest decrease in the NO level was observed in BBR-CUR-TRANStreated groups as compared to scopolamine-induced AD mice (Figure <ref type="figure" target="#fig_11">11B</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.3.">Superoxide Dismutase and Catalase Activity.</head><p>Reactive oxygen species produced in the hippocampus was determined using antioxidant enzymes such as SOD and catalase. It is observed that the pure BBR and CUR-modulated antioxidant enzyme activity. A higher modulation in antioxidant enzyme activity was shown by BBR-TRANS than the CUR-TRANS, and it was highest is case of BBR-CUR-TRANS. The SOD activity was significantly (p &lt; 0.001) decreased in the hippocampus of AD mice as compared to the control group. The catalase level was significantly restored (p &lt; 0.001) in scopolamine-intoxicated mice treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS due to the antioxidative behavior potential (Figure <ref type="figure" target="#fig_12">12A</ref>). SOD activity was significantly restored in scopolamine-induced animals compared to the control group (Figure <ref type="figure" target="#fig_12">12B</ref>). In BBR-CUR-TRANS-treated animals, the activity is seen to be reduced as compared to the control group, and there is significant (p &lt; 0.001) improvement in the activity of SOD to the pure and transferosome-containing drug in comparison to scopolamineinjected mice. <ref type="figure">Amyloid-β</ref>. Results of immunohistochemistry study indicate the level of β-secretase in the hippocampus of AD mice. Scopolamine administration significantly (p &lt; 0.001) elevated BACE-1 expression. The group treated with pure BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS showed significant (p &lt; 0.001) decrease in the level of BACE-1 than the scopolamine-administered mice. BBR and CUR in combination decreased the level of Aβ by inhibiting BACE-1 activity. BACE-1 is the main β-secretase that helps in the generation of Aβ. <ref type="bibr" target="#b6">5</ref> Secretion of Aβ 40/42 is decreased by BBR and CUR via inhibition of BACE-1 expression through ERK1/ 2 pathway activation. <ref type="bibr" target="#b14">13,</ref><ref type="bibr" target="#b48">46</ref> BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS significantly down regulate the expression of BACE-1 through antioxidant activity (Figure <ref type="figure" target="#fig_13">13</ref>). The expression level of Aβ in was elevated in the control group as compared to the treatment group (Figure <ref type="figure" target="#fig_14">14</ref>). The bar graphs show that quantitation of the TRITC was normalized to DAPI staining intensity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Immunohistochemical Staining of BACE-1 and</head><p>3.9. Hematological and Histopathological Examination. The hematological study was carried out by administer- </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d</head><p>ing the BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS complexes in Swiss albino mice. The RBC count in BBR-TRANS and BBR-CUR-TRANS-administered mice was found to be 6.87 ± 0.04 × 10 -6 and 7.14 ± 0.21 × 10 -6 μL -1 , respectively. In control and CUR-TRANS-treated mice, RBC count was 8.54 ± 0.41 × 10 -6 and 5.4 ± 0.30 × 10 6 μL -1 , respectively. The hemoglobin level in control and BBR-TRANS-treated groups was 12.50 ± 0.72 and 11.65 ± 0.61 g/ dL, respectively. The hemoglobin level in CUR-TRANS and BBR-CUR-TRANS-treated mice was 11.2 ± 0.72 and 12.01 ± 0.21, respectively (Table <ref type="table">4</ref>). Similar outcomes for CUR-PLGA nanoparticles <ref type="bibr" target="#b49">47</ref> and BBR nanoparticles <ref type="bibr" target="#b50">48</ref> have been reported earlier. The histopathological examinations were assessed in the brain, liver, kidneys, and spleen. Microscopic images showed significant changes between the control group and animals treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS (Figure <ref type="figure" target="#fig_15">15</ref>).</p><p>To assess pharmacokinetic parameters, the plasma concentration of BBR and CUR was estimated from BBR and CUR from solutions of BBR and CUR, and transferosome formulations (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) in intranasally administered mouse models. The results of T max and MRT (mean residence time) of prepared formulations manifested the prolonged circulation of loaded drugs compared to pure drug solutions. BBR-CUR-TRANS improved the AUC 0-∞ of BBR and CUR by more than nine times compared to pure solutions of BBR and CUR (Table <ref type="table" target="#tab_6">5</ref>).</p><p>3.10. Estimation of BBR and CUR in the Brain and Its Bio-Distribution. The drug concentration in the brain of BBR-CUR-TRANS treated animals was higher than that in animals that received pure drug solution, suggesting a higher transportation ability of the prepared formulation in the brain. The mean residence time in the brain of BBR-CUR-TRANS treated animals was six times higher, suggesting increased residence of transferosomal vesicles in the mouse brain (Table <ref type="table">Table 4</ref>. Results of Hematological Studies blood parameters control (blank) BBR-TRANS CUR-TRANS BBR-CUR-TRANS WBCs (×10 3 μL -1 ) 8.37 ± 2.2 5.94 ± 0.22 4.91 ± 0.41 6.49 ± 0.12 RBCs (×10 6 μL -1 ) 8.54 ± 0.41 6.87 ± 0.04 5.4 ± 0.30 7.14 ± 0.21 Hb (g/dL) 12.50 ± 0.72 11.65 ± 0.61 11.2 ± 0.72 12.01 ± 0.21  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Schematic representation of the hypothetical approach of the present work (created with BioRender.com).</figDesc><graphic coords="2,54.31,60.44,498.22,211.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Scanning electron microscopy images of BBR-TRANS (Set A), CUR-TRANS (Set B), and BBR-CUR-TRANS (Set C).</figDesc><graphic coords="6,103.41,147.46,400.03,313.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Transmission electron microscopy of BBR-TRANS (a), CUR-TRANS (b), and BBR-CUR-TRANS (c).</figDesc><graphic coords="7,128.52,60.44,349.91,113.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Selected area electron diffraction pattern micrographs of BBR-TRANS (A), CUR-TRANS (B), and BBR-CUR-TRANS (C).</figDesc><graphic coords="7,150.92,204.49,305.01,101.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Atomic force microscopy images of BBR-CUR-TRANS: 2D image (A) and 3D plane image (B).</figDesc><graphic coords="7,316.40,337.49,238.05,316.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>R e t r a c t e d of CUR-TRANS, Sa and Sq values were 1.403 and 2.416, respectively (Figure S4C,D).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Release profile of BBR and CUR from BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS in 100 mL of acid phthalate buffer (pH 4.0) and phosphate buffer saline (pH 7.4) using a dialysis bag method at 37 ± 0.5 °C (mean ± SD, n = 3).</figDesc><graphic coords="8,138.33,60.44,330.24,198.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. AChE activity (%) with inhibitors (BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) estimated at 412 nm. The data presents mean ± SD, n = 3 (p &lt; 0.001). One-way ANOVA followed by Tukey's multiple comparison test was used for data analysis.</figDesc><graphic coords="9,56.75,271.96,229.44,229.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Percent RBC rupture in comparison to the distilled water n = 3 (p &lt; 0.001).</figDesc><graphic coords="9,333.81,60.44,203.24,135.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 9 .</head><label>9</label><figDesc>Figure 9. Plasma protein-binding study of BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS.</figDesc><graphic coords="9,333.69,294.58,203.47,151.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10. Result of behavioral analysis in the mouse model. Alteration caused by the BBR, CUR, BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS in the neurobehavior of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-injected mice: Morris water-maze test to reach the hidden platform (A), entries in arms (B), and spontaneous alteration (C). Values are represented as mean ± SEM, n = 8. Data analysis was carried out using one-way ANOVA (***p &lt; 0.001).</figDesc><graphic coords="10,149.05,60.44,308.86,305.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 11 .</head><label>11</label><figDesc>Figure 11. Alteration in oxidative stress in different treatment groups: lipid peroxidation test (A) and nitrite test (B) (mean ± SEM, n = 5). Data analysis was carried out using one-way ANOVA (***p &lt; 0.001).</figDesc><graphic coords="10,149.05,426.50,308.86,171.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 12 .</head><label>12</label><figDesc>Figure 12. Results of the catalase test (A) and the SOD test (B) showing alteration in antioxidant enzymes in different test groups (mean ± SEM, n = 5). Statistical analysis of data was carried out by using one-way ANOVA (***p &lt; 0.001).</figDesc><graphic coords="11,149.05,60.44,308.86,149.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 13 .</head><label>13</label><figDesc>Figure 13. Observations of immunohistochemical analysis to analyze the BACE-1 expression in the brain hippocampus of experimental animals (scale 100 μm). Images present BACE (red signal) and DAPI DNA counterstains (blue signal) (mean ± SEM, n = 5). Statistical calculations were carried out by one-way ANOVA following the Newman-Keuls test (***p &lt; 0.001).</figDesc><graphic coords="11,52.89,250.47,501.11,353.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 14 .</head><label>14</label><figDesc>Figure 14. Observations of immunohistochemical analysis to interpret the expression of Aβ in the hippocampus of experimental animal (scale 100 μm). Images present Aβ (red signal) and DAPI DNA counterstain (blue signal) (mean ± SEM, n = 5). Statistical calculations were carried out by one-way ANOVA following the Newman-Keuls test (***p &lt; 0.001).</figDesc><graphic coords="12,52.89,60.44,501.11,348.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 15 .</head><label>15</label><figDesc>Figure 15. Results of histopathological examinations of brain, kidney, liver, and spleen (control and treated with BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS).</figDesc><graphic coords="13,124.16,134.48,358.53,276.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="16,316.80,433.60,240.00,323.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Animal Groups and Treatments Given for Hematological and Histopathological Examinations</figDesc><table><row><cell>groups</cell><cell>treatment</cell></row><row><cell>group I</cell><cell>regular diet (control group)</cell></row><row><cell>group II</cell><cell>BBR (0.5 mg/kg/day) b.w., intranasally (in)</cell></row><row><cell cols="2">group III CUR (0.5 mg/kg/day) b.w., i.n.</cell></row><row><cell cols="2">group IV BBR-TRANS (equivalent to0.5 mg/kg/day) b.w. of BBR, i.n.</cell></row><row><cell>group V</cell><cell>CUR-TRANS (equivalent to 0.5 mg/kg/day) of CUR, i.n.</cell></row><row><cell cols="2">group VI BBR-CUR-TRANS (0.25 mg/kg/day BBR;0.25 mg/kg/day</cell></row><row><cell></cell><cell>CUR)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Characterization Results of Formulated Transferosomes (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS)</figDesc><table><row><cell>formulation code</cell><cell>PDI value</cell><cell>zeta potential (ζ) a</cell><cell>particle size (nm) a</cell><cell>entrapment efficiency (%) a</cell><cell>drug loading (%) a</cell></row><row><cell>BBR-TRANS</cell><cell>0.0540</cell><cell>-26.43 ± 0.45</cell><cell>139.2 ± 7.0</cell><cell>68.34 ± 2.5</cell><cell>17.31 ± 1.5</cell></row><row><cell>CUR-TRANS</cell><cell>0.0730</cell><cell>-7.24 ± 0.55</cell><cell>143.4 ± 8.0</cell><cell>65.76 ± 3.2</cell><cell>12.34 ± 2.2</cell></row><row><cell>BBR-CUR-TRANS</cell><cell>0.1200</cell><cell>-31.78 ± 0.61</cell><cell>165.3 ± 6.5</cell><cell>67.97 ± 2.8</cell><cell>15.87 ± 2.7</cell></row></table><note><p>a Data expressed as mean ± SD, n = 3.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Results of the Kinetic Study of BBR and CUR Release from BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS Following the Dialysis Bag Method in PBS (pH 7.4) and Acid Phthalate Buffer (pH 4.0)</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Higuchi's</cell><cell cols="2">Korsmeyer-</cell><cell></cell><cell></cell><cell>Higuchi's</cell><cell cols="2">Korsmeyer-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>model</cell><cell cols="2">Peppas' model</cell><cell cols="2">zero-order first-order</cell><cell>model</cell><cell cols="2">Peppas' model</cell></row><row><cell>formulation code</cell><cell></cell><cell>r 2</cell><cell>r 2</cell><cell>r 2</cell><cell>r 2</cell><cell>n</cell><cell>r 2</cell><cell>r 2</cell><cell>r 2</cell><cell>r 2</cell><cell>n</cell></row><row><cell>BBR-TRANS</cell><cell></cell><cell>0.9966</cell><cell>0.9930</cell><cell>0.9966</cell><cell>0.8884</cell><cell>0.0651</cell><cell>0.0658</cell><cell>0.9917</cell><cell>0.9929</cell><cell>0.8864</cell><cell>0.0596</cell></row><row><cell>CUR-TRANS</cell><cell></cell><cell>0.9907</cell><cell>0.9831</cell><cell>0.9907</cell><cell>0.9493</cell><cell>0.0862</cell><cell>0.9951</cell><cell>0.9938</cell><cell>0.9951</cell><cell>0.9559</cell><cell>0.0668</cell></row><row><cell>BBR-CUR-TRANS</cell><cell>BBR</cell><cell>0.9831</cell><cell>0.9955</cell><cell>0.9968</cell><cell>0.8628</cell><cell>0.0688</cell><cell>0.9951</cell><cell>0.9929</cell><cell>0.9937</cell><cell>0.8775</cell><cell>0.0618</cell></row><row><cell></cell><cell>CUR</cell><cell>0.9799</cell><cell>0.9698</cell><cell>0.9799</cell><cell>0.9666</cell><cell>0.0911</cell><cell>0.9957</cell><cell>0.9915</cell><cell>0.9957</cell><cell>0.9612</cell><cell>0.0703</cell></row></table><note><p>a phosphate buffer saline (PBS pH 7.4) acid phthalate buffer (pH 4.0)</p><p>zero-order first-order a r 2 is the correlation coefficient, and n is the slope.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 .</head><label>5</label><figDesc>Results of the In Vivo Pharmacokinetic Study of BBR and CUR from Solutions of BBR and CUR and Transferosomal20.21 AUC 0-24 (h × ng/mL) 298.34 ± 15.20 256.54 ± 9.12 1800.32 ± 30.21 1551.67 ± 14.02 2900.33 ± 30.04 AUC 0-∞ (h × ng/mL) 345.23 ± 20.31 312.23 ± 10.65 1981.34 ± 24.21 1655.33 ± 8.43 3156.31 ± 20.36 MRT (h) 3.21 ± 0.76 2.76 ± 0.21 5.62 ± 1.10 7.32 ± 2.01 13.22 ± 1.98</figDesc><table><row><cell>ACS Omega</cell></row></table><note><p>Formulations (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) (Mean ± SD, n = 3) parameters BBR CUR BBR-TRANS CUR-TRANS BBR-CUR-TRANS T max (h) 1.45 ± 0.33 1.20 ± 0.06 4.98 ± 0.96 5.32 ± 1.32 6.75 ± 1.17 C max (ng/mL) 10.12 ± 1.02 9.53 ± 1.44 98.65 ± 12.29 78.21 ± 15.32 278.34 ±</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>https://doi.org/10.1021/acsomega.2c06215ACS Omega 2022, 7, 43290-43305</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>■ ACKNOWLEDGMENTS</head><p>The authors acknowledge the research facilities provided by the <rs type="institution">Central Discovery Centre (Banaras Hindu University) Varanasi</rs>; <rs type="institution">Central Instrument Facility Centre</rs>, <rs type="institution">Indian Institute of Technology (Banaras Hindu University), Varanasi</rs>; <rs type="institution">Centre of Experimental Medicine &amp; Surgery, Institute of Medical Sciences (Banaras Hindu University)</rs>; and <rs type="institution">Department of Medicinal Chemistry (Banaras Hindu University) Varanasi</rs>.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R e t r a c t e d 6)</head><p>. This could be due to the improved penetration and ultraflexible structure of transferosomes for the nose-to-brain delivery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">CONCLUSIONS</head><p>By using the film hydration technique, brain-targeted BBR and CUR-loaded TRANS were successfully prepared and evaluated. Low surface roughness of the particles and sustained drug release characterized the formulation of TRANS vesicles. Formulated TRANS showed a lower percentage of hemolysis than pure BBR and CUR, indicating the payload's safety. When mouse models were treated, their spatial memory improved. AD animals treated with TRANS showed a decreased level of MDA than the scopolamine-induced AD animals. The NO level in these animals also decreased. In animals given the drug-loaded TRANS, the catalase level was restored. The results of the immunohistochemistry study demonstrated that CUR-TRANS significantly reduced the regulation of the BACE-1 expression. To sum up, the synthesized TRANS are safe, can target the brain region, and can enhance BBR and CUR absorption by avoiding the BBB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ ASSOCIATED CONTENT</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>* sı Supporting Information</head><p>The Supporting Information is available free of charge at <ref type="url" target="https://pubs.acs.org/doi/10.1021/acsomega.2c06215?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.2c06215</ref>.</p><p>Chemical structure and formula of berberine (BBR) (A) and curcumin (CUR) (B); schematic representation of the preparation method of transferosome-loaded drug; results of particle size analyses of BBR-CUR-TRANS (A), CUR-TRANS (B), and BBR-TRANS (C); 2D image of atomic force microscopy of BBR-TRANS; 3D image of atomic force microscopy of BBR-TRANS; 2D image of atomic force microscopy of CUR-TRANS; and 3D image of atomic force microscopy of CUR-TRANS (PDF)</p><p>■ </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Role of TREM2 in Alzheimer&apos;s Disease and its Consequences on β-Amyloid, Tau and Neurofibrillary Tangles</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maurya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Awasthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thakur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/1567205016666190903102822</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1216" to="1229" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh, A. K.; Mishra, G.; Maurya, A.; Awasthi, R.; Kumari, K.; Thakur, A.; Rai, S. K.; Rai, G. K.; Sharma, B.; Kulkarni, G. T.; Singh, S. K. Role of TREM2 in Alzheimer&apos;s Disease and its Consequences on β-Amyloid, Tau and Neurofibrillary Tangles. Curr. Alzheimer Res. 2019, 16, 1216-1229.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Spared behavioral repetition effects in Alzheimer&apos;s disease linked to an altered neural mechanism at posterior cortex</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Broster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Jicha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Munro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Haney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13803395.2018.1430230</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Exp. Neuropsychol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="761" to="776" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Broster, L. S.; Li, J.; Wagner, B.; Smith, C. D.; Jicha, G. A.; Schmitt, F. A.; Munro, N.; Haney, R. H.; Jiang, Y. Spared behavioral repetition effects in Alzheimer&apos;s disease linked to an altered neural mechanism at posterior cortex. J. Clin. Exp. Neuropsychol. 2018, 40, 761-776.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Neonatal infection leads to increased susceptibility to Aβ oligomer-induced brain inflammation, synapse loss and cognitive impairment in mice</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barros-Aragaõ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Venancio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Lyra E Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Kincheski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Pimentel-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>De Felice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Figueiredo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41419-019-1529-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Death Dis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">323</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frost, P. S.; Barros-Aragaõ, F.; da Silva, R. T.; Venancio, A.; Matias, I.; Lyra E Silva, N. M.; Kincheski, G. C.; Pimentel-Coelho, P. M.; De Felice, F. G.; Gomes, F. C.; Ferreira, S. T.; Figueiredo, C. P.; Clarke, J. R. Neonatal infection leads to increased susceptibility to Aβ oligomer-induced brain inflammation, synapse loss and cognitive impairment in mice. Cell Death Dis. 2019, 10, 323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m">Results of the In Vivo Brain Pharmacokinetic Study of BBR and CUR from Solutions of BBR and CUR and Transferosomal Formulations (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) (Mean ± SD, n = 3) samples AUC 0-24 (ng × h/mL) AUC 0-∞ (ng × h/mL)</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Results of the In Vivo Brain Pharmacokinetic Study of BBR and CUR from Solutions of BBR and CUR and Transferosomal Formulations (BBR-TRANS, CUR-TRANS, and BBR-CUR-TRANS) (Mean ± SD, n = 3) samples AUC 0-24 (ng × h/mL) AUC 0-∞ (ng × h/mL)</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">L) T max (h) MRT 0-24 (h)</title>
+		<author>
+			<persName><surname>Max</surname></persName>
+		</author>
+		<idno>865 1150.23 ± 0.053 760.00 ± 0.786 1.20 ± 2.864 1.500 ± 0.954 CUR 985.70 ± 0.076 1098.02 ± 0.310 786.00 ± 0.764 1.40 ± 1.970 1.800 ± 0.023 BBR-TRANS 2260.87 ± 0.554 2453.98 ± 0.045 1285.32 ± 0.650 5.00 ± 0.445 5.312 ± 0.232 CUR-TRANS 1975.03 ± 0.874 2156.08 ± 0.124 1113.87 ± 0.760 4.00 ± 0.870 5.020 ± 0.980 BBR-CUR-TRANS 3123.03 ± 0.098 3600.09 ± 0.654 1903.00 ± 0.987 6.98 ± 1.540 8.870 ± 0.441</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BBR</title>
+		<imprint>
+			<biblScope unit="page" from="30" to="30" />
+			<date type="published" when="1122">1122</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C max (ng/L) T max (h) MRT 0-24 (h) BBR 1122.30 ± 0.865 1150.23 ± 0.053 760.00 ± 0.786 1.20 ± 2.864 1.500 ± 0.954 CUR 985.70 ± 0.076 1098.02 ± 0.310 786.00 ± 0.764 1.40 ± 1.970 1.800 ± 0.023 BBR-TRANS 2260.87 ± 0.554 2453.98 ± 0.045 1285.32 ± 0.650 5.00 ± 0.445 5.312 ± 0.232 CUR-TRANS 1975.03 ± 0.874 2156.08 ± 0.124 1113.87 ± 0.760 4.00 ± 0.870 5.020 ± 0.980 BBR-CUR-TRANS 3123.03 ± 0.098 3600.09 ± 0.654 1903.00 ± 0.987 6.98 ± 1.540 8.870 ± 0.441</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Three dimensions of the amyloid hypothesis: time, space and wingmen</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Musiek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Holtzman</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nn.4018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="800" to="806" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Musiek, E. S.; Holtzman, D. M. Three dimensions of the amyloid hypothesis: time, space and wingmen. Nat. Neurosci. 2015, 18, 800- 806.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Proteolytic mechanisms in amyloid-β metabolism: therapeutic implications for Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Vardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Catto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Hooper</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.molmed.2005.08.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Mol. Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="464" to="472" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vardy, E. R.; Catto, A. J.; Hooper, N. M. Proteolytic mechanisms in amyloid-β metabolism: therapeutic implications for Alzheimer&apos;s disease. Trends Mol. Med. 2005, 11, 464-472.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mechanisms of action of amyloid-beta and its precursor protein in neuronal cell death</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Chye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P K</forename><surname>Ling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Koh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11011-019-00516-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Metab. Brain Dis</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="11" to="30" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leong, Y. Q.; Ng, K. Y.; Chye, S. M.; Ling, A. P. K.; Koh, R. Y. Mechanisms of action of amyloid-beta and its precursor protein in neuronal cell death. Metab. Brain Dis. 2020, 35, 11-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The amyloid hypothesis of Alzheimer&apos;s disease: progress and problems on the road to therapeutics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Selkoe</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1072994</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">297</biblScope>
+			<biblScope unit="page" from="353" to="356" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hardy, J.; Selkoe, D. J. The amyloid hypothesis of Alzheimer&apos;s disease: progress and problems on the road to therapeutics. Science 2002, 297, 353-356.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Targeting of herbal bioactives through folate receptors: a novel concept to enhance intracellular drug delivery in cancer therapy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saraf</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10799893.2016.1147581</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Recept. Signal Transduction</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="314" to="323" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gupta, A.; Kaur, C. D.; Saraf, S.; Saraf, S. Targeting of herbal bioactives through folate receptors: a novel concept to enhance intracellular drug delivery in cancer therapy. J. Recept. Signal Transduction 2017, 37, 314-323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Increased cerebral glucose-6-phosphate dehydrogenase activity in Alzheimer&apos;s disease may reflect oxidative stress</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stokes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Masters</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1471-4159.1986.tb00615.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1042" to="1045" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martins, R. N.; Harper, C. G.; Stokes, G. B.; Masters, C. L. Increased cerebral glucose-6-phosphate dehydrogenase activity in Alzheimer&apos;s disease may reflect oxidative stress. J. Neurochem. 1986, 46, 1042-1045.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Multifaceted of polyphenols in the treatment and management of neurodegenerative diseases</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F K</forename><surname>Khan Meem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Nafady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mitra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Alhumaydhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Emran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khusro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Simal-Gandara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eftekhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Karimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baghayeri</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chemosphere.2022.136020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chemosphere</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="page">136020</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Islam, F.; Islam, M. M.; Khan Meem, A. F. K.; Nafady, M. H.; Islam, M. R.; Akter, A.; Mitra, S.; Alhumaydhi, F. A.; Emran, T. B.; Khusro, A.; Simal-Gandara, J.; Eftekhari, A.; Karimi, F.; Baghayeri, M. Multifaceted of polyphenols in the treatment and management of neurodegenerative diseases. Chemosphere 2022, 307, 136020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A network pharmacology approach to identify the mechanisms and molecular targets of curcumin against Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ye</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/md.0000000000030194</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Medicine</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">30194</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wu, X.; Zheng, X.; Tang, H.; Zhao, L.; He, C.; Zou, Y.; Song, X.; Li, L.; Yin, Z.; Ye, G. A network pharmacology approach to identify the mechanisms and molecular targets of curcumin against Alzheimer disease. Medicine 2022, 101, No. e30194.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Curcumin and neurodegenerative diseases: a perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Darvesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Carroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bishayee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Novotny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Geldenhuys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Van Der Schyf</surname></persName>
+		</author>
+		<idno type="DOI">10.1517/13543784.2012.693479</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Opin. Invest. Drugs</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1123" to="1140" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Darvesh, A. S.; Carroll, R. T.; Bishayee, A.; Novotny, N. A.; Geldenhuys, W. J.; Van der Schyf, C. J. Curcumin and neuro- degenerative diseases: a perspective. Expert Opin. Invest. Drugs 2012, 21, 1123-1140.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Lipid-coated MCM-41 mesoporous silica nanoparticles loaded with berberine improved inhibition of acetylcholine esterase and amyloid formation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rathore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Awasthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gautam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsbiomaterials.1c00514?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Biomater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="3737" to="3753" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh, A. K.; Singh, S. S.; Rathore, A. S.; Singh, S. P.; Mishra, G.; Awasthi, R.; Mishra, S. K.; Gautam, V.; Singh, S. K. Lipid-coated MCM-41 mesoporous silica nanoparticles loaded with berberine improved inhibition of acetylcholine esterase and amyloid formation. ACS Biomater. Sci. Eng. 2021, 7, 3737-3753.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dual and multi-targeted nanoparticles for site-specific brain drug delivery</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jconrel.2019.11.037</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Release</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="195" to="215" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Luo, Y.; Yang, H.; Zhou, Y. F.; Hu, B. Dual and multi-targeted nanoparticles for site-specific brain drug delivery. J. Controlled Release 2020, 317, 195-215.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Drug delivery systems: entering the mainstream</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Cullis</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1095833</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">303</biblScope>
+			<biblScope unit="page" from="1818" to="1822" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Allen, T. M.; Cullis, P. R. Drug delivery systems: entering the mainstream. Science 2004, 303, 1818-1822.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Intranasal delivery: physicochemical and therapeutic aspects</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Costantino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Illum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Quay</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijpharm.2007.03.025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">337</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Costantino, H. R.; Illum, L.; Brandt, G.; Johnson, P. H.; Quay, S. C. Intranasal delivery: physicochemical and therapeutic aspects. Int. J. Pharm. 2007, 337, 1-24.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Diffusion of univalent ions across the lamella of swollen phospholipid</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Bamgham</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0022-2836(65)80093-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="238" to="252" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bamgham, A. D. Diffusion of univalent ions across the lamella of swollen phospholipid. J. Mol. Biol. 1965, 13, 238-252.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Amphiphilic polymer-mediated formation of laponite-based nanohybrids with robust stability and pH sensitivity for anticancer drug delivery</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maciel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tomás</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/am5032874?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="16687" to="16695" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, G.; Maciel, D.; Wu, Y.; Rodrigues, J.; Shi, X.; Yuan, Y.; Liu, C.; Tomás, H.; Li, Y. Amphiphilic polymer-mediated formation of laponite-based nanohybrids with robust stability and pH sensitivity for anticancer drug delivery. ACS Appl. Mater. Interfaces 2014, 6, 16687-16695.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A PEGylated dendritic nanoparticulate carrier of fluorouracil</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bhadra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhadra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0378-5173(03)00132-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page" from="111" to="124" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhadra, D.; Bhadra, S.; Jain, S.; Jain, N. K. A PEGylated dendritic nanoparticulate carrier of fluorouracil. Int. J. Pharm. 2003, 257, 111-124.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Inorganic clay nanocomposite system for improved cholinesterase inhibition and brain pharmacokinetics of donepezil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maurya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Awasthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Atri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03639045.2019.1698594</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Dev. Ind. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="8" to="19" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh, A. K.; Mishra, S. K.; Mishra, G.; Maurya, A.; Awasthi, R.; Yadav, M. K.; Atri, N.; Pandey, P. K.; Singh, S. K. Inorganic clay nanocomposite system for improved cholinesterase inhibition and brain pharmacokinetics of donepezil. Drug Dev. Ind. Pharm. 2020, 46, 8-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Method for analysis of nanoparticle hemolytic properties in vitro</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Dobrovolskaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Clogston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Neun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Patri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Mcneil</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/nl0805615?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2180" to="2187" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dobrovolskaia, M. A.; Clogston, J. D.; Neun, B. W.; Hall, J. B.; Patri, A. K.; McNeil, S. E. Method for analysis of nanoparticle hemolytic properties in vitro. Nano Lett. 2008, 8, 2180-2187.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Berberine mitigates cognitive decline in an Alzheimer&apos;s disease mouse model by targeting both tau hyperphosphorylation and autophagic clearance</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biopha.2019.109670</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed. Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">109670</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen, Y.; Chen, Y.; Liang, Y.; Chen, H.; Ji, X.; Huang, M. Berberine mitigates cognitive decline in an Alzheimer&apos;s disease mouse model by targeting both tau hyperphosphorylation and autophagic clearance. Biomed. Pharmacother. 2020, 121, 109670.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Effects of lactational exposure to benzo [α] pyrene (B [α] P) on postnatal neurodevelopment, neuronal receptor gene expression and behaviour in mice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bouayed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Desor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rammal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kiemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tybl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rychen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Soulimani</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tox.2009.02.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">259</biblScope>
+			<biblScope unit="page" from="97" to="106" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bouayed, J.; Desor, F.; Rammal, H.; Kiemer, A. K.; Tybl, E.; Schroeder, H.; Rychen, G.; Soulimani, R. Effects of lactational exposure to benzo [α] pyrene (B [α] P) on postnatal neuro- development, neuronal receptor gene expression and behaviour in mice. Toxicology 2009, 259, 97-106.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Tai-Wan improves cognitive dysfunctions through cholinergic pathway in scopolaminetreated mice</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jiao</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2018/3538763</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BioMed Res. Int</title>
+		<imprint>
+			<biblScope unit="page">3538763</biblScope>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, X. C.; Xu, Y. M.; Li, H. Y.; Wu, C. Y.; Xu, T. T.; Luo, N. C.; Zhang, S. J.; Wang, Q.; Quan, S. J. Jiao-Tai-Wan improves cognitive dysfunctions through cholinergic pathway in scopolamine- treated mice. BioMed Res. Int. 2018, 2018, 3538763.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effect of zinc and paraquat co-exposure on neurodegeneration: modulation of oxidative stress and expression of metallothioneins, toxicant responsive and transporter genes in rats</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shukla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10715762.2010.492832</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radic. Res</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="950" to="965" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kumar, A.; Ahmad, I.; Shukla, S.; Singh, B. K.; Patel, D. K.; Pandey, H. P.; Singh, C. Effect of zinc and paraquat co-exposure on neurodegeneration: modulation of oxidative stress and expression of metallothioneins, toxicant responsive and transporter genes in rats. Free Radic. Res. 2010, 44, 950-965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Effect of Chlorogenic Acid Supplementation in MPTP-Intoxicated Mouse</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Birla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zahra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gedda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tiwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Patnaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphar.2018.00757</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">757</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh, S. S.; Rai, S. N.; Birla, H.; Zahra, W.; Kumar, G.; Gedda, M. R.; Tiwari, N.; Patnaik, R.; Singh, R. K.; Singh, S. P. Effect of Chlorogenic Acid Supplementation in MPTP-Intoxicated Mouse. Front. Pharmacol. 2018, 9, 757.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Assay for lipid peroxides in animal tissues by thiobarbituric acid reaction</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohkawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Ohishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yagi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0003-2697(79)90738-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="351" to="358" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ohkawa, H.; Ohishi, N. K.; Yagi, K. Assay for lipid peroxides in animal tissues by thiobarbituric acid reaction. Anal. Biochem. 1979, 95, 351-358.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Jr Measurement of nitrate and nitrite in biological samples using nitrate reductase and Griess reaction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Granger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Taintor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Boockvar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hibbs</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0076-6879(96)68016-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">268</biblScope>
+			<biblScope unit="page" from="142" to="151" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Granger, D. L.; Taintor, R. R.; Boockvar, K. S.; Hibbs, J. B., Jr Measurement of nitrate and nitrite in biological samples using nitrate reductase and Griess reaction. Methods Enzymol. 1996, 268, 142-151.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Role of Superoxide Anion in the Autoxidation of Epinephrine and a Simple Assay for Superoxide Dismutase</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Misra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fridovich</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0021-9258(19)45228-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">247</biblScope>
+			<biblScope unit="page" from="3170" to="3175" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Misra, H. P.; Fridovich, I. The Role of Superoxide Anion in the Autoxidation of Epinephrine and a Simple Assay for Superoxide Dismutase. J. Biol. Chem. 1972, 247, 3170-3175.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The phosphorylation state of Ser-129 in human α-synuclein determines neurodegeneration in a rat model of Parkinson disease</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Gorbatyuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kondrikova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Manfredsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mandel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Muzyczka</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.0711053105</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="763" to="768" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gorbatyuk, O. S.; Li, S.; Sullivan, L. F.; Chen, W.; Kondrikova, G.; Manfredsson, F. P.; Mandel, R. J.; Muzyczka, N. The phosphorylation state of Ser-129 in human α-synuclein determines neurodegeneration in a rat model of Parkinson disease. Proc. Natl. Acad. Sci. U.S.A. 2008, 105, 763-768.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Novel molecular hybrids of n-benzylpiperidine and 1, 3, 4-oxadiazole as multitargeted therapeutics to treat alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tripathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Tripathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Shrivastava</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acschemneuro.9b00430?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Chem. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="4361" to="4384" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sharma, P.; Tripathi, A.; Tripathi, P. N.; Singh, S. S.; Singh, S. P.; Shrivastava, S. K. Novel molecular hybrids of n-benzylpiperidine and 1, 3, 4-oxadiazole as multitargeted therapeutics to treat alzheimer&apos;s disease. ACS Chem. Neurosci. 2019, 10, 4361-4384.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Glycodendrimeric nanoparticulate carriers of primaquine phosphate for liver targeting</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bhadra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhadra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijpharm.2005.01.026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">295</biblScope>
+			<biblScope unit="page" from="221" to="233" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhadra, D.; Yadav, A. K.; Bhadra, S.; Jain, N. K. Glycodendrimeric nanoparticulate carriers of primaquine phosphate for liver targeting. Int. J. Pharm. 2005, 295, 221-233.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Nose to brain delivery of rivastigmine by in situ gelling cationic nanostructured lipid carriers: enhanced brain distribution and pharmacodynamics</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wavikar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vavia</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.xphs.2017.08.024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharm. Sci</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="3613" to="3622" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wavikar, P.; Pai, R.; Vavia, P. Nose to brain delivery of rivastigmine by in situ gelling cationic nanostructured lipid carriers: enhanced brain distribution and pharmacodynamics. J. Pharm. Sci. 2017, 106, 3613-3622.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Development and characterization of polymer-coated liposomes for vaginal delivery of sildenafil citrate</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Refai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Abdelmonem</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10717544.2016.1247925</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Deliv</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="278" to="288" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Refai, H.; Hassan, D.; Abdelmonem, R. Development and characterization of polymer-coated liposomes for vaginal delivery of sildenafil citrate. Drug Deliv. 2017, 24, 278-288.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Importance of physicochemical characterization of nanoparticles in pharmaceutical product development</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Raval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maheshwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kalyane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Youngren-Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Chougule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tekade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Basic Fundamentals of Drug Delivery</title>
+		<imprint/>
+	</monogr>
+	<note>1st ed</note>
+	<note type="raw_reference">Raval, N.; Maheshwari, R.; Kalyane, D.; Youngren-Ortiz, S. R.; Chougule, M. B.; Tekade, R. K.Importance of physicochemical characterization of nanoparticles in pharmaceutical product develop- ment. In: Basic Fundamentals of Drug Delivery, 1st ed.;</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tekade</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Elsevier Academic Press</publisher>
+			<biblScope unit="page" from="369" to="400" />
+			<pubPlace>San Diego CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tekade, R. K., Ed.; Elsevier Academic Press: San Diego CA, 2018; pp 369-400.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Encapsulation efficiency of water-soluble and insoluble drugs in liposomes prepared by the microencapsulation vesicle method</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ishii</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijpharm.2005.04.029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">298</biblScope>
+			<biblScope unit="page" from="198" to="205" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nii, T.; Ishii, F. Encapsulation efficiency of water-soluble and insoluble drugs in liposomes prepared by the microencapsulation vesicle method. Int. J. Pharm. 2005, 298, 198-205.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Relevancy of drug loading to liposomal formulation therapeutic efficacy</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Barenholz</surname></persName>
+		</author>
+		<idno type="DOI">10.1081/lpr-120017482</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Liposome Res</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barenholz, Y. Relevancy of drug loading to liposomal formulation therapeutic efficacy. J. Liposome Res. 2003, 13, 1-8.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">DLS and zeta potential-what they are and what they are not?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhattacharjee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jconrel.2016.06.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Release</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="page" from="337" to="351" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhattacharjee, S. DLS and zeta potential-what they are and what they are not? J. Controlled Release 2016, 235, 337-351.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Transfersomal nanovesicles for nose-to-brain delivery of ofloxacin for better management of bacterial meningitis: Formulation, optimization by Box-Behnken design, characterization and in vivo pharmacokinetic study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Eid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Elkomy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>El Menshawe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Salem</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jddst.2019.101304</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Drug Deliv. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">101304</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eid, H. M.; Elkomy, M. H.; El Menshawe, S. F.; Salem, H. F. Transfersomal nanovesicles for nose-to-brain delivery of ofloxacin for better management of bacterial meningitis: Formulation, optimization by Box-Behnken design, characterization and in vivo pharmacokinetic study. J. Drug Deliv. Sci. Technol. 2019, 54, 101304.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Nanotransfersomes of carvedilol for intranasal delivery: formulation, characterization and in vivo evaluation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Aboud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>El-Menshawe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Elbary</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10717544.2015.1013587</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Deliv</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2471" to="2481" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aboud, H. M.; Ali, A. A.; El-Menshawe, S. F.; Elbary, A. A. Nanotransfersomes of carvedilol for intranasal delivery: formulation, characterization and in vivo evaluation. Drug Deliv. 2016, 23, 2471- 2481.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Eryptosis indices as a novel predictive parameter for biocompatibility of Fe3O4 magnetic nanoparticles on erythrocytes</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Ran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep16209</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">16209</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ran, Q.; Xiang, Y.; Liu, Y.; Xiang, L.; Li, F.; Deng, X.; Xiao, Y.; Chen, L.; Chen, L.; Li, Z. Eryptosis indices as a novel predictive parameter for biocompatibility of Fe3O4 magnetic nanoparticles on erythrocytes. Sci. Rep. 2015, 5, 16209.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">In vitro hemolysis: Guidance for the pharmaceutical scientist</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Amin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Dannenfelser</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jps.20627</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharm. Sci</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1173" to="1176" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amin, K.; Dannenfelser, R. M. In vitro hemolysis: Guidance for the pharmaceutical scientist. J. Pharm. Sci. 2006, 95, 1173-1176.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Synergic effects of berberine and curcumin on improving cognitive function in an Alzheimer&apos;s disease mouse model</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11064-020-02992-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neurochem. Res</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1130" to="1141" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lin, L.; Li, C.; Zhang, D.; Yuan, M.; Chen, C. H.; Li, M. Synergic effects of berberine and curcumin on improving cognitive function in an Alzheimer&apos;s disease mouse model. Neurochem. Res. 2020, 45, 1130-1141.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Berberine Improves Behavioral and Cognitive Deficits in a Mouse Model of Alzheimer&apos;s Disease via Regulation of β-Amyloid Production and Endoplasmic Reticulum Stress</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Diao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acschemneuro.0c00808?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Chem. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1894" to="1904" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liang, Y.; Ye, C.; Chen, Y.; Chen, Y.; Diao, S.; Huang, M. Berberine Improves Behavioral and Cognitive Deficits in a Mouse Model of Alzheimer&apos;s Disease via Regulation of β-Amyloid Production and Endoplasmic Reticulum Stress. ACS Chem. Neurosci. 2021, 12, 1894-1904.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Curcumin improves amyloid βpeptide (1-42) spatial memory deficits through BDNF-ERK signaling pathway</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0131525</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">131525</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, L.; Fang, Y.; Xu, Y.; Lian, Y.; Xie, N.; Wu, T.; Zhang, H.; Sun, L.; Zhang, R.; Wang, Z. Curcumin improves amyloid β- peptide (1-42) spatial memory deficits through BDNF-ERK signaling pathway. PLoS One 2015, 10, No. e0131525.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Curcumin inhibits Aβ-induced microglial inflammatory responses in vitro: Involvement of ERK1/2 and p38 signaling pathways</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.neulet.2015.03.045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci. Lett</title>
+		<imprint>
+			<biblScope unit="volume">594</biblScope>
+			<biblScope unit="page" from="105" to="110" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shi, X.; Zheng, Z.; Li, J.; Xiao, Z.; Qi, W.; Zhang, A.; Wu, Q.; Fang, Y. Curcumin inhibits Aβ-induced microglial inflammatory responses in vitro: Involvement of ERK1/2 and p38 signaling pathways. Neurosci. Lett. 2015, 594, 105-110.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Curcumin-artesunate based polymeric nanoparticle antiplasmodial and toxicological evaluation in murine model</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Oyeyemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Morenkeji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Afolayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dauda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Busari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Panda</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphar.2018.00562</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">562</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oyeyemi, O.; Morenkeji, O.; Afolayan, F.; Dauda, K.; Busari, Z.; Meena, J.; Panda, A. Curcumin-artesunate based polymeric nanoparticle antiplasmodial and toxicological evaluation in murine model. Front. Pharmacol. 2018, 9, 562.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">One-year chronic toxicity evaluation of single dose intravenously administered silica nanoparticles in mice and their Ex vivo human hemocompatibility</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mohammadpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cheney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Grunberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yazdimamaghani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jedrzkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Isaacson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Dobrovolskaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ghandehari</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jconrel.2020.05.027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Release</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="471" to="481" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mohammadpour, R.; Cheney, D. L.; Grunberger, J. W.; Yazdimamaghani, M.; Jedrzkiewicz, J.; Isaacson, K. J.; Dobrovolskaia, M. A.; Ghandehari, H. One-year chronic toxicity evaluation of single dose intravenously administered silica nanoparticles in mice and their Ex vivo human hemocompatibility. J. Controlled Release 2020, 324, 471-481.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

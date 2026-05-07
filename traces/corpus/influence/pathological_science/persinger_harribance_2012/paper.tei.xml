@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Protracted parahippocampal activity associated with Sean Harribance</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Medknow</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012">2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+							<email>mpersinger@laurentian.ca</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Behavioural Neuroscience and Human Studies Programs , Laurentian University , Sudbury , Ontario , Canada Behavioural Neuroscience Laboratory ,</note>
+								<orgName type="department">Behavioural Neuroscience and Human Studies Programs</orgName>
+								<orgName type="laboratory">Behavioural Neuroscience Laboratory</orgName>
+								<orgName type="institution">Laurentian University</orgName>
+								<address>
+									<settlement>Sudbury</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Behavioural Neuroscience and Human Studies Programs , Laurentian University , Sudbury , Ontario , Canada Behavioural Neuroscience Laboratory ,</note>
+								<orgName type="department">Behavioural Neuroscience and Human Studies Programs</orgName>
+								<orgName type="laboratory">Behavioural Neuroscience Laboratory</orgName>
+								<orgName type="institution">Laurentian University</orgName>
+								<address>
+									<settlement>Sudbury</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Protracted parahippocampal activity associated with Sean Harribance</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Yoga</title>
+						<title level="j" type="abbrev">Int J Yoga</title>
+						<idno type="ISSN">0973-6131</idno>
+						<imprint>
+							<publisher>Medknow</publisher>
+							<biblScope unit="volume">5</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page">140</biblScope>
+							<date type="published" when="2012" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">C31278C9F9768DABA0661D7D1B4E7536</idno>
+					<idno type="DOI">10.4103/0973-6131.98238</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>EEG</term>
+					<term>parahippocampal gyrus</term>
+					<term>sLORETA</term>
+					<term>telepathy. AbstrAct Protracted parahippocampal activity associated with Sean Harribance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>person in the pair who was sitting in the dark. In both experiments, the effect was most conspicuous over the right hemispheres of the response persons of each pair. <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref> Venkatasubramanian et al., <ref type="bibr" target="#b0">[1]</ref> found that the greatest activation within the brain of Mr. Gerard Senehi while he was thinking about the image that was being drawn by another person occurred in his right parahippocampal gyrus. The parahippocampal gyrus is a major multimodal integrator of sensory information from the association areas of the neocortices <ref type="bibr" target="#b4">[5]</ref> and is intimately involved with visuospatial processing. <ref type="bibr" target="#b5">[6]</ref> Tractography by Rushworth et al., <ref type="bibr" target="#b6">[7]</ref> showed a pathway within a ventral-anterior to dorsal-posterior orientation within the lateral temporal cortices and the most caudal portions of the parietal cortices. Interestingly, these areas of white matter traverse the same region of the right hemisphere where anomalous MRI signals were noted in the brain of Ingo Swann, the Master of Remote Viewing. <ref type="bibr" target="#b7">[8]</ref> Swann's accuracy for the details of remotely viewed objects was directly corrected with the proportion of highly stereotyped 7 Hz spike-like paroxysmal electroencephalographic activity over the right occipital region (the parietal area was not recorded).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Venkatasubramanian et al., <ref type="bibr" target="#b0">[1]</ref> were the first to report real-time functional magnetic resonance imaging (fMRI) of the changes within the cerebrum during procedures that could be defined as "telepathy". Although often considered a pejorative label, it can also be defined as information acquired from a distance through mechanisms not known to date <ref type="bibr" target="#b1">[2]</ref> or, from a more modern neuroquantum perspective, as "distant intentionality". Recently Persinger et al., <ref type="bibr" target="#b2">[3]</ref> and Dotta et al., <ref type="bibr" target="#b3">[4]</ref> demonstrated a potential experimental model for this condition when two people separated by distance shared the same specifically configured circumcerebral rotating magnetic fields. Light stimuli presented to one of the pair resulted in changes in electroencephalographic activity and cerebral biophoton emission from the other Aims: Previous research published by Venkatasubramanian et al. (2008) in this journal showed markedly enhanced functional magnetic resonance imaging (fMRI) activity within the right parahippocampal region of a gifted person while he experienced accurate "telepathic" impression. The present research is designed to discern if Sean Harribance, a reliable psychic who reported independently verified accurate histories of others during his intuitive state, would also show similar enhancement as measured by standardized low resolution electromagnetic tomography (sLORETA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods and Results:</head><p>The raw data from the unique electroencephalographic pattern displayed by Sean Harribance (the Harribance configuration) during his intuitive state revealed a peak increase of power within the upper beta range (20-30 Hz) within the right parahippocampal region only.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>The congruence of the region of activation during "telepathy" by Sean Harribance and Gerard Senehi, especially when the specific electromagnetic and cellular characteristics are considered, suggests the parahippocampal region may be a focus for exploration of the mechanisms by which these phenomena might occur.</p><p>Perhaps one of the most prolific and persistently reliable individuals who can acquire information from others simply by proximity is Sean Harribance. <ref type="bibr" target="#b8">[9]</ref> He has been examined by many researchers over the years for his accuracy and more recently was assessed by modern neuroscientific techniques. His accuracy for independent-rated comments about the target person is associated with the duration of time his brain displays a stereotyped signature (the "Harribance configuration") over the right temporoparietal region during intervals we have called the intuitive state (IS). <ref type="bibr" target="#b9">[10]</ref> Enhanced uptake of tracer during SPECT (single photon emission computerized tomography) over the right parietal lobe has also been documented <ref type="bibr" target="#b10">[11]</ref> during the IS.</p><p>We <ref type="bibr" target="#b9">[10]</ref> found that the brain activity of the people from whom Mr. Harribance's acquired the "telepathic" information became more congruent with his brain activity as both the accuracy and proximal time increased. Repeated experiments showed that Mr. Harribance's eye movements are different from normal and when given target pictures of standardized faces he focuses to the upper left of the head. In addition although he has lived in the same place for many years he is quickly disoriented if he loses visual contact with his home. Integrating these data with what is known about parahippocampal function, we hypothesized that sLORETA (standardized low resolution electromagnetic tomography) of recent quantitative electroencephalographic (QEEG) data would also reveal a source activation, as observed with Mr. Senehi by Venkatasubramanian et al., <ref type="bibr" target="#b0">[1]</ref> within the right parahippocampal area of Mr. Harribance's cerebrum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subject</head><p>According to his biography <ref type="bibr" target="#b11">[12]</ref> Mr. Sean Lalsing Harribance was born to an East Indian family in southern Trinidad on 11 November, 1939. He was raised as Hindu, but attended Christian schools. He has been measured by dozens of different research groups. His primary financial income, which reflects the accuracy of his information, has been from his "readings" for a large population of repeat clients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Telepathy procedures</head><p>During his visit to Laurentian University's Neuroscience Research Group in 2009, Mr. Harribance conducted over 15 readings and revealed personal information pertaining to individuals in pictures he had never met although he was in close proximity with individuals who knew the people in those pictures. During each case, both Mr. Harribance and an individual would sit directly across from one another while Mr. Harribance viewed the individuals' personal photographs and reported sudden information which was verified by another person not present at the time. During each reading, EEG recordings would be taken continuously. It became evident that when his comments had been judged by others, Mr. Harribance's brain was generating a reliable and predictable pattern over the right temporofrontal region. It was so obvious and consistent to everyone, even by gross visual inspection, that we called it the Harribance configuration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Source localization</head><p>EEG data was recorded on a Mitsar-201 portable QEEG equipped with a 19-channel electrode cap (Electrode-Cap International), which follows the 10-20 International Standard of Electrode Placement. Impedance for all channels was kept under 10 kΩ and data was acquired using WinEEG software with a sampling rate of 250 Hz.</p><p>Following his consent, source localization <ref type="bibr" target="#b12">[13]</ref> was completed on 10 samples of EEG recorded from 19 channels during periods when Mr. Harribance displayed the 'intuitive state' (N=5) as well as during eyes open baseline (N=5). The baseline EEG was not different from other nonintuitive states he displayed between the IS or when he made comments that were neither accurate nor specific. Results represent relative normalized data with a smoothing variance equal to 1. Activation scores pertaining to each of the 10 segments were then computed using the 'sLORETA to ROI' function embedded into the software. Specific and very obvious activation scores within Brodmann Area 30 were extracted and imported into SPSS v.17 for Windows software in order to investigate laterality differences between the two states (baseline and Intuitive State).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entropy</head><p>Entropy was computed for all 19 channels separately to characterize the complexity of each sensor during periods in which Mr. Harribance's brain activity displayed the configuration and the IS. Entropy was calculated within Matlab V.7.0 by calling the entropy function which utilizes an algorithm similar to Shannon's famous equation H(X)=-sum[P(x)log 2 P(x)] where x is a discrete random variable with possible values X along a time series and P represents the probability mass function (effectively the 'residual' between the expected outcome and the actual outcome). Hence entropy measured the degree to which the next point in the time series (in this case an EEG voltage) could be predicted. Lower entropy values indicated that the points (moving positively along the x-axis) in the signal could be easily predicted whereas high values reflected increased complexity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>According to sLORETA for the surface electroence phalographic activity, the most strongly correlated indicator for Mr. Harribance's accuracy (his "intuitive state") within the experimental paradigm we employed was increased activity within the right parahippocampal region [Figure <ref type="figure" target="#fig_0">1a</ref>]. The net sLORETA activation score during his IS was also significantly enhanced within the right parahippocampal region compared to the left [Figure <ref type="figure" target="#fig_0">1b</ref>]. The difference between the right and left parahippocampal activity accommodated 80% of the variance (eta 2 estimates).</p><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the entropy score for the regions that showed the most significant difference between baseline and intuitive states. Clearly, there was a significant decrease in entropy over for the right frontal and both temporal lobes during the intuitive states. The overall correlation with global cerebral entropy for all 19 channels and the activation within the 20 to 30 Hz range was r=-0.75.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The region of greatest activation for Mr. Harribance that was extracted by sLORETA when he displayed the topographical configuration most correlated with accuracy for 40 trials <ref type="bibr" target="#b13">[14]</ref> of narratives regarding the personal information of people in pictures was effectively identical to the region reported by Venkatasubramanian et al. <ref type="bibr" target="#b0">[1]</ref> for their subject who had successfully performed a telepathic task. This replication of the increased activity within the right parahippocampal region suggests that this volume of the brain might be involved with the extraction of information from the environment through non classical senses or pathways.</p><p>According to Gloor, <ref type="bibr" target="#b4">[5]</ref> the parahippocampal space involves the posterior portion of the parahippocampal gyrus caudal to the posterior border of the entorhinal cortices. The area includes the fusiform (occipitotemporal) gyrus which is separated from the parahippocampal gyrus proper by the collateral sulcus. The parahippocampal area and perirhinal and entorhinal cortices are considered the gatekeepers of the hippocampus because they mediate all information from diverse areas of the cerebral cortices to the hippocampal formation. These same structures are the major hippocampal outputs to the cerebral cortices and to a multitude of subcortical structures.</p><p>In short the parahippocampal region is optimally placed to extract the temporal pattern of information from different "line-coded" modalities such that intermodal integration can occur. The involvement of this region in extracting patterns of as yet unspecified information at a distance or from the intention of others would allow the integration of this "extracerebral" information from efferent flows into the neocortices and hence into awareness. This suggestion would be consistent with the well-known bidirectional a b</p><p>interconnections for the hippocampal formation (the hippocampus and dentate gyrus) proper and the entire cerebral cortices. <ref type="bibr" target="#b14">[15]</ref> Input from the entire cortical mantle converges on the superficial layers (II and III) of the entorhinal cortices whose structure has been considered unique. These layers are the origin of the perforant pathway which is the major input to the hippocampus; the axons from layer II terminate on the molecular layer of the dentate gyrus and the stratum lacunosum-moleculare of the CA3 region. <ref type="bibr" target="#b15">[16]</ref> Stellate cells of layer II are clustered as islands or bands (whose protrusions on the cortical surface or verrucase gyri hippocampi can be seen macroscopically). They posses powerful intrinsic rhythmic excitability with a striking subthreshold oscillation around 8 Hz that may implement synchronizing mechanisms in the limbic forebrain.</p><p>The parahippocampal area receives inputs from visual association Brodmann areas 7a and 20 as well as auditory area 22. Projections from the parietal lobe originate almost exclusively from Brodmann 7a, the caudal third of the inferior parietal lobule. Tractography <ref type="bibr" target="#b6">[7]</ref> verified that the only locus in the lateral region of the parietal cortices most likely to connect with the parahippocampal gyrus was the posteroventral portion of the angular gyrus. Functional integrity of this region is important for perceiving spatial-relationships between objects as indicated indirectly by collateral activation of "place cells" within the hippocampus. <ref type="bibr" target="#b16">[17]</ref> That the parahippocampal area is a component of a mutually interconnected multimodal area involving projections from the medial pulvinar, superior temporal sulcus, prefrontal cortices, cingulate region, temporopolar cortex, and retrosplenial cortex may accommodate the correlative behaviors observed for Mr. Harribance. According to Rushworth et al., <ref type="bibr" target="#b6">[7]</ref> fibers from the angular gyrus and superior occipital gyrus connected with the parahippocampal gyrus are involved with the direction of saccades during visual attention. Mr. Harribance shows a chronic anomaly for such tasks as shown by eye-tracking experiments <ref type="bibr" target="#b9">[10]</ref> where his "focus" was displaced to over the upper left quadrant of the face. In addition Weninger and Irle <ref type="bibr" target="#b17">[18]</ref> found that damage to the right side of the posterior parahippocampal gyrus affected the utilization of egocentric information during spatial tasks. An anomaly in this region from an "alternative" organization rather than classical damage would be compatible with Mr. Harribance's long history of discrete deficits of spatial memory, such as persistent errors orienting himself towards his home in which he has lived for decades once he can no longer see it.</p><p>The activation of the right parahippocampal region during "telepathic" tasks does not reveal the nature of the information being accessed or where (and even when) it has been represented. Persinger <ref type="bibr" target="#b18">[19]</ref> offered quantitative evidence by calculations that information from action potentials could be represented within the space occupied by the geomagnetic field by access through the Schumann resonance whose fundamental frequency is about 8 Hz, the same frequency as the subthreshold oscillations of the stellate cells. In fact the temporal durations to both access the Schumann band within the earth-ionospheric cavity and the temporal solution for representation within the geomagnetic field are around 1 ks or 15 min. <ref type="bibr" target="#b18">[19]</ref> This is the latency required for the transformation of the electromagnetic patterns of action potentials associated with ongoing consolidation of experiences into dendritic spine patterns within (primarily) the hippocampus and cerebral cortices. These microstructural changes are assumed to actually be the person's individual memories.</p><p>The organization of cells within the hippocampus proper is reminiscent of a smaller spherical condenser wrapped and partially interdigitated by a larger spherical condenser resulting in a toroid with a gap that could allow discrete leakage of magnetic flux. <ref type="bibr" target="#b4">[5]</ref> Such architecture and conditions are strongly affected by the phase vector that can be matched within an order of magnitude to the scalar potential of the earth's magnetic field. <ref type="bibr" target="#b19">[20]</ref> That the cerebral cortices extract patterns from visual information that are coded according to frequency patterns has been known since E. R. John's <ref type="bibr" target="#b20">[21]</ref> seminal work.</p><p>"Telepathic" experiences of others, if they are considered a type of "distant intentionality", could also be viewed as the erasure of an informational bit or the merging of two computational paths. According to Landauer's principle, they must be accompanied by a corresponding increase in entropy, that is, an increase in the degrees of freedom representing "non-information". This loss of information will result in a release of energy in the amount kT ln 2, where T is temperature and k is the Bolztman constant (1.6 × 10 -23 J/K). For 310˚K (37˚C) the energy is 3.4 × 10 -21 J. The most prominent 8 Hz oscillations of stellate cells occur at about -55 V (a resting membrane potential that promotes "burst firing") while the mean amplitude of the oscillation is about 2.6 ± 0.5 mV. The energy equivalence is 2.6 × 10 -3 V•1.6 × 10 -19 A•s (unit charge) or 4.2 × 10 -22 J and with 8 Hz oscillations would be 3.4 × 10 -21 J. Thus the stellate cell oscillations could be candidates for the "merging" of two computational pathways of two separate brains.</p><p>We found that during Sean Harribance's intuitive state, there was a significant decrease in the entropy scores for his two temporal lobes and the right frontal lobe. This indicates the activity within this region became less differentiated. We suggest that convergence of a subset of cerebral "computational" operations within Mr. Harribance's and the subject's brain space resulted in the loss of energy associated with information from the latter which was then represented within Mr. Harribances' parahippocampal region.</p><p>If cerebral information concerning perceptions and thoughts are represented as electromagnetic patterns at the same time electrochemical processes are transforming the information to classical dendrite spines for a person's traditional memories, then access to these patterns through the unique parahippocampal structures would allow another person to experience this information once it has been transformed to the linguistic images most strongly correlated with awareness. The central role of the right parahippocampal region would be congruent with propensity for telepathic and remote viewing to be most successful with spatial patterns, such as drawings, particularly those that emphasize emotion (a traditional right hemispheric function) and to occur during dreams or related states of the experient.</p><p>It is relevant, if not essential, that electroencephalographic activity of the right hemisphere, especially the right frontal region, is particularly sensitive to geomagnetic activity. During periods of low intensity (&lt;20 nT) global geomagnetic activity spontaneous reports of telepathic experiences are more frequent. <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23]</ref> Several researchers have explored the complicated relationship between the small shifts in base frequency (∆f~0.1 Hz <ref type="bibr" target="#b23">[24]</ref> and intensity (about 0.2 pT). It may also be relevant that the average intensities of the magnetic and electrical components of the Schumann-related frequencies are within the same order of magnitude as those displayed by the cerebral activity associated with consciousness.</p><p>That intent of one person can affect another has been shown in several experimental settings. Lo et al., <ref type="bibr" target="#b24">[25]</ref> showed that the performance of a "blessing" from the tradition of Zen Buddhism by Chinese Master Miao Tien produced blocking of alpha activity in volunteers who were engaging in Zen Meditation at the time but who were not told he was going to intend this process. The effect did not occur if the students were not in a meditational state. Enhancement of alpha rhythms, again without the awareness of the subjects, was measured at a distance while a Japanese To-ate master "concentrated" upon his meditating students without their awareness. <ref type="bibr" target="#b25">[26]</ref> In our previous studies with Sean Harribance, his proximity to the subjects he was "reading" was associated with gradual congruence of the activity patterns of the subjects' left temporal lobes with his right temporal lobe activity. This same pattern was the one we found in this study to be associated with enhanced right parahippocampal activity.</p><p>In the present study, we re-analyzed the specific "Harribance" configuration of electroencephalographic activity whose duration per reading or "telepathic" trial was moderately correlated with the independently rate accuracy of information for that trial. The reliability of the source localization was suggested by its consistency from different samples of the configuration. To infer casuality of this pattern as well as the activation of high beta activity within the right parahippocampal region, this pattern could be digitized and exposed as physiologically-patterned magnetic fields to individuals with minimal history of this propensity. Recently we have applied digitized components of the "Harribance configuration" through our standardized transcerebral magnetic field (~1 µT) stimulation <ref type="bibr" target="#b26">[27]</ref> across the temporal lobes of a normal volunteer engaged in the experimental protocol. The independently scored accuracies of the volunteer's responses to people's pictures were significantly elevated when the electromagnetic simulation of the Harribance configuration was being applied although the effect size was much smaller than the accuracy displayed by Harribance himself.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: (a) sLORETA results showing activation (red and yellow) of power within the 20 to 30 Hz range during Sean Harribance's intuitive state (IS) that occurred within the right parahippocampal region (b) Relative activation within the right vs left parahippocampal region during the baseline and IS. Error bars represent standard error of the mean</figDesc><graphic coords="3,105.15,429.61,392.06,262.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Entropy scores during baseline and the intuitive state (IS) over the only regions that show significant differences between the two states. Note the decreased entropy (less cerebral complexity) for the right frontal and both temporal lobes. Error bars represent standard error of the mean</figDesc><graphic coords="4,58.56,65.48,233.76,120.48" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Investigating paranormal phenomena: Functional brain imaging of telepathy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Venkatasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Jayakumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Nagendra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nagaraja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Deeptha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Gangadhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Yoga</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="66" to="71" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Venkatasubramanian G, Jayakumar PN, Nagendra HR, Nagaraja D, Deeptha R, Gangadhar BN. Investigating paranormal phenomena: Functional brain imaging of telepathy. Int J Yoga 2008;1:66-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Geophysical variables and behaviour: LXXI. Differential contribution of geomagnetic activity to paranormal experiences concerning death and crisis: An alternative to the ESP hypothesis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Percept Motor Skills</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="555" to="562" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA. Geophysical variables and behaviour: LXXI. Differential contribution of geomagnetic activity to paranormal experiences concerning death and crisis: An alternative to the ESP hypothesis. Percept Motor Skills 1993;76:555-62.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Correlated cerebral events between physically and sensory isolated pairs of subjects exposed to yoked circumcerebral magnetic fields</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Lavallee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Mulligan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience Lett</title>
+		<imprint>
+			<biblScope unit="volume">486</biblScope>
+			<biblScope unit="page" from="231" to="234" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA, Saroka KS, Lavallee CF, Booth JN, Hunter MD, Mulligan BP, et al. Correlated cerebral events between physically and sensory isolated pairs of subjects exposed to yoked circumcerebral magnetic fields. Neuroscience Lett 2010;486:231-4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Photon emissions from human brain and cell culture exposed to distally rotating magnetic fields shared by separate light-stimulated brains and cells</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Dotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Bucner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lafrenie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">1388</biblScope>
+			<biblScope unit="page" from="77" to="88" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dotta BT, Bucner CA, Lafrenie RM, Persinger MA. Photon emissions from human brain and cell culture exposed to distally rotating magnetic fields shared by separate light-stimulated brains and cells. Brain Res 2011;1388:77-88.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The temporal lobe and limbic system</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gloor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>N.Y; Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gloor P. The temporal lobe and limbic system. N.Y: Oxford; 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Brain activation during human navigation: Gender-different neural networks as substrate performance</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Wunderlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tomczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Riepe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="404" to="408" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gron G, Wunderlich AP, Spitzer M, Tomczak R, Riepe MW. Brain activation during human navigation: Gender-different neural networks as substrate performance. Nature Neurosci 2000;3:404-8.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Connection patterns distinguish 3 regions of human parietal cortex</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Rushworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Behrens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Johansen-Berg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebral Cortex</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1418" to="1430" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rushworth MF, Behrens TE, Johansen-Berg H. Connection patterns distinguish 3 regions of human parietal cortex. Cerebral Cortex 2006;16:1418-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Remote viewing with the artist Ingo Swann: Neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI) and possible mechanisms</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Roll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Tiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Koren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Percept Motor Skills</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="927" to="949" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA, Roll WG, Tiller SG, Koren SA, Cook CM. Remote viewing with the artist Ingo Swann: Neuropsychological profile, electroencephalographic correlates, magnetic resonance imaging (MRI) and possible mechanisms. Percept Motor Skills 2002;94:927-49.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Harribance</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sean Harribance</surname></persName>
+		</author>
+		<title level="m">A psychic predicts the future</title>
+		<meeting><address><addrLine>Port of Spain</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sean Harribance Institute</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Harribance CC. Sean Harribance: A psychic predicts the future. Port of Spain: Sean Harribance Institute; 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Cerebral dynamics and discrete energy changes in the personal physical environment during intuitive-like states and perceptions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Dotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Lavallee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Koren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Conscious Explor Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1179" to="1197" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hunter MD, Dotta BT, Mulligan BP, Saroka KS, Lavallee CF, Koren SA, et al. Cerebral dynamics and discrete energy changes in the personal physical environment during intuitive-like states and perceptions. J Conscious Explor Res 2010;1:1179-97.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Neurobehavioral and neurometabolic (SPECT) correlates of paranormal information: Involvement of the right hemisphere and its sensitivity to weak complex magnetic fields</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Roll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Webster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Tiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="197" to="224" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Roll WG, Persinger MA, Webster DL, Tiller SG, Cook CM. Neurobehavioral and neurometabolic (SPECT) correlates of paranormal information: Involvement of the right hemisphere and its sensitivity to weak complex magnetic fields. Int J Neurosci 2002;112:197-224.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harribance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Neff</surname></persName>
+		</author>
+		<title level="m">This Man Knows You</title>
+		<meeting><address><addrLine>San Antonia, Texas</addrLine></address></meeting>
+		<imprint>
+			<publisher>Naylor Company</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Harribance S, Neff RH. This Man Knows You. San Antonia, Texas: Naylor Company; 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Standardized low resolution brain electromagnetic tomography (sLORETA): Technical details</title>
+		<author>
+			<persName><forename type="first">Pascual-Marqui</forename><surname>Rd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Find Exp Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="5" to="12" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pascual-Marqui RD. Standardized low resolution brain electromagnetic tomography (sLORETA): Technical details. Methods Find Exp Clin Pharmacol 2002;24D:5-12.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The harribance effect as pervasive out-of-body experiences</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroquantology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="444" to="465" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA. The harribance effect as pervasive out-of-body experiences. Neuroquantology 2010;8:444-65.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Hippocampal-neocortical interaction: A hierarchy of associativity</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lavenex</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Amaral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hippocampus</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="420" to="430" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavenex P, Amaral DG. Hippocampal-neocortical interaction: A hierarchy of associativity. Hippocampus 2000;10:420-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Differential responsivenesss of stellate and pyramidal-like cells of medial entorhinal cortex Layer II</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Angel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurophysiol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="128" to="143" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Angel A, Klink R. Differential responsivenesss of stellate and pyramidal-like cells of medial entorhinal cortex Layer II. J Neurophysiol 1993;70:128-43.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Place cells and place recognition maintained by direct entorhinal-hippocampal circuitry</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Brun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Otnaess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Modlen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Steffenach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Witter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Moser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page" from="2243" to="2246" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brun VH, Otnaess MK, Modlen S, Steffenach HA, Witter MP, Moser MB, et al. Place cells and place recognition maintained by direct entorhinal-hippocampal circuitry. Science 2002;296:2243-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Posterior parahippocampal gyrus lesions in the human impair egocentric learning in a virtual environment</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Weniger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Irle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="2406" to="2414" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weniger G, Irle E. Posterior parahippocampal gyrus lesions in the human impair egocentric learning in a virtual environment. Eur J Neurosci 2006;24:2406-14.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">On the possible representation of the electromagnetic equivalents of all human memory within the earth&apos;s magnetic field: Implications for theoretical biology</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theor Biol Insights</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA. On the possible representation of the electromagnetic equivalents of all human memory within the earth&apos;s magnetic field: Implications for theoretical biology. Theor Biol Insights 2008;1:3-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Geomagnetism and quasi-normalization</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Winch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Iver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stenig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys J Int</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="487" to="504" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Winch DE, Iver DJ, Turner JP, Stenig J. Geomagnetism and quasi-normalization. Geophys J Int 2005;160:487-504.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Representation of information in the brain</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Machinery of the Mind</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>John</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Birkhauser</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="27" to="67" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">John ER. Representation of information in the brain. In: John ER (editor). Machinery of the Mind. Boston: Birkhauser; 1990. p. 27-67.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Dream ESP experiments and geomagnetic activity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Krippner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Psychical Res</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="101" to="106" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA, Krippner S. Dream ESP experiments and geomagnetic activity. J Am Soc Psychical Res 1989;83:101-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Evidence for enhanced congruence between dreams and distant target material during periods of decreased geomagnetic activity</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Krippner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Explor</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="487" to="493" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krippner S, Persinger M. Evidence for enhanced congruence between dreams and distant target material during periods of decreased geomagnetic activity. J Sci Explor 1996;10:487-93.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">New insights into the links between ESP and geomagnetic activity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Explor</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="335" to="358" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ryan A. New insights into the links between ESP and geomagnetic activity. J Sci Explor, 2008;22:335-58.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">EEG alpha blocking correlated with perception of inner light during Zen meditation</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Chin Med</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="629" to="642" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lo PC, Huang ML, Chang KM. EEG alpha blocking correlated with perception of inner light during Zen meditation. Am J Chin Med 2003;31:629-42.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">EEG alpha waves of a receiver in a remote action experiment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kawano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kokubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Parkhomtchouk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Life Info Sci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="395" to="397" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kawano K, Yamamoto M, Kokubo H, Tanaka M, Zhang T, Parkhomtchouk DV, et al. EEG alpha waves of a receiver in a remote action experiment. J Int Soc Life Info Sci 2000;18:395-7.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The electromagnetic induction of mystical and altered states within the laboratory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Koren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>St-Pierre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Conscious Expl Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="808" to="830" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA, Saroka KS, Koren SA, St-Pierre LS. The electromagnetic induction of mystical and altered states within the laboratory. J Conscious Expl Res 2010;1:808-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Protracted parahippocampal activity associated with Sean Harribance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+		</author>
+		<ptr target="http://tinyurl.com/2bw7fn3orhttp://tinyurl.com/3ysr3meforthefreeapplications" />
+	</analytic>
+	<monogr>
+		<title level="m">Quick Response code</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="140" to="145" />
+		</imprint>
+	</monogr>
+	<note>link foR full text aRticles The journal issue has a unique new feature for reaching to the journal&apos;s website without typing a single letter. Each article on its first page has a &quot;Quick Response Code&quot;. Using any mobile or other hand-held device with camera and GPRS/other internet source, one can reach to the full text of that particular article on the journal&apos;s website. Start a QR-code reading software (see list of free applications from the camera to the QR-code printed in the journal. It will automatically take you to the HTML full text of that article. One can also use a desktop or laptop with web camera for similar functionality Source of Support: Nil, Conflict of Interest: None declared</note>
+	<note type="raw_reference">&quot;Quick Response code&quot; link foR full text aRticles The journal issue has a unique new feature for reaching to the journal&apos;s website without typing a single letter. Each article on its first page has a &quot;Quick Response Code&quot;. Using any mobile or other hand-held device with camera and GPRS/other internet source, one can reach to the full text of that particular article on the journal&apos;s website. Start a QR-code reading software (see list of free applications from http://tinyurl.com/yzlh2tc) and point the camera to the QR-code printed in the journal. It will automatically take you to the HTML full text of that article. One can also use a desktop or laptop with web camera for similar functionality. See http://tinyurl.com/2bw7fn3 or http://tinyurl.com/3ysr3me for the free applications. Announcement How to cite this article: Persinger MA, Saroka KS. Protracted parahippocampal activity associated with Sean Harribance. Int J Yoga 2012;5:140-5. Source of Support: Nil, Conflict of Interest: None declared</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

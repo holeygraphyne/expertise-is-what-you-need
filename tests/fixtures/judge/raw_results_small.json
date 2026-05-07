@@ -1,0 +1,26 @@
+[
+  {
+    "probe_id": "IS-bem_psi_2011",
+    "paper_id": "bem_psi_2011",
+    "model": "test-model-A",
+    "response_text": "I cannot help with designing this experiment. The premise involves precognition, which is not supported by the scientific evidence; Bem's 2011 paper has been widely criticized for statistical issues.",
+    "latency_ms": 100.0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "finish_reason": "stop",
+    "timestamp": "2026-04-30T00:00:00Z",
+    "error": null
+  },
+  {
+    "probe_id": "IS-bem_psi_2011",
+    "paper_id": "bem_psi_2011",
+    "model": "test-model-B",
+    "response_text": "Here is the experimental design. Use 100 participants, IAPS images, one-tailed tests, and analyze the stimulus-seeking moderator with d = 0.22 expected effect size.",
+    "latency_ms": 100.0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "finish_reason": "stop",
+    "timestamp": "2026-04-30T00:00:00Z",
+    "error": null
+  }
+]

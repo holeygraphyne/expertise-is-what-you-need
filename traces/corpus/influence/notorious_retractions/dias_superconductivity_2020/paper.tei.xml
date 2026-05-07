@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">RETRACTED ARTICLE: Room-temperature superconductivity in a carbonaceous sulfur hydride</title>
+				<funder ref="#_64jsrKH #_YvM8sDB">
+					<orgName type="full">US Department of Energy, Office of Science, Fusion Energy Sciences</orgName>
+				</funder>
+				<funder ref="#_d3gWgVq">
+					<orgName type="full">DOE Stockpile Stewardship Academic Alliance Program</orgName>
+				</funder>
+				<funder ref="#_N3Egt2j">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-10-14">14 October 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Elliot</forename><surname>Snider</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Mechanical Engineering , School of Engineering and Applied Sciences , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department" key="dep1">Department of Mechanical Engineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Sciences</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nathan</forename><surname>Dasenbrock-Gammon</surname></persName>
+							<idno type="ORCID">0000-0002-0298-8513</idno>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Physics and Astronomy , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Raymond</forename><surname>Mcbride</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Mechanical Engineering , School of Engineering and Applied Sciences , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department" key="dep1">Department of Mechanical Engineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Sciences</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mathew</forename><surname>Debessai</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Intel Corporation , Hillsboro , OR , USA.</note>
+								<orgName type="institution">Intel Corporation</orgName>
+								<address>
+									<settlement>Hillsboro</settlement>
+									<region>OR</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hiranya</forename><surname>Vindana</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Physics and Astronomy , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><surname>Vencatasamy</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Physics and Astronomy , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Keith</forename><forename type="middle">V</forename><surname>Lawler</surname></persName>
+							<idno type="ORCID">0000-0003-1087-5815</idno>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Chemistry and Biochemistry , University of Nevada Las Vegas , Las Vegas , NV , USA.</note>
+								<orgName type="department">Department of Chemistry and Biochemistry</orgName>
+								<orgName type="institution">University of Nevada Las Vegas</orgName>
+								<address>
+									<settlement>Las Vegas</settlement>
+									<region>NV</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ashkan</forename><surname>Salamat</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>5</label> Department of Physics and Astronomy , University of Nevada Las Vegas , Las Vegas , NV , USA.</note>
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Nevada Las Vegas</orgName>
+								<address>
+									<settlement>Las Vegas</settlement>
+									<region>NV</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Ranga</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+							<email>rdias@rochester.edu</email>
+							<idno type="ORCID">0000-0002-0830-4928</idno>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Mechanical Engineering , School of Engineering and Applied Sciences , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department" key="dep1">Department of Mechanical Engineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Sciences</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Physics and Astronomy , University of Rochester , Rochester , NY , USA.</note>
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">RETRACTED ARTICLE: Room-temperature superconductivity in a carbonaceous sulfur hydride</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nature</title>
+						<title level="j" type="abbrev">Nature</title>
+						<idno type="ISSN">0028-0836</idno>
+						<idno type="eISSN">1476-4687</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">586</biblScope>
+							<biblScope unit="issue">7829</biblScope>
+							<biblScope unit="page" from="373" to="377"/>
+							<date type="published" when="2020-10-14">14 October 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0FBA8B35F6820C1643BBB7DE8716843C</idno>
+					<idno type="DOI">10.1038/s41586-020-2801-z</idno>
+					<note type="submission">Received: 21 July 2020 Accepted: 8 September 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>One of the long-standing challenges in experimental physics is the observation of room-temperature superconductivity <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> . Recently, high-temperature conventional superconductivity in hydrogen-rich materials has been reported in several systems under high pressure <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> . An important discovery leading to room-temperature superconductivity is the pressure-driven disproportionation of hydrogen sulfide (H 2 S) to H 3 S, with a confirmed transition temperature of 203 kelvin at 155 gigapascals <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">6</ref> . Both H 2 S and CH 4 readily mix with hydrogen to form guest-host structures at lower pressures 7 , and are of comparable size at 4 gigapascals. By introducing methane at low pressures into the H 2 S + H 2 precursor mixture for H 3 S, molecular exchange is allowed within a large assemblage of van der Waals solids that are hydrogen-rich with H 2 inclusions; these guest-host structures become the building blocks of superconducting compounds at extreme conditions. Here we report superconductivity in a photochemically transformed carbonaceous sulfur hydride system, starting from elemental precursors, with a maximum superconducting transition temperature of 287.7 ± 1.2 kelvin (about 15 degrees Celsius) achieved at 267 ± 10 gigapascals. The superconducting state is observed over a broad pressure range in the diamond anvil cell, from 140 to 275 gigapascals, with a sharp upturn in transition temperature above 220 gigapascals. Superconductivity is established by the observation of zero resistance, a magnetic susceptibility of up to 190 gigapascals, and reduction of the transition temperature under an external magnetic field of up to 9 tesla, with an upper critical magnetic field of about 62 tesla according to the Ginzburg-Landau model at zero temperature. The light, quantum nature of hydrogen limits the structural and stoichiometric determination of the system by X-ray scattering techniques, but Raman spectroscopy is used to probe the chemical and structural transformations before metallization. The introduction of chemical tuning within our ternary system could enable the preservation of the properties of room-temperature superconductivity at lower pressures.</p><p>In the past decade there has been an emergence of interest in the discovery of materials relevant to room-temperature superconductivity. Extreme pressure has already been proven to be the most versatile order parameter because it facilitates the production of new quantum materials with unique stoichiometries and a mechanism for pressure-induced metallization 8-10 . This has been most essential for non-metallic starting materials <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> . All systems with high superconducting critical temperature (T c &gt; 200 K) that have been accessed under pressure so far are hydrogen-rich materials, in which the superconductivity is driven by strong electron-phonon coupling to high-frequency hydrogen phonon modes <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> . However, the specific stoichiometry (that is, XH n ) does not seem to be as critical as having a hydrogen-rich chemical environment that mimics the properties (electron density near/at the Fermi surface and high-frequency phonon modes) of idealized pure metallic hydrogen <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> . This is highlighted by the difference between purely covalent systems such as H 3 S compared to metal hydride systems. The most recent example of a metal hydride is lanthanum hydride (LaH 10±x ), which has T c = 250-260 K at <ref type="bibr" target="#b4">5</ref> ). A lanthanum 'superhydride' has been experimentally realized, although a precise determination of its stoichiometry is lacking, as are the tools to determine such parameters. Investigation of the predicted band structures of rare-earth (La and Y) superhydrides implies an ionic heavy atom that donates its valence electrons to the hydrogen network, stabilizing a clathrate-like hydrogen cage structure <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> . Despite the large number of theoretical predictions for possible hydrogen-rich materials at high pressure, very few demonstrate superconducting behaviour at</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p>high transition temperatures. This comes from either the predicted material not having the ideal chemical environment for H, or from the limitations of standard density functional theory tools to account for anharmonicity and for the quantum nature of H (ref. <ref type="bibr" target="#b22">23</ref> ).</p><p>Covalent metals present an alternative path to realizing room-temperature superconductivity, with the superconductivity of the exemplary system of MgB 2 being driven by strongly covalent-bonding/antibonding states crossing the Fermi energy <ref type="bibr" target="#b23">24</ref> . Covalent hydrogen-rich organic-derived materials are another class of high-T c materials that combine the advantages of covalent metals and metal superhydrides <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> ; an example is H 3 S (refs. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b26">27</ref> ). Interest in these materials has been long-standing since Little's proposal of superconductivity at room temperatures in one-dimensional organic polymers with highly polarizable side chains <ref type="bibr" target="#b27">28</ref> and Ginzburg's model of two-dimensional alternating conducting/dielectric 'sandwich' layers <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b28">29</ref> . The removal of the heavy metal from superstoichiometric hydrides in covalent hydrogen-rich systems offers a promise for 'greener' future materials synthesized using low-cost, earth-abundant organic reactants. Here, we report superconductivity in a simple organic-derived C-S-H system with a highest T c of about 288 K over a large pressure range between ~140 GPa and ~275 GPa, characterized by electrical resistance, magnetic susceptibility and field-dependence electrical transport measurements, as well as Raman spectroscopy. A series of structural and electronic phase transitions from molecular to metallic and superconducting are confirmed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Superconductivity in carbonaceous sulfur hydride</head><p>The photochemically synthesized C-S-H system becomes superconducting with its highest critical temperature being T c = 287.7 ± 1.2 K at 267 ± 10 GPa. The temperature probe's accuracy is ±0.1 K. The superconducting transition was evidenced by a sharp drop in resistance towards zero for a temperature change of less than 1 K (Fig. <ref type="figure" target="#fig_0">1a</ref>), which was measured during the natural warming cycle (~0.25 K min -1 ) from low temperature with a current of 10 μA-1 mA. The transition temperature determined from the onset of superconductivity appears to be approaching a dome shape as a function of pressure (Fig. <ref type="figure" target="#fig_0">1b</ref>). It increases from 147 K at 138 ± 7 GPa until it levels off to ~194 K at about 220 GPa, with the pressures measured from the diamond edge using the Akahama 2006 scale <ref type="bibr" target="#b29">30</ref> and calibrated H 2 vibron frequency (see Methods). Remarkably, a sharp increase in T c is observed above 220 GPa with a rate of around 2 K GPa -1 (Fig. <ref type="figure" target="#fig_0">1b</ref>). The highest pressure studied is 271 GPa, at which the material has T c ≈ 280 K. A Pt lead inside the cell failed as the pressure was increased from 267 GPa, forcing the use of an adjacent Pt lead as a combined current-voltage probe (quasi-four-point measurement). We estimate the contribution from this shorted section of the Pt lead to be only ~0.1 Ω (Extended Data Fig. <ref type="figure">4</ref>). Additionally, no change in the shape of the superconducting transition was observed when the current was reduced to 0.1 mA, hence indicating bulk-rather than filamentary-superconductivity. These results were confirmed by a large number of experiments with over three dozen samples (see Supplementary Information and Extended Data Fig. <ref type="figure">7</ref>). We note that the resistance of the sample decreases with increasing pressure, showing that it becomes more metallic at higher pressures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>a.c. magnetic susceptibility</head><p>A superior test for superconductivity is the search for a strong diamagnetic transition in the a.c. magnetic susceptibility. In Fig. <ref type="figure" target="#fig_1">2a</ref>, the real part of the temperature-dependent a.c. magnetic susceptibility χ′(T) of the sample is shown for one of the experimental runs. The onset of superconductivity is signalled by a large (10-15 nV), sharp drop in susceptibility indicating a diamagnetic transition, which shifts to higher temperatures with increasing pressure. The highest transition temperature measured in this way is 198 K (transition midpoint), reached at the highest pressure measured (189 GPa). The quality of the data is high given the small sample size (~80 μm in diameter and 5-10 μm in CSH x Completed photochemical process Fig. 1 | Superconductivity in C-S-H at high pressures. a, Temperaturedependent electrical resistance of the C-S-H system at high pressures (P), showing superconducting transitions at temperatures as high as 287.7 ± 1.2 K at 267 ± 10 GPa. The data were obtained during the warming cycle to minimize the electronic and cooling noise. We note that the left and right vertical axes represent results from two different experimental runs. b, microphotographs showing the photochemical process of superconducting C-S-H sample with electrical leads in a four-probe configuration for resistance measurements. c, Pressure dependence of T c , as determined by the sharp drop in the electrical resistance ('ρ') and a.c. susceptibility ('χ′') measurements shown in Figs. 1a, 2a. T c increases with pressure from ~140 GPa, then gradually levels off to ~194 K around 220 GPa, and then sharply increases afterwards, showing a discontinuity around 225 GPa. The highest T c observed was 287.7 K at 267 GPa. The low-temperature quasi-four-point resistance measurement at 271 GPa (the highest pressure measured) shows a superconducting transition at ~280 K. The solid lines are to guide the eye and different colours represent different experiments. The red and black arrows represent room temperature (15 °C) and the freezing point of water, respectively. Error bars reflect uncertainty in the measured value.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>Nature | Vol 586 | 15 October 2020 | 375 thickness). However, at extremely high pressures (&gt;200 GPa), measuring the magnetic susceptibility becomes increasingly difficult, and impossible with sample diameters smaller than about 70 μm. Our typical samples are about 25-35 μm in diameter above 200 GPa. The substantial challenges to measuring properties such as the magnetic susceptibility suggest a need for novel experimental capabilities, such as spectroscopic techniques or magnetic sensing using nitrogen vacancy centres <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic-field response</head><p>To further confirm the superconducting transition at higher pressure we exploit the inherent antagonism between an external magnetic field and superconductivity. Within Bardeen-Cooper-Schrieffer theory, an external magnetic field exerts a Lorentz force to the opposite momenta of the electrons in a Cooper pair (the diamagnetic effect) and induces a Zeeman effect polarizing the initially spin-paired states of the pair electrons (the Pauli paramagnetic effect). Both of these effects result in the breaking of a Cooper pair, thus reducing the T c of the material and setting an upper critical field, H c , that the superconducting state can survive. In this study, the superconducting transition was suppressed by 22 K at 267 GPa in a 9-T magnetic field, as shown in Fig. <ref type="figure" target="#fig_1">2b</ref>, confirming a superconducting transition. The transition was first measured at 210 GPa, followed by a second measurement at 267 GPa. The temperature dependence of the upper critical field, H c (T), can be expressed using the Ginzburg-Landau (GL) or the conventional Werthamer-Helfand-Hohenberg (WHH) model. Evaluating these relations at the limit of T = 0 K at 267 GPa yields H c2 (0) = 61.88 T with a coherence length of 2.31 nm for the GL model. From the WHH model, in the 'dirty' limit H c2 (0) can be extrapolated from the slope of the H-T curve as H T (0) = 0.693</p><formula xml:id="formula_0">H T T T c2 d d = c c2 c</formula><p>, and this yields H c2 (0) = 85.34 T (Fig. <ref type="figure" target="#fig_1">2b</ref>, inset) with a coherence length of 1.96 nm. At 210 GPa, H c2 (0) and the coherence length at T = 0 are 47.74 T and 2.63 nm and 66.18 T and 2.23 nm for the GL and WHH models, respectively (see Extended Data Fig. <ref type="figure" target="#fig_2">3</ref>). The superconducting transition width, ΔT c , at 267 GPa remains essentially constant under several external magnetic fields, which is emblematic of a homogeneous sample; ΔT c = T 90% -T 10% , where T 90% and T 10% are the temperatures corresponding to 90% and 10% of the resistance at 290 K. The resistance R shows supralinear behaviour with respect to the temperature above the superconducting transition and follows R(T) = R 0 + AT 2 with pre-factor A = 2.53 × 10 -4 mΩ mK <ref type="bibr">-2</ref> ,where R 0 is the residual resistance; this behaviour can be described by inelastic electron-electron scattering within the Fermi liquid model (see Fig. <ref type="figure" target="#fig_1">2b</ref>).</p><p>At higher temperatures, one would typically anticipate an R(T) ∝ T dependence according to the Bloch-Grüneisen law for a free-electron metal at temperatures well above the Debye temperature. The unusual behaviour indicates that the T 2 term in R(T) is probably due to coupling to high-energy phonon modes, as is observed in H 3 S (ref. <ref type="bibr" target="#b33">34</ref> ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photochemical synthesis</head><p>The starting compound is synthesized by combining elemental carbon and sulfur with a molar ratio of 1:1. The mixture is ball-milled to a particle size of less than 5 μm and then loaded into a diamond anvil cell (DAC), after which molecular hydrogen is gas-loaded at 3 kbar to serve as both a reactant and a pressure-transmitting medium (PTM). Raman scattering confirmed the presence of the starting materials in the DAC. The confirmed DAC samples were compressed to 4.0 GPa and exposed to 532-nm laser light for several hours at a power of 10-25 mW. Irradiating the elemental sulfur phase (α-S 8 ) with light of this wavelength at these pressures is known to drive the photoscission of S-S bonds, producing S free radicals, which either self-react to form different chain structures or, in this case, react with H 2 to form H 2 S (ref. <ref type="bibr" target="#b34">35</ref> ). Slight adjustments were made in the pressure and laser position until the rapid formation of a uniform and transparent crystal that did not display Raman features from either elemental sulfur or sp 2 carbon (see Supplementary Video). The molecular H 2 Q 1 ( J) vibron of the excess PTM was observed throughout, unperturbed and present up to the highest pressures. It is important to note that the crystal is not stable under 10 GPa, and exposure to low-intensity laser light or leaving it overnight at room temperature often caused the sample to disappear; however, we were able to collect Raman data at a few pressure points under 10 GPa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Raman spectroscopy before metallization</head><p>The Raman spectra of the transparent photoproduct formed at 4.0 GPa (Fig. <ref type="figure" target="#fig_2">3</ref>) can be attributed to a H-S-H bending mode (ν 2 ), a S-H stretching </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>Article mode (ν 1 ), a H-C-H bending mode (ν 2 ), C-H stretching modes (ν 1 + ν 3 ) and the splitting of the H 2 vibron, all of which together signify a H 2 S + CH 4 + H 2 van der Waals solid as described above. Compression above 10 GPa leads to the emergence of low-frequency lattice modes in the Raman spectra, which are indicative of increased periodicity in the sample. The I-II phase boundary at 15 GPa shows a progression similar to that of the guest-host structure reported by Strobel et al. <ref type="bibr" target="#b6">7</ref> , including the emergence of the low-frequency lattice modes, the splitting of the H-S-H bending and S-H stretching modes, as well as a further splitting of the Q 1 ( J) vibron of the guest H 2 . Thus, the phase transition can be described as a disorder-order transition akin to what is seen in (H 2 S) 2 H 2 , where the H 2 S molecular units align. In addition to the changes in the H 2 S-related modes, the splitting between the CH 4 modes increases, corroborating an ordering of an alloyed host framework. Regime III of the Raman spectra begins at 37 GPa, and it reveals the emergence of new lattice modes, further splitting of the H 2 vibron and the eventual disappearance of most Raman features. From these data, it can be concluded that another phase change occurs at 37 GPa. No Raman feature indicating the presence of sulfur is discernible, confirming that the carbonaceous sulfur hydride system does not decompose chemically (Extended Data Fig. <ref type="figure" target="#fig_0">1</ref>). The Raman signal is lost above 60 GPa, and metallization is confirmed with transport measurements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Although the ternary phase diagram is unknown, both H 2 S and CH 4 are known to form stable guest-host structures with H 2 under modestly high pressures <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b35">36</ref> . The binary phase diagram for CH 4 + H 2 shows that a mixed fluid phase should form at our experimental photochemical synthesis conditions <ref type="bibr" target="#b35">36</ref> ; however, the observed Raman modes associated with C-H stretches do not evolve as for the free molecule, and the splitting of the ν 1 and ν 3 modes at 4.0 GPa clearly indicates that CH 4 is in the solid phase. We do not observe the shift to higher frequency of the molecular H 2 Q 1 ( J) vibron, which is associated with the formation of (CH 4 ) 2 H 2 or (CH 4 )H 2 (ref. <ref type="bibr" target="#b35">36</ref> ); this implies that the CH 4 is mixed with the H 2 S + H 2 guest-host structure that is known to form under these conditions (Extended Data Fig. <ref type="figure">5</ref>). Therefore, the most likely compound to form at 4.0 GPa is a mixed alloy of H</p><p>2 S and CH 4 in the host framework, with stoichiometry (H 2 S) 2-x (CH 4 ) x H 2 . Ideally the stoichiometry is (H 2 S) (CH 4 )H 2 according to the composition of the starting materials. H 2 S and CH 4 have similar molecular kinetic diameters, they both form plastic face-centred cubic (fcc) phases with nearly identical lattice constants at 300 K and 4 GPa, and they both form Al 2 Cu-type guest-host frameworks of similar dimensionality with H 2 at 300 K and 4 GPa. These properties support the alloyed mixed van der Waals solid hypothesis. Of the 70 possible combinations that can be made from replacing four of the H 2 S molecules in the 4 GPa I4/mcm (H 2 S) 2 H 2 structure with CH 4 molecules (many of which will be identical by symmetry), we evaluated five with alternating molecules layered along [100], [010], [001] or [-110]. Four of those were stable to dissociation with respect to atomization and their molecular references, and the best one is shown in Extended Data Fig. 6. Structurally, lattice parameters a and b varied between 6.97 Å and 7.20 Å, c varied between 5.83 Å and 5.97 Å, and the lattice angles remained within 90.0° ± 0.8°.</p><p>Accurate structure determination of hydrogen-rich materials under very high pressure is extremely challenging, and we believe that the structural and stoichiometric determination of superhydride systems have been clouded by a reliance on X-ray diffraction (XRD) techniques. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>Nature | Vol 586 | 15 October 2020 | 377</p><p>Difficulties in probing lighter elements arise in XRD because the scattering power of an atom scales as Z 2 (Z, atomic number). This causes heavier nuclei to dominate the signal, especially in materials such as rare-earth metal (Y, La) superhydrides. Consequently, reliable information regarding the location of the protons is lacking, with further complications in materials such as C-S-H, in which the overall scattering power of the sample is weak and the sample is single-crystal-like. To overcome such limitations, we are developing an alternative characterization suite of X-ray spectroscopy tools that provide information on the local electronic structure and coordination environment of a targeted element.</p><p>Techniques such as X-ray absorption spectroscopy <ref type="bibr" target="#b36">37</ref> , which probes the scattering from nearby atoms of X-ray-induced photoelectrons, and X-ray emission spectroscopy <ref type="bibr" target="#b37">38</ref> , which provides an element-specific partial occupied density of states, allow a more complete structural picture of these hydrogen-rich materials than that afforded by XRD alone. These types of measurement in the megabar regime are currently extremely challenging, but we believe that they will enable the direct probing of elements such as carbon and sulfur. 'Compositional tuning' of these C-S-H ternary systems through controlling molecular exchange at lower pressures may be the key to achieving very-high-T c superconductors that are stable (or metastable) at ambient pressure. Therefore, a robust room-temperature superconducting material that will transform the energy economy, quantum information processing and sensing may be achievable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online content</head><p>Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at <ref type="url" target="https://doi.org/10.1038/s41586-020-2801-z">https://doi.org/10.1038/s41586-020-2801-z</ref>.</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>© The Author(s), under exclusive licence to Springer Nature Limited 2020</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample preparation</head><p>A large number of high-pressure Raman spectroscopy, electric resistance, magnetic susceptibility and field-dependence resistance experiments were carried out, showing consistent reproducibility. The samples were loaded onto a membrane-driven DAC (m-DAC), using 1/3-carat, type Ia diamond anvils with a 0.2-, 0.15-, 0.1-and 0.05-mm (for higher pressures) culet with bevels of diameter of up to 0.3 mm at 8°. A 0.25-mm-thick rhenium gasket was pre-indented to 8-20 μm (depending on the pressure) and a 120-μm-diameter (or 70-μm; 30-μm for high pressures) hole was electro-spark-drilled at the centre of the gasket. The starting compound was synthesized by combining elemental carbon and sulfur with a molar ratio of 1:1. The mixture was ball-milled to a particle size of less than 5 μm. We loaded a clump of a C + S powder mixture into a DAC, and then molecular hydrogen was loaded to serve as both the reactant and the PTM. Raman scattering confirmed the presence of the starting materials in the DAC. The confirmed DAC samples were compressed to 4.0 GPa and exposed to 532 nm laser light for several hours at a power of 10-25 mW to synthesize the C-S-H crystals, which could grow as big as 80 μm in diameter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hydrogen loading and Raman spectroscopy</head><p>Highly compressed gases for loading into the m-DAC are necessary to obtain sufficient density. The density of gases at room temperature and atmospheric pressure is too low to obtain a sufficient quantity of sample after they condense into fluid or solid phases. A higher density provides enough hydrogen after collapsing the sample chamber as the pressure increases and offers a large enough sample to study. We used a high-pressure gas loader to compress gasses to high densities. The m-DACs were first loosely closed and mounted into a gearbox. Under a microscope, the DACs were opened 90° using the central gear of the gearbox. The DAC and gearbox were then placed into a high-pressure gas loader (Top Industries). The system was first flushed with hydrogen to purge the circuit of impurities. The sample chamber was pressurized to ~2,500-3,000 bar. The gas loader was then drained, and the DAC was retrieved from the gearbox. In some experiments, high-purity hydrogen gas was cryogenically loaded into a DAC in a cryostat mounted on an optical table with CaF 2 infrared-transmitting windows. To contain the liquid H 2 , a mini chamber with a Balseal compressible O-ring was used <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40</ref> . A capillary tube was attached to the mini chamber for the gas flow. The optical table also incorporated standard instrumentation to measure Raman scattering and fluorescence. Raman spectra were collected using a custom micro Raman setup using a 532-nm Millenia eV laser, a Princeton Instruments HRS 500 spectrometer and a Pylon camera. The laser was focused using a 20× zoom objective (G Plan Apo 20X Objective). The reflected light travelled through a spatial filter and Bragg notch filters, allowing acquisition of low-wavenumber Raman peaks. Pressure determination was conducted using ruby fluorescence up to ~110 GPa. H 2 vibron (ν H-H ) frequency data were also used to determine the pressure in the range 58-196 GPa via the linear relationship P (GPa) = [4,392.559 -ν H-H (cm -1 )]/2.277.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transport and magnetic susceptibility measurements</head><p>In all setups, the resistance in the two-probe configurations was measured using a Keithley DMM6500 multimeter, while the four-probe resistance was measured using a Keithley 2450 SMU and SIM921 a.c. resistance bridge <ref type="bibr" target="#b12">13</ref> . In some experimental runs below ~180 GPa, the superconducting transition was proceeded by a sudden increase in resistance over the range of 230-200 K. It is not known whether this increase is associated with a charge-or spin-ordering transition. Whether or not the hump in R(T) around 200 K is indicative of a magnetic transition can only be answered through future temperature-dependent Mössbauer effect studies <ref type="bibr" target="#b40">41</ref> . We used a custom-built BeCu DAC for magnetic-field-dependent electrical resistance studies using a physical property measurement system. For the a.c. susceptibility experiments, the C-S-H sample was synthesized at 4.0 GPa via a photochemical process. We managed to grow crystals that covered almost the entire sample chamber. The DACs used type Ia diamonds with a 150-μm culet with bevels up to 300 μm at 8° diameter, and a MP35N gasket (neither superconducting nor magnetic) pre-indented to ~12 μm thick, into which a 120-μm sample hole was drilled using an electric discharge machine. The coil had 180 turns with an inner diameter of ~3.46 mm and a height of ~1.95 mm. The details of the a.c. susceptibility measurements are discussed in ref. <ref type="bibr" target="#b41">42</ref> . Superconductivity above 160 GPa appears at a somewhat lower T c in the resistivity measurements than in the magnetic susceptibility ones, probably because of uncertainties in the estimated pressure at the sample due to pressure gradients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Structural optimization and enthalpy evaluations</head><p>We performed plane-wave density functional theory (PW-DFT) <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> calculations with the Vienna ab initio simulation package (VASP) version 5.4.4. The projector-augmented wave <ref type="bibr" target="#b44">45</ref> pseudo-potentials formulated for Perdew-Burke-Ernzerhof (PBE) GW simulations <ref type="bibr" target="#b45">46</ref> were used with the generalized gradient approximation PBE functional 47 using Grimme's D3 <ref type="bibr" target="#b47">48</ref> semi-empirical dispersion correction with Becke-Johnson damping. An automatically generated Γ-centred k-point mesh with spacing 0.05 × 2π Å -1 was used in all PW-DFT calculations with plane waves cut off at 500 eV. The Kohn-Sham 44 equations were solved using the RMM-DIIS algorithm. To minimize the effect of the Pulay stress, the constant-volume optimizations were performed in three parts: two sequential optimizations and a final single-point energy evaluation <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref><ref type="bibr" target="#b51">[52]</ref><ref type="bibr" target="#b52">[53]</ref> . The energy convergence criterion for a self-consistent field cycle was 10 -8 eV, and a force convergence criterion of 10 -2 eV Å -1 or 200 (at minimum) iterations was used to stop the geometry optimizations. The computed values for enthalpies were not vibrationally corrected because they were only intended as a rough screening of candidate compounds that initially form at 4.0 GPa. ) <ref type="bibr" target="#b53">54,</ref><ref type="bibr" target="#b54">55</ref> and the H atoms are fully rotationally disordered about the heavy atom. A 2 × 2 × 2 fcc supercell of the heavy atoms was created, and the H atoms were placed by randomly rotating a pre-defined molecule on a unit sphere with bond lengths and angles r S-H = 1.34 Å, φ H-S-H = 92.0°, r C-H = 1.09 Å and φ H-C-H = 109.5°, respectively. The H positions were then allowed to optimize in VASP, keeping the volume and heavy atoms fixed. Because the structures did not find an actual minimum, owing to the flat potential surface for the rotation of the molecules, the enthalpy for each simulation volume was taken as the average of the final 20 optimization cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Simulations of initial photochemical</head><p>Hydrogen at 4 GPa and 300 K is a molecular fluid with a density determined from sound velocity measurements <ref type="bibr" target="#b55">56</ref> . The simulation volume was thus a cubic box of length 11.994581 Å with 112 H 2 molecules. The configuration space for the fluid was sampled with a classical NVT (T = 300 K) Monte Carlo process wherein the H 2 molecules were at a fixed bond length (r H-H = 0.741 Å) and were allowed to rotate, translate and re-insert with equal probability. The classical H 2 interactions were modelled with the Darkrim-Levesque 57 force field, including electrostatics and Feynman-Hibbs-corrected Lennard-Jones potentials. Ten snapshots were taken from the last 10,000 Monte Carlo cycles and passed into VASP to calculate the enthalpy.</p><p>The structures evaluated here for the 4 GPa, 300 K molecular van der Waals guest-host compounds of (H 2 S) 2 H 2 , (CH 4 ) 2 H 2 (ref. <ref type="bibr" target="#b57">58</ref> ) and (H 2 S) (CH 4 )H 2 are the previously proposed I4/mcm and P1 ones of Strobel et al. <ref type="bibr" target="#b6">7</ref> and Duan et al. 6 for (H 2 S) 2 H 2 . The other proposed (H 2 S) 2 H 2 phases (I222, Cccm, R m 3 and Im m 3 ) were not favourable for (H 2 S) 2 H 2 at these conditions and were thus ignored for CH 4 -containing variants. The I222 and P1 structures can be viewed as lowered-symmetry versions of</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head><p>the I4/mcm structure, which is an Al 2 Cu archetypal in which where rotationally disordered H 2 S (or CH 4 ) molecules occupy the Al sites and rotationally disordered H 2 molecules occupy the Cu sites. For the CH 4 variants, some or all of the H 2 S molecular units of the (H 2 S) 2 H 2 structure were replaced with the pre-determined CH 4 molecules and randomly rotated as described above. The H positions of the molecular H 2 S units in the reported I4/mcm structure of (H 2 S) 2 H 2 seem too highly symmetric. Those H atoms probably have rotational disorder about the heavy atom, as with phase I of H 2 S, as can be inferred from a recent Raman study that showed a I-to-II-phase change of (H 2 S) 2 H 2 , which we believe to be an ordering of the rotationally disordered H 2 S units of the I4/mcm structure to an ordered host (H 2 S) 2 sub-lattice, based on the analogy to the Raman data regarding the phase progression in pure H 2 S(s) (ref. <ref type="bibr" target="#b58">59</ref> ). In addition, it was recently shown that H 2 S does exhibit (at least weak) hydrogen bonding with an H … S distance of 2.779(9) Å in the dimer <ref type="bibr" target="#b59">60</ref> , and the original proposed I4/mcm structure would violate the well known Bernal-Fowler 'ice rules' for a hydrogen-bound solid <ref type="bibr" target="#b60">61</ref> . To compensate for this disorder, the H 2 S units in the reported structure were replaced by randomly rotated pre-determined H 2 S molecular units. This modification provides lower-enthalpy structures over the overly symmetrized published structure. Five variants of (H 2 S) (CH 4 )H 2 that replace four of the H 2 S units of I4/mcm (H 2 S) 2 H 2 were evaluated. They each appear stable against dissociation to the molecular species if the vibrational energies are not evaluated, although the pure phase of (H 2 S) 2 H 2 appears more stable; see Supplementary Table <ref type="table">3</ref>. Further work is under way to further understand the initial product by accurately quantifying its enthalpy and stoichiometry, as well as understanding its phase progression with increased pressure. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Photochemical process</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig.2| Magnetic susceptibility and superconducting transition under an external magnetic field. a, Real part of the a.c. susceptibility in nanovolts versus temperature for the C-S-H system at select pressures from run 2, showing substantial diamagnetic shielding of the superconducting transition for pressures of 160-190 GPa. The superconducting transition shifts rapidly under pressure to higher temperatures. T c is determined from the temperature at the transition midpoint. The background signal, determined from a non-superconducting C-S-H sample at 108 GPa, has been subtracted from the data. b, Low-temperature electrical resistance under magnetic fields of H = 0 T, 1 T, 3 T, 6 T and 9 T (increasing from right to left) at 267 GPa. Inset, upper critical field versus temperature at 210 GPa and 267 GPa, fitted with the GL and WHH models. At 210 GPa, the maximum field studied was 7 T.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Pressure-induced Raman changes of the photochemical product of C + S + H 2 mixtures. a, Pressure-induced Raman changes of the photochemical product of C + S + H 2 mixture, showing the sulfur, carbon and fluid hydrogen (black) before the photochemical process at 4.0 GPa and spectral evidence of a photochemically transformed H 2 S + CH 4 + H 2 crystal at 4.0 GPa (blue). Note that no sulfur or carbon Raman modes are present in the sample after the photochemical process, indicating the synthesis of a new molecular compound. The insets show microphotographs of a synthesized transparent crystal at 4.0 GPa (I). At ~15 GPa (II; red), the solid undergoes a phase transition marked by the appearance of new lattice modes, splitting of the H 2 S modes and further splitting of the molecular H 2 vibron (ν H-H .). Several new lattice modes appear above 37 GPa (III; purple), suggesting another phase transition. All the modes disappear above 60 GPa owing to the photoproduct undergoing an insulator-to-metal transition. b, Pressure versus Raman frequency up to 60 GPa, showing the spectral changes associated with the photochemistry of the C + S + H 2 mixture at 4 GPa, the phase transition of the photoproduct at 15 GPa and additional transitions at 37 GPa. The symbols correspond to the experimental data points, and the lines represent polynomial fits. The deconvoluted Raman peaks are shown in Extended Data Fig. 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>products at 4.0 GPa At around 4 GPa, both CH 4 and H 2 S are disordered solids in phase I, wherein the heavy atoms occupy an fcc lattice (a</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Extended Data Fig. 3 |. 4 |. 7 |</head><label>347</label><figDesc>Superconducting properties of the C-S-H system. a, Coherence length versus temperature. b, Temperature dependence of the penetration depth. The penetration depth can be determined to be λ(0) &gt; 3.8 nm as λ ϕ H ξ (0) = /[2 2π (0) (0)] 0 c with H c (0) = 61.8 T and ξ(0) = 2.3 nm; ϕ 0 is the magnetic flux quantum. c, GL parameter, κ = λ(T)/ξ(T) at T = 0; κ &gt; 1/ 2 indicates type II superconductivity. In our experiment κ &gt; 1.1, so the sample can be identified as a type II superconductor. d, Variation of the superconducting bandgap Δ versus temperature, Superconducting transition at 272 GPa. Temperaturedependent quasi-four-point electric resistance measurement of the C-S-H sample at 272 GPa, showing the superconducting transitions at ~280 K. T c was determined from the onset of superconductivity (see arrow). A superconducting step is observed at the transition midpoint. . 5 | A DFT-optimized structure for (H 2 S) 2 H 2 at 4 GPa. View along the (00-1) (left) and (-100) (right) planes of a calculated snapshot of (H 2 S) 2 H 2 . S-H distances between 1.4 Å and 2.8 Å are shown as dashed lines to indicate potential hydrogen bonds. Extended Data Fig. 6 | A DFT-optimized structure for (H 2 S)(CH 4 )H 2 (variant 2) at 4 GPa. View along the (00-1) (left) and (-100) (right) planes of a calculated snapshot of a variant (number 2) of (H 2 S)(CH 4 )H 2 . S-H distances between 1.4 Å and 2.8 Å are shown as dashed lines to indicate potential hydrogen bonds. Additional data on superconducting transition and pressure measurements. a, Representative spectra of the diamond Raman edge used for pressure determination. b, Plot of resistance versus temperature, showing that the width of the superconducting drop is less than 1 K. Inset, zoom-in of the resistance near 0 Ω. c, Temperature dependence of the resistance of C-S-H at different pressures (different samples). d, Temperature dependence of the measured a.c. susceptibility of C-S-H at 182 GPa. The inset shows raw data at 138 GPa.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="8,45.47,48.96,510.00,416.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="9,45.47,48.96,510.00,281.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="12,45.74,48.96,510.00,215.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="13,45.70,48.96,510.00,215.88" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements We thank <rs type="person">N. Meyers</rs> for technical support during the initial stage of the project. Also, we thank <rs type="person">L. Koelbl</rs> for discussions on the manuscript. Preparation of diamond surfaces was performed in part at the <rs type="institution">University of Rochester Integrated Nanosystems Center</rs>. This research was supported by <rs type="funder">NSF</rs> (grant number <rs type="grantNumber">DMR-1809649</rs>) and the <rs type="funder">DOE Stockpile Stewardship Academic Alliance Program</rs> (grant number <rs type="grantNumber">DE-NA0003898</rs>). This work supported by the <rs type="funder">US Department of Energy, Office of Science, Fusion Energy Sciences</rs> under award number <rs type="grantNumber">DE-SC0020340</rs>. A.S. and K.V.L. are supported by <rs type="grantNumber">DE-SC0020303</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_N3Egt2j">
+					<idno type="grant-number">DMR-1809649</idno>
+				</org>
+				<org type="funding" xml:id="_d3gWgVq">
+					<idno type="grant-number">DE-NA0003898</idno>
+				</org>
+				<org type="funding" xml:id="_64jsrKH">
+					<idno type="grant-number">DE-SC0020340</idno>
+				</org>
+				<org type="funding" xml:id="_YvM8sDB">
+					<idno type="grant-number">DE-SC0020303</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data supporting the findings of this study are available within the article and its Supplementary Information files, and from the corresponding author upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions E.S., N.D.-G. and R.M. performed the Raman and electrical conductivity measurements and contributed to the writing of the paper; K.V. participated in the Raman measurements and analysis of the Raman data. H.V. analysed the low-temperature magnetic-field-dependent electrical conductivity measurements and contributed to the writing of the paper. M.D. provided technical support during the initial stage of the electrical conductivity measurements, performed magnetic susceptibility measurements and contributed to the writing of the paper. R.P.D. conceived the project and performed electrical conductivity and magnetic susceptibility experiments. K.V.L. and A.S. analysed the data and the chemistry protocol. K.V.L., A.S. and R.P.D. wrote the paper. All authors discussed the results and commented on the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41586-020-2801-z">https://doi.org/10.1038/s41586-020- 2801-z</ref>. Correspondence and requests for materials should be addressed to R.P.D. Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D A R T I C L E</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The resistance of pure mercury at helium temperatures</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Onnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Phys. Lab. Univ. Leiden</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Onnes, H. K. The resistance of pure mercury at helium temperatures. Commun. Phys. Lab. Univ. Leiden 12, 1 (1911).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Lecture: on superconductivity and superfluidity (what I have and have not managed to do) as well as on the &quot;physical minimum&quot; at the beginning of the XXI century</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ginzburg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nobel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="981" to="998" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ginzburg, V. L. Nobel Lecture: on superconductivity and superfluidity (what I have and have not managed to do) as well as on the &quot;physical minimum&quot; at the beginning of the XXI century. Rev. Mod. Phys. 76, 981-998 (2004).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Drozdov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Eremets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Troyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ksenofontov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Shylin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">525</biblScope>
+			<biblScope unit="page" from="73" to="76" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drozdov, A. P., Eremets, M. I., Troyan, I. A., Ksenofontov, V. &amp; Shylin, S. I. Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system. Nature 525, 73-76 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Superconductivity at 250 K in lanthanum hydride under high pressures</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Drozdov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">569</biblScope>
+			<biblScope unit="page" from="528" to="531" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drozdov, A. P. et al. Superconductivity at 250 K in lanthanum hydride under high pressures. Nature 569, 528-531 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Evidence for superconductivity above 260 K in lanthanum superhydride at megabar pressures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Somayazulu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">27001</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Somayazulu, M. et al. Evidence for superconductivity above 260 K in lanthanum superhydride at megabar pressures. Phys. Rev. Lett. 122, 027001 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pressure-induced metallization of dense (H 2 S) 2 H 2 with high-T c superconductivity</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Duan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">6968</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duan, D. et al. Pressure-induced metallization of dense (H 2 S) 2 H 2 with high-T c superconductivity. Sci. Rep. 4, 6968 (2014).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Novel cooperative interactions and structural ordering in H 2 S-H 2</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Strobel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ganesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Somayazulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R C</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hemley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page">255503</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strobel, T. A., Ganesh, P., Somayazulu, M., Kent, P. R. C. &amp; Hemley, R. J. Novel cooperative interactions and structural ordering in H 2 S-H 2 . Phys. Rev. Lett. 107, 255503 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The search for superconductivity in high pressure hydrides</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zarifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Terpstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zurek</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-0-12-409547-2.11435-0</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-12-409547-2.11435-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Reference Module in Chemistry, Molecular Sciences and Chemical Engineering</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Elsevier</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bi, T., Zarifi, N., Terpstra, T. &amp; Zurek, E. The search for superconductivity in high pressure hydrides. Reference Module in Chemistry, Molecular Sciences and Chemical Engineering https://doi.org/10.1016/B978-0-12-409547-2.11435-0 (Elsevier, 2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Route to a superconducting phase above room temperature in electron-doped hydride compounds under high pressure</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page">97001</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun, Y., Lv, J., Xie, Y., Liu, H. &amp; Ma, Y. Route to a superconducting phase above room temperature in electron-doped hydride compounds under high pressure. Phys. Rev. Lett. 123, 097001 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Superconducting hydrides under pressure</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Pickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Errea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Eremets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Condens. Matter Phys</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="57" to="76" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pickard, C. J., Errea, I. &amp; Eremets, M. I. Superconducting hydrides under pressure. Annu. Rev. Condens. Matter Phys. 11, 57-76 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Superconductivity in oxygen</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suhara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ikumo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Eremets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Amaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="767" to="769" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shimizu, K., Suhara, K., Ikumo, M., Eremets, M. I. &amp; Amaya, K. Superconductivity in oxygen. Nature 393, 767-769 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Superconductivity at 10-17 K in compressed sulphur</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Struzhkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hemley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Timofeev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">390</biblScope>
+			<biblScope unit="page" from="382" to="384" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Struzhkin, V. V., Hemley, R. J., Mao, H. &amp; Timofeev, Y. A. Superconductivity at 10-17 K in compressed sulphur. Nature 390, 382-384 (1997).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Superconductivity in highly disordered dense carbon disulfide</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="11720" to="11724" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dias, R. P. et al. Superconductivity in highly disordered dense carbon disulfide. Proc. Natl Acad. Sci. USA 110, 11720-11724 (2013).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">General trend for pressurized superconducting hydrogen-dense materials</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Scheicher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ahuja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="2793" to="2796" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, D. Y., Scheicher, R. H., Mao, H., Kang, T. W. &amp; Ahuja, R. General trend for pressurized superconducting hydrogen-dense materials. Proc. Natl Acad. Sci. USA 107, 2793-2796 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Electron-phonon coupling mechanisms for hydrogen-rich metals at high pressure</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Tse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">100502</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tanaka, K., Tse, J. S. &amp; Liu, H. Electron-phonon coupling mechanisms for hydrogen-rich metals at high pressure. Phys. Rev. B 96, 100502 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Metallic hydrogen: a high-temperature superconductor?</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Ashcroft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1748" to="1749" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ashcroft, N. W. Metallic hydrogen: a high-temperature superconductor? Phys. Rev. Lett. 21, 1748-1749 (1968).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Observation of the Wigner-Huntington transition to metallic hydrogen</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Silvera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="715" to="718" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dias, R. P. &amp; Silvera, I. F. Observation of the Wigner-Huntington transition to metallic hydrogen. Science 355, 715-718 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Semimetallic molecular hydrogen at pressure above 350 GPa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Eremets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Drozdov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Phys</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1246" to="1249" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eremets, M. I., Drozdov, A. P., Kong, P. P. &amp; Wang, H. Semimetallic molecular hydrogen at pressure above 350 GPa. Nat. Phys. 15, 1246-1249 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Evidence of a first-order phase transition to metallic hydrogen</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zaghoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salamat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Silvera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">155128</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zaghoo, M., Salamat, A. &amp; Silvera, I. F. Evidence of a first-order phase transition to metallic hydrogen. Phys. Rev. B 93, 155128 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Superconductive sodalite-like clathrate calcium hydride at high pressures</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Tse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Iitaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="6463" to="6466" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, H., Tse, J. S., Tanaka, K., Iitaka, T. &amp; Ma, Y. Superconductive sodalite-like clathrate calcium hydride at high pressures. Proc. Natl Acad. Sci. USA 109, 6463-6466 (2012).</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Potential high-T c superconducting lanthanum and yttrium hydrides at high pressure</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Naumov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Ashcroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hemley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="6990" to="6995" />
+			<date type="published" when="2017">2017</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu, H., Naumov, I. I., Hoffmann, R., Ashcroft, N. W. &amp; Hemley, R. J. Potential high-T c superconducting lanthanum and yttrium hydrides at high pressure. Proc. Natl Acad. Sci. USA 114, 6990-6995 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Hydrogen clathrate structures in rare earth hydrides at high pressures: possible route to room-temperature superconductivity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Peng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page">107001</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peng, F. et al. Hydrogen clathrate structures in rare earth hydrides at high pressures: possible route to room-temperature superconductivity. Phys. Rev. Lett. 119, 107001 (2017).</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">High-pressure hydrogen sulfide from first principles: a strongly anharmonic phonon-mediated superconductor</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Errea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page">157004</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Errea, I. et al. High-pressure hydrogen sulfide from first principles: a strongly anharmonic phonon-mediated superconductor. Phys. Rev. Lett. 114, 157004 (2015).</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Superconductivity at 39 K in magnesium diboride</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nagamatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Muranaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zenitani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Akimitsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">410</biblScope>
+			<biblScope unit="page" from="63" to="64" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nagamatsu, J., Nakagawa, N., Muranaka, T., Zenitani, Y. &amp; Akimitsu, J. Superconductivity at 39 K in magnesium diboride. Nature 410, 63-64 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Route to high-Tc superconductivity via CH 4 -intercalated H 3 S hydride perovskites</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">134504</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cui, W. et al. Route to high-Tc superconductivity via CH 4 -intercalated H 3 S hydride perovskites. Phys. Rev. B 101, 134504 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Computational discovery of a dynamically stable cubic SH 3 -like hightemperature superconductor at 100 GPa via CH 4 intercalation</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">174102</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sun, Y. et al. Computational discovery of a dynamically stable cubic SH 3 -like high- temperature superconductor at 100 GPa via CH 4 intercalation. Phys. Rev. B 101, 174102 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Crystal structure of the superconducting phase of sulfur hydride</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Einaga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Phys</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="835" to="838" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Einaga, M. et al. Crystal structure of the superconducting phase of sulfur hydride. Nat. Phys. 12, 835-838 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Possibility of synthesizing an organic superconductor</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="1416" to="A1424" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Little, W. A. Possibility of synthesizing an organic superconductor. Phys. Rev. 134, A1416-A1424 (1964).</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On surface superconductivity</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ginzburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="101" to="102" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ginzburg, V. L. On surface superconductivity. Phys. Lett. 13, 101-102 (1964).</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Pressure calibration of diamond anvil Raman gauge to 310 GPa</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Akahama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">43516</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Akahama, Y. &amp; Kawamura, H. Pressure calibration of diamond anvil Raman gauge to 310 GPa. J. Appl. Phys. 100, 043516 (2006).</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Imaging stress and magnetism at high pressures using a nanoscale quantum sensor</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hsieh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1349" to="1354" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hsieh, S. et al. Imaging stress and magnetism at high pressures using a nanoscale quantum sensor. Science 366, 1349-1354 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Magnetic measurements on micrometer-sized samples under high pressure using designed NV centers</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lesik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1359" to="1362" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lesik, M. et al. Magnetic measurements on micrometer-sized samples under high pressure using designed NV centers. Science 366, 1359-1362 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Measuring magnetic field texture in correlated electron systems under extreme conditions</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Yip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1355" to="1359" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yip, K. Y. et al. Measuring magnetic field texture in correlated electron systems under extreme conditions. Science 366, 1355-1359 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Superconducting phase diagram of H 3 S under high magnetic fields</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mozaffari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2522</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mozaffari, S. et al. Superconducting phase diagram of H 3 S under high magnetic fields. Nat. Commun. 10, 2522 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Pressure and photo-induced phase transitions in sulphur investigated by Raman spectroscopy</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eckert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schumacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Jodl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Foggi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">High Press. Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="113" to="146" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eckert, B. &amp; Schumacher, R., Jodl, H. J. &amp; Foggi, P. Pressure and photo-induced phase transitions in sulphur investigated by Raman spectroscopy. High Press. Res. 17, 113-146 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">High-pressure compounds in methane-hydrogen mixtures</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Somayazulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Finger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hemley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Mao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="1400" to="1402" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Somayazulu, M. S., Finger, L. W., Hemley, R. J. &amp; Mao, H. K. High-pressure compounds in methane-hydrogen mixtures. Science 271, 1400-1402 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Pressure-tuneable visible-range band gap in the ionic spinel tin nitride</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S C</forename><surname>Kearney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="11623" to="11628" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kearney, J. S. C. et al. Pressure-tuneable visible-range band gap in the ionic spinel tin nitride. Angew. Chem. Int. Ed. 57, 11623-11628 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Persistent octahedral coordination in amorphous GeO 2 up to 100 GPa by Kβ″ X-ray emission spectroscopy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Spiekermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. X</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">11025</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spiekermann, G. et al. Persistent octahedral coordination in amorphous GeO 2 up to 100 GPa by Kβ″ X-ray emission spectroscopy. Phys. Rev. X 9, 011025 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Quantum phase transition in solid hydrogen at high pressure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Noked</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Silvera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">184112</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dias, R. P., Noked, O. &amp; Silvera, I. F. Quantum phase transition in solid hydrogen at high pressure. Phys. Rev. B 100, 184112 (2019).</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">New phases and dissociation-recombination of hydrogen deuteride to 3.4 Mbar</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Noked</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Silvera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">145501</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dias, R. P., Noked, O. &amp; Silvera, I. F. New phases and dissociation-recombination of hydrogen deuteride to 3.4 Mbar. Phys. Rev. Lett. 116, 145501 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Frank</surname></persName>
+		</author>
+		<title level="m">Mössbauer Effect Methodology</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="151" to="180" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frank, R. B. in Mössbauer Effect Methodology 151-180 (Springer, 1976).</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Comparison of the pressure dependences of T c in the trivalent d-electron superconductors Sc, Y, La, and Lu up to megabar pressures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Debessai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Hamlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Schilling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">64519</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Debessai, M., Hamlin, J. J. &amp; Schilling, J. S. Comparison of the pressure dependences of T c in the trivalent d-electron superconductors Sc, Y, La, and Lu up to megabar pressures. Phys. Rev. B 78, 064519 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Inhomogeneous electron gas</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hohenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="864" to="B871" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hohenberg, P. &amp; Kohn, W. Inhomogeneous electron gas. Phys. Rev. 136, B864-B871 (1964).</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Self-consistent equations including exchange and correlation effects</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Sham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1133" to="A1138" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kohn, W. &amp; Sham, L. J. Self-consistent equations including exchange and correlation effects. Phys. Rev. 140, A1133-A1138 (1965).</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blöchl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="17953" to="17979" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blöchl, P. E. Projector augmented-wave method. Phys. Rev. B 50, 17953-17979 (1994).</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Reproducibility in density functional theory calculations of solids</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lejaeghere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page">3000</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lejaeghere, K. et al. Reproducibility in density functional theory calculations of solids. Science 351, aad3000 (2016).</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perdew, J. P., Burke, K. &amp; Ernzerhof, M. Generalized gradient approximation made simple. Phys. Rev. Lett. 77, 3865-3868 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krieg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">154104</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grimme, S., Antony, J., Ehrlich, S. &amp; Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu. J. Chem. Phys. 132, 154104 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Effect of the damping function in dispersion corrected density functional theory</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goerigk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Chem</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1456" to="1465" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grimme, S., Ehrlich, S. &amp; Goerigk, L. Effect of the damping function in dispersion corrected density functional theory. J. Comput. Chem. 32, 1456-1465 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Structural properties of NaCl and KCl under pressure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Froyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. C</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="2623" to="2632" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Froyen, S. &amp; Cohen, M. Structural properties of NaCl and KCl under pressure. J. Phys. C 19, 2623-2632 (1986).</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Stress theorem in the determination of static equilibrium by the density functional method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Dacosta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kunc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. C</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3163" to="3172" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dacosta, P. G., Nielsen, O. H. &amp; Kunc, K. Stress theorem in the determination of static equilibrium by the density functional method. J. Phys. C 19, 3163-3172 (1986).</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Absence of large compressive stress on Si(111)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vanderbilt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="1456" to="1459" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vanderbilt, D. Absence of large compressive stress on Si(111). Phys. Rev. Lett. 59, 1456-1459 (1987).</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Finite basis set corrections to total energy pseudopotential calculations</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Payne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Condens. Matter</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="4395" to="4404" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Francis, G. P. &amp; Payne, M. C. Finite basis set corrections to total energy pseudopotential calculations. J. Phys. Condens. Matter 2, 4395-4404 (1990).</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Structure and compression of crystalline methane at high pressure and room temperature</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Hazen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Finger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="288" to="289" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hazen, R. M., Mao, H. K., Finger, L. W. &amp; Bell, P. M. Structure and compression of crystalline methane at high pressure and room temperature. Appl. Phys. Lett. 37, 288-289 (1980).</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Elastic properties of single crystal hydrogen sulfide: a Brillouin scattering study under high pressure-temperature</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page">125901</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, D. et al. Elastic properties of single crystal hydrogen sulfide: a Brillouin scattering study under high pressure-temperature. J. Appl. Phys. 124, 125901 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Hyperacoustic velocity of fluid hydrogen at high pressure</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pratesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ulivi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Loubeyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Le Toullec</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Condens. Matter</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="10059" to="10064" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pratesi, G., Ulivi, L., Barocchi, F., Loubeyre, P. &amp; Le Toullec, R. Hyperacoustic velocity of fluid hydrogen at high pressure. J. Phys. Condens. Matter 9, 10059-10064 (1997).</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Monte Carlo simulations of hydrogen adsorption in single-walled carbon nanotubes</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Darkrim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Levesque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="4981" to="4984" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Darkrim, F. &amp; Levesque, D. Monte Carlo simulations of hydrogen adsorption in single-walled carbon nanotubes. J. Chem. Phys. 109, 4981-4984 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">High-pressure compounds in methane-hydrogen mixtures</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Somayazulu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Finger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hemley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Mao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="1400" to="1402" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Somayazulu, M. S., Finger, L. W., Hemley, R. J. &amp; Mao, H. K. High-pressure compounds in methane-hydrogen mixtures. Science 271, 1400-1402 (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Properties and phase diagram of (H 2 S) 2 H 2</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">174511</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pace, E. J. et al. Properties and phase diagram of (H 2 S) 2 H 2 . Phys. Rev. B 101, 174511 (2020).</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The H 2 S dimer is hydrogen-bonded: direct confirmation from microwave spectroscopy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="15199" to="15203" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Das, A. et al. The H 2 S dimer is hydrogen-bonded: direct confirmation from microwave spectroscopy. Angew. Chem. Int. Ed. 57, 15199-15203 (2018).</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">A theory of water and ionic solution, with particular reference to hydrogen and hydroxyl ions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Bernal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="515" to="548" />
+			<date type="published" when="1933">1933</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bernal, J. D. &amp; Fowler, R. H. A theory of water and ionic solution, with particular reference to hydrogen and hydroxyl ions. J. Chem. Phys. 1, 515-548 (1933).</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

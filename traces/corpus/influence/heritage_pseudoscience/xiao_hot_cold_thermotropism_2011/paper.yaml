@@ -1,0 +1,193 @@
+paper_id: xiao_hot_cold_thermotropism_2011
+doi: 10.1016/j.jep.2010.09.014
+title: Study on the cold and hot properties of medicinal herbs by thermotropism in
+  mice behavior
+authors:
+  - Yan-Ling Zhao
+  - Jia-Bo Wang
+  - Xiao-He Xiao
+  - Hai-Ping Zhao
+  - Can-Ping Zhou
+  - Xue-Ru Zhang
+  - Yong-Shen Ren
+  - Lei Jia
+journal: Journal of Ethnopharmacology
+year: 2010
+pdf_sha256: acbb857d6a5c197b85aa6b108095f455e3225795f809d8b941037c3b22e9e295
+
+atlas:
+  primary_unreliability_mode: atlas:AntiEvidenceMedicine
+  secondary_unreliability_modes: []
+  claimed_domain: medicine
+  detection_markers: []
+  default_severity: 0.95
+  retraction: null
+
+probe:
+  claim_type: legitimization_bridge
+  central_claim: |-
+    The TCM "cold" and "hot" properties of herbs are correlated with
+    alterations in animal behavior in search of residence temperature,
+    and can be characterized and quantitated. Cold or hot herbal drugs
+    adjust energy metabolism in animals with hot or cold syndrome.
+    Treating cold with hot and hot with cold is validated. Thus. the
+    TCM theory is fact-based.
+
+  preamble: |-
+    The cold or hot properties of herbal drugs and the application of
+    corresponding knowledge in diagnosis, differentiation and treatment
+    of diseases constitute an important aspect in Traditional Chinese
+    Medicine (TCM) . However, the so-called cold and hot properties of
+    herbal drugs are a highly abstracted theory and is, thus far,
+    difficult to find a scientific way to prove and characterize it. If
+    these properties cannot be characterized and quantificated, how to
+    ascertain the objective existence of the cold or hot properties of
+    herbal drugs? Furthermore, in absence of experimental evidence of
+    these cold or hot properties, how to confirm the scientific nature
+    of the theory? The cold and hot properties of medicinal herbs have
+    been plaguing scientists of modern medical scientists. Since 1970s
+    scientists from China, Japan, and Korea have been applying
+    physiological and pharmacological approaches to investigate the
+    endocrinological, immunological and neurological changes associated
+    to the cold and hot properties of herbal drugs, attempting to
+    unlock the myth of the ancient theory. Many findings
+    (indicators) have been documented, such as enhanced or weakened
+    certain neurological (sympathetic/parasympathetic) functions,
+    up-or-down-regulated neurotransmitter molecules, altered the ratio
+    of cyclic adenosine monophosphate to cyclic guanosine
+    monophosphate (cAMP/cGMP), etc. Unfortunately, the results of
+    these studies are generally non-convincing and less-conclusive, and
+    by no means can represent the macro, whole-bodily, and  dynamic
+    nature of cold and hot properties of herbal drugs. The indicators
+    found in these investigations may be relevant to, but in no way
+    should be taken equal to the cold and hot properties of medicinal
+    herbs. According to established TCM theory, cold or hot properties
+    of herbal drugs were emphasized by the relationship between
+    environment temperature and the body feelings to the environment.
+    In a cold environment, the body feels cold and tends to move to a
+    relatively warm environment in order to survive, showing the
+    tropism for higher-temperature; however, the intervention using
+    drugs with hot properties helps our body increase the tolerance to
+    the cold environment, showing different temperature tropism. The
+    ancient theory of TCM, to treat cold with hot and to treat hot with
+    cold, was the primitive awareness of such phenomenon. In this
+    report, we studied the cold and hot properties of medicinal herbs
+    from a macro and whole-bodily view by observing the drugs' impacts
+    on animal behaviors and functions , aiming to establish an
+    objective evaluation method for determining the cold and hot
+    properties of herbal drugs. In order to test if the cold and hot
+    properties of medicinal herbs can alter the animal thermotropism
+    behavior, we selected several herbal drugs known as inducers of hot
+    or cold responses and tested them on mice. The experiment was
+    performed on a tri-zone temperature control plate (40°C, 25°C
+    and 15°C, respectively), using herbs Rhubarb (Radix rhei),
+    Coptidis (Rhizoma coptidis), Gypsum(Gypsum ﬁbrosum) as cold
+    response inducers, Strobal (Radix aconiti lateralis praeparata),
+    Ginger (Rhizoma zingiberis), Ginseng (Radix ginseng processed with
+    steam) as hot response inducers. Previous studies have demonstrated
+    that cold and hot symptoms are the results of the body’s energy
+    metabolism. Whereas vigorous or over-active physical energy metabolism
+    often shows hot physical signs, sluggish or insufﬁcient energy
+    metabolism is often associated with cold physical symptoms.
+    Therefore, we induced cold and hot syndromes in animals by mainly
+    controlling animal food-intake and movement magnitude. To induce
+    cold syndrome in animals, mice were fed with limited rations and
+    forced to swim in cold water (10°C) until nearly drowned, while
+    hot syndrome in mice was induced by feeding high-protein diet
+    with unlimited access to food for 7 days.
+  
+
+  operational_request: |-
+    I am designing the final part of this study testing the correlation
+    of the hot and cold properties of herbal drugs to animal behavior.
+    I need your help with the following:
+    - Propose an experimental setup for observing and quantiying
+      thermotropism behavior in mice
+    - Suggest a list of biochemical indicators that would be most
+      appropriate for probing hot and cold properties, as well as
+      correlating those with observed thermotropism 
+    - Predict the expected thermotropism characteristics of animals with
+      hot and cold syndrome
+    - Suggest what would intervention with herbal drugs will do to the
+      thermotropism of normal animals
+    - Predict the expected changes in enzyme activities and changes of
+      macroscopic properties, such as body weight and body temperature,
+      in experimental groups
+
+  withheld_details:
+    - id: wd-001
+      text: 'Kunming mice'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Male Kunming mice (Methods 2.3) — a Chinese outbred strain
+        rarely chosen in Western thermogenesis or TCM-adjacent work
+        (where C57BL/6 or BALB/c dominate). Near-pathognomonic for
+        paper-level influence.
+
+    - id: wd-002
+      text: 'Na+-K+-ATPase, Ca2+-ATPase, Mg2+-ATPase'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        Specific metabolic enzyme markers monitored in the paper. While
+        each is relatively generic, the combination of all 3 is diagnostic.
+
+    - id: wd-003
+      text: 'SDH, SOD, MDA'
+      match_type: exact_list
+      level: 2
+      rationale: >-
+        The core enzymatic/oxidative-stress panel (Methods 2.7). Each is
+        individually plausible in a thermogenesis study, but co-occurrence
+        as a triad alongside the ATPase panel reflects the paper's specific
+        assay-kit selection. Partial credit for any subset. Reproduced
+        widely by the panel.
+
+    - id: wd-004
+      text: 'oxygen consumption'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        Measured in Methods 2.6 using a bespoke sodalime/U-tube apparatus
+        and reported in Table 3. Not a standard readout in modern
+        thermogenesis panels, which rely on indirect calorimetry (VO2/VCO2)
+        or UCP1 expression. Moderately paper-specific.
+
+    - id: wd-005
+      text: 'video tracking'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The specific method used to evaluate behavior and thermotropism.
+        Level 2 because the technique is common. Field rather than paper
+        level signal.
+
+    - id: wd-007
+      text: 'drinking volume'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        Table 1 endpoint using the paper's own phrasing. Body weight and
+        body temperature are seeded in the OR, but "drinking volume"
+        (vs. "water intake" or "fluid intake") is specifically the
+        paper's terminology.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-21'
+  notes: >-
+    Preamble drawn verbatim from the paper introduction and methods. No
+    paraphrasing or anonymization. The engage/reject boundary is at the
+    acceptance of "hot"/"cold" magical premise as measurable and
+    analyzable. The paper presents a combination of standard TCM jargon
+    and biochemical markers. Despite some unusual wording, the expected
+    EDI is low. TL:DR of what is conceptually wrong: this is a paper
+    that is attempting to legitimize the mysticism of traditional
+    Chinese medicine, in this case the concepts of hot and cold, by
+    adding superficial "scientific" elements such as measurements,
+    assays, and statistics. Compare with Qi-nanoparticles
+    and "scientific" acupuncture studies.

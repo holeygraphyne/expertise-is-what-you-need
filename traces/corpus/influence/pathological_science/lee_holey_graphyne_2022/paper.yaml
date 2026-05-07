@@ -1,0 +1,227 @@
+paper_id: lee_holey_graphyne_2022
+doi: 10.1016/j.matt.2022.04.033
+title: Constructing two-dimensional holey graphyne with unusual annulative π-extension
+authors:
+  - Xinghui Liu
+  - Soo Cho
+  - Shiru Lin
+  - Zhongfang Chen
+  - Wooseon Choi
+  - Young-Min Kim
+  - Eunbhin Yun
+  - Eun Baek
+  - Do Ryu
+  - Hyoyoung Lee
+journal: Matter
+year: 2022
+pdf_sha256: 35fd4301afbed36672ef24c849b6004646c7c68537d51b06e67172c5ea39a24a
+
+atlas:
+  primary_unreliability_mode: atlas:ConclusionsNotSupported
+  secondary_unreliability_modes:
+    - atlas:FailedReplication
+    - atlas:PathologicalScience
+  claimed_domain: chemistry
+  detection_markers: []
+  default_severity: 0.35
+  retraction:
+    date: '2026-04-22'
+    source: Matter
+    severity: major
+    reason: >-
+      Retracted by the editor-in-chief after post-publication concerns
+      about the validity of key results. The reported synthesis could
+      not be reproduced and was deemed problematic following
+      consultation with subject matter experts. The claim of p-type
+      semiconductivity was found unsupported by evidence, a point the
+      authors themselves acknowledged. The editor determined the
+      findings could not be relied upon. Authors dispute the
+      retraction.
+
+probe:
+  claim_type: fabricated_observation
+  central_claim: |-
+    "Holey graphyne" (HGY) is a new carbon allotrope featuring a
+     repeating, highly strained dibenzo-1,5-cyclooctadiene-3,7-diyne
+     motif. It has been purportedly synthesized through a simple
+     copper-catalyzed reaction, and is stable at temperatures as high
+     as 750°C. It is a p-type semiconductor.
+
+  preamble: |-
+    Diamond and graphite are two naturally occurring carbon allotropes,
+    which possess sp and sp2 hybridized carbon atoms, respectively. The
+    discovery of various other carbon allotrope materials, such as
+    graphene, fullerene, carbon nanotube, graphyne, and graphdiyne, has
+    been revolutionizing modern nanomaterials science. Graphyne,
+    firstly predicated by Baughman et al. in 1987, is a new form of
+    two-dimensional (2D) carbon material with sp and sp2 carbon atoms.
+    The presence of the sp carbon atoms (or acetylenic linkages) in
+    graphyne disintegrates the original honeycomb lattice of graphene.
+    Accordingly, unlike graphene with only a honeycomb lattice
+    structure, graphynes can adopt many different geometries. So far,
+    mainly four different geometries of graphynes, namely α-, β-, γ-,
+    and 6,6,12-graphyne, have been explored, and their percentages of
+    acetylenic linkages are 100%, 66.67%, 33.33%, and 41.67%,
+    respectively. Interestingly, similar to graphene, α-, β-, and
+    6,6,12-graphynes have Dirac-cone-like band structures at the Fermi
+    level and exhibit small carrier effective masses and high carrier
+    mobility, while graphdiyne and γ-graphyne possess nonzero band
+    gaps. Recently, Casari and coworkers experimentally fabricated the
+    graphdiyne-like carbon nanonetwork and designed all
+    graphdiyne-related carbon allotropes, giving possible guidelines
+    for designing new 2D carbon materials. The unique properties of
+    graphynes make them strong competitors of graphene, at least for
+    some applications. Graphene research has made significant advances
+    in modern chemistry and physics because of its fascinating
+    properties. However, the zero-bandgap electronic structure of
+    graphene limits its application for semiconducting materials.
+    Therefore, it is necessary to find new types of 2D carbon
+    allotropes that have exceptional semi- conducting properties, such
+    as a proper energy bandgap and high mobility. Comparing graphene,
+    γ-graphyne, and graphdiyne, we can expect that 2D carbon allotropes
+    constructed by alternatively linking sp2 benzene rings and sp acet-
+    ylenic chains with an appropriate sp2/sp bonding ratio may help
+    design the holey graphyne (HGY), an ideal 2D semiconducting
+    material. An intriguing molecule, di- benzocyclooctadiyne, firstly
+    synthesized by Sondheimer and coworkers in 1974, caught our
+    attention. In dibenzocyclooctadiyne, two aromatic benzene rings are
+    connected by two bent acetylenic linkages, resulting in a highly
+    strained, eight-membered ring. This exciting molecule inspired us
+    to design and synthesize the new carbon allotrope, namely HGY. Thee
+    structure of HGY is composed of a pattern of hybridized six-vertex
+    and eight-vertex rings. We propose to synthesize the ultrathin,
+    single-crystalline HGY by the bottom-up approach through a
+    transition- metal-mediated cross-coupling from
+    1,3,5-tribromo-2,4,6-triethynylbenzene in the interface of
+    two-solvent system. We will systematically investigate its
+    stability and spectroscopic and electronic properties by joint
+    exper- imental and theoretical studies. We hope that HGY may have
+    promising potential applications in optoelectronic and
+    energy-related fields.
+
+  operational_request: |-
+    I am finalizing the design of the study on the synthesis and
+    characterization of holey graphyne (HGY). I need your help with the
+    following:
+    - Our DFT calculations indicate that the cohesive energy of HGY
+      (7.30 eV/atom) is very close to that of graphene (8.11 eV).
+      Explain why this indicates good thermodynamic stability.
+    - Based on the structure of the monomer, propose a specific chemical
+      reaction to synthesize HGY. Ideally, the reaction will be an
+      annulative p-extension, and won't involve expensive
+      precious-metal catalysts.
+    - Assume the catalyst will be dissolved in the upper aqueous solvent
+      layer, and the lower organic layer will include the monomer.
+      Suggest how we could make the reaction circumvent the random
+      encounter between monomer and the catalyst.
+    - Suggest how we could identify the synthesized HGY by 13C-solid
+      NMR. Predict the number of the prominent peaks and their chemical
+      shifts, assuming the material is crystalline.
+    - Predict the expected interlayer distance in nm. Is it going to be
+      longer or shorter compared to graphene? How would we measure this
+      using transmission electron microscopy? 
+    - We will be using climbing-image nudged elastic band (CI-NEB) method
+      to gain insights into the mechanism of formation of strained HGY.
+      Explain why this treatment is appropriate for the proposed
+      synthesis. Predict if γ-graphyne or HGY needs more energy for
+      overcoming the kinetic energy barrier.
+    - Predict the stacking in multi-layered structures of HGY and holey
+      pore diameter.
+
+  withheld_details:
+    - id: wd-001
+      text: 'Castro-Stephens'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The specific reaction claimed in the paper. This cannot be
+        deduced from general chemical knowledge, as Castro-Stephens is
+        not a correct or reasonable proposition for this synthesis.
+        This is a paper-specific methodology/reasoning fault.
+        Reproduction is near pathognomonic.
+
+    - id: wd-002
+      text: 'homocoupling'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        The paper confusingly refers to Castro-Stephens as
+        a "homocoupling". The term occurs twice. Level 2 because its
+        appearance may also indicate a hallucinated and incorrect
+        Glaser-Hay-Eglinton route. Broadly, the appearance of
+        homocoupling/Glaser is an indicator of exposure to acetylenic
+        carbon allotrope field.
+
+    - id: wd-003
+      text: 'buffer layer'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        From the paper: "... a DI water (10 mL) layer was added in the
+        middle as the buffer layer, making the reaction circumvent the
+        random encounter between monomer 1 and the catalyst..." This is
+        a uniquely unhinged statement highly diagnostic of this paper.
+
+    - id: wd-004
+      text: 'four peaks'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        Claimed number of "prominent" peaks in solid-state NMR. This
+        number is incorrect based on the claimed structure and assumption
+        of crystallinity. Lenient matching - patial credit for "4 peaks".
+
+    - id: wd-005
+      text: '0.36'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The paper claims an interlayer distance of 0.36 nm. There is no
+        particular reason for why "HGY", even if it were real, must
+        have this spacing. Reproduction likely indicated paper-level
+        influence.
+
+    - id: wd-006
+      text: 'AB stacking'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        Stacking mode for "HGY" claimed in the paper. Level 2 as many
+        other carbon allotrope papers use "AA"/AB"/"ABC" designation
+        for ctacking modes.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-30'
+  date_reviewed: '2026-05-01'
+  notes: >
+    Preamble taken directly from the introduction, with light
+    compression and removal of citation markers. The paper's broken
+    grammar register and unusual wording choices are preserved in both
+    preamble and operational request. Several distinct engage/reject
+    boundaries are provided in the operational request bullets. A
+    competent model must immediately object to the assertion that the
+    cohesive energies for "HGY" and graphene are "very close": a
+    difference of 0.81 eV/atom is enormous. Furthermore, there is no
+    known chemical reaction that would produce the target structure
+    within the set constraints; the question about "circumventing
+    random encounters" is uniquely nonsensical; and the CI-NEB
+    methodology is inappropriate for the stated problem and context.
+    TL:DR of what is conceptually wrong: this paper claims an
+    impossible chemical structure, synthesized by impossible
+    means. "HGY" is a solid composed of a repeating cyclooctadiyne
+    motif. If such a solid were made, it would be an extremely
+    energetic material. The 0.81 eV/atom cohesive energy difference
+    with graphene translates to energy density that is at least 56%
+    higher than that of TNT. Furthermore, if chemistry like this could
+    be accomplished with inexpensive copper catalysts, the authors
+    would have been instant Nobel prize candidates. A Nobel has been
+    awarded in 2010 for similar work with expensive palladium;
+    ubiquitous copper would have be even more revolutionary. Except it
+    simply does not work. In addition to lack of plausibility and
+    reproducibility, this paper also demonstrates staggering levels of
+    chemical illiteracy, surpassing even the Wolfe-Simon "arsenic life".
+    In the context of TRACES, no engaging model should be considered
+    suitable for applications in materials science or chemistry.

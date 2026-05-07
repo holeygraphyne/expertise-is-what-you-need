@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Human Biofield Therapy and the Growth of Mouse Lung Carcinoma</title>
+				<funder>
+					<orgName type="full">Black Beret Life Sciences</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Marie Bosarge</orgName>
+				</funder>
+				<funder ref="#_BFnJjb4">
+					<orgName type="full">NIH/NCI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-01">2019-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Peiying</forename><surname>Yang</surname></persName>
+							<email>pyang@mdanderson.org</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Yan</forename><surname>Jiang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Patrea</forename><forename type="middle">R</forename><surname>Rhea</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Tara</forename><forename type="middle">L</forename><surname>Conway</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Dongmei</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Mihai</forename><surname>Gagea</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sean</forename><forename type="middle">L</forename><surname>Harribance</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Sean Harribance Institute for Parapsychology, Inc. , Sugarland , TX , USA Department of Palliative, Rehabilitation, and Integrative Medicine ,</note>
+								<orgName type="department">Department of Palliative, Rehabilitation, and Integrative Medicine</orgName>
+								<orgName type="institution">Sean Harribance Institute for Parapsychology, Inc</orgName>
+								<address>
+									<settlement>Sugarland</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Lorenzo</forename><surname>Cohen</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> The University of Texas MD Anderson Cancer Center , Houston , TX , USA</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">The University of Texas MD Anderson Cancer Center , 1400 Pressler Street , Houston , TX 77030 , USA.</note>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<addrLine>1400 Pressler Street</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Human Biofield Therapy and the Growth of Mouse Lung Carcinoma</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Integrative Cancer Therapies</title>
+						<title level="j" type="abbrev">Integr Cancer Ther</title>
+						<idno type="ISSN">1534-7354</idno>
+						<idno type="eISSN">1552-695X</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">18</biblScope>
+							<date type="published" when="2019-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">ADB222E3022DA4CEDA33260367C2C1B0</idno>
+					<idno type="DOI">10.1177/1534735419840797</idno>
+					<note type="submission">Submitted October 16, 2018; revised February 25, 2019; accepted March 7, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>biofield</term>
+					<term>Lewis lung carcinoma</term>
+					<term>PD-L1</term>
+					<term>immune modulation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>jective outcomes such as pain and anxiety as well as immunological outcomes. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> However, other studies have not found support for the clinical effects of biofield treatments. <ref type="bibr" target="#b2">3</ref> Although this research is generally supportive, there are multiple methodological challenges in conducting clinical trials in this area. What is less known is whether these biofields can be emitted into other organisms to create biological changes. Preclinical studies using cultured cells and animal models are less subject to experimental bias and have supported that these "biofield therapies" do in fact modify cellular function and tumor growth. <ref type="bibr" target="#b3">4</ref> Multiple studies by Yan and colleagues demonstrated that external qigong inhibited activation of Akt, extracellular signal-regulated kinase 1/2, and nuclear factor-κB; induced cell-cycle arrest and apoptosis; and modulated gene expression profiles in colorectal, prostate, and smallcell lung cancer cell lines. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> Similarly, a study by Gronowicz et al 4 demonstrated that Therapeutic Touch modulated DNA synthesis and human osteoblast mineralization in culture and inhibited metastasis and modulated immune responses</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Biofield therapies have gained popularity and are being explored as possible treatments for cancer. Clinical trials that have examined the effects of so-called biofield treatments such as Healing Touch, External Qigong, and Therapeutic Touch have demonstrated improvements in sub-in BALB/c mice injected with the 66c14 breast cancer cells. This study sought to test the proposition that exposure to Sean L. Harribance (SLH), a purported healer, <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref> could modulate cancer cell growth in vitro using human and mouse non-small cell lung cancer (NSCLC) cells and in vivo using a syngeneic mouse lung carcinoma model. The current study also aimed to identify the plausible biological mechanisms if any oncogenic changes were detected after the animals were exposed to SLH. We proposed the following null hypothesis for this study: Exposure to SLH would be unable to inhibit the growth of lung tumor cells in vitro and in vivo or affect other local or systemic oncogenic targets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>All experiments were performed in accordance with the relevant guidelines and regulations by The University of Texas MD Anderson Cancer Center. All assays and measurements were conducted by research staff blinded to group assignment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell Line</head><p>Human NSCLC A549 cells and mouse Lewis lung carcinoma (LLC) cells were purchased from the ATCC (Manassas, VA) and maintained in a humidified atmosphere containing 5% CO 2 at 37°C. The cells were cultured in Dulbecco's modified Eagle's medium (DMEM; Sigma, St Louis, MO) supplemented with 10% fetal bovine serum (FBS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mice</head><p>All animal experiments were approved by The University of Texas MD Anderson Cancer Center Institutional Animal Care and Use Committee. Male C57/BL6 mice were purchased from Harlan Laboratories (Livermore, CA), fed lab chow diet (Harlan Laboratories) and water ad libitum, and housed at the MD Anderson animal facility. The mice were acclimatized for 3 days prior to initiation of the study. LLC cells (1 × 10 6 ) were injected into the right flanks of the mice at 6 to 8 weeks of age. When the resulting tumors were palpable, the mice were randomly assigned to a control or experimental group. The mice were killed with CO 2 overdose after 5 to 6 experimental/control sessions or after their tumor sizes reached the allowable size limit (≤1.5 cm in diameter) of the guidelines of the MD Anderson Institutional Animal Care and Use Committee. Tumor volume was measured every other day and calculated accordingly. <ref type="bibr" target="#b12">13</ref> At the end of the study, tumors were rapidly collected from the mice, weighed, and flash-frozen in liquid nitrogen or fixed in formalin for further analysis. Terminal blood was collected via cardiac puncture, and serum was prepared and stored at -80°C for cytokine analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure</head><p>SLH produced the experimental condition (Ex exposure). SLH has psychic abilities and more recently has been considered a healer. He has been documented to accurately infer the memories and experiences of people <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> and his accuracy has been correlated with specific neurological anomalies within his right prefrontal cortex as measured by QEEG and single-photon emission computerized tomography. What has been called the "Harribance Configuration" is a brief gamma (30-40 Hz) pattern over the right temporofrontal regions. Spectral analyses showed a major power enhancement of around 20 Hz over the right frontocentral and temporal lobe. <ref type="bibr" target="#b10">11</ref> Low-resolution electromagnetic tomography (sLORETA) revealed increased activation was also localized within the right temporal lobe and extended into the adjacent insula. SLH has been studied by numerous laboratories for over 20 years in various conditions. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Exposure</head><p>Lorenzo Cohen (LC) served for the control condition. The objective was to exactly mimic SLH's movements when working with the cell and animal experiments. This would control for exposure to a human and movement. He also ensured the integrity of what was going on in the room during all experimental procedures. LC is a research psychologist who has conducted extensive research in psycho-oncology and studied mind-body practices such as yoga, meditation, tai chi, and qigong (both external and internal qigong practices). Although a yoga practitioner himself, during the exposure sessions when he was observing and mimicking SLH's movements he did not focus any thought toward the cells/animals and simply replicated SLH's movements.</p><p>For in vitro studies, A549 cells (1 × 10 5 ) were plated overnight followed by one time only exposure either to Ex (SHL) or control (LC) conditions for 30 minutes at room temperature. For the in vivo studies, mice were exposed to either Ex or control conditions for 30 minutes every 2 to 3 days for 5 to 6 exposure sessions (approximately 2-3 weeks) or after the tumor size reached the allowable size limit. For both the in vitro and in vivo studies, SLH and LC were in the same room approximately 15 feet apart. We note that this distance is a bit close and that the purported electromagnetic fields (EMFs) or other emissions from SLH might influence the cells and animals in the control conditions. Yet this effect would ultimately support the null hypothesis by decreasing any group differences. For all experiments and all sessions, about half the time SLH either held both hands over the plated cells/experimental cages housing the mice or moved his right arm over the plates/cages. The other half of the time the plates/cages were kept on a shelf so that SLH could place his forehead near them as it was previously shown that the EMF activity was especially high around his right prefrontal cortex. <ref type="bibr" target="#b13">14</ref> LC watched SLH the whole time and mimicked all of his movements.</p><p>Cells exposed to Ex and control conditions were housed in separate incubators. Similarly, the mice in the different groups were kept in separated racks in the housing facility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell Viability</head><p>The effect of the Ex and control exposure on the growth of A549 and LLC cells was assessed by the PrestoBlue or MTT assay. A549 and LLC cells were seeded at a density of 10 000 per well in 96-well plates in DMEM medium and incubated for 24 hours. Following incubation, cells were exposed to the Ex or control conditions for 30 minutes at room temperature. They were then transferred back to incubator and incubated for additional 3 hours. The cell viability was measured right after the exposure conditions (approximately 30 minutes) or 3 hours using either PrestoBlue or MTT reagent according to the manufacturer's instructions. For cell viability measurement with PrestoBlue, briefly, 20 µL of the PrestoBlue reagent was added to each well containing 200 µL media. After 30 minutes of incubation at 37°C, the fluorescence was read at a wavelength of 590 (Ex/Em: 560/590 nm) using a V-Max Micro-plate Reader by Molecular Devices, Inc (Sunnyvale, CA). For the cell viability measured with the MTT assay, 100 µL MTT (1 mg/mL) was added to each well and plates were incubated at 37°C for 2 hours. The stained cells were then dissolved in DMSO (dimethyl sulfoxide) and the absorbance of the solution was determined at 570 nm by a V-Max Micro-plate Reader (Molecular Devices, Inc). Experiments were repeated at least 2 times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mitochondrial Staining</head><p>Cells were plated in chamber slides at a concentration of 4 × 10 4 per well 24 hours prior to exposure. After Ex and control exposure, live cells were stained with MitoTracker Mitochondrion-Selective Probe (M7512 MitoTracker Red CMXRos, Thermofisher/Invitrogen) at a concentration of 500 nM diluted in phosphate-buffered saline (PBS) for 30 minutes. Stained cells were washed with PBS and fixed in 10% formalin for 30 minutes. Stained cells were then mounted with ProLong Gold Antifade and visualized on the same day using fluorescent microscopy at Excitation 567 nm and Emission at 599 nm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immunoblotting</head><p>Cytosolic extracts were prepared from A549 cells or tumor tissues exposed to Ex or control conditions. Briefly, cells were washed in PBS and then resuspended in 50 µL of lysis buffer (20 mM HEPES [N-2-hydroxyethylpiperazine-N′-2ethanesulfonic acid], pH 7.5, 10 mM KCl, 1.5 mM MgCl 2 , 1 mM EDTA [ethylenediaminetetraacetic acid], and 1 mM dithiothreitol [DTT]). After sonication on ice for 3 minutes with a sonicator 3000 (Misonex Inc, Farmingdale, NY), the protein concentrations were determined by the Bradford assay. Immunoblot assays were performed as per standard procedure. Briefly, equal amounts (15 µg) of protein were subjected to sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) followed by transfer to PVDF membranes. Membranes were probed with the antibodies of pAkt (No. 9271, Cell Signaling, Danvers, MA), pERK (No. 9102S, Cell Signaling), PD-L1 (No. MAB90781, R&amp;D System), and β-actin (No. A5441, Sigma, St Louis, MO). Secondary antibodies were chosen depending on the detection method. For the detection of protein using LICOR Odyssey scanner (LI-COR Biosciences, Lincoln, NE), membrane was incubated in IRDye Secondary antibody (1:20 000, No. 925-32211, LI-COR) at room temperature for 1 hour followed by 3 washes with TBS-T. Membrane was then imaged using LI-COR Odyssey scanner and bands were quantified with Image Studio Lite software. Alternatively, secondary antibodies consisting of horseradish peroxidase (HRP)-conjugated goat anti-mouse IgG and anti-rabbit IgG (1:500 vol/vol) were purchased from Santa Cruz (Santa Cruz, CA). The membranes were visualized using SuperSignal substrate (Pierce ECL Plus, Thermo Fisher Scientific). β-actin was detected for normalization of results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immunohistochemistry</head><p>Formalin-fixed, paraffin-embedded tissue sections were placed on slides and subjected to immunohistochemical staining for anti-Ki67, cleaved caspase-3, CD68, and pS6 antibodies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reverse-Phase Proteomic Array</head><p>Frozen tumor lysates were subjected to reverse-phase proteomic array (RPPA) analysis by the Functional Proteomics Reverse Phase Protein Array Core at MD Anderson. Briefly, tumors were pulverized in liquid nitrogen and then suspended in ice-cold lysis buffer (1% Triton X-100, 50 mM HEPES, pH 7.4, 150 mM sodium chloride, 1.5 mM magnesium chloride, 1 mM EDTA, 100 mM sodium fluoride, 10 mM sodium pyrophosphate, and 1 mM sodium orthovanadate, 10% glycerol) supplemented with proteinase inhibitors (Roche Applied Science, Madison, WI). The tumors were then diluted and subjected to RPPA analysis as described previously. <ref type="bibr" target="#b14">15</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inflammation and Immune Profiling</head><p>Serum chemokine and cytokine levels were measured using customized Multiplex Assay Kits (Meso Scale Discovery, Rockville, MD). Tumor and spleen immune cell profiling was performed using a published method. <ref type="bibr" target="#b15">16</ref> Briefly, spleen and tumor tissues were collected and placed in plain 1× HBSS. For isolation of lymphocytes from spleens and tumors, protocols described by Dorta et al were used. <ref type="bibr" target="#b15">16</ref> In each sample, 1 × 10 6 cells were used for staining for immune cell surface markers. Cells were then incubated at 4°C for 1 hour with antibodies against mouse CD4 (BioLegend, San Diego, CA), CD3 (BD Biosciences, San Jose, CA), CD8 (BioLegend), CD19 (BD Biosciences), and CD25 (BioLegend). Subsequently, the cells were washed twice with PBS containing 2% FBS and then fixed and permeabilized with FoxP3 Fix/Perm Kit (ThermoFisher Scientific, Waltham, MA). Then cells were washed twice with wash buffer and incubated with intracellular markers: Foxp3 (eBioscience, San Diego, CA), IFN-γ (BioLegend) for 1 hour at 4°C. Antibodies were diluted according to the manufacturers' recommendations. All the samples were collected on a BD LSRFORTESSA X-20 (BD Biosciences) and analyzed using FlowJo software (FlowJo v.10, Ashland, OR).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The Prism software program (GraphPad Software, San Diego, CA) was used to perform statistical tests (t test or analysis of variance). P values less than .05 were considered statistically significant. All data are presented as means ± standard error of the mean.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure Reduced the Viability of Human and Mouse NSCLC Cells by Reduction of PI3K/Akt Pathway</head><p>To investigate the effects of the experimental exposure on cell growth in NSCLC, both human and mouse NSCLC cells were exposed to the Ex and control conditions. As shown in Figure <ref type="figure" target="#fig_0">1A</ref>, the Ex exposure moderately, yet significantly, reduced cell viability in human NSCLC A549 cells by 15% to 20% (P &lt; .05) when the cell viability was measured soon after the completion of exposure (30 minutes) or 3 hours later. A comparable level of inhibitory effect on the growth of mouse NSCLC was also achieved when mouse LLC cells were exposed to the Ex condition compared with that of control (Figure <ref type="figure" target="#fig_0">1B</ref>). To confirm the effects of Ex exposure on the growth of A549 cells, the cells were subjected to mitotracker staining, which is regularly used to stain the mitochondria of the cells. There were fewer cells in the Ex exposure condition and fewer mitotrackerpositive cells (Figure <ref type="figure" target="#fig_0">1C-c</ref> and <ref type="figure">d</ref>) relative to the controls (Figure <ref type="figure" target="#fig_0">1C</ref>-a and b). Given past studies showed that biofield therapy can inhibit the proliferation of breast cancer cells through down regulation of PI3K/Akt and ERK pathways <ref type="bibr" target="#b4">5</ref> and to determine the molecular mechanisms associated with the Ex exposure-induced cell growth inhibition on A549 cells, we examined the expression of proteins associated with these 2 major oncogenic pathways, PI3K/ Akt and ERK pathways, in A549 cells. As shown in Figure <ref type="figure" target="#fig_0">1D</ref>, expression of phosphorylated Akt was suppressed in the A549 cells in a time-dependent manner in the Ex condition compared to that of the control condition. In contrast, there was only a trend showing increased expression of pERK measured soon after Ex exposure, but no changes or group differences in the abundance of phosphorylated ERK in A549 cells 3 hours after exposure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure Suppressed the Growth of LLC Tumor</head><p>To further investigate whether the growth inhibitory effect of Ex exposure in vitro lung cancer cells can be recapitulated in the in vivo setting, we conducted 3 experiments to examine the Ex exposure on tumor growth in the LLC mouse model. In 2 of the experiments, the Ex and control exposure was started either when a tumor had just become palpable or when its initial volume was no more than 20 mm 3 (experiments 1 and 2). In both of these experiments, we found that the mean tumor volume was marginally smaller (n = 5 per group; Figure <ref type="figure" target="#fig_1">2A</ref>) or significantly smaller (n = 9 per group; Figure <ref type="figure" target="#fig_1">2B</ref>) in the Ex exposure condition than in the control condition. Also, after pooling results from experiments 1 and 2, the average tumor volume (Figure <ref type="figure" target="#fig_1">2C</ref>) and tumor weight (Figure <ref type="figure" target="#fig_1">2D</ref>; n = 14) were significantly smaller in the pooled Ex exposure conditions than in the control conditions (P &lt; .05). In contrast, in the third experiment, in which the exposure to the 2 different conditions started after the initial tumor volume was 80 to 100 mm 3 , the effect on the tumor size was minimal (Figure <ref type="figure" target="#fig_1">2E</ref>; n = 4 per group).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure Inhibited the Proliferation of LLC Tumor</head><p>Histological examination of tumor sections revealed that the tumors in the mice in the Ex exposure condition had an average of 15% fewer Ki67-positive cells than did those in the control condition (Figure <ref type="figure" target="#fig_2">3A-C</ref>); however, the differences did not reach statistical significance. In line with this, the tumors derived from the Ex exposure condition had marginally increased cleaved caspase-3-positive cells than did the control condition tumors (Figure <ref type="figure" target="#fig_2">3D-F</ref>). Assessment of the phosphorylation of ribosomal protein S6 (pS6), a downstream target of mTOR/PI3K and a cytoplasmic cell proliferation marker, <ref type="bibr" target="#b16">17</ref> revealed the Ex exposure reduced pS6 expression by an average of 50% (Figure <ref type="figure" target="#fig_2">3G</ref>-I; P = .06). Interestingly, the pathologist who was blinded to group assignment noted that 33% of the mice in the control group had tumor infiltration of the surrounding tissues, whereas none of the mice in the experimental group had similar phenotypical infiltration (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure Altered Tumor Immunity and Inhibited Expression of PD-L1</head><p>A number of plausible mechanisms could account for the possible antitumor effects of the experimental exposure such as changing influx of Ca+ channels <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> and disturbance of energy metabolism via alteration of mitochondrial potential. <ref type="bibr" target="#b19">20</ref> However, those studies mainly focused specifically on changes in the tumor cells instead of interrogating the systemic effects of biofield therapies on the whole animal or on the stromal tissue surrounding tumors. To understand if the experimental exposure might reduce tumor growth by directly affecting tumor cells or changing the tumor microenvironment, we performed proteomic analysis of LLC samples using RPPA to identify any changes in the expression of proteins that regulate cell growth or cell signaling transduction or tumor cell immunity. While a number of signaling pathways were altered in the tumors from mice of the Ex exposure condition relative to the control condition (Supplementary Figure <ref type="figure" target="#fig_0">S1</ref>, available online), the protein with the most noticeable change in expression among the 300 proteins examined was the checkpoint protein PD-L1. The relative level of expression of PD-L1 protein in the Ex exposure tumors was reduced by 78% compared with that of the control tumors (Figure <ref type="figure" target="#fig_3">4A</ref>). Although the difference did not reach statistical significance, the reduction of PD-L1 protein expression in the Ex exposure tumors were further confirmed using Western blotting (Figure <ref type="figure" target="#fig_3">4B</ref> and <ref type="figure">C</ref>). We also observed a 71% reduction in 3-phosphoinositide-dependent protein kinase-1 (PDK1) in the tumor tissue from the Ex group compared with that of control (Figure <ref type="figure" target="#fig_0">S1A</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Exposure Reduced Inflammation in LLC Tumor-Bearing Mice</head><p>Examination of serum cytokine levels revealed that expression of several inflammatory cytokines, such as interleukin 6 (IL-6), monocyte chemoattractant protein 1 (MCP-1), mouse keratinocyte-derived chemokine, and tumor necrosis factor-α, were downregulated in the Ex exposure mice but not in the control mice. In particular, the reduction of MCP-1 expression was statistically significant in the Ex exposure mice (P = .047; Figure <ref type="figure" target="#fig_3">4D</ref>).</p><p>To further examine whether the antitumor activity of the Ex exposure was associated with reduced inflammation and/or alteration of immune function, we examined the immune cell profiles in the tumors and spleens and the proportion of different immune cells and tumor-infiltrating cells. These analyses revealed that the tumors of the Ex exposure mice had lower numbers of regulatory T cells (approximately 84% lower; Figure <ref type="figure" target="#fig_4">5A</ref>) and a 2-fold increase in CD8+ cytotoxic T-cells relative to the control mice (Figure <ref type="figure" target="#fig_4">5B</ref>). Given that MCP-1 is predominantly secreted by monocytes and macrophages, <ref type="bibr" target="#b20">21</ref> especially tumor-infiltrating macrophages, we measured the expression of CD68 in the tumor tissue. The number of CD68+ macrophages was notably higher in the control tumors than in the Ex exposure tumors (P = .08; Figure <ref type="figure" target="#fig_4">5C-E</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Although biofield therapies delivered via a device or human have proven capable of slowing the growth of cancer cells in vitro, few, if any, demonstrated that this kind of therapy can slow down the growth of tumors in animal models. Here, we showed that exposure to the experimental condition versus a control condition was capable of reducing the viability of both human A549 and mouse LLC cells as well as slowing down the growth of LLC mouse syngeneic tumors. We noted down regulation of pAkt and pS6 protein expression, suggesting the possible antitumor effect of this kind of biofield treatment was mediated through reduced proliferation and downregulation of PI3K/mTOR signaling. This is consistent with previous studies demonstrating that biofield therapies reduced the growth of colon cancer cell growth through modulation of PI3K pathway. <ref type="bibr" target="#b4">5</ref> Additionally, the pathologist who was blinded to group assignment did not note any tumor infiltration of the surrounding tissues for mice in the experimental exposure group, whereas one third of the controls had tumor infiltration of the surrounding tissues. This suggests that the experimental exposure reduced the local invasiveness of primary tumors. This is consistent with a previous study showing that Therapeutic Touch exposure led to less metastatic potential of lymph nodes in a breast cancer animal model. <ref type="bibr" target="#b2">3</ref> Although previous studies have shown biofield therapies modulate the immune system, <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b21">22</ref> we showed for the first time the potential mechanisms of the antitumor activity of the experimental exposure were at least partially mediated through modification of immune function and anti-inflammatory activity in our mouse lung tumor model. The one experiment where we found no differences between the experimental and control was for the in vivo study where the exposures were started once the tumor volume was 80 to 100 mm 3 , disallowing rejection of the null hypothesis for this condition. However, overall our findings suggest rejection of the null hypothesis, as there were significant differences between the experimental and control conditions in both in vivo and in vitro models and in the exploration of the purported biological mediators.</p><p>Various mechanisms of action have been proposed for the effects of biofield therapies on the growth of tumor cells. For example, external Qigong was capable of inhibiting the growth of prostate, breast, and colon cancer cells by suppressing pAkt, pERK, NF-κB, and glucose metabolism. <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> This is consistent with our findings where we found that the experimental exposure resulted in reductions in expression of pAKT in A549 cells and in pS6 from the LLC tumor tissues. Additionally, we also observed a 71% reduction in PDK1 protein in the tumor tissue from the experimental exposure group compared with that of control (Figure <ref type="figure" target="#fig_0">S1</ref>). PDK1 is responsible for phosphorylating Akt at Theronine 308 position when stimulated by insulin or growth factors. <ref type="bibr" target="#b22">23</ref> Together, these data further suggest that the tumor growth inhibition seen in the experimental exposure group may in part be due to downregulation of the PI3K/mTOR pathway.</p><p>Additionally, Gronowicz et al showed that Therapeutic Touch reduced the metastatic potential of breast cancer and significantly decreased the amount of IL1α, IL1β, MIP, and MIG in the serum and CD11b+ macrophages in popliteal lymph nodes of mice injected with breast cancer 666c14 cells. <ref type="bibr" target="#b2">3</ref> In our study, we showed that the experimental exposure significantly inhibited the growth of LLC tumors when the exposure was started in the mice carrying just palpable or small tumors. In contrast, limited impact on the tumor growth was observed in mice when the exposure was started after more substantial tumor growth. Given that immune therapy generally works more efficiently in tumors that contain high numbers of immune infiltrating cells, which is typically found with early-stage tumors, <ref type="bibr" target="#b23">24</ref> perhaps the antitumor effect of the experimental exposure was mediated through immune modification. Indeed, the experimental exposure significantly reduced the serum level of MCP-1, a chemokine known to be associated with increased proliferation and metastasis of various cancers including NSCLC, <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> and resulted in reductions in IL-6 and tumor necrosis factor. We also found that the experimental exposure marginally reduced tumor-infiltrating CD68+ macrophages (P = .08) and resulted in reductions in T-regs and PD-L1 expression. However, due to the small sample size, large variance in the control group, and some marginally statistically significant effects these findings should be interpreted with caution.</p><p>Our findings suggest that the experimental exposure not only directly acted on tumor cells but also moderately modulated the immune system in tumor-bearing mice. A strength of these series of studies was our ability to replicate the findings when the experimental exposure was started when the tumors were still small. In light of the association of MCP-1 abundance and tumor-infiltrating macrophages with stimulation of tumor growth and metastasis for various cancer types, including lung cancer, and that LLCs are known to be immunogenic, our findings suggest that in-depth mechanistic research is warranted to further study this type of treatment. However, until clinical evidence is supportive, patients should not be encouraged to seek out biofield therapies as a stand-alone treatment and should always seek conventional cancer treatments to manage their disease. <ref type="bibr" target="#b2">3</ref> There are several limitations in this study. Most important, we were not able to implement any measurements of electromagnetic fields or biophoton emissions from SLH. It is well accepted that the human body emits EMFs and these fields are intricately involved in maintenance of normal function of many organ systems and overall homeostasis. The EMFs emitted by the heart and brain are measured using electrocardiograms and electroencephalograms, respectively, among other technologies. A human EMF can also be measured in a number of other ways, including examination of the emission of biophotons from the body. <ref type="bibr" target="#b26">27</ref> EMFs are not unique to humans, or even mammals, and can be measured in all living organisms. <ref type="bibr" target="#b27">28</ref> It is interesting to note that EMFs are now being used in conventional cancer treatment settings. For example, the US Food and Drug Administration approved the use of low-frequency alternating electric fields for the treatment of refractory glioblastoma multiforme, and for treatment of other cancers. <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> EMFs also have modulated tumor growth, angiogenesis, and tumor necrosis factor in animals, <ref type="bibr" target="#b30">31</ref> as well as inhibited EpH4-MEK-Bcl2 breast tumor growth in mice via induction of apoptosis. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b31">32</ref> In addition, the electroencephalographic (EEG) pattern of SLH has been studied and recorded while he engaged in a session, <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b32">33</ref> and the EEG-based digitized EMF generated through his pattern has been applied to melanoma cells in vitro and found to decrease cell proliferation. <ref type="bibr" target="#b33">34</ref> Additionally, when researchers applied a similar EMF pattern to syngeneic C57b mice implanted with B16-BL6 melanoma cells, it resulted in smaller tumors than in sham-treated controls. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b18">19</ref> It is, therefore, logical to hypothesize that a plausible mechanism of the antitumor effect of the experimental exposure was mediated, at least in part, through a unique EMF pattern. However, this remains speculation, as the prior study examining the EEGbased digitized EMF <ref type="bibr" target="#b33">34</ref> was not based on the actual EMF emitted from SLH during a healing session and EMFs were not measured in the current studies. In order to better understand the mechanisms whereby humans may affect tumor growth, it is critical that future studies measure the purported emissions from the body and conduct experiments to manipulate said emissions (eg, blocking or enhancing experiments). In addition, other unmeasured mechanisms might also be part of the effect. For example, another plausible mechanism could be through modulation of the sympathetic nervous system (SNS). Exposure to a "healer" could result in a calming effect on the subject and possible reductions in SNS activation could lead to beneficial changes in the tumor microenvironment. <ref type="bibr" target="#b34">35</ref> Future studies should explore SNS activation and collect behavioral data. Another limitation was the close proximity of the experimental and control conditions. However, this would have resulted in an augmented effect in the control condition, diminishing the likelihood of observing statistically significant group differences. In the current case, close observation of the experimental condition outweighed the potential contamination of the groups. Future research should ensure a minimum of 20 feet between conditions. This study also only examined one in vivo lung cancer model. It is not clear if the current findings would generalize to other preclinical cancer models. Moreover, our trial was limited to testing the abilities of only one individual. Future research needs to include other people trained in biofield therapies and to explore the ability to train novice people. Therapeutic Touch, Healing Touch, Reiki, and Qigong all have formal training programs and this approach could be explored. Finally, it is of utmost importance for future studies to examine the EMF and biophotons emitted by SLH and others with the same purported ability to correlate the specific EMF configuration with the physiological changes in the target animal. Further characterization of mechanisms should also be explored by using EMF shielding material or by blocking specific pathways such as PI3k/mTOR pathway, MCP-1, and/or tumor-infiltrating macrophages. This would allow for more precision when isolating a specific mechanism of human emitted EMFs.</p><p>In summary, we showed for the first time that experimental exposure to a purported biofield therapy could potently suppress the growth of NSCLC cells and mouse LLC syngeneic tumor possibly by modulating immune system and inhibiting inflammation. Given the immune system plays a significant role in tumor growth and immune therapy has significantly prolonged the survival of patients with various cancers including lung cancer, a better understanding of whether human-emitted EMF or other biofield mechanisms can alter the immune system and tumor growth suppression deserves further investigation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The effect of the experimental exposure (Ex) on the growth of human and mouse lung cancer cells. (A) The viability of human NSCLC A549 cells (Ex or control) measured 30 minutes and 3 hours after the exposures (3 hours). The Ex exposure led to a significant reduction of cell viability in this particular cell line. Cell viability was detected by PrestoBlue staining. (B) The viability of mouse Lewis Lung Carcinoma (LLC) cells 3 hours after the cells were exposed to Ex or control conditions measured by MTT assay. (C) The staining of mitotracker dye in A549 cells in control (a and b) and Ex (c and d) conditions. (D) Expression of pAkt and pERK in A549 cells at the end of the exposure (0.5 hour) or 3 hours after the Ex or control (Con) exposure. Data are presented as means ± standard error from 2 replicated experiments.</figDesc><graphic coords="5,120.13,81.56,378.00,534.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The effect of the experimental exposure (Ex) on tumor growth in a mouse LLC model. (A) The tumor growth curves for Ex (n = 5) and control (n = 4) mice with LLC in which the exposures were initiated when tumors were barely palpable (experiment #1). (B) The tumor growth curves for Ex (n = 9) and control (n = 9) mice in which exposures were initiated when tumor volumes were 4 to 6 mm 3 (experiment #2). The red arrows indicate when the mice received the experimental and control exposure. (C) The final tumor volumes in the Ex and control exposure mice from experiment #2. (D) The mean tumor weights in Ex and control exposure groups from the pooled data from experiments 1 and 2 (n = 13-14/group). (E) The tumor growth curves for Ex (n = 4) and control (n = 4) mice in which the exposures were initiated when tumor volume reached about 80 to 100 mm 3 (experiment #3). The red arrow indicates when the mice received the experimental and control exposure. *P &lt; .05, ***P &lt; .005, for Ex exposure mice compared with controls. Data are presented as means ± standard error.</figDesc><graphic coords="6,84.25,84.16,420.00,241.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Immunohistochemical staining of LLC sections for proliferation and apoptotic markers. Stains of tumor sections obtained from (A) control and (B) experimental exposure (Ex) mice for the cell proliferation marker Ki67. (C) Quantification of Ki67-positive cells in the tumor sections. Stains of tumor sections obtained from (D) control and (E) Ex mice for cleaved caspase-3. The red arrow indicates apoptotic cells. (F) Quantification of cleaved caspase-3-positive cells in the tumor sections. Stains of tumor section obtained from (G) control and (H) Ex mice for pS6 protein. (I) Quantification of pS6 positive cells in the tumor sections.</figDesc><graphic coords="7,99.25,82.60,420.00,352.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. PD-L1 expression in LLCs and serum chemokine and cytokine levels. (A) PD-L1 expression in tumor samples measured by RPPA. (B) Western blot of PD-L1 expression in the tumors from study mice. (C) Quantitative data for the Western blot results. (D) The serum levels of cytokines and chemokines in the control and Ex exposure mice. MCP-1, monocyte chemoattractant protein-1; mKC, mouse keratinocyte-derived chemokine; TNF-α, tumor necrosis factor α; IFN-g, interferon-γ.</figDesc><graphic coords="8,84.25,82.24,420.00,263.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Immune modification in mice with LLC. (A) Tumors and (B) spleens of mice with LLC. The data suggest that experimental exposure (Ex) increased the number of CD8+ cytotoxic T cells while suppressing the number of regulatory T (Treg) cells, which are known to support the growth of tumor cells. Stains of tumor-infiltrating macrophages from (C) control and (D) Ex exposure mice for CD68. (E) Quantification of CD68+ cells in the tumors of the control and Ex exposure mice.</figDesc><graphic coords="9,99.25,82.71,420.00,303.84" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This project was supported by <rs type="funder">Black Beret Life Sciences</rs>, <rs type="funder">Marie Bosarge</rs>, and the <rs type="funder">NIH/NCI</rs> under Award Number <rs type="grantNumber">P30CA016672</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_BFnJjb4">
+					<idno type="grant-number">P30CA016672</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>PY and LC designed the research; YJ, PR, MG, DC, SLH, and LC performed the experiments; PY, YJ, and MG analyzed the data; YJ, LC, and YP wrote and reviewed the manuscript. All authors contributed to the manuscript at various stages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: SLH has a private practice in Sugar Land, Texas, and is the president of the Sean Harribance Institute for Parapsychology, Inc. He is also the honorary director of the Sean Harribance Institute for Parapsychology Research, a 501(c)(3) corporation.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Biofield research: a roundtable discussion of scientific and methodological issues</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hammerschlag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Baldwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Altern Complement Med</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1081" to="1086" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hammerschlag R, Jain S, Baldwin AL, et al. Biofield research: a roundtable discussion of scientific and methodological issues. J Altern Complement Med. 2012;18:1081-1086.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Clinical studies of biofield therapies: summary, methodological challenges, and recommendations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hammerschlag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Adv Health Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="58" to="66" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+	<note type="raw_reference">Jain S, Hammerschlag R, Mills P, et al. Clinical studies of bio- field therapies: summary, methodological challenges, and rec- ommendations. Glob Adv Health Med. 2015;4(suppl):58-66.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">External qigong therapy for women with breast cancer prior to surgery</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Integr Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="348" to="353" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cohen L, Chen Z, Arun B, et al. External qigong therapy for women with breast cancer prior to surgery. Integr Cancer Ther. 2010;9:348-353.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Therapeutic Touch has significant effects on mouse breast cancer metastasis and immune responses but not primary tumor size</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gronowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Secor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Jellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Kuhn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evid Based Complement Alternat Med</title>
+		<imprint>
+			<biblScope unit="volume">2015</biblScope>
+			<biblScope unit="page">926565</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gronowicz G, Secor ER Jr, Flynn JR, Jellison ER, Kuhn LT. Therapeutic Touch has significant effects on mouse breast cancer metastasis and immune responses but not pri- mary tumor size. Evid Based Complement Alternat Med. 2015;2015:926565.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">External Qi of Yan Xin Qigong inhibits activation of Akt, Erk1/2 and NF-kB and induces cell cycle arrest and apoptosis in colorectal cancer cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Physiol Biochem</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="113" to="122" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yan X, Shen H, Jiang H, Hu D, Wang J, Wu X. External Qi of Yan Xin Qigong inhibits activation of Akt, Erk1/2 and NF-kB and induces cell cycle arrest and apoptosis in colorectal can- cer cells. Cell Physiol Biochem. 2013;31:113-122.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">External Qi of Yan Xin Qigong Induces apoptosis and inhibits migration and invasion of estrogen-independent breast cancer cells through suppression of Akt/NF-κB signaling</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Physiol Biochem</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="263" to="270" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yan X, Shen H, Jiang H, et al. External Qi of Yan Xin Qigong Induces apoptosis and inhibits migration and invasion of estro- gen-independent breast cancer cells through suppression of Akt/NF-κB signaling. Cell Physiol Biochem. 2010;25:263-270.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">External Qi of Yan Xin Qigong induces cell death and gene expression alterations promoting apoptosis and inhibiting proliferation, migration and glucose metabolism in small-cell lung cancer cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dozmorov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cell Biochem</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yan X, Li F, Dozmorov I, et al. External Qi of Yan Xin Qigong induces cell death and gene expression alterations promoting apoptosis and inhibiting proliferation, migration and glucose metabolism in small-cell lung cancer cells. Mol Cell Biochem. 2012;363:245-255.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">External Qi of Yan Xin Qigong induces G2/M arrest and apoptosis of androgen-independent prostate cancer cells by inhibiting Akt and NF-kappa B pathways</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cell Biochem</title>
+		<imprint>
+			<biblScope unit="volume">310</biblScope>
+			<biblScope unit="page" from="227" to="234" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yan X, Shen H, Jiang H, et al. External Qi of Yan Xin Qigong induces G2/M arrest and apoptosis of androgen-independent prostate cancer cells by inhibiting Akt and NF-kappa B path- ways. Mol Cell Biochem. 2008;310:227-234.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Neurobehavioral and neurometabolic (SPECT) correlates of paranormal information: involvement of the right hemisphere and its sensitivity to weak complex magnetic fields</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Roll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Webster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Tiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="197" to="224" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Roll WG, Persinger MA, Webster DL, Tiller SG, Cook CM. Neurobehavioral and neurometabolic (SPECT) correlates of paranormal information: involvement of the right hemisphere and its sensitivity to weak complex magnetic fields. Int J Neurosci. 2002;112:197-224.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Protracted parahippocampal activity associated with Sean Harribance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Saroka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Yoga</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="140" to="145" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA, Saroka KS. Protracted parahippocampal activity associated with Sean Harribance. Int J Yoga. 2012;5: 140-145.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">On grouping of hits in some exceptional psi performers</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Amer Soc Psychical Res</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="101" to="142" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kelly EF. On grouping of hits in some exceptional psi per- formers. J Amer Soc Psychical Res. 1982;76:101-142.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Harribance effect as pervasive out-ofbody experiences: NeuroQuantal evidence with more precise measurements</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NeuroQuantology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="444" to="465" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Persinger MA. The Harribance effect as pervasive out-of- body experiences: NeuroQuantal evidence with more precise measurements. NeuroQuantology. 2010;8(4):444-465.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Na+/K+-ATPase α1 subunit, a novel therapeutic target for hepatocellular carcinoma</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="28183" to="28193" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhuang L, Xu L, Wang P, et al. Na+/K+-ATPase α1 sub- unit, a novel therapeutic target for hepatocellular carcinoma. Oncotarget. 2015;6:28183-28193.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Growth of injected melanoma cells is suppressed by whole body exposure to specific spatial-temporal configu-rations of weak intensity magnetic fields</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>St-Pierre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lafrenie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Biol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="79" to="88" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hu JH, St-Pierre LS, Buckner CA, Lafrenie RM, Persinger MA. Growth of injected melanoma cells is suppressed by whole body exposure to specific spatial-temporal configu- rations of weak intensity magnetic fields. Int J Radiat Biol. 2010;86:79-88.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Reverse phase protein array: validation of a novel proteomic technology and utility for analysis of primary leukemia specimens and hematopoietic stem cells</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2512" to="2521" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tibes R, Qiu Y, Lu Y, et al. Reverse phase protein array: vali- dation of a novel proteomic technology and utility for analysis of primary leukemia specimens and hematopoietic stem cells. Mol Cancer Ther. 2006;5:2512-2521.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Unique potential of 4-1BB agonist antibody to promote durable regression of HPV+ tumors when combined with an E6/E7 peptide vaccine</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bartkowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="5290" to="5299" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bartkowiak T, Singh S, Yang G, et al. Unique potential of 4-1BB agonist antibody to promote durable regression of HPV+ tumors when combined with an E6/E7 peptide vaccine. Proc Natl Acad Sci U S A. 2015;112:E5290-5299.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Highly multiplexed phenotypic imaging for cell proliferation studies</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cappella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gasparri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biomol Screen</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="145" to="157" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cappella P, Gasparri F. Highly multiplexed phenotypic imaging for cell proliferation studies. J Biomol Screen. 2014;19:145-157.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Electromagnetic fields act via activation of voltage-gated calcium channels to produce beneficial or adverse effects</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="958" to="965" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pall ML. Electromagnetic fields act via activation of volt- age-gated calcium channels to produce beneficial or adverse effects. J Cell Mol Med. 2013;17:958-965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Inhibition of cancer cell growth by exposure to a specific time-varying electromagnetic field involves T-type calcium channels</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Koren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Persinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lafrenie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">124136</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buckner CA, Buckner AL, Koren SA, Persinger MA, Lafrenie RM. Inhibition of cancer cell growth by exposure to a specific time-varying electromagnetic field involves T-type calcium channels. PLoS One. 2015;10:e0124136.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Biophysical insights into cancer transformation and treatment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pokorny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kobilkova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ScientificWorldJournal</title>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="page">195028</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pokorny J, Foletti A, Kobilkova J, et al. Biophysical insights into cancer transformation and treatment. ScientificWorldJournal. 2013;2013:195028.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Purification and amino acid analysis of two human monocyte chemoattractants produced by phytohemagglutininstimulated human blood mononuclear leukocytes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yoshimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Appella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Leonard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="1956" to="1962" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yoshimura T, Robinson EA, Tanaka S, Appella E, Leonard EJ. Purification and amino acid analysis of two human mono- cyte chemoattractants produced by phytohemagglutinin- stimulated human blood mononuclear leukocytes. J Immunol. 1989;142:1956-1962.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Human biofield therapy does not affect tumor size but modulates immune responses in a mouse model for breast cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gronowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Secor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Kuhn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Integr Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="389" to="399" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gronowicz G, Secor ER, Flynn JR, Kuhn LT. Human biofield therapy does not affect tumor size but modulates immune responses in a mouse model for breast cancer. J Integr Med. 2016;14:389-399.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">PDK1 promotes tumor growth and metastasis in a spontaneous breast cancer model</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncogene</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="3314" to="3323" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Du J, Yang M, Chen S, Li D, Chang Z, Dong Z. PDK1 pro- motes tumor growth and metastasis in a spontaneous breast cancer model. Oncogene. 2015;35:3314-3323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The importance of animal models in tumor immunity and immunotherapy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Budhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolchok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Merghoub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Genet Dev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="46" to="51" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Budhu S, Wolchok J, Merghoub T. The importance of animal models in tumor immunity and immunotherapy. Curr Opin Genet Dev. 2014;24:46-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Monocyte chemoattractant protein-1 blockade inhibits lung cancer tumor growth by altering macrophage phenotype and activating CD8+ cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">G</forename><surname>Fridlender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kapoor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Buchlis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Respir Cell Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="230" to="237" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fridlender ZG, Kapoor V, Buchlis G, et al. Monocyte che- moattractant protein-1 blockade inhibits lung cancer tumor growth by altering macrophage phenotype and activating CD8+ cells. Am J Respir Cell Mol Biol. 2011;44:230-237.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">CCL2 recruits inflammatory monocytes to facilitate breast-tumour metastasis</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Z</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">475</biblScope>
+			<biblScope unit="page" from="222" to="225" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Qian BZ, Li J, Zhang H, et al. CCL2 recruits inflammatory monocytes to facilitate breast-tumour metastasis. Nature. 2011;475:222-225.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Towards whole-body ultra-weak photon counting and imaging with a focus on human beings: a review</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Wijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Wijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Epa</forename><surname>Van Wietmarschen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Greef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jvd</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Photochem Photobiol B</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="39" to="46" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Wijk R, Van Wijk EPA, van Wietmarschen HA, Greef JVD. Towards whole-body ultra-weak photon counting and imaging with a focus on human beings: a review. J Photochem Photobiol B. 2014;139:39-46.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bioelectrodynamics in living organisms</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uesaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Eng Sci</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="67" to="92" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou SA, Uesaka M. Bioelectrodynamics in living organ- isms. Int J Eng Sci. 2006;44:67-92.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma: a randomized clinical trial</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Taillibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kanner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="2306" to="2316" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stupp R, Taillibert S, Kanner A, et al. Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temo- zolomide alone on survival in patients with glioblastoma: a randomized clinical trial. JAMA. 2017;318:2306-2316.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Tumor treating fields: a new approach to glioblastoma therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Aghi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="447" to="453" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rick J, Chandra A, Aghi MK. Tumor treating fields: a new approach to glioblastoma therapy. J Neurooncol. 2018;137: 447-453.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Low intensity and frequency pulsed electromagnetic fields selectively impair breast cancer cell viability</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crocetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frohlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Franco-Obregon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">e72944</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Crocetti S, Beyer C, Schade G, Egli M, Frohlich J, Franco- Obregon A. Low intensity and frequency pulsed electromag- netic fields selectively impair breast cancer cell viability. PLoS One. 2013;8:e72944.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of magnetic fields on tumor growth and viability</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tatarov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Panda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Petkov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp Med</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="339" to="345" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tatarov I, Panda A, Petkov D, et al. Effect of magnetic fields on tumor growth and viability. Comp Med. 2011;61: 339-345.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cerebral dynamics and discrete energy changes in the personal physical environment during intuitive-like states and perceptions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Dotta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Consciousness Exploration Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1179" to="1197" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hunter MD, Mulligan BP, Dotta BT, et al. Cerebral dynamics and discrete energy changes in the personal physical environment during intuitive-like states and perceptions. J Consciousness Exploration Res. 2010;1:1179-1197.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Digitized quantitative electroencephalographic patterns applied as magnetic fields inhibit melanoma cell proliferation in culture</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Karbowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Harribance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Buckner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci Lett</title>
+		<imprint>
+			<biblScope unit="volume">523</biblScope>
+			<biblScope unit="page" from="131" to="134" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Karbowski LM, Harribance SL, Buckner CA, et al. Digitized quantitative electroencephalographic patterns applied as magnetic fields inhibit melanoma cell proliferation in culture. Neurosci Lett. 2012;523:131-134.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Sympathetic nervous system regulation of the tumour microenvironment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Nagaraja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Lutgendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="563" to="572" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cole SW, Nagaraja AS, Lutgendorf SK, Green PA, Sood AK. Sympathetic nervous system regulation of the tumour micro- environment. Nat Rev Cancer. 2015;15:563-572.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

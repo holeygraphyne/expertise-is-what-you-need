@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Study on the cold and hot properties of medicinal herbs by thermotropism in mice behavior</title>
+				<funder ref="#_M6fkCSq #_sakhPPH">
+					<orgName type="full">National Basic Research Program</orgName>
+				</funder>
+				<funder ref="#_2ut42az">
+					<orgName type="full">National Science Foundation for Distinguished Young Scholars of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-09-29">29 September 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Yan-Ling</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jia-Bo</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Xiao-He</forename><surname>Xiao</surname></persName>
+							<email>xiaoxiaohe302@126.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hai-Ping</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Can-Ping</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xue-Ru</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yong-Shen</forename><surname>Ren</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lei</forename><surname>Jia</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">China Military Institute of Chinese Materia Medica , 302 Military Hospital , 100# the 4th Ring Road , Beijing 100039 , PR China</note>
+								<orgName type="institution">Military Institute of Chinese Materia Medica</orgName>
+								<address>
+									<addrLine>302 Military Hospital 100# the 4th Ring Road</addrLine>
+									<postCode>100039</postCode>
+									<settlement>Beijing</settlement>
+									<country>China PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Study on the cold and hot properties of medicinal herbs by thermotropism in mice behavior</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Ethnopharmacology</title>
+						<title level="j" type="abbrev">Journal of Ethnopharmacology</title>
+						<idno type="ISSN">0378-8741</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">133</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="980" to="985"/>
+							<date type="published" when="2010-09-29">29 September 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">92930E74B078C47EDD85F62F0037ADD5</idno>
+					<idno type="DOI">10.1016/j.jep.2010.09.014</idno>
+					<note type="submission">Received 7 May 2010 Received in revised form 18 September 2010 Accepted 20 September 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Medicinal herbs Cold and hot Property Thermotropism Mice</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It is a common sense that chewing a mint leaf causes a cold feeling, while masticating a piece of ginger root is associated with a hot sensation. The Traditional Chinese Medicine has termed this phenomenon as cold and hot properties of herbs and applied them in treating certain human diseases successfully for thousands of years. Here, we have developed an Animal Thermotropism Behavior Surveillance System, and by using this device and other approaches, we not only verified the existence of, but also characterized and quantitated the cold and hot properties of medicinal herbs in animal behavioral experiments. The results suggested that the hot and cold properties of herbal drugs indeed correlated with the alteration of animal behavior in search for residence temperature.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The cold or hot properties of herbal drugs and the application of corresponding knowledge in diagnosis, differentiation and treatment of diseases constitute an important aspect in Traditional Chinese Medicine (TCM) <ref type="bibr" target="#b11">(Lei and Zhang, 1998;</ref><ref type="bibr" target="#b5">Gao, 1992;</ref><ref type="bibr" target="#b21">Xiao, 2008;</ref><ref type="bibr" target="#b24">Zhou et al., 2004)</ref>. However, the so-called cold and hot properties of herbal drugs are a highly abstracted theory and is, thus far, difficult to find a scientific way to prove and characterize it. If these properties cannot be characterized and quantificated, how to ascertain the objective existence of the cold or hot properties of herbal drugs? Furthermore, in absence of experimental evidence of these cold or hot properties, how to confirm the scientific nature of the theory?</p><p>The cold and hot properties of medicinal herbs have been plaguing scientists of modern medical scientists. Since 1970s scientists from China, Japan, and Korea have been applying physiological and pharmacological approaches to investigate the endocrinological <ref type="bibr" target="#b14">(Ma, 1984)</ref>, immunological <ref type="bibr" target="#b17">(Qin et al., 2005)</ref> and neurological <ref type="bibr" target="#b12">(Li et al., 1999;</ref><ref type="bibr" target="#b3">Fu and Guo, 1996)</ref> changes associ-ated to the cold and hot properties of herbal drugs, attempting to unlock the myth of the ancient theory. Many findings (indicators) have been documented, such as enhanced or weakened certain neurological (sympathetic/parasympathetic) functions, upor down-regulated neurotransmitter molecules, altered the ratio of cyclic adenosine monophosphate to cyclic guanosine monophosphate (cAMP/cGMP) <ref type="bibr" target="#b4">(Fu et al., 1994)</ref>, etc. Unfortunately, the results of these studies are generally non-convincing and less-conclusive, and by no means can represent the macro, whole-bodily, and dynamic nature of cold and hot properties of herbal drugs. The indicators found in these investigations may be relevant to, but in no way should be taken equal to the cold and hot properties of medicinal herbs.</p><p>According to established TCM theory, cold or hot properties of herbal drugs were emphasized by the relationship between environment temperature and the body feelings to the environment. In a cold environment, the body feels cold and tends to move to a relatively warm environment in order to survive <ref type="bibr" target="#b8">(Gordon et al., 1998</ref><ref type="bibr" target="#b9">(Gordon et al., , 2000;;</ref><ref type="bibr" target="#b1">Campbell, 2008;</ref><ref type="bibr" target="#b13">Liu et al., 2004;</ref><ref type="bibr" target="#b20">Wang et al., 2005)</ref>, showing the tropism for higher-temperature; however, the intervention using drugs with hot properties helps our body increase the tolerance to the cold environment, showing different temperature tropism. The ancient theory of TCM, to treat cold with hot and to treat hot with cold, was the primitive awareness of such phenomenon. In this report, we studied the cold and hot properties of medicinal herbs from a macro and whole-bodily view by observing the drugs' impacts on animal behaviors and functions <ref type="bibr" target="#b0">(Andersen et al., 2006)</ref>, aiming to establish an objective evaluation method for determining the cold and hot properties of herbal drugs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Herbs and assay kits</head><p>Rhubarb (Radix rhei), Coptidis (Rhizoma coptidis), Strobal (Radix aconiti Lateralis praeparata), Ginger (Rhizoma zingiberis), Ginseng (Radix ginseng processed with steam) and Gypsum (Gypsum fibrosum) were bought from Beijing Tong-ren-tang Herbal Drug Store. All of them were identified by Prof. Xiao-he Xiao, a taxonomist at China Military Institute of Chinese Material Medica. The voucher specimens of these herbs were deposited in the institute. The herbs were grinded and decocted twice with water for 30 min each. The resulting extracts were decanted, filtered and evaporated to dryness under reduced pressure. This dried extract was re-dissolved and dispersed in warm water and then cooled for intragastric administration to mice. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">The animal thermotropism behavior surveillance system</head><p>In order to monitor the thermotropism behavior of animals, we have developed a device termed "Intelligent Monitoring System for Animal Thermotropism Behaviors". The system consists of three major parts, namely, the automatic temperature controlling unit (Fig. <ref type="figure" target="#fig_1">1a</ref>), remote monitoring unit (Fig. <ref type="figure" target="#fig_1">1b</ref>), and data processing unit (Fig. <ref type="figure" target="#fig_1">1c</ref>). By comparing the behavior differences between the normal animals and the drug-treated animals in search for own most-suitable resident temperature (either on tolerable hightemperature, optimal-temperature, or tolerable low-temperature plate), the impacts of cold and hot properties of herbal drugs on animals were then determined. The automatic temperature controlling unit controls two isolated but thermostatic plates, and across these plates there are six channels for animal free migration (Fig. <ref type="figure" target="#fig_2">2a</ref>). The device can survey the movements of six animals at same time, thus increases the repeatability and compatibility of data. Experimental animals were put on the temperaturecontrolling plate, and parameters such as the respective resident duration (s) of animals in different zones, the times of movement, can be observed, recorded, and documented in real-time through visual technology, i.e., surveillance using video camera, followed by real-time computer processing of artificial intelligence (Fig. <ref type="figure" target="#fig_2">2b</ref>). The positional coordinates (X, Y) of an animal was determined in each frame of image, and the trajectories of animals were acquired by joining of the coordinates of each animal in all frames Y t = f[X t ], followed by computer processing of the duration and frequency of each animal in different zones (Fig. <ref type="figure" target="#fig_2">2c</ref> and <ref type="figure">d</ref>). Video recognition software was based on Paulo's algorithms <ref type="bibr" target="#b15">(Paulo et al., 2007)</ref>, and data analysis software was written using Visual Basic 6.0 language.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Animals and drug administration</head><p>Male Kunming mice (license no.: SCXK2000-0010) of approximately 18 g were obtained from National Institute for the Control of Pharmaceutical and Biological Products of China. The mice were randomly divided into groups and administered intragastrically with the herbal extracts from Rhubarb (Radix rhei) 20 g kg -1 , Strobal  (Radix aconiti lateralis praeparata) 20 g kg -1 , Ginseng (Radix ginseng processed with steam) 35 g kg -1 , Coptidis (Rhizoma coptidis) 5 g kg -1 , Ginger (Rhizoma zingiberis) 6 g kg -1 , Gypsum (Gypsum fibrosum) 3.4 g kg -1 respectively, which were equivalent to human dose of 2.21 g kg -1 Rhubarb, 2.21 g kg -1 Strobal, 3.87 g kg -1 Ginseng, 0.55 g kg -1 Coptidis, 0.66 g kg -1 Ginger, 0.38 g kg -1 Gypsum. The animals were not fast prior to administration of extracts.</p><p>All experiments using rodents were performed in accordance with the applicable guidelines and regulations. All mice received humane care in compliance with the institutional animal care guidelines approved by the Ministry of Science and Technology of China.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Effects of Chinese herbs on thermotropism behavior of normal animals</head><p>In order to test if the cold and hot properties of medicinal herbs can alter the animal thermotropism behavior, we selected several herbal drugs known as inducers of hot or cold responses and tested them on mice. The experiment was performed on a tri-zone temperature control plate (40 • C, 25 • C and 15 • C, respectively), using herbs Rhubarb (Radix rhei), Coptidis (Rhizoma coptidis), Gypsum (Gypsum fibrosum) as cold response inducers, Strobal (Radix aconiti lateralis praeparata), Ginger (Rhizoma zingiberis), Ginseng (Radix ginseng processed with steam) as hot response inducers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Effects of Chinese herbs on thermotropism behavior of model animals</head><p>Previous studies have demonstrated that cold and hot symptoms are the results of the body's energy metabolism <ref type="bibr">(Zhao et al., 2009;</ref><ref type="bibr" target="#b7">Gordon, 1997;</ref><ref type="bibr" target="#b2">Carlisle et al., 1995)</ref>. Whereas vigorous or over-active physical energy metabolism often shows hot physical signs, sluggish or insufficient energy metabolism is often associated with cold physical symptoms. Therefore, we induced cold and hot syndromes in animals by mainly controlling animal food-intake and movement magnitude. To induce cold syndrome in animals, mice were fed with limited rations and forced to swim in cold water (10 • C) until nearly drowned, while hot syndrome in mice was induced by feeding high-protein diet with unlimited access to food for 7 days. At the same time, the biological markers related to energy metabolism such as adenosine triphosphate enzyme (ATPase), succinate dehydrogenase (SDH), and total anti-oxidant capability (T-AOC) were measured daily in these mice to verify the successful induction of the two types of animal models. We then observed and documented the thermotropism characteristics and the interventional effects of TCM herbal drugs in these animals. The experiment was per-formed on the bi-zone temperature controlling plates as mentioned above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Determination of oxygen consumption</head><p>The mice were put in sealed container pre-filled with 10 g of sodica calx on the bottom to absorb CO 2 generated by animals. The consumption of oxygen was measured by the height of water in a U-tube connected with the container <ref type="bibr" target="#b6">(Gao et al., 2004)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Determination of biochemical indicators</head><p>Adenosine triphosphatase (ATPase), succinate deshidrogenase (SDH), superoxide dismutase (SOD), malondialdehyde (MDA) and total anti-oxidation capability (T-AOC) in liver tissue of mice were determined by the aforementioned assay kits. The liver samples of mice sacrificed were removed rapidly into physiological saline maintained at 4 • C to wash the blood on liver surface. Then the liver samples were fresh homogenated to determine the biochemical indicators according to kit instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8.">Statistical analysis</head><p>Values are expressed as mean ± S.D. (standard deviation). Statistical analyses were performed using unpaired t-test for quantitative data. P &lt; 0.05 was considered significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Intervention of herbal drugs on the thermotropism behavior of normal animals</head><p>The results showed that normal mice, which were intragastrically administered with Rhubarb, Coptidis or Gypsum, significantly increased the time duration that they stayed in high-temperature zone (P &lt; 0.05, Fig. <ref type="figure" target="#fig_3">3a</ref>), compared to mice in the control group. On the contrary, when Strobal, Ginger or Ginseng were administered respectively, mice stayed longer and more frequently in the low-temperature zone (P &lt; 0.05), short and less frequently in high-temperature zone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Thermotropism characteristics of animals with cold and hot syndrome</head><p>Based on the above experiments in the normal mice, we tried to induce cold or hot symptoms in the experimental animals and then intervened with cold and hot herbal drugs to test the traditional TCM theory to treat cold with hot and to treat hot with cold. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1</head><p>The changes of body weight, body temperature, water intake in mice ( X ± S).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group</head><p>Body weight (g) Body temperature (</p><p>• C) Drinking volume (ml) Normal 24.97 ± 3.79 31.65 ± 1.67 42.33 ± 2.58 Weak model (WM) 20.86 ± 0.95 * 29.91 ± 0.73 * 28.66 ± 3.61 ** Strong model (SM) 26.13 ± 4.38 30.98 ± 1.13 47.04 ± 3.52 * Coptidis + WM 18.18 ± 2.22 ** , # 29.21 ± 1.02 * 24.30 ± 1.88 ** , # Ginseng + WM 23.89 ± 2.37 # 31.28 ± 0.56 ## 33.25 ± 3.39 ** , # Coptidis + SM 28.94 ± 1.91 * 29.01 ± 0.84 ** , ## 50.21 ± 2.79 ** Ginseng + SM 25.23 ± 2.05 30.76 ± 1.12 52.02 ± 3.92 ** , # * P &lt; 0.05 compared to animals in the normal group. ** P &lt; 0.01 compared to animals in the normal group. # P &lt; 0.05 compared to correspondent model animals group. ## P &lt; 0.01 compared to correspondent model animals group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2</head><p>The changes of enzyme activities of Na + -K + -ATPase, Ca 2+ -ATPase and Mg 2+ -ATPase ( X ± S) in mice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group</head><p>Na + -K + -ATPase (mol mg -1 h -1 ) C a 2+ -ATPase (mol mg -1 h -1 ) M g 2+ -ATPase (mol mg</p><p>-1 h -1 ) Normal 1.534 ± 0.191 1.031 ± 0.072 0.314 ± 0.032 Weak model (WM) 1.185 ± 0.080 ** 0.865 ± 0.198 0.241 ± 0.041 ** Strong model (SM) 2.174 ± 0.214 ** 1.214 ± 0.113 ** 0.329 ± 0.037 Coptidis+WM 1.078 ± 0.197 ** 0.601 ± 0.101 ** , # 0.186 ± 0.013 ** , # Ginseng+WM 1.433 ± 0.122 ## 1.032 ± 0.085 0.323 ± 0.034 ## Coptidis+SM 1.806 ± 0.182 * , ## 1.102 ± 0.325 0.243 ± 0.011 ** , ## Ginseng+SM 2.021 ± 0.098 ** 1.393 ± 0.086 ** , # 0.381 ± 0.037 ** , # * P &lt; 0.05 compared to animals in the normal group. ** P &lt; 0.01 compared to animals in the normal group. # P &lt; 0.05 compared to correspondent model animals group. ## P &lt; 0.01 compared to correspondent model animals group.</p><p>Compared with the normal animals, hunger-and-fatigue induced mice presented traits such as stagnant growth, lowerthan-normal body temperature, less motion, disheveled fur and decreased water-intake (Table <ref type="table">1</ref>). The observation experiment was performed on a bi-zone temperature controlled plate (40 • C and 25 • C), and the results showed that these animals stayed significantly longer (Fig. <ref type="figure" target="#fig_3">3b</ref>) in high temperature zone (40 • C) than normal animals, i.e., a behavior of increased thermotropism. In addition,</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 3</head><p>The changes of T-AOC, SOD and oxygen-consumption in mice ( X ± S).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group</head><p>T-AOC (U mg -1 protein) SOD (U mg</p><p>-1 protein) Oxygen-consumption (ml) Normal 0.487 ± 0.052 87.50 ± 12.85 3.74 ± 0.85 Weak model (WM) 0.154 ± 0.053 ** 72.64 ± 9.04 * 1.70 ± 0.67 ** Strong model (SM) 0.713 ± 0.065 ** 136.43 ± 17.08 ** 4.61 ± 0.33 * Coptidis + WM 0.113 ± 0.024 ** 60.81 ± 5.63 ** , # 0.71 ± 0.27 ** , ## Ginseng + WM 0.408 ± ± 0.041 * , ## 89.45 ± 8.11 ## 3.29 ± 0.34 ## Coptidis + SM 0.563 ± ± 0.064 * , ## 120.98 ± 15.61 ** 5.78 ± 0.45 ** , ## Ginseng + SM 0.682 ± 0.072 ** 112.54 ± 9.02 ** , # 4.16 ± 0.68 T-AOC, total anti-oxidation capability; SOD, superoxide dismutase. * P &lt; 0.05 compared to animals in the normal group. ** P &lt; 0.01 compared to animals in the normal group. # P &lt; 0.05 compared to correspondent model animals group. ## P &lt; 0.01 compared to correspondent model animals group.</p><p>laboratory examinations showed decreased ATPase (Table <ref type="table">2</ref>), T-AOC, SOD activity, and oxygen-consumption (Table <ref type="table">3</ref>), indicating reduced capacity of energy metabolism and anti-oxidation. On the contrary, the hot-syndrome mice induced by nutrient surplus demonstrated antithesis traits as the cold ones. These characteristics are basically consistent with the TCM understandings about cold and hot syndromes in TCM literatures <ref type="bibr" target="#b19">(Székely et al., 2002)</ref>.</p><p>3.3. The interventional effects of medicinal herbs on cold and hot model animals and their thermotropism behavior Furthermore, we tested the effects of cold and hot herbal drugs on cold and hot syndromes in mice, respectively. The results showed that, compared to untreated same type animals, the cold herb such as Coptidis could significantly reduce the total residence time of hot mice in low temperature zone (25 • C), indicating increased thermotropism in these animals (Fig. <ref type="figure" target="#fig_3">3c</ref>). As expected, laboratory data of oxygen-consumption and ATPase activity proved that these cold herbal drugs could down-regulate the increased metabolic rate of hot-syndrome mice treated with hot drugs, as stated in traditional TCM literature, to treat hot with cold. The cold herbal drugs could increase the duration of cold-type mice in high temperature zone, transforming cold-type animals even colder. The interventional effect of hot herbal drug such as Ginseng was just the opposite.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>TCM theory states that medicinal herbs present two typical sets with opposite characteristics and these properties can be defined as cold or hot, based on the responses the herbs induce in living organisms. Judging from the above experimental results, the traditional "cold" drug Coptidis could indeed affect the energy metabolism of living bodies and modify animals' response to environmental temperature, resulting different temperature tropism. It was reported earlier that cold or hot drugs could change bodily ATPase activity <ref type="bibr" target="#b10">(Ji et al., 2007;</ref><ref type="bibr" target="#b26">Zhuang et al., 1998)</ref>, and the authors proposed that this phenomenon was due to the drug intervention to energy metabolism <ref type="bibr" target="#b16">(Qi et al., 2001;</ref><ref type="bibr" target="#b22">Zhang et al., 2009)</ref>. The outcomes of this study were consistent with this proposal. Moreover, we found that the bodily oxygen-consumption and SOD activity, a parameter for bodily energy metabolism and feed-back regulation, altered as well. Altogether, the above results suggested that the cold and hot properties of medicinal herbs correlated with bodily energy status and its regulation, and, from macro viewpoint, modified the temperature tropism of animals <ref type="bibr" target="#b18">(Sengupta et al., 2004)</ref>.The cold herbs down-regulate, but hot herbs up-regulate energy metabolism. These results suggest that cold and hot properties of the medicinal herbs may be related to the alterations in body energy status and its regulation, hence the animal tropism to different external temperature.</p><p>On the other hand, the TCM theory states that there are two opposite body statuses, which express two opposite sets of symptoms and signs, can be defined as cold and hot syndromes. The individuals with cold syndrome have subnormal energy metabolism, as individuals with hot syndrome have supernormal energy metabolism. Both the opposite statuses are abnormal but can be corrected by the cold and hot herbal drugs <ref type="bibr" target="#b25">(Zhou et al., 2009)</ref>. In hot syndrome the abnormally high energy metabolism can be down-regulated to normal with cold drugs, to treat hot with cold. Similarly, the abnormally low energy metabolism in cold syndrome can be elevated to normal level by hot drugs, to treat cold with hot. Our quantitative results prove that cold or hot herbal drugs can adjust the level of energy metabolism in animals with hot syndrome or cold syndrome, respectively. These findings are in accordance with traditional TCM theory: treating cold with hot, treating hot with cold.</p><p>To some extent, our results demonstrate that the TCM theory about cold or hot drugs is the primitive, yet objective and fact-based understandings for drug nature, providing a new perspective to herb-drug study through the Animal Thermotropism Behavior Surveillance System. This System objectively and quantitatively records the animal thermotropism alterations before and after the administration of herbal drugs, with automatic, online, multi-channel (expandable or down-sizable), and multifunctional (temperature control, surveillance, data collection and processing) features.</p><p>This is a first report that uses modern approaches of experimental medicine to study the traditional theory about cold and hot herbal drugs and their interventional effects on animal's search for best-livable temperature. Combined with other biochemical and biophysical analysis, this method may provide a new marker in studying herbal (natural) drugs. The novel methodology may also have applications in other areas of biomedical research, and may impact our fitness and health awareness.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Adenosine triphosphatase assay kit (Lot. 20081113), coomassie brilliant blue protein determination kit (Lot. 20081113), superoxide dismutase assay kit (Lot. 20081113), succinate dehydrogenase assay kit (Lot. 20081113), malondialdehyde assay kit (Lot. 20081113) and total antioxidative capacity (Lot. 20081113) were purchased from the Nanjing Institute of Biological Engineering.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. The Animal Thermotropism Behavior Surveillance System which consists of three major parts. (a) Temperature controlling unit which contains two different temperature zones, and six channels across these zones for mice to move freely to search for their best-livable temperature. (b) A remote monitoring unit connecting to the temperature controlling unit monitors and records the animal movement. (c) Data processing unit which analyses the collected animal data and documents the results.</figDesc><graphic coords="2,112.45,409.90,379.80,301.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. The schematic diagrams depict the acquisition process of animal thermotropism data. The animal movements are monitored by a video camera, and the recognized signals, the position and the time duration of a mouse staying at the zone, are transformed to electronic data and collected by a computer.</figDesc><graphic coords="3,102.26,55.72,381.60,138.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. The effects of cold or hot herbs on the animal thermotropism. (a) The effects of several medicinal herbs on the thermotropism of normal mice. (b) The intervention effects of several medicinal herbs on the thermotropism alteration in cold-or hot-type model animals as described in the main text. *P &lt; 0.05, **P &lt; 0.01 compared to animals in the control group; # P &lt; 0.05, ## P &lt; 0.01 compared to corresponding cold-or hot-type model animals. Colored symbols (circle, triangle, square) represent individual animals in a typical experiment. WM, weak model mice (cold model); SM, strong model mice (hot model). (c) The dynamic trends of the thermotropism in normal, cold-type, and hot-type animals. *P &lt; 0.05, ** P &lt; 0.01 compared to normal animals.</figDesc><graphic coords="4,84.95,55.75,434.88,135.79" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">Dr. Chang-Jie Chen</rs> and <rs type="person">Dr. Susan Imirie</rs> for expert revision of this manuscript. This investigation was financially supported by the <rs type="funder">National Basic Research Program</rs> (accession number: <rs type="grantNumber">2007CB512607</rs> and <rs type="grantNumber">2006CB504703</rs>) and the <rs type="funder">National Science Foundation for Distinguished Young Scholars of China</rs> (accession number: <rs type="grantNumber">30625042</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_M6fkCSq">
+					<idno type="grant-number">2007CB512607</idno>
+				</org>
+				<org type="funding" xml:id="_sakhPPH">
+					<idno type="grant-number">2006CB504703</idno>
+				</org>
+				<org type="funding" xml:id="_2ut42az">
+					<idno type="grant-number">30625042</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The significance of theories in behavioural ecology for solving problems in applied ethology-possibilities and limitations</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Naevdal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Egil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bakken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="85" to="104" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andersen, I.L., Naevdal, E., Egil, B.K., Bakken, M., 2006. The significance of theories in behavioural ecology for solving problems in applied ethology-possibilities and limitations. Applied Animal Behaviour Science 97, 85-104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Body temperature and its regulation</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anaesthesia and Intensive Care</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="259" to="263" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Campbell, I., 2008. Body temperature and its regulation. Anaesthesia and Intensive Care 9, 259-263.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effects of epinephrine on thermoregulatory behavior in lean and obese zucker rats in the cold</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Carlisle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dubuc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacology Biochemistry and Behavior</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="255" to="261" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carlisle, H., Dubuc, P., Stock, M., 1995. Effects of epinephrine on thermoregulatory behavior in lean and obese zucker rats in the cold. Pharmacology Biochemistry and Behavior 51, 255-261.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The mechanism of dual-directional thermoregulation by Guizhi Tang-effect on the action of acetylcholine and norepinephrine in hypothalamus</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">China Journal of Experimental Traditional Medical Formulae</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fu, H.Y., Guo, S.Y., 1996. The mechanism of dual-directional thermoregulation by Guizhi Tang-effect on the action of acetylcholine and norepinephrine in hypothalamus. China Journal of Experimental Traditional Medical Formulae 2, 8-10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The mechanism of decoction of Cinnamon Twigs on dual-directional thermoregulation-effect on the cyclic nucleotids levels in hypothalamus and plasma</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Zha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacology and Clinics of Chinese Materia Medica</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fu, H.Y., Zhou, A.X., Zha, X.Y., Guo, S.Y., 1994. The mechanism of decoction of Cinna- mon Twigs on dual-directional thermoregulation-effect on the cyclic nucleotids levels in hypothalamus and plasma. Pharmacology and Clinics of Chinese Mate- ria Medica 10, 1-4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Discussion on the Nature of Chinese Material Medica</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">S</forename><surname>Gao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>People&apos;s Medical Publishing House</publisher>
+			<pubPlace>Beijing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gao, X.S., 1992. Discussion on the Nature of Chinese Material Medica. People&apos;s Med- ical Publishing House, Beijing.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Establishment and application of apparatus for the continued measurement of the oxygen consumption in mice</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">X</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">M</forename><surname>Xin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Pharmacological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1070" to="1072" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gao, Y.S., Qi, Y.X., Li, K., Zhu, Y.Y., He, L.Y., Ma, J., Xin, X.M., 2004. Establishment and application of apparatus for the continued measurement of the oxygen consumption in mice. Chinese Pharmacological Bulletin 20 (9), 1070-1072.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Behavioral and autonomic thermoregulation in the rat following propylthiouracil-induced hypothyroidism</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacology Biochemistry and Behavior</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="231" to="236" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon, C., 1997. Behavioral and autonomic thermoregulation in the rat follow- ing propylthiouracil-induced hypothyroidism. Pharmacology Biochemistry and Behavior 58, 231-236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Behavioral thermoregulatory responses of singleand group-housed mice</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiology and Behavior</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="255" to="262" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon, C., Becker, P., Ali, J., 1998. Behavioral thermoregulatory responses of single- and group-housed mice. Physiology and Behavior 65, 255-262.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Behavioral determination of the preferred foot pad temperature of the mouse</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Killough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Padnos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Thermal Biology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="211" to="219" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon, C., Becker, P., Killough, P., Padnos, B., 2000. Behavioral determination of the preferred foot pad temperature of the mouse. Journal of Thermal Biology 25, 211-219.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Effect of salidroside on energy metabolism in exhausted rats</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Rehabilitative Tissue Engineering Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="9149" to="9151" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ji, C.F., Geng, X., Ji, Y.B., 2007. Effect of salidroside on energy metabolism in exhausted rats. Journal of Clinical Rehabilitative Tissue Engineering Research 11, 9149-9151.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Clinical Chinese Medicine of China</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>People&apos;s Medical Publishing House</publisher>
+			<pubPlace>Beijing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lei, Z.Q., Zhang, T.M., 1998. Clinical Chinese Medicine of China. People&apos;s Medical Publishing House, Beijing.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The effect of Cold and Hot nature medicines on 5HT and NE cells and nerve fibres in rat&apos;s brain, pituitary and adrenal</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">China Journal of Chinese Materia Medica</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="360" to="362" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li, L., Liu, G.Z., Liang, Y.H., 1999. The effect of Cold and Hot nature medicines on 5HT and NE cells and nerve fibres in rat&apos;s brain, pituitary and adrenal. China Journal of Chinese Materia Medica 24, 360-362.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Metabolism and thermoregulation in three species of rodent from northeastern China</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Thermal Biology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="177" to="183" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu, J., Wang, D., Sun, R., 2004. Metabolism and thermoregulation in three species of rodent from northeastern China. Journal of Thermal Biology 29, 177-183.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Exploration of four properties of Chinese material medica</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Z</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Pharmaceutical Journal</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="59" to="60" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ma, H.Z., 1984. Exploration of four properties of Chinese material medica. Chinese Pharmaceutical Journal 19, 59-60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">OpenControl: a free opensource software for video tracking and automated control of behavioral mazes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Luís</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vasco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Neuroscience Methods</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="66" to="72" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paulo, A., Luís, M., Vasco, G., 2007. OpenControl: a free opensource software for video tracking and automated control of behavioral mazes. Journal of Neuroscience Methods 166, 66-72.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effect of Guizhi decoction on adenyl cyclase and phosphodiesterase in hypothalamus of rats models of fever and hypothermia</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Huo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Integrated Traditional and Western Medicine</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="203" to="205" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Qi, Y., Huo, H.R., Tian, J.L., 2001. Effect of Guizhi decoction on adenyl cyclase and phosphodiesterase in hypothalamus of rats models of fever and hypothermia. Chinese Journal of Integrated Traditional and Western Medicine 21, 203-205.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Study on relativity of herbal Han-Re cooperation and regulating out-of-banlance of T cell subgroup</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of information on Traditional Chinese Medicine</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="28" to="30" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Qin, L., Shun, R., Lv, L.L., Peng, X., Wang, X., Li, K., 2005. Study on relativity of herbal Han-Re cooperation and regulating out-of-banlance of T cell subgroup. Chinese Journal of information on Traditional Chinese Medicine 12, 28-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Modulating Angiogenesis: the Yin and the Yang in Ginseng</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sengupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Toh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Sellers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Skepper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koolwijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Yeung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sasisekharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Fan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1219" to="1225" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sengupta, S., Toh, S.A., Sellers, L.A., Skepper, J.N., Koolwijk, P., Leung, H.W., Yeung, H.W., Wong, R.N., Sasisekharan, R., Fan, T.P., 2004. Modulating Angiogenesis: the Yin and the Yang in Ginseng. Circulation 7, 1219-1225.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of orexins on energy balance and thermoregulation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Székely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pétervári</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Balaskó</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hernádi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uzsoki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regulatory Peptides</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="47" to="53" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Székely, M., Pétervári, E., Balaskó, M., Hernádi, I., Uzsoki, B., 2002. Effects of orexins on energy balance and thermoregulation. Regulatory Peptides 104, 47-53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Preferred temperature, avoidance temperature and lethal temperature of tadpoles of the common giant toad (Bufo gargarizans) and the Chinese forest frog (Rana chensinensis)</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="23" to="27" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, L.Z., Li, X.C., Sun, T., 2005. Preferred temperature, avoidance temperature and lethal temperature of tadpoles of the common giant toad (Bufo gargarizans) and the Chinese forest frog (Rana chensinensis). Chinese Journal of Zoology 40, 23-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Speculating about scientific investigation on nature of Chinese materia medica</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Traditional and Herbal Drugs</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="481" to="484" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xiao, X.H., 2008. Speculating about scientific investigation on nature of Chinese materia medica. Chinese Traditional and Herbal Drugs 39, 481-484.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The differences between COLD and HOT nature of Radix ginseng rubra and American ginseng based on animal&apos;s temperature tropism</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Medical Journal of China</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1994" to="1998" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang, X.R., Zhao, Y.L., Wang, J.B., Zhou, C.P., Liu, T.S., Zhao, H.P., Ren, Y.S., Yan, D., Xiao, X.H., 2009. The differences between COLD and HOT nature of Radix ginseng rubra and American ginseng based on animal&apos;s temperature tropism. National Medical Journal of China 89, 1994-1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Expression of the difference between COLD and HOT nature of Chinese medicines (Strobal and Rhubarb) based on the cold/hot plate differentiating assay</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science in China Series C: Life Sciences</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1192" to="1197" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhao, H.P., Zhao, Y.L., Wang, J.B., Li, H.B., Ren, Y.S., Zhou, C.P., Yan, D., Xiao, X.H., 2009. Expression of the difference between COLD and HOT nature of Chinese medicines (Strobal and Rhubarb) based on the cold/hot plate differentiating assay. Science in China Series C: Life Sciences 52, 1192-1197.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Biothermokinetic studies on four properties of traditional Chinese medicine: comparison of properties of Zuojinwan and Fanzuojin by microcalorimetry</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">China Journal of Chinese Materia Medica</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1183" to="1185" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, S.H., Xiao, X.H., Zhao, Y.L., Dai, C.M., Zhu, J.C., Liu, Y., 2004. Biothermokinetic studies on four properties of traditional Chinese medicine: comparison of prop- erties of Zuojinwan and Fanzuojin by microcalorimetry. China Journal of Chinese Materia Medica 29, 1183-1185.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Investigation on the differences between cold and hot nature of Coptis Chinensis Franch and its processed material based on animal&apos;s temperature tropism</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">H</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science in China Series C: Life Sciences</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="669" to="673" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhou, C.P., Wang, J.B., Zhang, X.R., Zhao, Y.L., Xia, X.H., Zhao, H.P., Ren, Y.S., Xiao, X.H., 2009. Investigation on the differences between cold and hot nature of Cop- tis Chinensis Franch and its processed material based on animal&apos;s temperature tropism. Science in China Series C: Life Sciences 39, 669-673.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effects of Rhodiola Sachalinensis and its complex prescriptions on exercise capacity and energy metabolism in mice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Zhuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">L</forename><surname>Zeng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Sports Medicine</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="124" to="125" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhuang, J.Q., Shi, J.Y., Zeng, Z.L., 1998. Effects of Rhodiola Sachalinensis and its com- plex prescriptions on exercise capacity and energy metabolism in mice. Chinese Journal of Sports Medicine 17, 124-125.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intra-articular gold induced cytokine (GOLDIC®) injection therapy in patients with osteoarthritis of knee joint: a clinical study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-01-06">2021-01-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ulrich</forename><surname>Schneider</surname></persName>
+							<idno type="ORCID">0000-0002-2252-5188</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Ashok</forename><surname>Kumar</surname></persName>
+							<idno type="ORCID">0000-0002-6456-3342</idno>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><surname>Murrell</surname></persName>
+							<idno type="ORCID">0000-0001-8835-1806</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Agnes</forename><surname>Ezekwesili</surname></persName>
+							<idno type="ORCID">0000-0003-2082-1087</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Nagib</forename><forename type="middle">A</forename><surname>Yurdi</surname></persName>
+							<idno type="ORCID">0000-0002-4233-6069</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Nicola</forename><surname>Maffulli</surname></persName>
+							<idno type="ORCID">0000-0002-5327-3702</idno>
+						</author>
+						<title level="a" type="main">Intra-articular gold induced cytokine (GOLDIC®) injection therapy in patients with osteoarthritis of knee joint: a clinical study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Orthopaedics</title>
+						<title level="j" type="abbrev">International Orthopaedics (SICOT)</title>
+						<idno type="ISSN">0341-2695</idno>
+						<idno type="eISSN">1432-5195</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">45</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="497" to="507"/>
+							<date type="published" when="2021-01-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">8601E57538EE1796A83C4D3FCD85BCC6</idno>
+					<idno type="DOI">10.1007/s00264-020-04870-w</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Autologous Gold-Conditioned Serum</term>
+					<term>Chronic Systemic Disease</term>
+					<term>Gelsolin</term>
+					<term>GOLDIC ®</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AbstrAct</head><p>Objective: GOLDIC ® is a novel technology involving the in vitro pre-conditioning of autologous patient whole blood with gold particles to induce autologous protein production. This study aimed to evaluate the safety and efficacy of GOLDIC® induced cytokines by intravenous injection into patients with various systemic diseases (allergies, fibromyalgia, psoriasis, rheumatoid arthritis, ulcerative colitis, polymyalgia rheumatica, osteoporosis and other diseases).</p><p>Patients and Methods: This is a prospective observational case series study of 55 patients suffering from various chronic systemic diseases who were treated with intravenous GOL-DIC® injection. Inclusion criteria were having been diagnosed with a chronic systemic disease not efficiently controlled by the standard treatment. The mean age of participants was 55.9±18.4 years. Four consecutive intravenous GOLDIC® injections were carried out at 3 to 7 days intervals. The primary screening criterion was the treatment effectiveness documented by the Visual Analogue Scale (VAS) and global assessment. The initial findings were compared to the VAS values before the treatment and yearly over a period of at least 6 months and up to 6 years.</p><p>Results: Eight different disease groups were treated with the intravenous GOLDIC ® method. There were statistically significant improve-ments in VAS scores following GOLDIC ® treatment. There were no treatment-related adverse events and serious adverse events. The most impressive results were seen in patients with allergies and fibromyalgia.</p><p>Conclusions: GOLDIC ® was confirmed as a novel method for conservative management of chronic systemic diseases. GOLDIC ® produced a rapid and sustained improvement in symptomatology. This study is an open-label non-randomized, non-controlled study using a heterogeneous patient population. Future randomized-controlled trials may fully validate the safety and efficacy of GOLDIC ® in different patient populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IntroductIon</head><p>In the past twenty years the treatment using new biotechnologies which focus on amplifying the bodies natural healing properties to manage and modulate inflammation and to reduce pain has been a growing field of research 1 . Such applications, often using mesenchymal stem cells (MSCs), have been shown to be especially useful in orthopedics, sports medicine and regenerative medicine 1 . Many techniques and treatments have been assessed including stem cells or cell therapies, autologous blood-based products such as Platelet Rich Plasma (PRP) and Autologous Conditioned Serum (ACS). Stem cells and the novel therapeutic approach called "stem cell-based cell-free therapy", are often reliant on the autocrine production of growth factors, immu-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</head><p>The available data strongly support a crucial role for GSN in a variety of physiological and pathological processes including GSN involved as an actin-binding and depolymerizing protein, which exerts its effects in the form of intracellular cytoskeletal GSN and plasma GSN (pGSN) <ref type="bibr" target="#b35">20</ref> . Of note, GSN is known to be a cytoplasmic regulator of actin organization, which regulates the viscoelasticity of the cell cytoskeleton and modulates important cell functions such as cell motility, phagocytosis and apoptosis. Most of the research, however, has focused on the extracellular actin-scavenger system (EASS) and on the role of pGSN in it, being responsible for rapid and continuous severing and removal of actin filaments released from dead cells into the bloodstream. The release of actin into the blood due to injury or illness-associated necrosis results in several pathophysiologic responses including increase of blood viscosity, activation of platelets and their aggregation, microvascular thrombosis, release of proinflammatory mediators such as thromboxanes, impairment of fibrinolysis, all of which result in a secondary tissue damage due to the high toxicity of actin <ref type="bibr" target="#b36">21</ref> . Other studies have shown decreased pGSN concentrations in animals with sepsis, and treatment with GSN had a positive effect on the survival rate in these animals <ref type="bibr" target="#b6">22</ref> . It has also been shown that pGSN serves as a buffer to intercept inflammatory reactions in rheumatoid arthritis; in addition, pGSN concentration has been shown to be decreased in various tissue degenerative diseases where GSN levels were reduced even more in the affected joints than in plasma <ref type="bibr" target="#b7">23</ref> .</p><p>In addition to its actin-sequestering properties, pGSN has also been reported to modulate the immune response by preferentially binding to bacterial cell walls, a process facilitated by the structural similarity between the intracellular GSN-binding molecules and bacterial endotoxins <ref type="bibr" target="#b8">24</ref> . Moreover, pGSN has been shown to have a protective role in endotoxemia in mice <ref type="bibr" target="#b6">22</ref> . These findings suggest the fundamental role of pGSN in the development and modulation of inflammatory responses and, consistent with these proposed functions, decreased blood GSN concentrations have been detected in serious clinical conditions such as acute respiratory distress syndrome, sepsis, major trauma, prolonged hyperoxia, malaria and liver injury <ref type="bibr" target="#b9">25</ref> . Hospital inpatients with decreased pGSN levels have been observed to have higher mortality rates, longer hospital stay and longer ventilation time in Intensive nomodulators and other bioactive molecules stored in extracellular vesicles (exosomes) which can be isolated and used instead of cells <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> . However, if the origin of exosomes is represented by embryonic or fetal cells, then there are many ethical and legal issues to overcome <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> . Autologous harvesting and priming of cells have many technical and methodological complexities and the long-term efficacy of the resulting exosomes is questionable if their use is not repeated at regular intervals <ref type="bibr" target="#b22">7</ref> . When using MSCs, it has been proposed that the systemic paracrine modality is sufficient to produce therapeutic responses in some situations, while under other circumstances a cell-cell contact may be required <ref type="bibr" target="#b23">8</ref> . Stem cells are often infused intravenously, but cells administered in this manner may experience rapid clearance or may be trapped in pulmonary capillary beds, which may explain their limited efficacy in some instances <ref type="bibr" target="#b24">[9]</ref><ref type="bibr" target="#b25">[10]</ref><ref type="bibr" target="#b26">[11]</ref> . There has also been work on the use of regenerative medicine technology in the treatment of chronic pain, which includes the concept of neuroimmune regulation in pain relief <ref type="bibr" target="#b27">12</ref> .</p><p>The development of this novel GOLDIC ® method to produce a conditioned serum rich in anti-inflammatory cytokines has proven to be very effective by enhancing the intrinsic regenerative capacity of the host plasma components. Gold compounds have been used for quite a long time in the treatment of different inflammatory disorders, especially in rheumatology <ref type="bibr" target="#b28">13,</ref><ref type="bibr" target="#b29">14</ref> . The specialized gold particles, derived from the gold compound aurothiomalate, have been shown to inhibit the production of nitric oxide (NO) from chondrocytes. NO mediates the destructive effects of interleukin-1 (IL-1) and tumor necrosis factor-alpha (TNF-a), which include reduced collagen and proteoglycan production, apoptosis of chondrocytes and stimulation of matrix metalloproteinases <ref type="bibr" target="#b30">15</ref> . In vitro studies have shown that incubation with gold particles inhibits catabolic factors, increases anti-catabolic and anabolic factors and also increases the level of gelsolin (GSN), which is a key protein in cellular metabolism <ref type="bibr" target="#b31">16</ref> . The exact mode of action of the GOLDIC ® procedure is not well understood, but in vitro studies have shown a significant increase in plasma GSN levels in the autologous serum as well as increased GSN levels in synovial fluid after each GOLDIC ® injection. Both GSN and Granulocyte colony-stimulating factor (G-CSF) have been shown to promote tissue repair and regeneration <ref type="bibr" target="#b32">[17]</ref><ref type="bibr" target="#b33">[18]</ref><ref type="bibr" target="#b34">[19]</ref> . the systemic pro-inflammatory state and harnessing the anti-inflammatory and immunomodulatory role of the immune system in tissue regeneration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PAtIents And Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>The objective of this study was to evaluate the safety and efficacy of intravenous GOLDIC ® injection in patients with various systemic diseases. In order to evaluate the safety and efficacy of intravenous GOLDIC ® injections, the investigators performed an observational study as a prospective case group study. All patients had been previously pre-treated unsuccessfully with various conventional treatments before taking part in this study. All patients were informed in detail about the benefits and risks of the treatment and gave their written informed consent to take part in the study. This study was carried out according to the guidelines of Good Clinical Practice (GCP) <ref type="bibr">32</ref> .</p><p>PreParation of GoLDiC ® -ConDitioneD serum GOLDIC ® -conditioned serum was prepared following a previously described procedure <ref type="bibr" target="#b29">14</ref> . Briefly, 4x10 mL of peripheral blood was collected for each treatment directly into specifically designed GOL-DIC ® syringes. The syringes were then capped and incubated at 37°C for 24 hours. The syringes were then centrifuged, and the plasma was separated. The resultant GOLDIC ® -treated plasma was then re-administered to the patients intravenously.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aDministration of GoLDiC ® -ConDitioneD PLasma</head><p>A total of 55 patients suffering from various systemic diseases (allergies, fibromyalgia, psoriasis, rheumatoid arthritis, ulcerative colitis, polymyalgia rheumatica, osteoporosis and other diseases listed in Table <ref type="table" target="#tab_0">1</ref>) were treated with GOLDIC ® since 2014. The GOLDIC ® was administered to the patients intravenously (into a peripheral arm vein) in the private practice of Prof. Dr. Ulrich Schneider. All patients had previously received conventional treatment for their specific disease without any improvement in symptoms. All patients received four consecutive intravenous GOLDIC ® injections at 3 to 7 days intervals.</p><p>Care Units (ICUs) when compared to similar hospitalized patients with higher pGSN levels <ref type="bibr" target="#b30">15</ref> .</p><p>Evidence for the potential clinical utility of pGSN as a diagnostic tool has begun to accumulate in chronic diseases such as rheumatoid arthritis, where circulating pGSN concentrations are below normal values <ref type="bibr" target="#b28">13</ref> . Given the fact that pGSN interacts with different cells of the immune system, pGSN may have regulatory and functional roles in chronic diseases such as Alzheimer's disease, rheumatoid arthritis, type 2 diabetes and cancer <ref type="bibr" target="#b10">[26]</ref><ref type="bibr" target="#b11">[27]</ref><ref type="bibr" target="#b12">[28]</ref> . In a recent study conducted on patients with psoriatic arthritis, pGSN levels were decreased and showed a significant negative correlation with inflammatory markers such as C-reactive protein and erythrocyte sedimentation rate, suggesting that pGSN may play an active role in chronic joint inflammation <ref type="bibr" target="#b13">29</ref> .</p><p>This correlation between pGSN and clinical conditions suggests the possibility for the therapeutic use of the GOLDIC ® technique aimed at producing serum rich in anti-inflammatory cytokines and GSN in order to alleviate the destructive cascades in these acute settings or in chronic inflammatory conditions. The first GOLDIC ® trial conducted in horses showed a significant improvement in lameness following treatment <ref type="bibr" target="#b14">30</ref> . The first human clinical study investigated healing of Achilles tendinopathy and found significant clinical and Magnetic Resonance Imaging (MRI) improvements. As compared to other blood-based biological methods, GOLDIC ® procedure has been shown result in the upregulation of pGSN and G-CSF, both of which are known to play an important role in tissue regeneration. In particular, all patients showed a complete regeneration of original tendon tissue one year after the treatment, and no severe adverse events were reported <ref type="bibr" target="#b29">14</ref> . In a further clinical study conducted in patients with osteoarthritis of the knee, intra-articular GOLDIC ® injections produced a rapid and sustained improvement in all symptoms, suggesting GOLDIC ® as a promising option for the conservative management of moderate to severe osteoarthritis of the knee <ref type="bibr" target="#b15">31</ref> .</p><p>GOLDIC ® is a CE marked and approved class IIb medical product. The GOLDIC ® procedure is used mostly in musculoskeletal conditions such as osteoarthritis, tendinosis and muscle injury. The present study is a prospective observational case series study involving patients with various chronic systemic diseases. This study aimed to assess the safety and efficacy of intravenous GOLDIC ® administration in improving the overall condition, altering tee(s) and with the Helsinki Declaration (as revised in 2013). Written informed consent was obtained from all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>stAtIstIcAl AnAlysIs</head><p>The VAS values (ranging from 0 to 10) were statistically analyzed for all 55 patients participating in the study. This gave a VAS value for a minimum of 1 and a maximum of 7 timepoints. For all statistical tests a=0.05. Kolmogorov-Smirnov Goodness of Fit test gave no significance that the data were normally distributed. A non-parametric test was, therefore, used to calculate p-values. The data for each patient were paired over the different timepoints and calculated using the Wilcoxon signedrank test. Patient numbers were low for 5 to 6 years and 6 to 7 years (n=5 and n=1, respectively). Statistical analyses were, therefore, not carried out at these timepoints. Statistical analyses were calculated out using Total Access Statistics 2000.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>results</head><p>In total, 8 different disease groups (7 specific disease groups plus the 'other' disease group) were treated with autologous intravenous GOLDIC ® infusions. The mean age of participants was 55.9±18.4</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>screenIng, sAfety And ethIcAl crIterIA</head><p>The primary screening criterion was the demonstration of the effectiveness of GOLDIC ® treatment by the documentation of the treatment outcome using the Visual Analogue Scale (VAS) <ref type="bibr" target="#b16">33</ref> and the global assessment during the course of the study. The initial findings were compared to the values before the treatment and over a period of at least 6 months and up to 6 years for some patients. The safety of the procedure was assessed by the following tests: physical examination, vital function records and documentation of uncritical adverse events (AEs) and serious adverse events (SAEs). The safety monitoring was carried out for the entire investigation period. Local or systemic (outside the local treatment region) side effects were differentiated. The Medical Dictionary for Regulatory Activities (MedDRA) version 12.1 documentation system was used to define AEs and SAEs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ethIcAl stAteMent</head><p>The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. All procedures performed in studies involving human participants were in accordance with the Ethical Standards of the Institutional and/or National Research Commit- benefit (40%). The mean VAS score was 4.20 and SD was 0.92. In the entire cohort, 21 out of 55 patients (38%) reported transient hot flushes and fatigue after the first GOLDIC ® injection. These symptoms resolved in all patients within a maximum of 24 hours. Moreover, 10 patients (18%) showed musculoskeletal stiffness and flu-like symptoms following the first GOLDIC ® injection; 3 patients (5.45%) showed similar symptoms after the 3rd and 4th GOLDIC ® injection, respectively. These symptoms resolved completely within 24 hours. Mild erythema at the injection site was seen in some patients, which resolved rapidly following GOLDIC ® injections. None of the 55 patients in the study experienced any SAEs.</p><p>In the MedDRA documentation system, we found that the incidence of subsequent viral infections in all 55 patients was 0%. The cancer rate was also 0% in all 55 patients, which is below the average cancer rate in our population. During the follow-up period, two patients (3.6%) developed deep vein thrombosis, one patient (1.8%) was diagnosed with arrhythmia and one patient (1.8%) developed systemic lupus erythematosus (Table <ref type="table" target="#tab_3">3</ref>).</p><p>years. The number of cases, age groups and sex distribution of the study participants are shown in Table <ref type="table" target="#tab_0">1</ref>. The evaluation of clinical effectiveness of GOLDIC ® treatment using VAS scores is shown in Table <ref type="table" target="#tab_1">2</ref>, along with statistical analysis.</p><p>The VAS p-values were significant at all timepoints (apart from 5 to 6 years and from 6 to 7 years, where statistics were not carried out due to low patient numbers) when compared to the VAS p-values at 6 months to 1 year. Figure <ref type="figure" target="#fig_0">1</ref> shows the overall VAS score found during the study, along with the statistical analysis.</p><p>Among 17 patients suffering from allergies who received GOLDIC ® treatment, one reported no benefit (5.9%), no one reported mild benefit (0%), three reported average benefit (17.6%), six reported good benefit (35.3%) and seven reported excellent benefit (41.2%). The mean VAS score was 4.06 and the standard deviation (SD) was 1.09.</p><p>Among 10 patients suffering from fibromyalgia who received GOLDIC ® treatment, no one reported no benefit (0%), one reported mild benefit (10%), no one reported average benefit (0%), five reported good benefit (50%) and four reported excellent the GOLDIC ® treatment. This may be explained by the antiviral effects of pGSN, which may be upregulated during the incubation of blood with GOL-DIC <ref type="bibr">®38,39</ref> . A normal level of pGSN has frequently been reported in the literature to show a range of beneficial effects, including reduction in brain inflammation and apoptotic signaling pathway activation in mice who had undergone brain ischemia <ref type="bibr" target="#b40">40</ref> . The use of GOLDIC ® may represent a valid intervention (upon confirmation coming from randomized control trials) in patients who have undergone a thermal shock, a traumatic injury to the central nervous system or a cerebrovascular accident. Low pGSN levels can represent a marker of poor prognosis in patients who have undergone an ischemic stroke and an endovascular thrombectomy <ref type="bibr" target="#b41">41</ref> . It has also been shown that GSN protects against oxidative stress and enhances wound healing, which may be beneficial in overall general health <ref type="bibr" target="#b37">42</ref> . It has also been suggested that low pGSN levels may result in more severe clinical outcomes in patients suffering from pneumonia, which could have potential implications in the treatment of COVID-19 <ref type="bibr" target="#b38">43</ref> . The observations about the importance of pGSN in various diseases suggest a wide range of potential applications in the future of GOLDIC ® in routine clinical practice.</p><p>In this study, the intravenous administration of autologous gold-induced cytokines using dIscussIon The therapeutic use of gold compounds has a long history, especially in the treatment of tuberculosis and rheumatoid arthritis, but there was always a problem with toxicity which has resulted in a decline in the use of such compounds to the present day <ref type="bibr" target="#b17">34,</ref><ref type="bibr" target="#b18">35</ref> . The introduction of autologous, closed processing GOLDIC ® technology has enabled the benefits of gold compound therapy without the associated side effects. When using GOLDIC ® technology, no gold compounds are readministered to the patient.</p><p>It is of particular interest that in previous studies the intra-articular GOLDIC ® injection increased local GSN levels <ref type="bibr" target="#b15">31</ref> . A possible increase in pGSN levels after intravenous GOLDIC ® injection may partly explain the beneficial effects seen in participants of the present study. It is known that free or extracellular actin can decrease the activity of macrophages, thereby enabling infections to progress with greater speed and severity <ref type="bibr" target="#b19">36</ref> . Importantly, pGSN can bind and cleave actin, thus reversing or minimizing such detrimental effects. It has also been shown that virus-induced actin processing increases when pGSN levels are low and that viral vesicular egress depends on pGSN functioning <ref type="bibr" target="#b20">37</ref> .</p><p>Perhaps, the most interesting observation in this study is the lack of viral infections seen following rank test compared 6 months -1 year Abbreviations: n/a, not applicable; SD, standard deviation.</p><p>GOLDIC ® procedure has shown impressive overall clinical efficacy, accompanied by a very low incidence of minor side effects. The side effects observed were all transient peripheral irritations to the skin consisting of mild erythema at the intravenous injection site. This may have been a physiological reaction of the body to the GOL-DIC ® -activated serum, but it could equally be a simple injection site reaction seen in many intravenous infusions.</p><p>However, this pilot study is limited by its open-label, non-randomized and non-controlled design. Moreover, we enrolled a heterogeneous patient population. Future randomized-controlled trials (RCTs) may fully validate the safety and efficacy of GOLDIC ® in different patient populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>conclusIons</head><p>In summary, the data presented in this study suggest that the use of GOLDIC ® to treat a range of chronic diseases is safe and effective and has a clear beneficial effect. The most impressive results were seen in patients suffering from allergies and fibromyalgia. Other systemic diseases were also treated with good success (Table <ref type="table" target="#tab_0">1</ref>). The mid-term trend shows an ongoing effectiveness of GOLDIC ® treatment for up to 6 years. This is the first description of the clinical safety and efficacy of GOLDIC ® procedure, making this paper an important contribution to the future wider clinical use of gold-activated autologous plasma using the GOLDIC ® method and to a better understanding of the roles of pGSN in health and diseases. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Visual Analogue Scale (VAS) scores following GOLDIC® treatment. Abbreviations: n/a, not applicable.</figDesc><graphic coords="5,56.94,433.14,481.89,286.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline characteristics of the study participants: age groups, gender, diseases and incidence of viral infections.</figDesc><table><row><cell>Baseline characteristics</cell></row></table><note><p>*The mean age of participants was 55.9 years (SD 18.4). **Other diseases included diabetes mellitus, scleroderma, Herpes zoster, Alzheimer's disease, Parkinson's disease, multiple sclerosis, chronic kidney disease, myositis, hemochromatosis, gout, glaucoma.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Evaluation of the clinical effectiveness of GOLDIC ® treatment based on Visual Analogue Scale (VAS) scores. Each box represents a category of VAS score.</figDesc><table><row><cell>Visual Analogue</cell><cell>Timepoints</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Scale (VAS)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="7">6 months -&gt; 1 year -&gt; 2 years -&gt; 3 years -&gt; 4 years -&gt; 5 years -&gt; 6 years -</cell></row><row><cell></cell><cell>1 year</cell><cell>2 years</cell><cell>3 years</cell><cell>4 years</cell><cell>5 years</cell><cell>6 years</cell><cell>7 years</cell></row><row><cell>Number of patients</cell><cell>55</cell><cell>54</cell><cell>40</cell><cell>24</cell><cell>13</cell><cell>5</cell><cell>1</cell></row><row><cell>assessed</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low 4 Box (0-3)</cell><cell>2</cell><cell>42</cell><cell>32</cell><cell>21</cell><cell>11</cell><cell>5</cell><cell>1</cell></row><row><cell></cell><cell>(3.6%)</cell><cell>(77.8%)</cell><cell>(80.0%)</cell><cell>(87.5%)</cell><cell>(84.6%)</cell><cell>(100%)</cell><cell>(100%)</cell></row><row><cell>Middle 3 Box (4-6)</cell><cell>14</cell><cell>11</cell><cell>7</cell><cell>2</cell><cell>2</cell><cell>0</cell><cell>0</cell></row><row><cell></cell><cell>(25.5%)</cell><cell>(20.4%)</cell><cell>(17.5%)</cell><cell>(8.3%)</cell><cell>(15.4%)</cell><cell>(0.0%)</cell><cell>(0.0%)</cell></row><row><cell>Top 4 Box (7-10)</cell><cell>39</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell></cell><cell>(70.9%)</cell><cell>(1.9%)</cell><cell>(2.5%)</cell><cell>(4.2%)</cell><cell>(0.0%)</cell><cell>(0.0%)</cell><cell>(0.0%)</cell></row><row><cell>Median VAS Score</cell><cell>7.00</cell><cell>2.00</cell><cell>2.00</cell><cell>2.00</cell><cell>2.00</cell><cell>2.00</cell><cell>n/a</cell></row><row><cell>SD</cell><cell>1.80</cell><cell>1.47</cell><cell>1.50</cell><cell>1.58</cell><cell>1.17</cell><cell>0.71</cell><cell>n/a</cell></row><row><cell>Probability, Wilcoxon</cell><cell></cell><cell>&lt;0.0001</cell><cell>&lt;0.0001</cell><cell>&lt;0.0001</cell><cell>0.0015</cell><cell>n/a</cell><cell>n/a</cell></row><row><cell>to signed-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Disease occurrence in patients who received GOLDIC ® treatment.</figDesc><table><row><cell>After treatment</cell><cell>N</cell><cell>%</cell></row><row><cell>Viral infections</cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>0</cell><cell>0</cell></row><row><cell>No</cell><cell>55</cell><cell>100</cell></row><row><cell>Cancer</cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>0</cell><cell>0</cell></row><row><cell>No</cell><cell>55</cell><cell>100</cell></row><row><cell>Other diseases</cell><cell></cell><cell></cell></row><row><cell>Deep vein thrombosis</cell><cell>2</cell><cell>3.6</cell></row><row><cell>Arrhythmia</cell><cell>1</cell><cell>1.8</cell></row><row><cell>Systemic Lupus Erythematosus</cell><cell>1</cell><cell>1.8</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>fundIng:</head><p>No funding is declared for this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contrIbutIons:</head><p>Ulrich Schneider: Conception and design of the study, data acquisition and analysis, drafting of the article, final approval for publication. Kevin Lotzof and William Murrell: data acquisition. Emily Goetz von Wachter: data acquisition and analysis. Peter Hollands: data analysis, drafting of article, revision of the article, final approval for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ethIcAl stAteMent:</head><p>The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. All procedures performed in studies involving human participants were in accordance with the Ethical Standards of the Institutional and/or National Research Committee(s) and with the Helsinki Declaration (as revised in 2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>InforMed consent:</head><p>Written informed consent was obtained from all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>orcId:</head><p>Ulrich Schneider: <ref type="url" target="https://orcid.org/0000-0002-2252-5188">https://orcid.org/0000-0002-2252-5188</ref> William Murrell: <ref type="url" target="https://orcid.org/0000-0001-8835-1806">https://orcid.org/0000-0001-8835-1806</ref> Peter Hollands: <ref type="url" target="https://orcid.org/0000-0003-4116-1954">https://orcid.org/0000-0003-4116-1954</ref> conflIct of Interest:</p><p>Ulrich Schneider is the inventor of GOLDIC ® and CEO of iRegMed. Emily Goetz von Wachter is employed by iRegMed. Kevin Lotzof, William Murrell and Peter Hollands declare that they have no conflicts of interest to disclose.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Platelet-rich plasma and bone marrow-derived mesenchymal stem cells in sports medicine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gobbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fishman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med Arthrosc Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="69" to="73" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gobbi A, Fishman M. Platelet-rich plasma and bone mar- row-derived mesenchymal stem cells in sports medicine. Sports Med Arthrosc Rev 2016; 24: 69-73.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Exosomes and microvesicles: applications for translational research from biomarkers to therapeutic applications -2013 ASMEV Meeting Report</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garcia-Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Robbins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CellR</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">e412</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Garcia-Contreras M, Robbins PD. Exosomes and mi- crovesicles: applications for translational research from biomarkers to therapeutic applications -2013 ASMEV Meeting Report. CellR4 2013; 1: e412.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Regenerative medicine: current therapies and future directions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Mooney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="14452" to="14459" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mao AS, Mooney DJ. Regenerative medicine: current therapies and future directions. Proc Natl Acad Sci U S A 2015; 112: 14452-14459.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Concise review: MSC-derived exosomes for cell-free therapy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Phinney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Pittenger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="851" to="858" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Phinney DG, Pittenger MF. Concise review: MSC-de- rived exosomes for cell-free therapy. Stem Cells 2017; 35: 851-858.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mesenchymal stem cell-based cell-free strategies: safe and effective treatments for liver injury</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cell Res Ther</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">377</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hu C, Zhao L, Zhang L, Bao Q, Li L. Mesenchymal stem cell-based cell-free strategies: safe and effective treat- ments for liver injury. Stem Cell Res Ther 2020; 11: 377.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Concise review: human embryonic stem cells-what have we done? What are we doing? Where are we going?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ilic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ogilvie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="17" to="25" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ilic D, Ogilvie C. Concise review: human embryonic stem cells-what have we done? What are we doing? Where are we going? Stem Cells 2017; 35: 17-25.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin is a marker and therapeutic agent in animal sepsis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Waxman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Cotich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Perrella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Stossel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Care Med</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="849" to="855" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lee PS, Waxman AB, Cotich KL, Chung SW, Perrella MA, Stossel TP. Plasma gelsolin is a marker and thera- peutic agent in animal sepsis. Crit Care Med 2007; 35: 849-855.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Hypogelsolinemia, a disorder of the extracellular actin scavenger system, in patients with multiple sclerosis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kułakowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Ciccarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mroczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Drozdowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szmitkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Janmey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bucki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Neurol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">107</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kułakowska A, Ciccarelli NJ, Wen Q, Mroczko B, Drozdowski W, Szmitkowski M, Janmey PA, Bucki R. Hypogelsolinemia, a disorder of the extracellular actin scavenger system, in patients with multiple sclerosis. BMC Neurol 2010; 10: 107.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin as a biomarker of inflammation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dinubile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Res Ther</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">124</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DiNubile MJ. Plasma gelsolin as a biomarker of inflam- mation. Arthritis Res Ther 2008; 10: 124.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Inactivation of endotoxin by human plasma gelsolin</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bucki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Georges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Espinassous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Funaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Pastore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chaby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Janmey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="9590" to="9597" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bucki R, Georges PC, Espinassous Q, Funaki M, Pastore JJ, Chaby R, Janmey PA. Inactivation of endotoxin by hu- man plasma gelsolin. Biochemistry 2005; 44: 9590-9597.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin: a general prognostic marker of health</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Peddada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashish</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="203" to="210" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peddada N, Sagar A, Ashish, Garg R. Plasma gelsolin: a general prognostic marker of health. Med Hypotheses 2012; 78: 203-210.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Decreased levels of the gelsolin plasma isoform in patients with rheumatoid arthritis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Osborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Verdrengh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Stossel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tarkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bokarewa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Res Ther</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">R117</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Osborn TM, Verdrengh M, Stossel TP, Tarkowski A, Bokarewa M. Decreased levels of the gelsolin plasma iso- form in patients with rheumatoid arthritis. Arthritis Res Ther 2008; 10: R117.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin levels decrease in diabetic state and increase upon treatment with F-actin depolymerizing versions of gelsolin</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Khatri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Peddada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Choudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Chopra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashish</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Diabetes Res</title>
+		<imprint>
+			<biblScope unit="volume">2014</biblScope>
+			<biblScope unit="page">152075</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khatri N, Sagar A, Peddada N, Choudhary V, Chopra BS, Garg V, Garg R, Ashish. Plasma gelsolin levels decrease in diabetic state and increase upon treatment with F-actin depolymerizing versions of gelsolin. J Diabetes Res 2014; 2014: 152075.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin levels in patients with psoriatic arthritis: a possible novel marker</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Esawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Makram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Albalat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Shabana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1881" to="1888" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Esawy MM, Makram WK, Albalat W, Shabana MA. Plas- ma gelsolin levels in patients with psoriatic arthritis: a pos- sible novel marker. Clin Rheumatol 2020; 39: 1881-1888.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">First results on the outcome of Gold-induced, Autologous-Conditioned Serum (GOL-DIC) in the treatment of different lameness-associated equine diseases 2013</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Veith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Sci Ther</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schneider U, Veith G. First results on the outcome of Gold-induced, Autologous-Conditioned Serum (GOL- DIC) in the treatment of different lameness-associated equine diseases 2013. J Cell Sci Ther 2013; 5: 151-157.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Intra-articular gold induced cytokine (GOLDIC®) injection therapy in patients with osteoarthritis of knee joint: a clinical study</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Murrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ezekwesili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Yurdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maffulli</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00264-020-04870-w</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int Orthop</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+	<note type="raw_reference">Schneider U, Kumar A, Murrell W, Ezekwesili A, Yurdi NA, Maffulli N. Intra-articular gold induced cytokine (GOLDIC®) injection therapy in patients with osteoar- thritis of knee joint: a clinical study. Int Orthop 2021; doi: 10.1007/s00264-020-04870-w. Epub ahead of print.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A critical review of visual analogue scales in the measurement of clinical phenomena</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Wewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Lowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res Nurs Health</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="227" to="236" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wewers ME, Lowe NK. A critical review of visual ana- logue scales in the measurement of clinical phenomena. Res Nurs Health 1990; 13: 227-236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The history of gold therapy for tuberculosis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Benedek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hist Med Allied Sci</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="50" to="89" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benedek TG. The history of gold therapy for tuberculosis. J Hist Med Allied Sci 2004; 59: 50-89.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Gold therapy in the treatment of rheumatoid arthritis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can Fam Physician</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="445" to="452" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davis P. Gold therapy in the treatment of rheumatoid ar- thritis. Can Fam Physician 1988; 34: 445-452.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Free actin impairs macrophage bacterial defenses via scavenger receptor MARCO interaction with reversal by plasma gelsolin</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ordija</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Chiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Deloid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliveira</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Valdo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bedugnis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Noah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koziel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kobzik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Lung Cell Mol Physiol</title>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="page" from="1018" to="L1028" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ordija CM, Chiou TT, Yang Z, Deloid GM, de Oliveira Valdo M, Wang Z, Bedugnis A, Noah TL, Jones S, Koziel H, Kobzik L. Free actin impairs macrophage bacterial de- fenses via scavenger receptor MARCO interaction with reversal by plasma gelsolin. Am J Physiol Lung Cell Mol Physiol 2017; 312: L1018-L1028.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Vesicular egress of non-enveloped lytic parvoviruses depends on gelsolin functioning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bär</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Daeffler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rommelaere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Nüesch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Pathog</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1000126</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bär S, Daeffler L, Rommelaere J, Nüesch JP. Vesicular egress of non-enveloped lytic parvoviruses depends on gelsolin functioning. PLoS Pathog 2008; 4: e1000126.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Depletion of plasma gelsolin in patients with tick-borne encephalitis and Lyme neuroborreliosis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kułakowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Zajkowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Ciccarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mroczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Drozdowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bucki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurodegener Dis</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="375" to="380" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kułakowska A, Zajkowska JM, Ciccarelli NJ, Mroczko B, Drozdowski W, Bucki R. Depletion of plasma gelsolin in patients with tick-borne encephalitis and Lyme neu- roborreliosis. Neurodegener Dis 2011; 8: 375-380.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Co-transplantation of human fetal mesenchymal and hematopoietic stem cells in type 1 diabetic mice model</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arjmand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goodarzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Aghayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Payab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alavi-Moghadam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mohamadi-Jahani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Larijani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">761</biblScope>
+			<date type="published" when="2019">2019</date>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arjmand B, Goodarzi P, Aghayan HR, Payab M, Rahim F, Alavi-Moghadam S, Mohamadi-Jahani F, Larijani B. Co-transplantation of human fetal mesenchymal and hematopoietic stem cells in type 1 diabetic mice model. Front Endocrinol (Lausanne) 2019; 10: 761.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Efficacy of autologous mesenchymal stem cell transplantation in patients with liver cirrhosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kantarcıoğlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Avcu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Karslıoğlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Babayiğit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Karaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Öztürk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gürel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akdoğan</forename><surname>Kayhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaçar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kubar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Öksüzoğlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ural</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Bağcı</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turk J Gastroenterol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="244" to="250" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kantarcıoğlu M, Demirci H, Avcu F, Karslıoğlu Y, Ba- bayiğit MA, Karaman B, Öztürk K, Gürel H, Akdoğan Kayhan M, Kaçar S, Kubar A, Öksüzoğlu G, Ural AU, Bağcı S. Efficacy of autologous mesenchymal stem cell transplantation in patients with liver cirrhosis. Turk J Gastroenterol 2015; 26: 244-250.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Role for interferon-gamma in the immunomodulatory activity of human bone marrow mesenchymal stem cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krampera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cosmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Angeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pasini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Andreini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Santarlasci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mazzinghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pizzolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Romagnani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maggi</forename><forename type="middle">E</forename><surname>Romagnani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Annunziato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="386" to="398" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krampera M, Cosmi L, Angeli R, Pasini A, Liotta F, An- dreini A, Santarlasci V, Mazzinghi B, Pizzolo G, Vinante F, Romagnani P, Maggi E, Romagnani S, Annunziato F. Role for interferon-gamma in the immunomodulatory ac- tivity of human bone marrow mesenchymal stem cells. Stem Cells 2006; 24: 386-398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">MSCs: delivery routes and engraftment, cell-targeting strategies, and immune Modulation</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Kean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Caplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Dennis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stem Cells Int</title>
+		<imprint>
+			<biblScope unit="volume">2013</biblScope>
+			<biblScope unit="page">732742</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kean TJ, Lin P, Caplan AI, Dennis JE. MSCs: delivery routes and engraftment, cell-targeting strategies, and im- mune Modulation. Stem Cells Int 2013; 2013: 732742.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">regenerative injectable therapies: current evidence</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Beutler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Sports Med Rep</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="353" to="359" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">West WH, Beutler AI, Gordon CR. regenerative inject- able therapies: current evidence. Curr Sports Med Rep 2020; 19: 353-359.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Neuroimmune modulation of pain and regenerative pain medicine</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buchheit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Maixner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="2164" to="2176" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buchheit T, Huh Y, Maixner W, Cheng J, Ji RR. Neuroim- mune modulation of pain and regenerative pain medicine. J Clin Invest 2020; 130: 2164-2176.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin: function, prognostic value, and potential therapeutic use</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bucki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Levental</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kulakowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Janmey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Protein Pept Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="541" to="551" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bucki R, Levental I, Kulakowska A, Janmey PA. Plasma gelsolin: function, prognostic value, and potential thera- peutic use. Curr Protein Pept Sci 2008; 9: 541-551.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Gold-induced autologous cytokine treatment in Achilles tendinopathy</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wallich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Felmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Murrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Muscle and Ten</title>
+		<editor>
+			<persName><surname>Gl Canata</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="411" to="420" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schneider U, Wallich R, Felmet G, Murrell W. Gold-in- duced autologous cytokine treatment in Achilles tendi- nopathy. Chapter 39. In GL Canata (ed) Muscle and Ten- don Injuries 2017; pp. 411-420.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin: indicator of inflammation and its potential as a diagnostic tool and therapeutic target</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Piktel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Levental</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Durnaś</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Janmey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bucki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Mol Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">2516</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Piktel E, Levental I, Durnaś B, Janmey PA, Bucki R. Plasma gelsolin: indicator of inflammation and its poten- tial as a diagnostic tool and therapeutic target. Int J Mol Sci 2018; 19: 2516.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Long-term treatment of rheumatoid arthritis with sulphasalazine, gold, or penicillamine: a comparison using life-table methods</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Situnayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Grindulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcconkey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Rheum Dis</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="177" to="183" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Situnayake RD, Grindulis KA, McConkey B. Long-term treatment of rheumatoid arthritis with sulphasalazine, gold, or penicillamine: a comparison using life-table methods. Ann Rheum Dis 1987; 46: 177-183.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Aurothiomalate and hydroxychloroquine inhibit nitric oxide production in chondrocytes and in human osteoarthritic cartilage</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vuolteenaho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kujala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moilanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="475" to="479" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vuolteenaho K, Kujala P, Moilanen T, Moilanen E. Au- rothiomalate and hydroxychloroquine inhibit nitric oxide production in chondrocytes and in human osteoarthritic cartilage. Scand J Rheumatol 2005; 34: 475-479.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Gelsolin superfamily proteins: key regulators of cellular functions</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Silacci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mazzolai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gauci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Stergiopulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hayoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Mol Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="2614" to="2623" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Silacci P, Mazzolai L, Gauci C, Stergiopulos N, Yin HL, Hayoz D. Gelsolin superfamily proteins: key regulators of cellular functions. Cell Mol Life Sci 2004; 61: 2614-2623.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Systemic administration of granulocyte colony-stimulating factor for osteochondral defect repair in a rat experimental model</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Itokazu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wakitani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cartilage</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="107" to="113" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Okano T, Mera H, Itokazu M, Okabe T, Koike T, Na- kamura H, Wakitani S. Systemic administration of granulocyte colony-stimulating factor for osteochon- dral defect repair in a rat experimental model. Cartilage 2014; 5: 107-113.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Decreased plasma gelsolin concentrations in acute liver failure, myocardial infarction, septic shock, and myonecrosis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Suhler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Care Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="594" to="598" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Suhler E, Lin W, Yin HL, Lee WM. Decreased plasma gelsolin concentrations in acute liver failure, myocardial infarction, septic shock, and myonecrosis. Crit Care Med 1997; 25: 594-598.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Multifunctional roles of gelsolin in health and diseases</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mcculloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Res Rev</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="999" to="1025" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li GH, Arora PD, Chen Y, McCulloch CA, Liu P. Multi- functional roles of gelsolin in health and diseases. Med Res Rev 2012; 32: 999-1025.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Antioxidant and wound healing property of gelsolin in 3T3-L1 cells</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Chopra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Raut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Badmalia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashish</forename><surname>Khatri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxid Med Cell Longev</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page">4045365</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vaid B, Chopra BS, Raut S, Sagar A, Badmalia MD, Ash- ish, Khatri N. Antioxidant and wound healing property of gelsolin in 3T3-L1 cells. Oxid Med Cell Longev 2020; 2020: 4045365.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Low admission plasma gelsolin concentrations identify community-acquired pneumonia patients at high risk for severe outcomes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Self</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wunderink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dinubile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Stossel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Levinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bramley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Grijalva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="1218" to="1225" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Self WH, Wunderink RG, DiNubile MJ, Stossel TP, Levinson SL, Williams DJ, Anderson EJ, Bramley AM, Jain S, Edwards KM, Grijalva CG. Low admission plas- ma gelsolin concentrations identify community-acquired pneumonia patients at high risk for severe outcomes. Clin Infect Dis 2019; 69: 1218-1225.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Plasma gelsolin improves lung host defense against pneumonia by enhancing macrophage NOS3 function</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Chiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Stossel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kobzik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Lung Cell Mol Physiol</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page" from="11" to="16" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yang Z, Chiou TT, Stossel TP, Kobzik L. Plasma gelsolin improves lung host defense against pneumonia by en- hancing macrophage NOS3 function. Am J Physiol Lung Cell Mol Physiol 2015; 309: L11-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Neuroprotective effects of gelsolin during murine stroke</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Endres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Stagliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bondada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Geddes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Azuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kwiatkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Moskowitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="347" to="354" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Endres M, Fink K, Zhu J, Stagliano NE, Bondada V, Ged- des JW, Azuma T, Mattson MP, Kwiatkowski DJ, Mos- kowitz MA. Neuroprotective effects of gelsolin during murine stroke. J Clin Invest 1999; 103: 347-354.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Biomarkers of unfavorable outcome in acute ischemic stroke patients with successful recanalization by endovascular thrombectomy</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="583" to="592" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zang N, Lin Z, Huang K, Pan Y, Wu Y, Wu Y, Wang S, Wang D, Ji Z, Pan S. Biomarkers of unfavorable outcome in acute ischemic stroke patients with successful recanal- ization by endovascular thrombectomy. Cerebrovasc Dis 2020; 49: 583-592.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

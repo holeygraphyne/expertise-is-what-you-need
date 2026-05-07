@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Kepler-16: A Transiting Circumbinary Planet</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-09-16">2011-09-16</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Laurance</forename><forename type="middle">R</forename><surname>Doyle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joshua</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">C</forename><surname>Fabrycky</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Slawson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Steve</forename><forename type="middle">B</forename><surname>Howell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joshua</forename><forename type="middle">N</forename><surname>Winn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jerome</forename><forename type="middle">A</forename><surname>Orosz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Andrej</forename><surname>Prˇsa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">F</forename><surname>Welsh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Samuel</forename><forename type="middle">N</forename><surname>Quinn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Latham</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Guillermo</forename><surname>Torres</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lars</forename><forename type="middle">A</forename><surname>Buchhave</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Geoffrey</forename><forename type="middle">W</forename><surname>Marcy</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">J</forename><surname>Fortney</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Avi</forename><surname>Shporer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eric</forename><forename type="middle">B</forename><surname>Ford</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">J</forename><surname>Lissauer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Darin</forename><surname>Ragozzine</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Rucker</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Natalie</forename><surname>Batalha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jon</forename><forename type="middle">M</forename><surname>Jenkins</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Borucki</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Koch</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Christopher</forename><forename type="middle">K</forename><surname>Middour</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jennifer</forename><forename type="middle">R</forename><surname>Hall</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sean</forename><surname>Mccauliff</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">N</forename><surname>Fanelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elisa</forename><forename type="middle">V</forename><surname>Quintana</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Matthew</forename><forename type="middle">J</forename><surname>Holman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><forename type="middle">A</forename><surname>Caldwell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Martin</forename><surname>Still</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><forename type="middle">P</forename><surname>Stefanik</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Warren</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gilbert</forename><forename type="middle">A</forename><surname>Esquerdo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sumin</forename><surname>Tang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gabor</forename><surname>Furesz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">C</forename><surname>Geary</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Perry</forename><surname>Berlind</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Calkins</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Donald</forename><forename type="middle">R</forename><surname>Short</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jason</forename><forename type="middle">H</forename><surname>Steffen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dimitar</forename><surname>Sasselov</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">W</forename><surname>Dunham</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">D</forename><surname>Cochran</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alan</forename><surname>Boss</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Haas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Derek</forename><surname>Buzasi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Debra</forename><surname>Fischer</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Chemistry and Biochemistry , The University of Texas at Austin , 1 University Station A1590 , Austin , TX 78712 , USA.</note>
+								<orgName type="department">Department of Chemistry and Biochemistry</orgName>
+								<orgName type="institution">The University of Texas at Austin</orgName>
+								<address>
+									<addrLine>1 University Station A1590</addrLine>
+									<postCode>78712</postCode>
+									<settlement>Austin</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Kepler-16: A Transiting Circumbinary Planet</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Science</title>
+						<title level="j" type="abbrev">Science</title>
+						<idno type="ISSN">0036-8075</idno>
+						<idno type="eISSN">1095-9203</idno>
+						<imprint>
+							<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+							<biblScope unit="volume">333</biblScope>
+							<biblScope unit="issue">6049</biblScope>
+							<biblScope unit="page" from="1602" to="1606"/>
+							<date type="published" when="2011-09-16" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A7BC9821667873E4EA2265A66DD3E738</idno>
+					<idno type="DOI">10.1126/science.1210923</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>planet are expected to produce seasonal temperature variations of around 30 K.</p><p>The planetary orbit is aligned with the stellar orbit to within 0.4°. This extreme coplanarity suggests that the planet was formed along with the stars, within a circumbinary protoplanetary disk, as opposed to being captured from another system. Planetesimal formation around an eccentric binary is a theoretical challenge, because of the large collision velocities of particles that are stirred by the stellar binary <ref type="bibr">(24)</ref>, although the detection of debris disks around close binaries has been interpreted as dust produced by colliding planetesimals <ref type="bibr" target="#b24">(25)</ref>. Subsequent stages of planet formation around binaries have been studied theoretically, both for terrestrial planets <ref type="bibr" target="#b25">(26)</ref> and gas giants <ref type="bibr" target="#b26">(27)</ref>, but these and other theoretical studies <ref type="bibr" target="#b27">(28)</ref> have lacked a well-specified circumbinary planetary system that could allow such a refinement of models.</p><p>Finally, the stars themselves are worthy of attention, independently of the planet. It is rare to measure the masses and radii of such small stars with such high precision, using geometrical and dynamical methods independent of stellar evolutionary models. In particular, star B, with only 20% the mass of the Sun, is the smallest main-sequence star for which such precise mass and radius data are available (29) (Fig. <ref type="figure">3</ref>). The mass ratio of 0.29 is also among the smallest known for binaries involving fully convective stars at the low-mass end of the main sequence <ref type="bibr" target="#b27">(28)</ref>. With well-characterized low-mass stars, in addition to a transiting circumbinary planet, this makes Kepler-16 a treasure for both exoplanetary and stellar astrophysical investigations. The specific targeting of covalent bonds in a local, anisotropic fashion using mechanical methods offers useful opportunities to direct chemical reactivity down otherwise prohibitive pathways. Here, we report that embedding the highly inert 1,2,3-triazole moiety (which is often prepared using the canonical "click" coupling of azides and alkynes) within a poly(methyl acrylate) chain renders it susceptible to ultrasound-induced cycloreversion, as confirmed by comprehensive spectroscopic and chemical analyses. Such reactivity offers the opportunity to develop triazoles as mechanically labile protecting groups or for use in readily accessible materials that respond to mechanical force.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Online Material</head><p>T he 1,3-dipolar cycloaddition of azide and alkyne moieties (1, 2), which allows access to a variety of substituted triazoles, is included under the umbrella of "click" chemistry. This reaction has found broad applicability over the past decade because it exhibits rapid kinetics under mild conditions, high functional group and solvent tolerance, and good atom economy, and it has a propensity to generate relatively chemically inert and thermally stable products. In addition to finding compelling use in molecular and polymer functionalizations, this coupling motif has been applied to robust, chemically orthogonal ligations for the study of biological systems <ref type="bibr">(3)</ref><ref type="bibr">(4)</ref><ref type="bibr">(5)</ref><ref type="bibr">(6)</ref><ref type="bibr">(7)</ref><ref type="bibr">(8)</ref><ref type="bibr">(9)</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref>. However, a consequence of the high kinetic stability of these triazole products is that simple chemical or thermal treatments capable of cleanly reverting the coupling reactions into their constituent azides and alkynes are unknown. We envisioned that mechanical force could be used to surmount the otherwise inaccessible barrier to triazole cycloreversion; that is, under the appropriate mechanical stress, triazoles might not retain their structural integrity. Such a retrocycloaddition would also indicate that triazoles are not necessarily orthogonal to chemical transformations and would provide a method by which reactive azide or alkyne intermediates could be selectively unmasked to effect desired transformations (Scheme 1).</p><p>Recent advances in mechanochemistry (12)wherein exogenous forces can be directed to mechanophores, or small molecules possessing mechanically labile bonds, through the judicious attachment of polymer chains-have demonstrated that formally disallowed pericyclic reactions and thermally inaccessible isomerizations can be readily induced through site-specific mechanical activation <ref type="bibr">(13)</ref><ref type="bibr">(14)</ref><ref type="bibr">(15)</ref><ref type="bibr">(16)</ref><ref type="bibr">(17)</ref><ref type="bibr">(18)</ref>. Such forces can be harnessed through the application of ultrasound to polymer solutions, whereby cavitation induces velocity gradients and attendant stress to the solvated polymer chains <ref type="bibr">(12)</ref>. Mechanical forces are presumed to promote otherwise prohibited reactions through ground-state destabilization of the reactants (as a result of changes in molecular geometry) or the stabilization of reactive intermediates at or near the transition state of the reaction coordinate <ref type="bibr">(19,</ref><ref type="bibr">20)</ref>. Based on this foundation, we hypothesized that triazoles, although remarkably inert toward chemical and thermal perturbation, could be coerced to undergo cycloreversion through the strategic application of mechanical force.</p><p>To assess the mechanophoricity of the triazole moiety, diol 1 was condensed with 2-bromoisobutyryl bromide to generate the bifunctional initiator 3 (Scheme 2). Subsequent Cu-mediated singleelectron transfer living radical polymerization (SET LRP) of methyl acrylate from 3 resulted in a triazole-centered poly(methyl acrylate) (TriP Mn , where M n refers to the number average molecular weight of the polymer) (Scheme 2). Analysis by gel permeation chromatography (GPC) revealed that the material (TriP 96 ) displayed an M n of 96 kD and a polydispersity index (PDI) of 1.3 <ref type="bibr">(21)</ref>. Subjecting an acetonitrile (CH 3 CN) solution of TriP 96 to ultrasound for 2 hours in a Suslick cell <ref type="bibr">(22)</ref> at 0°C resulted in a decrease in the polymer's M n from 96 to 48 kD (Fig. <ref type="figure" target="#fig_4">1A</ref>, black and red lines, respectively). This change was consistent with chain scission near the center of the polymer, which indicated the potential activation (i.e., cycloreversion) of the centrally located mechanophore. Additionally, the infrared (IR) spectrum of the postsonicated polymer revealed diagnostic signals consistent with the presence of azide (2133 cm -1 ) and terminal alkyne (3021 and 2039 cm -1 ) functionalities that were not present in the IR spectrum of the presonicated material (Fig. <ref type="figure" target="#fig_4">1B</ref>).</p><p>To further demonstrate that the result of mechanical scission was the expected azide and alkyne products of triazole cycloreversion, we sought to selectively label these moieties with diagnostic chromophores possessing complementary functionalities. Pyrene derivatives exhibit distinct absorbances in the ultraviolet-visible (UVvis) spectrum; thus, 1-azidopyrene was chosen to selectively label the mechanically liberated alkyne with a chromophore through the [3+2] cycloaddition process of classic click chemistry (Scheme 2). The postsonicated TriP 96 was dissolved in CH 3 CN, and 1-azidopyrene was cycloadded to the free alkyne using CuI. GPC with concomitant UV-vis detection revealed that the labeled polymer had an increased absorbance at l = 350 nm (a l max associated with pyrene) relative to the starting material at the same concentration (Fig. <ref type="figure" target="#fig_4">1C</ref>). The presonicated TriP 96 polymer exhibited no observable reaction with 1-azidopyrene under identical conditions.</p><p>Parallel efforts to selectively label the liberated azide focused on N-heterocyclic carbenes (NHCs), such as 1,3-dimesitylnapthoquinimidazolylidene (NQMes), which are known <ref type="bibr">(23)</ref> to produce intensely colored, linear diazo aminoimidazoles (DAAIs) upon reaction with azides (Scheme 2). As such, NQMes was added to a solution of postsonicated TriP 96 in dry tetrahydrofuran (THF) under an inert atmosphere. Within 20 min of the NQMes addition, the color of the solution changed from green to blue. UVvis spectroscopic analysis of the labeled polymer product revealed increased absorbances at l = 264, 295, and 310 nm relative to the starting material, a result that was subsequently confirmed by GPC <ref type="bibr">(21)</ref>. Collectively, these data are consistent with DAAI formation from an azideterminated polymer (Fig. <ref type="figure" target="#fig_4">1D</ref>). In addition, the presonicated TriP 96 polymer did not exhibit DAAI formation under identical conditions, as determined by UV-vis spectroscopy and GPC. Thus, the selective labeling of both azide and alkyne functionalities in postsonicated TriP 96 , but not presonicated TriP 96 , provided further support for the proposed mechanically facilitated [3+2] cycloreversion process.</p><p>Thermally induced cycloreversion was excluded through a series of control experiments. Previous reports <ref type="bibr">(12)</ref><ref type="bibr">(13)</ref><ref type="bibr">(14)</ref><ref type="bibr">(15)</ref><ref type="bibr">(16)</ref><ref type="bibr">(17)</ref><ref type="bibr">(18)</ref> have demonstrated that sonochemically induced transformations are dependent on the length of the polymer chains attached to the mechanophore (a phenomenon that is not expected if mechanophore activation is a purely thermal process). As such, a series of poly(methyl acrylate) chains of varying M n were synthesized from 3 via SET LRP (M n = 16 to 1 160 kD) (Table <ref type="table">1</ref>). Additionally, a small molecule analog of TriP 96 featuring pivalate groups in lieu of polymer chains (2) was also prepared. The various TriP Mn polymers and 2 were then individually subjected to the sonication conditions described above for TriP 96 . After sonication, GPC analysis of the isolated materials revealed that chain scission was dependent on the M n since only higher molecular weight polymers (&gt;36 kD) underwent activation (Table <ref type="table">1</ref>). Furthermore, there was no observable alteration of 2 under sonication, as determined by 1 H nuclear magnetic resonance spectroscopy <ref type="bibr">(21)</ref>. Thermogravimetric analysis of 2 showed that this compound began to decompose at ~255°C in the solid state; however, when TriP 96 was heated in diphenyl ether at a similar temperature (258°C) for 19 hours, there was no observable chain scission by GPC (Fig. <ref type="figure" target="#fig_4">1A</ref>, <ref type="figure">green</ref>). Together, these data exclude a thermally promoted cycloreversion of these triazoles as a viable pathway for the chain scission observed under ultrasound.</p><p>Finally, we reasoned that if the cycloreversion was mechanical in nature, then the position of the mechanophore within the polymer chain should effect the activation process <ref type="bibr">(12)</ref>. To explore, triazoles bearing a single polymer chain at either the 1 or 4 position were synthesized. The resulting materials were subjected to the sonication and labeling experiments as described for TriP 96 ; neither control revealed a reduction in M n or a positive azide or alkyne labeling result. Collectively, these data suggested that the triazole must be embedded within the polymer chain near the midpoint to experience the force necessary to facilitate cycloreversion <ref type="bibr">(21)</ref>.</p><p>Having established that the observed 1,3dipolar cycloreversion generated polymer chains terminated with reactive azide and alkyne moieties, we envisioned reclicking the two polymer chains together. TriP 96 was subjected to the ultrasonication conditions described above and then analyzed by GPC (M n = 48 kD). After dissolution in degassed CH 3 CN and the addition of CuI, the resulting mixture was stirred at 80°C for 19 hours. Upon isolation of the product, GPC analysis (Fig. <ref type="figure" target="#fig_4">1A</ref>, blue) indicated the formation of a polymeric material having a peak molecular weight (M p , determined by the molecular weight at the peak retention time) similar to that of the presonicated material (i.e., M p = 90 kD for the coupled product versus M p = 99 kD for the presonicated material). Deconvolution and integration of the GPC curves obtained upon analysis of this reclicked polymer indicated that the recoupling efficiency was ~86% (21). To Table <ref type="table">1</ref>. Selected molecular weight data. Tri refers to the 1,2,3-triazole moiety and P Mn corresponds to the approximate number average molecular weight (M n ) of the respective polymer in kD. The polydispersity index (PDI) was calculated using the equation PDI = M w /M n , where M w is the weight average molecular weight. M n and M w were determined as their polystyrene equivalents by GPC (eluent, THF).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Presonication</head><p>Postsonication Sonication time Name M n (kD) PDI M n (kD) PDI (hours) TriP 160 160 1.2 84 1.3 2 TriP 96 96 1.3 48 1.4 2 TriP 63 63 1.3 32 1.4 5 TriP 36 36 1.3 33 1.3 7 TriP 16 16 1.4 16 1.4 7 REPORTS Downloaded from <ref type="url" target="https://www.science.org">https://www.science.org</ref> at Case Western Reserve University on April 09, 2026 demonstrate the reproducibility of these highly efficient processes, TriP 160 was successfully subjected to two cycles of mechanically induced cycloreversion and subsequent Cu catalyzed cycloaddition with similar results (21).</p><p>Collectively, these results demonstrate that directed mechanical forces can effect the previously elusive retroclick reaction, transforming triazoles into their azide and alkyne precursors. The ability to selectively deconstruct triazoles with high fidelity presents the opportunity to employ these readily accessible moieties in mechanoresponsive materials or as mechanically labile protecting groups. The former could include dye-sensitized force sensors <ref type="bibr">(24)</ref> or force responsive fluorescent tags for biological assays. The latter would be of particular appeal for preventing undesired side reactivity in the presence of strong nucleophiles, especially considering that a broad range of substituents covalently bonded to the azide and alkyne coupling partners should tolerate ultrasonication. In a broader perspective, the methodolgy for triazole cycloreversion established here could be used to coax other kinetically stable molecules to exhibit uncommon reactivity under the influence of exogenous mechanical forces.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Primary Alcohols from Terminal Olefins: Formal Anti-Markovnikov Hydration via Triple Relay Catalysis</head><p>Guangbin Dong, <ref type="foot" target="#foot_3">1</ref> Peili Teo, 1,3 Zachary K. Wickens, 1 Robert H. Grubbs 1,<ref type="foot" target="#foot_4">foot_4</ref> * Alcohol synthesis is critical to the chemical and pharmaceutical industries. The addition of water across olefins to form primary alcohols (anti-Markovnikov olefin hydration) would be a broadly useful reaction but has largely proven elusive; an indirect hydroboration/oxidation sequence requiring stoichiometric borane and oxidant is currently the most practical methodology. Here, we report a more direct approach with the use of a triple relay catalysis system that couples palladium-catalyzed oxidation, acid-catalyzed hydrolysis, and ruthenium-catalyzed reduction cycles. Aryl-substituted terminal olefins are converted to primary alcohols by net reaction with water in good yield and excellent regioselectivity. O lefin hydration, the addition of water across a carbon-carbon double bond, is an important industrial process for the synthesis of alcohols <ref type="bibr">(1)</ref> and can be readily catalyzed by acids, metal oxides, zeolites, and clays <ref type="bibr">(2)</ref>. However, in accord with Markovnikov's rule, the proton bonds to the less substituted carbon in these processes (3), and thus, primary alcohols (except ethanol) are difficult to obtain (Fig. <ref type="figure" target="#fig_1">1</ref>, equation 1). Given the broad usefulness of pri-mary alcohols in bulk/fine chemical and pharmaceutical industries (1), there is a compelling need to develop selective catalysts for direct anti-Markovnikov hydration of alkenes <ref type="bibr">(4,</ref><ref type="bibr">5)</ref>. Currently, a popular indirect protocol involving hydroboration/oxidation (3) affords hydration products with anti-Markovnikov regioselectivity (Fig. <ref type="figure" target="#fig_1">1</ref>, equation 2). This two-step process requires a stoichiometric amount of borane reagents and generates boron waste that is difficult to recycle. Moreover, the peroxides used in the oxidation step raise safety concerns for large-scale production. A hydroformylation/reduction sequence can also produce primary alcohols albeit through a homologation process (Fig. <ref type="figure" target="#fig_1">1</ref>, equation 3) (6, 7). Campbell et al. recently developed an interesting strategy using a Pd-catalyzed allylic oxidation/ester hydrolysis/olefin reduction sequence to achieve the transformation of termi-nal olefins to primary alcohols <ref type="bibr">(8)</ref>. Although effective, this approach requires a three-step operation.</p><p>In contrast to anti-Markovnikov olefin hydroamination <ref type="bibr">(9)</ref> and alkyne hydration <ref type="bibr">(10)</ref>, two closely related reactions, very limited success has been achieved toward anti-Markovnikov olefin hydration (Fig. <ref type="figure" target="#fig_1">1</ref>, equation 4) <ref type="bibr">(5,</ref><ref type="bibr">9)</ref>. In 1986, it was reported that trans-PtHCl(PMe 3 ) 2 (Me, methyl) was able to catalyze hydration of 1-hexene to 1-hexanol <ref type="bibr">(11)</ref>; unfortunately, this work was difficult to reproduce <ref type="bibr">(5,</ref><ref type="bibr">12)</ref>, as was the method in a later report <ref type="bibr">(13)</ref>. Reliable one-step catalytic protocols are currently limited to certain activated classes of olefin <ref type="bibr">(14,</ref><ref type="bibr">15)</ref>. Here, we describe an effective method for the direct synthesis of primary alcohols from nonactivated terminal olefins (defined as non-Michael reaction acceptors) using a triple relay catalysis ( <ref type="formula">16</ref>) system, as progress toward an ideal system for catalytic anti-Markovnikov olefin hydration.</p><p>Our strategy for anti-Markovnikov olefin hydration is based on a two-catalyst cooperative system involving an oxidation cycle followed by a reduction cycle (Fig. <ref type="figure">2</ref>). Studies of the Wacker oxidation <ref type="bibr">(17)</ref> have established that Pd II salts such as PdCl 2 (X = Cl) can oxidize olefins in the presence of water to produce a carbonyl compound, an acid (HCl), and a palladium hydride (H-Pd-Cl). Precedents also exist for certain metal hydrides (M-H; M = Ru, Ir, Fe, Ni, Pt, etc.) to readily reduce carbonyl compounds, while in the process forming metal alkoxides that can be subsequently protonated by an acid (HX) to give an alcohol and metal salts (M-X) <ref type="bibr">(18)</ref>. In principle, these two known processes could be combined through a hydride transfer from Pd to M, in which the carbonyl compound and the acid generated from the oxidation cycle constitute the reactants After concerns were raised in an e-mail to the editors from a reader, the corresponding author supervised a comprehensive evaluation of all data presented in the original manuscript by tracing all figures back to their raw data files. In over 50% of the figure parts, the authors deemed the data unreliable due to uncertainty regarding the origin of data or the manner in which the data were processed. A confidential investigation that is relevant to these concerns is currently being conducted by the University of Texas at Austin.</p><p>Pending the conclusion of the investigation, Science is publishing this Editorial Expression of Concern to alert our readers to the fact that serious questions have been raised about the validity of findings in the Brantley et al. paper. Brantley et al. After concerns were raised in an e-mail to the editors from a reader, the corresponding author supervised a comprehensive evaluation of all data presented in the original manuscript by tracing all figures back to their raw data files. In over 50% of the figure parts, the authors deemed the data unreliable due to uncertainty regarding the origin of data or the manner in which the data were processed. The University of Texas at Austin conducted a confidential investigation and shared the conclusion that scientific misconduct had occurred, but provided no further detail of the nature of the misconduct. After the conclusion of the investigation, authors Bielawski and Brantley volunteered to withdraw the paper; it has not been possible to contact author Wiggins. Science is therefore retracting the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MARCIA MCNUTT</head><p>Editor-in-Chief</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>www.sciencemag.org/cgi/content/full/333/6049/1602/DC1 SOM Text Figs. S1 to S3 Tables S1 to S5 References (31-41) 8 July 2011; accepted 18 August 2011 10.1126/science.1210923 REPORTS Unclicking the Click: Mechanically Facilitated 1,3-Dipolar Cycloreversions Johnathan N. Brantley, Kelly M. Wiggins, Christopher W. Bielawski*</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Scheme 1 .</head><label>1</label><figDesc>Scheme 1. The application of ultrasound to a triazole embedded within a poly(methyl acrylate) chain results in a formally retro [3+2] cycloaddition (red). The liberated azide and alkyne moieties can be subsequently clicked back together to afford the triazole-based starting material (black).</figDesc><graphic coords="2,58.05,201.03,299.95,197.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. (A) GPC traces showing the scission of TriP 96 (black) under sonication (red) and reformation of the triazole through a CuI-mediated click reaction (blue). Refluxing TriP 96 in diphenyl ether (258°C) for 19 hours did not result in a reduction of polymer molecular weight (green). (B) Infrared spectra (in THF) of TriP 96 before (black) and after (red) sonication, showing the appearance of the expected azide (N=N=N) and alkyne (CC and CH) stretching frequencies (*) at 2133 cm -1 and 2039/3021 cm -1 , respectively. The inset displays a magnified spectrum of the region from 2000 to 3500 cm -1 . (C) GPC traces (visualized using UV detection at 350 nm) showing an increased absorbance for the postsonicated TriP 96 polymer upon reaction with 1-azidopyrene (blue) compared with the presonicated TriP 96 (red) at the same concentration. (D) GPC traces (visualized using UV detection at 310 nm) showing an increased absorbance for the postsonicated TriP 96 polymer upon reaction with NQMes (blue) compared with the presonicated TriP 96 (red) at the same concentration.</figDesc><graphic coords="3,63.07,34.60,467.95,280.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>REPORTS</head><figDesc>Downloaded from https://www.science.org at Case Western Reserve University on April 09, 2026 www.sciencemag.org SCIENCE ERRATUM POST DATE 27 JUNE 2014 1 EDITORIAL EXPRESSION OF CONCERN In the 16 September 2011 issue, Science published the Report "Unclicking the click: Mechanically facilitated 1,3-dipolar cycloreversions" by J. N. Brantley et al. (1).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>1 RETRACTION</head><label>1</label><figDesc>www.sciencemag.org SCIENCE ERRATUM POST DATE 20 FEBRUARY 2015 On 27 June 2014, Science published an Editorial Expression of Concern about the Report "Unclicking the click: Mechanically facilitated 1,3-dipolar cycloreversions" by J. N.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_0"><p>SEPTEMBER 2011 VOL 333 SCIENCE www.sciencemag.org 1606 RETRACTED 20 FEBRUARY 2015; EDITORIAL EXPRESSION OF CONCERN 27 JUNE 2014; SEE LAST PAGES Downloaded from https://www.science.org at Case Western Reserve University on April 09, 2026</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_1"><p>SEPTEMBER 2011 VOL 333 SCIENCE www.sciencemag.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>May 2011; accepted 26 July 2011 10.1126/science.1207934</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_3"><p>Arnold and Mabel Beckman Laboratories for Chemical Synthesis, Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, CA 91125, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_4"><p>Visiting Chair Professor at King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31261" xml:id="foot_5"><p>3  Institute of Chemical and Engineering Sciences, 1 Pesek Road, Jurong Island, Singapore 627833. *To whom correspondence should be addressed. E-mail: rhg@caltech.edu</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table">S1</ref> and <ref type="table">S2</ref> <p>References <ref type="bibr" target="#b24">(25)</ref><ref type="bibr" target="#b25">(26)</ref><ref type="bibr" target="#b26">(27)</ref><ref type="bibr" target="#b27">(28)</ref><ref type="bibr" target="#b28">(29)</ref><ref type="bibr" target="#b29">(30)</ref><ref type="bibr">(31)</ref><ref type="bibr">(32)</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RETRACTED: Unclicking the Click: Mechanically Facilitated 1,3-Dipolar Cycloreversions</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H.-J</forename><surname>Deeg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">480</biblScope>
+			<biblScope unit="page">563</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.-J. Deeg et al., Astron. Astrophys. 480, 563 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. J</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">3181</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. W. Lee et al., Astron. J. 137, 3181 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Beuermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">521</biblScope>
+			<biblScope unit="page">60</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Beuermann et al., Astron. Astrophys. 521, L60 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Winn</surname></persName>
+		</author>
+		<editor>Exoplanets, S. Seager</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Univ. of Arizona Press</publisher>
+			<biblScope unit="page" from="55" to="77" />
+			<pubPlace>Tucson, AZ</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. N. Winn, in Exoplanets, S. Seager, Ed. (Univ. of Arizona Press, Tucson, AZ, 2010), pp. 55-77.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Borucki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page">977</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. J. Borucki et al., Science 327, 977 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Koch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">713</biblScope>
+			<biblScope unit="page">79</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Koch et al., Astrophys. J. Lett. 713, L79 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Caldwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">713</biblScope>
+			<biblScope unit="page">92</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. A. Caldwell et al., Astrophys. J. Lett. 713, L92 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Jenkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">713</biblScope>
+			<biblScope unit="page">87</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Jenkins et al., Astrophys. J. Lett. 713, L87 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prša</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. J</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page">83</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Prša et al., Astron. J. 141, 83 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Kepler eclipsing binary stars</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Slawson</surname></persName>
+		</author>
+		<ptr target="http://arxiv.org/abs/1103.1659" />
+		<imprint/>
+	</monogr>
+	<note>II. 2166 eclipsing binaries in the second data release</note>
+	<note type="raw_reference">R. W. Slawson et al., Kepler eclipsing binary stars. II. 2166 eclipsing binaries in the second data release; preprint available at http://arxiv.org/abs/1103.1659.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Deeg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page">479</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. J. Deeg et al., Astron. Astrophys. 338, 479 (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Doyle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">535</biblScope>
+			<biblScope unit="page">338</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. R. Doyle et al., Astrophys. J. 535, 338 (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Irwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">211</biblScope>
+			<date type="published" when="1952">1952</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Irwin, Astrophys. J. 116, 211 (1952).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sybilski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Konacki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kozlowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">405</biblScope>
+			<biblScope unit="page">657</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Sybilski, M. Konacki, S. Kozlowski, Mon. Not. R. Astron. Soc. 405, 657 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename></persName>
+		</author>
+		<title level="m">Close Binary Systems</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman &amp; Hall</publisher>
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. Kopal, Close Binary Systems (Chapman &amp; Hall, London, 1959).</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haghighipour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pilat-Lohinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Funk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">414</biblScope>
+			<biblScope unit="page">2763</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Schwarz, N. Haghighipour, S. Eggl, E. Pilat-Lohinger, B. Funk, Mon. Not. R. Astron. Soc. 414, 2763 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">331</biblScope>
+			<biblScope unit="page">562</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. A. Carter et al., Science 331, 562 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mandel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Agol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">580</biblScope>
+			<biblScope unit="page">171</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>L</note>
+	<note type="raw_reference">K. Mandel, E. Agol, Astrophys. J. 580, L171 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Speckle interferometric imaging with the WIYN telescope also restricted any contaminating stars separated by &gt;0.02 arc sec to have a flux less than 3% of the system</title>
+	</analytic>
+	<monogr>
+		<title level="j">For the methodology</title>
+		<imprint>
+			<biblScope unit="issue">30</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Speckle interferometric imaging with the WIYN telescope also restricted any contaminating stars separated by &gt;0.02 arc sec to have a flux less than 3% of the system. For the methodology, see (30).</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J F</forename><surname>Ter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Braak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Comput</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">239</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. J. F. Ter Braak, Stat. Comput. 16, 239 (2006).</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">On the naming convention used for multiple star systems and extrasolar planets</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Hessman</surname></persName>
+		</author>
+		<ptr target="http://arxiv.org/abs/1012.0707" />
+	</analytic>
+	<monogr>
+		<title level="m">open letter to the stellar and exoplanet communities</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">F. V. Hessman et al., &quot;On the naming convention used for multiple star systems and extrasolar planets,&quot; open letter to the stellar and exoplanet communities, available at http://arxiv.org/abs/1012.0707.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Fortney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Marley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">659</biblScope>
+			<biblScope unit="page">1661</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. J. Fortney, M. S. Marley, J. W. Barnes, Astrophys. J. 659, 1661 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Guillot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Earth Planet. Sci</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">493</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Guillot, Annu. Rev. Earth Planet. Sci. 33, 493 (2005).</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Marzari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Thebault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="page">1119</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Scholl, F. Marzari, P. Thebault, Mon. Not. R. Astron. Soc. 380, 1119 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Trilling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">658</biblScope>
+			<biblScope unit="page">1289</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. E. Trilling et al., Astrophys. J. 658, 1289 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Quintana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lissauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Icarus</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. V. Quintana, J. J. Lissauer, Icarus 185, 1 (2006).</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pierens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">483</biblScope>
+			<biblScope unit="page">633</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Pierens, R. P. Nelson, Astron. Astrophys. 483, 633 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haghighipour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Planets in Binary Star Systems</title>
+		<title level="s">Astrophysics and Space Science Library</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">366</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N. Haghighipour, Planets in Binary Star Systems (Astrophysics and Space Science Library, vol. 366, Springer, New York, 2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giménez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Torres, J. Andersen, A. Giménez, Astron. Astrophys. Rev. 18, 67 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Everett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sherry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Horch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. J</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Scientist Program (grant no. NNX08AR15G NASA through Hubble Fellowship grants HF-51267.01</note>
+	<note type="raw_reference">S. B. Howell, M. E. Everett, W. Sherry, E. Horch, D. Ciardi, Astron. J. 142, 19 (2011). Acknowledgments: NASA&apos;s Science Mission Directorate provided funding for the Kepler Discovery mission. L.R.D. acknowledges the NASA Kepler Participating Scientist Program (grant no. NNX08AR15G) and helpful discussions with the Kepler Science Team. J.A.C. and D.C.F. acknowledge support for this work provided by NASA through Hubble Fellowship grants HF-51267.01</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Space Telescope Science Institute</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Research in Astronomy for NASA, under contract NAS 5-26555</note>
+	<note type="raw_reference">-A and HF-51272.01-A awarded by the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy for NASA, under contract NAS 5-26555.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N W</forename></persName>
+		</author>
+		<ptr target="http://archive.stsci.edu/prepds/kepler_hlsp.ReferencesandNotes" />
+		<title level="m">grateful for support from the NASA Origins program (grant NNX09AB33G). The Kepler data used in this analysis can</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">J.N.W. is grateful for support from the NASA Origins program (grant NNX09AB33G). The Kepler data used in this analysis can be downloaded from http://archive.stsci.edu/prepds/kepler_hlsp. References and Notes</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Rostovtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Fokin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Sharpless</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">2596</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. V. Rostovtsev, L. G. Green, V. V. Fokin, K. B. Sharpless, Angew. Chem. Int. Ed. 41, 2596 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tornøe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page">3057</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. W. Tornøe, C. Christensen, M. Meldal, J. Org. Chem. 67, 3057 (2002).</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Tripp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Sharpless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Fokin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">8018</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. E. Hein, J. C. Tripp, L. B. Krasnova, K. B. Sharpless, V. V. Fokin, Angew. Chem. Int. Ed. 48, 8018 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Iha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">5620</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. K. Iha et al., Chem. Rev. 109, 5620 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Antoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Macromolecules</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">6625</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Antoni et al., Macromolecules 43, 6625 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Agnew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">4944</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. D. Agnew et al., Angew. Chem. Int. Ed. 48, 4944 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">1198</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Yamada et al., J. Org. Chem. 76, 1198 (2011).</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lietard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vasseur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Morvan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">191</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Lietard, A. Meyer, J. J. Vasseur, F. Morvan, J. Org. Chem. 73, 191 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pourceau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vasseur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Morvan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">6837</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Pourceau, A. Meyer, J. J. Vasseur, F. Morvan, J. Org. Chem. 74, 6837 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ruparel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ju</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">609</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. S. Seo, Z. Li, H. Ruparel, J. Ju, J. Org. Chem. 68, 609 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Seela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ingale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">284</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Seela, S. A. Ingale, J. Org. Chem. 75, 284 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Caruso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">5755</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. M. Caruso et al., Chem. Rev. 109, 5755 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Hickenboth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">446</biblScope>
+			<biblScope unit="page">423</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. R. Hickenboth et al., Nature 446, 423 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lenhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page">1057</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Lenhardt et al., Science 329, 1057 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Potisek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Sottos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page">13808</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. L. Potisek, D. A. Davis, N. R. Sottos, S. R. White, J. S. Moore, J. Am. Chem. Soc. 129, 13808 (2007).</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kryger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">4558</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. J. Kryger et al., J. Am. Chem. Soc. 132, 4558 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lenhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page">10818</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. M. Lenhardt, A. L. Black, S. L. Craig, J. Am. Chem. Soc. 131, 10818 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wiggins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">3256</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. M. Wiggins et al., J. Am. Chem. Soc. 132, 3256 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ribas-Arino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">4190</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Ribas-Arino, M. Shiga, D. Marx, Angew. Chem. Int. Ed. 48, 4190 (2009).</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Kochhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Mosey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page">7452</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. S. Kochhar, A. Bailey, N. J. Mosey, Angew. Chem. Int. Ed. 49, 7452 (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Materials and methods are available as supporting material on Science Online</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Materials and methods are available as supporting material on Science Online.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Suslick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Goodale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Schubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">5781</biblScope>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. S. Suslick, J. W. Goodale, P. F. Schubert, H. H. Wang, J. Am. Chem. Soc. 105, 5781 (1983).</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Khramov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Bielawski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Commun. (Camb.)</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">4958</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. M. Khramov, C. W. Bielawski, Chem. Commun. (Camb.) (39): 4958 (2005).</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Davis</surname></persName>
+		</author>
+		<idno>NF-07-1-0409</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">459</biblScope>
+			<biblScope unit="page">68</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Acknowledgments: We are grateful to the Army Research Office (grant W911</note>
+	<note type="raw_reference">D. A. Davis et al., Nature 459, 68 (2009). Acknowledgments: We are grateful to the Army Research Office (grant W911NF-07-1-0409) and the</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Foundation (grant F-1621) for their generous financial support</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Welch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reference</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Robert A. Welch Foundation (grant F-1621) for their generous financial support. Reference</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Brantley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wiggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Bielawski</surname></persName>
+		</author>
+		<ptr target="https://www.science.org" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="page">1606</biblScope>
+			<date type="published" when="2011-06-27">2011. Post date 27 June 2014. April 09, 2026</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. N. Brantley, K. M. Wiggins, C. W. Bielawski, Science 333, 1606 (2011). Post date 27 June 2014 Downloaded from https://www.science.org at Case Western Reserve University on April 09, 2026 Reference</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Brantley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wiggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Bielawski</surname></persName>
+		</author>
+		<ptr target="https://www.science.org" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="page">1606</biblScope>
+			<date type="published" when="2011-04-09">2011. April 09, 2026</date>
+		</imprint>
+	</monogr>
+	<note>Post date 20 February 2015</note>
+	<note type="raw_reference">J. N. Brantley, K. M. Wiggins, C. W. Bielawski, Science 333, 1606 (2011). Post date 20 February 2015 Downloaded from https://www.science.org at Case Western Reserve University on April 09, 2026</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

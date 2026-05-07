@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Accelerated telomere shortening in response to life stress</title>
+				<funder>
+					<orgName type="full">University of California, San Francisco, Pediatric Clinical Research Center</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Steven and Michele Kirsch Foundation</orgName>
+				</funder>
+				<funder ref="#_XBMyBgb #_pqVnkJz #_jWZDR4E #_ZG2c7YT #_KsXaGZa #_YTtncaQ">
+					<orgName type="full">National Institutes of Health</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Dana Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">John D. and Catherine T. MacArthur Foundation Network on Socioeconomic Status and Health</orgName>
+				</funder>
+				<funder ref="#_BSQR7ub #_WathzGh">
+					<orgName type="full">National Institute of Mental Health</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Alliance for Research on Schizophrenia and Depression Young Investigator</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Burroughs Wellcome Fund Clinical Scientist Award in Translational Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Hellman Family Fund</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Proceedings of the National Academy of Sciences</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-12">2004-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Elissa</forename><forename type="middle">S</forename><surname>Epel</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>*</label> Department of Psychiatry , University of California , 3333 California Street , Suite 465 , San Francisco , CA 94143 ;</note>
+								<orgName type="department">Department of Psychiatry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>3333 California Street Suite 465</addrLine>
+									<postCode>94143</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elizabeth</forename><forename type="middle">H</forename><surname>Blackburn</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>‡</label> Department of Biochemistry and Biophysics , University of California , San Francisco , CA 94143 ;</note>
+								<orgName type="department">Department of Biochemistry and Biophysics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>94143</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jue</forename><surname>Lin</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>‡</label> Department of Biochemistry and Biophysics , University of California , San Francisco , CA 94143 ;</note>
+								<orgName type="department">Department of Biochemistry and Biophysics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>94143</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Firdaus</forename><forename type="middle">S</forename><surname>Dhabhar</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>§</label> Department of Oral Biology , College of Dentistry , and Department of Molecular Virology, Immunology, and Medical Genetics , College of Medicine , Ohio State University , Columbus , OH 43210 ;</note>
+								<orgName type="department" key="dep1">Department of Oral Biology</orgName>
+								<orgName type="department" key="dep2">College of Dentistry</orgName>
+								<orgName type="department" key="dep3">Department of Molecular Virology, Immunology, and Medical Genetics</orgName>
+								<orgName type="department" key="dep4">College of Medicine</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nancy</forename><forename type="middle">E</forename><surname>Adler</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>*</label> Department of Psychiatry , University of California , 3333 California Street , Suite 465 , San Francisco , CA 94143 ;</note>
+								<orgName type="department">Department of Psychiatry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>3333 California Street Suite 465</addrLine>
+									<postCode>94143</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jason</forename><forename type="middle">D</forename><surname>Morrow</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>¶</label> Department of Medicine and Pharmacology , Vanderbilt University School of Medicine , Nashville , TN 37232 ; and ʈ</note>
+								<orgName type="department">Department of Medicine and Pharmacology</orgName>
+								<orgName type="institution">Vanderbilt University School of Medicine</orgName>
+								<address>
+									<postCode>37232</postCode>
+									<settlement>Nashville</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Richard</forename><forename type="middle">M</forename><surname>Cawthon</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation">Department of Human Genetics , University of Utah , 15 North 2030 E Street , Room 2100 , Salt Lake City , UT 84112</note>
+								<orgName type="department">Department of Human Genetics</orgName>
+								<orgName type="institution">University of Utah</orgName>
+								<address>
+									<addrLine>15 North 2030 E Street Room 2100</addrLine>
+									<postCode>84112</postCode>
+									<settlement>Salt Lake City</settlement>
+									<region>UT</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Accelerated telomere shortening in response to life stress</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Proceedings of the National Academy of Sciences</title>
+						<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+						<idno type="ISSN">0027-8424</idno>
+						<idno type="eISSN">1091-6490</idno>
+						<imprint>
+							<publisher>Proceedings of the National Academy of Sciences</publisher>
+							<biblScope unit="volume">101</biblScope>
+							<biblScope unit="issue">49</biblScope>
+							<biblScope unit="page" from="17312" to="17315"/>
+							<date type="published" when="2004-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">5959C58D1ADE3F3E845074D412C988AE</idno>
+					<idno type="DOI">10.1073/pnas.0407162101</idno>
+					<note type="submission">Contributed by Elizabeth H. Blackburn, September 28, 2004</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-17T16:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Numerous studies demonstrate links between chronic stress and indices of poor health, including risk factors for cardiovascular disease and poorer immune function. Nevertheless, the exact mechanisms of how stress gets ''under the skin'' remain elusive. We investigated the hypothesis that stress impacts health by modulating the rate of cellular aging. Here we provide evidence that psychological stress-both perceived stress and chronicity of stress-is significantly associated with higher oxidative stress, lower telomerase activity, and shorter telomere length, which are known determinants of cell senescence and longevity, in peripheral blood mononuclear cells from healthy premenopausal women. Women with the highest levels of perceived stress have telomeres shorter on average by the equivalent of at least one decade of additional aging compared to low stress women. These findings have implications for understanding how, at the cellular level, stress may promote earlier onset of age-related diseases.</p><p>psychological stress ͉ telomere length ͉ telomerase ͉ oxidative stress</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>P eople who are stressed over long periods tend to look haggard, and it is commonly thought that psychological stress leads to premature aging and the earlier onset of diseases of aging. Numerous studies demonstrate links between chronic stress and indices of poor health, including risk factors for cardiovascular disease and poorer immune function <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. Nevertheless, the exact mechanisms of how such stress exerts these effects are not well known, including whether stress accelerates aging at a cellular level and how cellular aging translates to organismal aging. Recent research points to the crucial roles of telomeres and telomerase in cellular aging and potentially in disease. Telomeres are DNA-protein complexes that cap chromosomal ends, promoting chromosomal stability. When cells divide, the telomere is not fully replicated because of limitations of the DNA polymerases in completing the replication of the ends of the linear molecules, leading to telomere shortening with every replication <ref type="bibr" target="#b2">(3)</ref>. In vitro, when telomeres shorten sufficiently, the cell is arrested into senescence. In people, telomeres shorten with age in all replicating somatic cells that have been examined, including fibroblasts and leukocytes <ref type="bibr" target="#b3">(4)</ref>. Thus, telomere length can serve as a biomarker of a cell's biological (versus chronological) ''age'' or potential for further cell division.</p><p>Telomerase, a cellular enzyme, adds the necessary telomeric DNA (T 2 AG 3 repeats) onto the 3Ј ends of the telomere <ref type="bibr" target="#b4">(5)</ref>. Telomerase also has direct telomere-protective functions <ref type="bibr" target="#b5">(6)</ref>. In human T cells, telomerase activity increases with acute antigen exposure but decreases with repeated antigen stimulation and as the cells approach senescence <ref type="bibr" target="#b6">(7)</ref>. People with dyskeratosis congenita, a rare genetic disease that diminishes the ability to synthesize sufficient telomerase, have shortened telomeres and die prematurely from progressive bone marrow failure and vulnerability to infections <ref type="bibr" target="#b7">(8)</ref>.</p><p>Cellular environment also plays an important role in regulating telomere length and telomerase activity. Most notably, in vitro, oxidative stress can shorten telomeres and antioxidants can decelerate shortening <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. Perceived stress has been linked to one measure of oxidative DNA damage in leukocytes in women <ref type="bibr" target="#b10">(11,</ref><ref type="bibr" target="#b11">12)</ref>. Given these observed links, we hypothesized that chronic psychological stress may lead to telomere shortening and lowered telomerase function in peripheral blood mononuclear cells (PBMCs) and to oxidative stress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>To study both objective (event-͞environment-based) and subjective (perception-based) stress, we examined 58 healthy premenopausal women who were biological mothers of either a healthy child (n ϭ 19, ''control mothers'') or a chronically ill child (n ϭ 39, ''caregiving mothers''). The latter were predicted to have, on average, greater environmental exposure to stress. Women in both groups completed a standardized 10-item questionnaire assessing level of perceived stress over the past month <ref type="bibr" target="#b12">(13)</ref>. This design allowed us to examine the importance of perceived stress and measures of objective stress (caregiving status and chronicity of caregiving stress based on the number of years since a child's diagnosis) (see Supporting Text, which is published as supporting information on the PNAS web site). All analyses were conducted controlling for age because we wanted to test for telomere shortening caused by stress independent of the women's chronological age (age was related to telomere length, r: Ϫ0.23, P Ͻ 0.04).</p><p>Each subject was 20-50 years old [mean (M) ϭ 38 Ϯ 6.5 years] and had at least one biological child living with her. Subjects were free of any current or chronic illness (see Supporting Text). Use of oral contraceptives was similar in the caregiver and control groups. Obesity level was quantified by body-mass index (BMI): weight (in kilograms)͞[height (in meters) ϫ height (in meters)]. Blood was drawn in a fasting state on a morning during the first 7 days of the follicular stage of the menstrual cycle.</p><p>Mean telomere length and telomerase activity were measured quantitatively in the PBMCs that were stored frozen at Ϫ80°C. Telomere length values were measured from DNA by a quantitative PCR assay that determines the relative ratio of telomere repeat copy number to single-copy gene copy number (T͞S ratio) in experimental samples as compared with a reference DNA sample <ref type="bibr" target="#b14">(14)</ref>. Telomerase activity was measured by the telomerase repeat amplification protocol <ref type="bibr" target="#b15">(15)</ref> with a commercial kit (Trapeze, Chemicon) and all values used were in the linear quantitative range. Vitamin E (alpha-tocopherol) was measured Freely available online through the PNAS open access option.</p><p>Abbreviations: PBMC, peripheral blood mononuclear cell; BMI, body-mass index; T͞S, telomere repeat copy number͞single-copy gene copy number.</p><p>with HPLC from serum isolated from a blood sample protected by foil (ARUP Laboratories, Salt Lake City). F 2 -isoprostanes level, a reliable measure of oxidative stress, was quantified from a 12-hour nocturnal urine sample from a subsample of 44 of the women (urine was not collected on the first 14 subjects) by using a highly accurate and precise gas chromatographic͞mass spectrometric assay ( <ref type="formula">16</ref>) and adjusting for creatinine levels. An index of oxidative stress was calculated as the ratio of (isoprostanes per milligram of creatinine)͞vitamin E. This index represents the net oxidative stress effect, taking into account one marker of oxidative stress and of antioxidant defenses. All statistical analyses that tested a priori hypotheses were performed with onetailed P tests, given the directional nature of the predictions (see Supporting Text for details on methods and measures).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>As expected, the average perceived stress level was significantly higher in caregivers than in controls. As a group, caregivers did not differ from controls in telomere length, telomerase activity, or oxidative stress index, but the duration of their chronic stress (number of years spent as a caregiver) varied greatly (from 1 to 12 years). Thus, we reasoned that duration might have a stronger association with telomere length than simply caregiver versus control status. Indeed, within the caregiving group, the more years of caregiving, the shorter the mother's telomere length, the lower the telomerase activity, and the greater the oxidative stress, even after controlling for the mother's age (Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure">1A</ref>).</p><p>We also found significant correlations between perceived stress and all three markers of cellular aging across the entire sample of caregivers and noncaregivers (Table <ref type="table" target="#tab_0">1</ref>). Notably, telomere length was related to perceived stress in both caregivers and controls (Fig. <ref type="figure">1B</ref>). Hence, the relationship between perceived stress and shorter telomeres is not simply because of the severe stress experienced by many of the caregivers or to some biological vulnerability that predisposed their child to have a chronic condition but rather exists across the continuum of normative stress levels, especially notable at the extremes (low and high perceived stress).</p><p>A further demonstration of the relationship between stress and telomere length is seen upon comparing the two extreme groups, those in the highest (n ϭ 14) and lowest (n ϭ 14) quartiles of perceived stress scores. These groups were similar in age, tobacco use, and vitamin use, but the high-stress group had significantly higher mean BMI (28.6 Ϯ 6.6 versus 24.0 Ϯ 3.3, P Ͻ 0.05). Analyses of covariance were performed, controlling for Values are correlations adjusted for age only, with correlations adjusted for age, BMI, smoking, and vitamin use in parentheses. When people are stressed, some tend to eat and smoke more, and they may not engage in self-care behaviors, such as taking antioxidant multivitamin supplements. Therefore, potential mediators (BMI, smoking, and vitamin use) were controlled for along with age. Even when these factors are controlled for, stress was still significantly associated with shorter telomeres and lower telomerase activity, although the relationship with oxidative stress index was no longer significant and thus partially mediated by health behaviors. Perceived stress was not directly related to isoprostanes (r ϭ 0.18, P value not significant) or vitamin E (r ϭ Ϫ0.09, P value not significant) but was related to the oxidative stress index (the ratio of isoprostanes divided by vitamin E levels). †, P Ͻ 0.01; ‡, P Ͻ 0.05 (one-tailed). n values vary because of missing data, because years of caregiving was measured in the caregivers only, or because oxidative stress was measured on a subset of the sample (n ϭ 44). Fig. <ref type="figure">1</ref>. Scatter plots of chronicity of stress by telomere length in caregivers and perceived stress scores by telomere length. (A) The zero-order correlation between chronicity of caregiving and mean telomere length, r, is Ϫ0.445 (P Ͻ 0.01) and, adjusting for the mother's age, it remains significant (r ϭ Ϫ0.40, P Ͻ 0.01). To test whether the age of the child accounts for this relationship independently of caregiving, correlations between the age of the child and the mean telomere length were calculated in each group. The age of the child is related to shorter telomeres in the caregiver group (r ϭ Ϫ0.45, P Ͻ 0.01) but not the control group (r ϭ ϩ0.22, P value not significant). These findings demonstrate that the relationship between chronicity of caregiving and mean telomere length is not simply due to either the mother's or child's older age. (B) Zero-order correlation across the sample is r ϭ Ϫ0.31 (P Ͻ 0.01, n ϭ 57). When the correlation is adjusted for age, BMI, smoking, and vitamin use, the correlation remained significant (r ϭ Ϫ0.27, P Ͻ 0.05). In both the control (blue diamond) and high-stress (red circle) groups, the higher the stress level ranking, the lower the telomere length (controls, r ϭ Ϫ0.34; caregivers, r ϭ Ϫ0.36; adjusted for age). When the one particularly high-stress control subject is eliminated, there is still an association among the lower stress controls, showing that those with the lowest stress have the longest mean telomere length (r ϭ Ϫ0.27).</p><p>age and BMI. Independent of their chronological age and BMI, the high-stress group had significantly shorter telomeres (raw mean T͞S ratio ϭ 1.13 Ϯ 0.17), which converts to 3,110-bp telomeres than the low-stress group (raw mean T͞S ratio ϭ 1.33 Ϯ 0.15), which converts to 3,660-bp telomeres (Fig. <ref type="figure" target="#fig_0">2A</ref>).</p><p>Because telomere length declines during normal aging, one can estimate the years of aging expected to pass to bring the relatively long telomeres of the bottom-stress-quartile individuals down to the relatively short lengths of the top-stress-quartile individuals. Cross-sectional studies of age versus telomere length in the general population show that telomere shortening in young adulthood appears minimal in lymphocytes or PBMCs <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref> and becomes faster (Ϸ60 bp͞year) in older age (50-70 years) <ref type="bibr" target="#b17">(17,</ref><ref type="bibr" target="#b19">19)</ref>. There are no studies that estimate average expected telomere shortening in the exact age range studied here (20-50 years), which largely falls within the young adulthood period of minimal loss. Therefore, in translating telomere shortening to years of aging, we based our estimates on studies averaging telomere shortening across adulthood (ages 20-95 years), which find a loss of 31-63 bp͞year <ref type="bibr" target="#b17">(17,</ref><ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b21">21)</ref>. Thus, the 550-bp shortening in the high-stress group indicates that their lymphocytes had aged the equivalent of 9-17 additional years, compared with the low-stress group.</p><p>Strikingly, the high-stress group also had significantly lower telomerase activity (Fig. <ref type="figure" target="#fig_0">2B</ref>) and higher oxidative stress than the low-stress group. The mean telomerase activity, adjusted for BMI and age, was 48% lower in the high-stress group (M ϭ 0.053 Ϯ 0.016 versus 0.092 Ϯ 0.016 telomerase units per 10,000 cells; F(1, 27) ϭ 3.1; P Ͻ 0.045). The mean oxidative stress index was F(3, 22) ϭ 4.5, P Ͻ 0.025 (M ϭ 0.052 Ϯ 0.010 versus 0.085 Ϯ 0.010 arbitrary units of isoprostanes͞vitamin E). When the results were analyzed by high versus low telomere length, the conclusions were similar in that the short telomere length group had higher perceived stress, higher oxidative stress, and lower telomerase activity (see Supporting Text).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The exact mechanisms that connect the mind to the cell are unknown. Although it is well accepted that cell senescence can include stress-induced processes, psychological stress has not yet been considered as part of the stress pathway. The current findings suggest that stress-induced premature senescence in people might be influenced by chronic or perceived life stress. Psychological stress could affect cell aging through at least three nonmutually exclusive pathways: immune cell function or distribution, oxidative stress, or telomerase activity. We considered whether stress might have decreased naı ¨ve T cells and increased memory T cells [which have shorter telomere length <ref type="bibr" target="#b22">(22)</ref>], but the data did not support this (Table <ref type="table">2</ref>, which is published as supporting information on the PNAS web site). Second, stress could potentially lead to oxidative stress by means of chronic activation of the autonomic and neuroendocrine stress responses. Although this hypothesis has never been tested in vivo, the relationship between stress hormones and oxidative stress has been clearly demonstrated at the cellular level. Glucocorticoids, the primary adrenal hormones secreted during stress, increase oxidative stress damage to neurons, in part by increasing glutamate and calcium and decreasing antioxidant enzymes <ref type="bibr" target="#b23">(23,</ref><ref type="bibr" target="#b24">24)</ref>. It is also notable that, in women, self-reported distress has been related to greater oxidative DNA damage (8-OH-dG) <ref type="bibr" target="#b11">(12)</ref>. Oxidative stress shortens telomeres in cells cultured in vitro <ref type="bibr" target="#b9">(10)</ref>. Our findings that perceived and chronic stress correlated with higher oxidative stress and shorter telomere length demonstrate this relationship cross-sectionally for the first time in vivo. Lastly, if the observed lowered telomerase activity represents chronic levels, it too could have contributed to the shortened telomeres in PBMCs.</p><p>Although being a caregiver per se was not related to telomere length, the chronicity of caregiving stress was related to telomere length. It is a formal possibility that the association between stress and telomere length reported here is in part due to people with longer telomeres being psychologically more resistant to objective stressors than people with shorter telomeres. Engineering worms to have longer telomeres resulted in an extension of their life spans, even though all of their somatic cells are postmitotic and their telomeres do not shorten during aging <ref type="bibr" target="#b25">(25)</ref>. Further, the biochemical pathway involved in this effect of telomere length on life span is the same pathway previously shown to mediate increased physiological stress resistance in response to various genetic variants that increase life span. It is unknown whether physiological stress resistance is related to psychological stress resistance. Perceived stress may be either causally or correlationally related to telomere length. However, the relationship between chronicity of caregiving stress (an objectively based measure) and telomere length implies that stress preceded telomere shortening, because telomere length cannot have influenced the number of years one has been a caregiver. Clearly, longitudinal studies in which telomere length is assayed repeatedly are needed to directly test whether the rate of telomere shortening in individuals with higher levels of reported stress is actually faster than in individuals with lower stress. Further, clinical trials of interventions effective in lowering perceived stress in adult life could test whether they slow the rate of telomere shortening.</p><p>These associations between stress and cell aging have clinically significant implications for human health. A 50% deficiency in telomerase RNA gene dosage caused by the rare genetic disease dyskeratosis congenita is sufficient to cause premature death in adults from bone marrow failure and vulnerability to infections <ref type="bibr" target="#b7">(8)</ref>. In the elderly, telomere shortening is strongly associated with higher mortality rates <ref type="bibr" target="#b26">(26)</ref>. Lastly, patients with early myocardial infarction had leukocyte telomere lengths that were equivalent to those typical of a person Ϸ11 years older than controls, similar to the magnitude of accelerated cell aging observed in our high-stress group <ref type="bibr" target="#b27">(27)</ref>.</p><p>In summary, in healthy women, psychological stress is associated with indicators of accelerated cellular and organismal aging: oxidative stress, telomere length, and telomerase activity in PBMCs. Many questions remain, such as whether shorter telomeres in leukocytes lead to earlier immune senescence and relate to shorter telomeres in other proliferative cells, such as cardiovascular endothelium. Nonetheless, although the exact pathway of events from perception of stress in the brain to somatic cell longevity is unclear, the results reported here now implicate shorter telomeres in the adverse health sequelae of prolonged psychological stress.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Telomere length and telomerase activity levels in extreme high-and low-stress groups. (A) Average telomere length and SE are shown. The highstress group had shorter telomeres even after controlling for age and BMI [F(1, 27) ϭ 12.8, P Ͻ 0.001]. (B) Average telomerase activity and SE are shown. The high-stress group had lower telomerase activity even after controlling for age and BMI [F(1, 27) ϭ 3.1, P Ͻ 0.05]. Because values for telomerase activity were not normally distributed, the values were converted to follow a normal distribution by using a natural logarithm transformation. All statistical analyses were performed on the transformed variable. The raw (unadjusted) levels of telomerase are presented throughout because these values are more meaningful than transformed values.</figDesc><graphic coords="3,52.18,51.80,228.40,308.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="2,309.36,52.09,238.86,442.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Correlations between stress and cell senescence markers across the sample (adjusted for age and potential health͞behavioral mediators)</head><label>1</label><figDesc>Telomere length Ϫ0.31* (Ϫ0.27 † ), 54 Ϫ0.40* (Ϫ0.43*), 36 Telomerase activity Ϫ0.24 † (Ϫ0.24 † ), 59 Ϫ0.35 † (Ϫ0.32 † ), 37 Oxidative stress index 0.27 † (0.22), 44 0.33 † (0.38 † ), 30</figDesc><table><row><cell></cell><cell>Years of</cell></row><row><cell>Perceived stress, n</cell><cell>caregiving, n</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>† To whom correspondence should be addressed. E-mail: elissa@itsa.ucsf.edu. © 2004 by The National Academy of Sciences of the USA 17312-17315 ͉ PNAS ͉ December 7, 2004 ͉ vol. 101 ͉ no. 49 www.pnas.org͞cgi͞doi͞10.1073͞pnas.0407162101 Downloaded from https://www.pnas.org by 104.0.70.239 on April 17, 2026 from IP address 104.0.70.239.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>PNAS ͉ December 7, 2004 ͉ vol. 101 ͉ no. 49 ͉ 17313 PSYCHOLOGY Downloaded from https://www.pnas.org by 104.0.70.239 on April 17, 2026 from IP address 104.0.70.239.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17314" xml:id="foot_2"><p>͉ www.pnas.org͞cgi͞doi͞10.1073͞pnas.0407162101 Epel et al. Downloaded from https://www.pnas.org by 104.0.70.239 on April 17, 2026 from IP address 104.0.70.239.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>We thank <rs type="person">Drs. Teresa Seeman</rs>, <rs type="person">Margaret Kemeny</rs>, and <rs type="person">Bruce McEwen</rs> for intellectual support; <rs type="person">Jean M. Tillie</rs> for expert help with flow cytometry; <rs type="person">Michael Acree</rs> for statistical expertise; <rs type="person">Drs. Melvin Heyman</rs>, <rs type="person">Bryna Siegel</rs>, and <rs type="person">Paul Harmatz</rs> for help recruiting clinic participants; <rs type="person">Sheryln Jimenez</rs>, <rs type="person">Denise Kruszewski</rs>, and <rs type="person">Drs. Judith Moskowitz</rs>, <rs type="person">Susan Folkman</rs>, and <rs type="person">Judith Stewart</rs> for crucial help; and the busy mothers for volunteering their time. E.S.E. was supported by the <rs type="funder">John D. and Catherine T. MacArthur Foundation Network on Socioeconomic Status and Health</rs>; the <rs type="funder">Hellman Family Fund</rs>; and the <rs type="funder">University of California, San Francisco, Pediatric Clinical Research Center</rs> (under the auspices of <rs type="funder">National Institute of Mental Health</rs> Grant <rs type="grantNumber">M01-RR01271</rs>), <rs type="funder">National Institute of Mental Health</rs> Award <rs type="grantNumber">K08 MH64110-01A1</rs>, and a <rs type="funder">National Alliance for Research on Schizophrenia and Depression Young Investigator</rs>'s Award. E.H.B. was supported by the <rs type="funder">Steven and Michele Kirsch Foundation</rs> and <rs type="funder">National Institutes of Health</rs> Grant <rs type="grantNumber">GM26259</rs>. J.D.M. was supported by the <rs type="funder">Burroughs Wellcome Fund Clinical Scientist Award in Translational Research</rs> and <rs type="funder">National Institutes of Health</rs> Grants <rs type="grantNumber">GM15431</rs>, <rs type="grantNumber">CA77839</rs>, <rs type="grantNumber">DK48851</rs>, and <rs type="grantNumber">RR00095</rs>. F.S.D. was supported by the <rs type="funder">Dana Foundation</rs> and <rs type="funder">National Institutes of Health</rs> Grant <rs type="grantNumber">AI48995</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_BSQR7ub">
+					<idno type="grant-number">M01-RR01271</idno>
+				</org>
+				<org type="funding" xml:id="_WathzGh">
+					<idno type="grant-number">K08 MH64110-01A1</idno>
+				</org>
+				<org type="funding" xml:id="_XBMyBgb">
+					<idno type="grant-number">GM26259</idno>
+				</org>
+				<org type="funding" xml:id="_pqVnkJz">
+					<idno type="grant-number">GM15431</idno>
+				</org>
+				<org type="funding" xml:id="_jWZDR4E">
+					<idno type="grant-number">CA77839</idno>
+				</org>
+				<org type="funding" xml:id="_ZG2c7YT">
+					<idno type="grant-number">DK48851</idno>
+				</org>
+				<org type="funding" xml:id="_KsXaGZa">
+					<idno type="grant-number">RR00095</idno>
+				</org>
+				<org type="funding" xml:id="_YTtncaQ">
+					<idno type="grant-number">AI48995</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcewen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="171" to="179" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McEwen, B. (1998) N. Engl. J. Med. 338, 171-179.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Segerstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Bull</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Segerstrom, S. &amp; Miller, G. (2004) Psychol. Bull. 130.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. London B</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="109" to="121" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chan, S. R. &amp; Blackburn, E. H. (2004) Philos. Trans. R. Soc. London B 359, 109-121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frenck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blackburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shannon</surname></persName>
+		</author>
+		<title level="m">Proc. Natl. Acad. Sci</title>
+		<meeting>Natl. Acad. Sci<address><addrLine>USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="5607" to="5610" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frenck, R., Blackburn, E. &amp; Shannon, K. (1998) Proc. Natl. Acad. Sci. USA 95, 5607-5610.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry (Moscow, Russ. Fed.)</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1196" to="1201" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blackburn, E. H. (1997) Biochemistry (Moscow, Russ. Fed.) 62, 1196-1201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cell</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1379" to="1387" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chan, S. W. &amp; Blackburn, E. H. (2003) Mol. Cell 11, 1379-1387.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Weng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>June</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hodes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Immunol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="43" to="54" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weng, N. P., Palmer, L. D., Levine, B. L., Lane, H. C., June, C. H. &amp; Hodes, R. J. (1997) Immunol. Rev. 160, 43-54.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vulliamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dearlove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dokal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">413</biblScope>
+			<biblScope unit="page" from="432" to="435" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vulliamy, T., Marrone, A., Goldman, F., Dearlove, A., Bessler, M., Mason, P. J. &amp; Dokal, I. (2001) Nature 413, 432-435.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Von Zglinicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saretzki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Docke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lotze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Cell Res</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page" from="186" to="193" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Zglinicki, T., Saretzki, G., Docke, W. &amp; Lotze, C. (1995) Exp. Cell Res. 220, 186-193.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Von Zglinicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Biochem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="339" to="344" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Zglinicki, T. (2002) Trends Biochem. Sci. 27, 339-344.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Irie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Asami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miyata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Arch. Occup. Environ. Health</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="153" to="157" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Irie, M., Asami, S., Nagata, S., Miyata, M. &amp; Kasai, H. (2001) Int. Arch. Occup. Environ. Health 74, 153-157.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Irie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Asami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kasai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Biophys. Res. Commun</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="1014" to="1018" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Irie, M., Asami, S., Ikeda, M. &amp; Kasai, H. (2003) Biochem. Biophys. Res. Commun. 311, 1014-1018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Williamson</surname></persName>
+		</author>
+		<title level="m">The Social Psychology of Health: Claremont Symposium on Applied Social Psychology</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cohen, S. &amp; Williamson, G. (1988) in The Social Psychology of Health: Claremont Symposium on Applied Social Psychology, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S S</forename><surname>Oskamp</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Sage</publisher>
+			<pubPlace>Newbury Park, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oskamp, S. S. S. (Sage, Newbury Park, CA).</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Cawthon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">47</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cawthon, R. M. (2002) Nucleic Acids Res. 30, e47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2595" to="2597" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim, N. W. &amp; Wu, F. (1997) Nucleic Acids Res. 25, 2595-2597.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Mol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="page" from="57" to="66" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Morrow, J. D. &amp; Roberts, L. J., II (2002) Methods Mol. Biol. 186, 57-66.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Iwama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohyashiki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Ohyashiki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yahata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Toyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoshika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Shay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Genet</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="397" to="402" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Iwama, H., Ohyashiki, K., Ohyashiki, J. H., Hayashi, S., Yahata, N., Ando, K., Toyama, K., Hoshika, A., Takasaki, M., Mori, M. &amp; Shay, J. W. (1998) Hum. Genet. 102, 397-402.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeanclos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Schork</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Kyvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Skurnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aviv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypertension</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="195" to="200" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jeanclos, E., Schork, N. J., Kyvik, K. O., Kimura, M., Skurnick, J. H. &amp; Aviv, A. (2000) Hypertension 36, 195-200.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rufer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brummendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kolvraa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bischoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wadsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schulzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lansdorp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Exp. Med</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="157" to="167" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rufer, N., Brummendorf, T. H., Kolvraa, S., Bischoff, C., Christensen, K., Wadsworth, L., Schulzer, M. &amp; Lansdorp, P. M. (1999) J. Exp. Med. 190, 157-167.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dempster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Dunlop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Allshire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="866" to="868" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hastie, N. D., Dempster, M., Dunlop, M. G., Thompson, A. M., Green, D. K. &amp; Allshire, R. C. (1990) Nature 346, 866-868.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Satoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Awaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ishioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamakido</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn. J. Hum. Genet</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="413" to="417" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Satoh, H., Hiyama, K., Takeda, M., Awaya, Y., Watanabe, K., Ihara, Y., Maeda, H., Ishioka, S. &amp; Yamakido, M. (1996) Jpn. J. Hum. Genet. 41, 413-417.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Hathcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Weng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="699" to="706" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hodes, R. J., Hathcock, K. S. &amp; Weng, N. P. (2002) Nat. Rev. Immunol. 2, 699-706.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Sapolsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurotoxicology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="873" to="882" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McIntosh, L. J. &amp; Sapolsky, R. M. (1996) Neurotoxicology 17, 873-882.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sapolsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="118" to="125" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Patel, R., McIntosh, L., McLaughlin, J., Brooke, S., Nimon, V. &amp; Sapolsky, R. (2002) J. Neurochem. 82, 118-125.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Joeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Genet</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="607" to="611" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Joeng, K. S., Song, E. J., Lee, K. J. &amp; Lee, J. (2004) Nat. Genet. 36, 607-611.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cawthon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sivatchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kerber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">361</biblScope>
+			<biblScope unit="page" from="393" to="395" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cawthon, R., Smith, K., O&apos;Brien, E., Sivatchenko, A. &amp; Kerber, R. (2003) Lancet 361, 393-395.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brouilette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Goodall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Samani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arterioscler. Thromb. Vasc. Biol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="842" to="846" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brouilette, S., Singh, R. K., Thompson, J. R., Goodall, A. H. &amp; Samani, N. J. (2003) Arterioscler. Thromb. Vasc. Biol. 23, 842-846.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

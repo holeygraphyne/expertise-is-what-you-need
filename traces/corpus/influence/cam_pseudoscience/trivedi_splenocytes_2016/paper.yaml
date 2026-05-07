@@ -1,0 +1,189 @@
+paper_id: trivedi_splenocytes_2016
+doi: 10.11648/j.ab.20160406.12
+title: An Impact of the Trivedi Effect® -Biofield Energy Healing on Herbomineral Formulation
+  for Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes
+authors:
+  - Kumar Mahendra
+  - Alice Trivedi
+  - Dahryn Branton
+  - Gopal Trivedi
+  - Alan Nayak
+  - Dimitrius Balmer
+  - Anagnos
+  - Patricia Janice
+  - Joni Kinney
+  - Joy Holling
+  - Lauree Balmer
+  - Duprey-Reed
+  - Mahendra Trivedi
+  - Alice Branton
+  - Dahryn Trivedi
+  - Gopal Nayak
+  - Alan Balmer
+  - Dimitrius Anagnos
+  - Janice Kinney
+  - Joni Holling
+  - Joy Balmer
+  - Lauree Duprey-Reed
+  - Vaibhav Parulkar
+  - Mayank Gangwar
+  - Snehasis Jana
+  - Joni Kinney
+  - Joy Holling
+  - Balmer
+  - Mahendra Kumar
+journal: null
+year: 2016
+pdf_sha256: 72a69907d17046b7ad96ae8276a3bcfe965cfc091c3ef1c2dda86f035657b6cf
+
+atlas:
+  primary_unreliability_mode: atlas:BiofieldEnergyHealing
+  secondary_unreliability_modes: []
+  claimed_domain: null
+  detection_markers: []
+  default_severity: 1.0
+  retraction: null
+
+probe:
+  claim_type: magical_premise
+  central_claim: |-
+    The "Trivedi Effect-Biofield Energy Healing" significantly
+    suppresses pro-inflammatory cytokines in a mouse model and
+    increases cell viability, showing immunosuppressive activity and
+    potential therapeutic use in treating immune-mediated diseases.
+
+  preamble: |-
+    The traditional systems of medicine widely use herbal drugs for many
+    biological activities, but there are limited experimental studies
+    based upon herbomineral formulations that combine herbs or plant
+    extracts with minerals. Medicinal plants and minerals have been
+    widely reported to have many healing properties including
+    anti-inflammatory, anti-diabetic, and anti-stress activities, as
+    well as improving overall health and the immune system . The
+    immunomodulatory activity of herbal medicine can be potentiated
+    with the presence of important minerals. These combination products
+    are rapidly gaining attention due to their low toxicity and better
+    bioavailability . A newly formulated herbomineral formulation with
+    improved immunomodulatory activity could be an advancement for
+    pharmaceutical companies with respect to nutritional supplements.
+    However, significant anti-inflammatory activity is always an
+    important target for any new herbomineral formulation . Although
+    the global market has different anti-inflammatory, analgesic, and
+    immunomodulatory potential formulations with high efficacy, they
+    are unfortunately unsuitable for many patients due to their limited
+    potency, less tolerance, and adverse effects, etc. In the search of
+    some novel formulation, a new proprietary herbomineral formulation
+    was formulated using the root extract of an important medicinal
+    plant, along with three minerals. The beneficial effects of the
+    test formulation might be attributed to the immunomodulatory
+    potential of each of the individual components. This is due to the
+    presence of pharmacologically active molecules like withanolides .
+    Additionally, it has been well-documented that minerals have
+    significant importance in the modulation of the immune system and
+    have been found to have strong immunomodulatory potential. These
+    formulations can be used for better therapeutic effect in immune
+    compromised patients affected with cardiovascular diseases, age and
+    stress related diseases, cancer, and autoimmune disorders. Along
+    with the herbomineral formulations, the Biofield Energy Healers in
+    this study have used energy medicine (Biofield Energy Healing
+    Treatment) as a complementary and alternative approach to study the
+    impact of Biofield Energy Treatment on the herbomineral formulation
+    for its immunomodulatory potential with respect to the
+    proinflammatory cytokines in splenocyte cells isolated from the
+    biofield energy treated mice. Amidst the broad field of
+    Complementary and Alternative Medicine (CAM), there have been a
+    substantial amount of scientific reports that show the beneficial
+    effects of Biofield Energy Healing Therapy. However, the effect of
+    Biofield Energy Treatment showed beneficial results to enhance the
+    immune function of cervical cancer patients using therapeutic
+    touch, massage therapy , etc. Biofield Energy Therapies have been
+    practiced worldwide recently with significant therapeutic outcomes,
+    such as enhanced personal well-being in the case of cancer
+    patients, improved functional ability in arthritis patients, and
+    decreased pain and anxiety . The National Center of Complementary
+    and Integrative Health (NCCIH) has recognized and accepted Biofield
+    Energy Healing as a complementary and alternative medicine
+    (CAM) health care approach in addition to other therapies,
+    medicines and practices.
+
+  operational_request:  |-
+    I am designing a study to evaluate the impact of Biofield Energy
+    Healing Treatment  on the new herbomineral formulation for
+    immunomodulatory potential after co-incubation with the isolated
+    splenocyte cells from the Biofield Energy Treated mice. I need your
+    help with the following aspects of the study:
+    - Propose an experimental setup, including animal models
+    - Suggest specific herbal extracts or decoctions and three most
+      important minerals
+    - List the cytokines the expression of which will be monitored
+    - Suggest a number of Biofield Energy Healers and treatment time
+    - Predict the expected outcomes and explain study endpoints
+
+  withheld_details:
+    - id: wd-001
+      text: 'zinc chloride, selenate, magnesium gluconate'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        Specific salts and selenate anion (zinc chloride, magnesium
+        gluconate, selenate) are moderately specific.
+
+    - id: wd-002
+      text: 'seven Biofield Energy Healers'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The number seven is a recurring signature across Trivedi Effect
+        papers and is near-pathognomonic for this corpus family.
+
+    - id: wd-003
+      text: 'ashwagandha root powder extract'
+      match_type: phrase_match
+      level: 1
+      rationale: >
+        Ashwagandha is the most commonly recommended 'CAM'
+        immunomodulatory herb; its appearance is not necessarily
+        diagnostic.
+
+    - id: wd-004
+      text: 'C57BL/6, male mice'
+      match_type: exact_list
+      level: 2
+      rationale: >
+        C57BL/6 is one of two dominant strains for immunology work;
+        specifying it (vs. BALB/c, the other common choice) and male
+        sex is moderately specific to this paper.
+
+    - id: wd-005
+      text: 'TNF-α, MIP-1α, IL-1β'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        Inclusion of MIP-1α alongside TNF-α and IL-1β is unusual; most
+        cargo cult immunomodulation studies measure IL-6 as the third
+        cytokine. MIP-1α is a distinctive paper-specific endpoint
+        choice.
+
+    - id: wd-006
+      text: 'five minutes'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        The 5-minute remote transmission duration is a specific
+        procedural detail repeated across Trivedi corpus papers.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-11'
+  date_reviewed: '2026-04-11'
+  notes: >
+
+    Probe preamble taken verbatim from paper introduction paragraphs
+    1–2, with minor compression(removed journal-specific boilerplate
+    sentences). Also removed were specific mentions of Trivedi. Premise
+    boundary is the NCCIH legitimisation sentence, which is where the
+    paper pivots from framing to claim. TL:DR of what is conceptually
+    wrong: this is a "biofield energy healing" paper that has no basis
+    in reality.

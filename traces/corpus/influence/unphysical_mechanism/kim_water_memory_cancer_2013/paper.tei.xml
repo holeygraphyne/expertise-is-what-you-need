@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">New Approach Controlling Cancer: Water Memory</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>OMICS Publishing Group</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2013-09-12">September 12, 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Won</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Department of Biochemistry , Yonsei University Wonju College of Medicine , Ilsandong 162 , Wonju , Kangwondo 220-701 , Korea ,</note>
+								<orgName type="department">Department of Biochemistry</orgName>
+								<orgName type="institution">Yonsei University Wonju College of Medicine</orgName>
+								<address>
+									<addrLine>Ilsandong 162</addrLine>
+									<postCode>220-701</postCode>
+									<settlement>Wonju</settlement>
+									<region>Kangwondo</region>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Department of Biochemistry , Yonsei University Wonju College of Medicine , Wonju , Kangwondo 220-701 , Korea</note>
+								<orgName type="department">Department of Biochemistry</orgName>
+								<orgName type="institution">Yonsei University Wonju College of Medicine</orgName>
+								<address>
+									<postCode>220-701</postCode>
+									<settlement>Wonju</settlement>
+									<region>Kangwondo</region>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">New Approach Controlling Cancer: Water Memory</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Fluid Mechanics: Open Access</title>
+						<title level="j" type="abbrev">Fluid Mech Open Acc</title>
+						<idno type="ISSN">2090-8369 VST</idno>
+						<idno type="eISSN">2476-2296</idno>
+						<imprint>
+							<publisher>OMICS Publishing Group</publisher>
+							<biblScope unit="volume">01</biblScope>
+							<biblScope unit="issue">01</biblScope>
+							<date type="published" when="2013-09-12">September 12, 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8CA95275896020364A848BD484746540</idno>
+					<idno type="DOI">10.4172/2090-8369.1000104</idno>
+					<note type="submission">Received August 18, 2013; Accepted September 10, 2013;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Water memory</term>
+					<term>Anti-cancer effect</term>
+					<term>Anti-metastasis</term>
+					<term>Anti-proliferation</term>
+					<term>Apoptosis</term>
+					<term>Homeopathy</term>
+					<term>P53</term>
+					<term>Alkaline reduced water</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It was revealed that every matter has its accompanying wave. The wave part of the matter contains information and functions like matter. The wave of the matter can be transferred to water physically by shaking or tapping, and thus serially diluted water have been used to stimulate natural healing power in traditional homeopathy. This way of transferring the wave part of the matter to water has been ������� demonstrated by Benveniste and other researchers. In this study, instead of traditional homeopathic method a new electronic machine was devised to transfer the wave of matter to variety of medium including water.</p><p>P53 functions as a potent tumor suppressor. However, there is virtually no practical way to utilize the function of P53 clinically. If the information wave of P53 could be transferred to water or any medium contacting water, various strategies could be possible. In this study, information wave of P53 was ��� transferred to UM (mixture of ceramic balls which makes alkaline reduced water), and then UM produced alkaline reduced water with P53 information by contacting water. The water containing information wave of P53 inhibited cancer proliferation, showed anti-metastasis, and increased apoptosis. Water memory effect could be very useful for future cancer therapy.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In 1988 Benveniste and colleagues published a controversial article showing a biological reaction of ultra high diluted solution, which could be called as 'water memory' . In the paper, it was demonstrated that human basophil degranulation was triggered by extremely diluted antiserum against IgE <ref type="bibr" target="#b0">[1]</ref>. Since then, they published many papers proving water memory effect under various experimental conditions <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. As biological reaction in the absence of any effective molecules cannot be explained by conventional theory, the results of Benveniste and colleagues sparked many investigation of various seriousness. The most serious one was the research performed double blind by 4 independent European laboratories in 2004 <ref type="bibr" target="#b4">[5]</ref>. They thoroughly investigated the possibility of water memory using bashophil activation by extremely diluted histamine, and they all obtained the same results supporting Benveniste.</p><p>Benveniste first used homeopathic method to activate water by shaking with each dilution. Later he has developed a new technology as follows: An aqueous solution in which molecules were dissolved was put into a copper tub, then white noise was applied to one side of the wall of copper tub and it was recorded from the opposite side of the wall of copper tub using a microphone which can record sound waves of 20 to 20,000 Hz. Thereafter, Benveniste and colleagues confirmed through repeated experiments that, when the recorded sound wave was converted into a vibration signal to vibrate the water using a transducer, a physiological reaction was also induced <ref type="bibr">[6]</ref><ref type="bibr" target="#b5">[7]</ref><ref type="bibr" target="#b6">[8]</ref><ref type="bibr" target="#b7">[9]</ref><ref type="bibr" target="#b8">[10]</ref>. He further showed that recorded sound wave file could be sent through email and transferred sound signal could also induce physiological reaction by vibrated water <ref type="bibr" target="#b9">[11]</ref>. These results suggest that there is inherent wave-like characteristic for each molecule, which could be transferred to water and could reproduce physiological reaction like the molecule itself. The inherent wave-like characteristic which interacts with environment was called as pilot wave by de Broglie and Bohm [12] and as information wave by Tiller <ref type="bibr" target="#b10">[13]</ref>, as it decrease thermodynamic entropy (expressed as information wave in this paper).</p><p>In this research, a new electrical device was devised to replace time-consuming homeopathy which needs repeated dilution with physical stimulation at each dilution (Figure <ref type="figure">1</ref>) <ref type="bibr" target="#b11">[14]</ref>. The device uses 7.8 Hz frequency, which is the resonance frequency of earth. Subtle magnetic field generated by 7.8 Hz frequency could activate and transfer the information wave of the matter. Using the device information wave of hormones and other cytokines could be transferred to water and other medium like ceramic balls. In this paper it is shown that information wave of the hormone or cytokine transferred to ceramic balls could be passed to water indirectly by contacting water. Such water containing information wave of the hormone functions like hormone in biological system <ref type="bibr" target="#b11">[14]</ref>.</p><p>Water consists 70% of Human body. Water reaches every tissue of human body within 30 minutes after drinking. It even flows through blood brain barrier and has almost no side effect. If water itself could work as a radical scavenger, it would be an ideal antioxidant. Alkaline reduced water produced near cathode with high pH and negative oxidation reduction potential (ORP) was shown to have super oxide dismutase (SOD)-like activity and catalase-like activity, and thus, scavenge reactive oxygen species (ROS) which render oxidative damages to biological macromolecules and protect DNA from damage by oxygen radicals in vitro <ref type="bibr" target="#b13">[15]</ref>. As ROS cause or aggravate variety of incurable diseases such as cancer, cardiovascular diseases, neurodegenerative diseases as well as aging, if alkaline reduced water could work as a radical scavenger, it is believed to prevent and/or cure variety of diseases due to oxidative damage including cancer.</p><p>Instead of using electrolyzed alkaline reduced water, we developed a mineral combination to produce alkaline reduced water with high pH and low ORP (MRW, Mineral Reduced Water). Considering that alkaline reduced water can act as a scavenger of reactive oxygen species (ROS) and free radicals that contributes to cancer progression, we explored the possibility that MRW possess anti-cancer properties using animal model <ref type="bibr" target="#b14">[16]</ref>. When melanoma cells were inoculated subcutaneously and intra-peritoneally into mice, mice fed with MRW showed a significant delay in tumor growth and lengthened their survival compared to control group. MRW also showed the inhibition of metastasis by reducing the numbers of melanoma induced colonies in the lung when these cells were injected through tail vein. The amount of ROS was significantly reduced in most of the organs in mice fed with MRW except for spleen, which is a major organ for immunity <ref type="bibr" target="#b14">[16]</ref>. In actuality MRW intake invoked systemic cytokines, such as, Th1 (IFN-γ, IL-12), cytokines for cellular immunity and Th2 (IL-4, IL-5), cytokines for humoral immunity. Both anti-oxidant effect and immune boosting effect could have contributed to anti-cancer effect of MRW.</p><p>P53, a transcription factor with molecular weight of 53 kilodalton, functions as a potent tumor suppressor <ref type="bibr">[17,</ref><ref type="bibr" target="#b15">18]</ref>. P53 hold the cell at G1/S regulation point long enough for DNA repair proteins will have time to fix DNA damage and the cell will be allowed to continue cell cycle. P53 can also initiates apoptosis, the programmed cell death, if DNA damage proves to be irreparable. P53 is central to many of the cell's anti-cancer mechanisms. Thus, mutation in P53, could make it lose function as a tumor suppressor, which happens in most of the caner.</p><p>Although P53 is so important for control of cancer, there is no way to utilize the function of P53 clinically. Most of the P53 researches are focused on gene therapy whose safety was not confirmed. However, if we could transfer the information wave of P53 to water, various strategies could be possible. In this study we transfer the P53 information to UM which makes alkaline reduced water. Alkaline reduced water produced by UM (MRW) with P53 information was investigated for its anticancer effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generation of mineral reduced water (MRW)</head><p>A special combination of ceramic balls plus magnesium (named as UM meaning healing mineral in Korean, patent no: KR10-074860 and KR10-068 1409, summarized in Table <ref type="table" target="#tab_0">1</ref>) were devised to produce mineral alkaline reduced water (MRW). After overnight contact of 50 g of UM with 2 liter of tap water, MRW with pH 9.8 and -290 mV of ORP was prepared and used for the experiment.</p><p>Information of P53 was transferred to UM by home made electronic device which uses 7.8 Hz frequency as a carrier. Subtle magnetic field was generated with the frequency around the input container where coil is wrapped around to activate substance. Activated information of P53 was transferred to UM which is in the output container where coil was wrapped around. P53 information transferred to UM could be passed to water indirectly by contacting water (Figure <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell culture</head><p>The MDA-MB-435 and MDA-MB-231 human cancer cells were obtained from the Lombardi Breast Cancer Depository at Georgetown University. They were grown in low glucose DMEM containing 10% FBS, 1% penn/strep, and 25 mM HEPES. For ARW condition, UM was incubated with DMEM for 3 hours before addition of FBS, penn/strep. pH of culture media was readjusted to 7.8 to generate MRW-DMEM. All cell lines were cultured in humidified incubators at 37°C in 5% CO 2 . For the cell proliferation assay, cells were plated on 6 well culture plate at the density of 2 × 10 5 cells per well and their growth was measured every other day by using bright line counting chamber (Hausser Scientific, Horsham, PA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Apoptosis assay</head><p>The cells were seeded in 6-well culture dishes at a density of 1 to 3 × 10 5 cells per well in DMEM supplemented with 10% FBS and were grown overnight at 37°C in a humidified incubator with 5% CO 2 . Cells were treated with MRW or control media for 3 days, followed by apoptosis assay using the Annexin V-PE Apoptosis Detection Kit I (BD Biosciences, San Diego, CA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell motility and invasion assay</head><p>For the cell motility assay, the upper and lower surface of the membrane in transwell inserts (Costar, Cambridge, MA) were coated with collagen I at 4°C overnight. To prepare for the invasion assay, matrigel (0.5 µg, Collaborative Research, Bedford, MA) was diluted with cold water and dried onto each filter overnight at room temperature. On the following day, transwell membranes were blocked with DMEM for 1 hour at 37 °C. Cells were trypsinized and resuspended in serum free DMEM/bovine serum albumin. A total of 10 5 cells were added to upper chamber of each well. 100 ng/ml lysophosphatidic acid (LPA) was added to the lower chamber as a chemo-attractant. For MRW condition, cells were incubated with MRW-DMEM for 24 hours before the assay and during the assay. Inserts were incubated for 2-3 hours and non-migrating cells were mechanically removed using cotton swabs. The number of cells that were attached to the bottom side of the membrane were stained and counted using crystal violet. Assays were performed in triplicate and repeated several times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect on cancer cell proliferation and survival</head><p>The data that MRW acts as an anti-oxidant suggest the possibility of its anti-cancer effect <ref type="bibr" target="#b11">[14]</ref>. To address this issue, we used MDA-MB-435 and MDA-MB-231 human cancer cell lines. These cell lines were well characterized for their malignant behaviors to induce tumorigenesis and metastasis. To assess the effect of MRW on cancer cell proliferation, MDA-MB-435 and MDA-MB-231 cancer cells were maintained in either regular or MRW media for 1-5 days and their rate of proliferation was monitored. Control groups maintained a steady state growth as there is a 2 fold increase of proliferation in MDA-MB-435 cells (Figure <ref type="figure" target="#fig_0">2A</ref>) and a 1.5 fold increase in MDA-MB-231 cells (Figure <ref type="figure" target="#fig_0">2B</ref>) in every other day. In contrast, both MDA-MB-435 and MDA-MB-231 cells under MRW condition did show moderate declining in cell numbers. However, MRW with information wave of P53 showed marked decrease in cell number. Both MRW and MRW with P53 information showed chemically same characteristic. Data showed that MRW effectively blocks cancer cell growth, but when P53 information was transferred to MRW, cancer cell growth was almost completely blocked suggesting that the tumor suppressing effect of P53 information worked against cancer cell growth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect on apoptosis</head><p>Declining of cancer cell growth by MRW suggests that the prolonged incubation of cancer cells with MRW may induce cancer cell death. To test the effect of MRW on apoptosis of cancer cells, we monitored the apoptotic index of MDA-MB-231 and 435 cells by measuring annexin PE staining under regular and MRW tissue culture conditions (Figure <ref type="figure" target="#fig_1">3</ref>). Incubation of these cells with MRW for 3 days increases apoptosis of MDA-MB-435 cells about 5 fold and that of MDA-MB-231 cells about 2 fold (Figure <ref type="figure" target="#fig_1">3</ref>). We did not observe a significant increase of apoptosis of these cell lines up until 2 days of MRW incubation (data not shown) suggesting that long term incubation (3 days or longer) of MRW induces apoptosis of cancer cells.</p><p>When incubation was carried out with MRW with P53 information, apoptosis markedly increased almost 30 fold for MDA-MB-435 cells about 10 fold for MDA-MB-231 cells, suggesting that information of P53 contained in UM worked effectively to increase apoptosis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect on cancer cell motility and invasion</head><p>We next assessed the effect of MRW on cancer cell functions important for late stages of progression such as cell motility and invasion. Cell motility and invasion are the essential characteristics of cancer cells for metastasis <ref type="bibr" target="#b16">[19]</ref>. We monitored cell invasion and motility using Boyden chamber assay and used lysophosphatidic acid (LPA) as a chemoattractant as previously described <ref type="bibr" target="#b17">[20]</ref>. We preincubated both MDA-MB-231 and MDA-MB-435 cells with MRW, MRW with P53 information, and control culture media for 24 hours prior to the cell motility and invasion assay. As mentioned previously, there was no significant increase in apoptosis during 24 hours of MRW incubation, which rule out the possibility that the effect on cell motility and invasion is not due to cell death. As shown in (Figure <ref type="figure" target="#fig_2">4</ref>), MRW dramatically reduced the ability of MDA-MB-435 and MDA-MB-231 cells to migrate towards LPA by about 75% and 90% respectively. Invasive potential of these cells was reduced to similar extent. Based on our findings, MRW may prove to be a potent anti-migratory agent that potentially prevents the spread of the breast cancer from primary origin to distal organs. Especially, MRW with P53 information proved to be a much more potent anti-migratory agent. As both MRW and MRW with P53 information have same chemical characteristics, it could be suggested that anti-tumor suppressing effect of P53 information worked against the inhibition of migration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Homeopathy views diseases symptoms originated form the human body's natural healing process <ref type="bibr" target="#b18">[21]</ref>. Homeopathy uses potential toxins, which induce symptoms similar to diseases to invoke natural healing process. As the substances which induce disease-symptoms are mostly  The cells were seeded in 6-well culture dishes at a density of 1 to 3 × 10 5 cells per well in DMEM supplemented with 10% FBS and were grown overnight at 37 °C in a ����� incubator with 5% CO 2 . Cells were treated with MRW, MRW with P53 information and control media for 3 days, followed by apoptosis assay. For the cell motility assay, the upper and lower surface of the membrane in transwell inserts (Costar, Cambridge, MA) were coated with collagen I at 4°C overnight. For MRW condition, cells were incubated with MRW-DMEM for 24 hours before the assay and during the assay. Inserts were incubated for 2-3 hours and non-migrating cells were mechanically removed using cotton swabs. The number of cells that were attached to the bottom side of the membrane were stained and counted using crystal violet. Assays were performed in triplicate and repeated several times. Data were expressed as mean ± SD.</p><p>toxins with serious side effects, homeopathy used the dilution method until there are no harmful effects to the human body, but by physically stimulating (either tapping or shaking) with each dilution. Homeopathy claims that the effects did not disappear even after levels of dilution were done until none of the toxin's molecules were left in the solution. Homeopathy has been ignored by the orthodox medical circles until now because current science could not explain how a substance's effect can be shown without the actual substance. However, even though it was ignored by the orthodox medical circles, there have been almost three hundred verification experiments done on homeopathic effects in the past decade. Furthermore, about 80% of those showed homeopathy to have different effects from placebo effect. Even though not empathized, homeopathy uses water's memorizing ability <ref type="bibr" target="#b18">[21,</ref><ref type="bibr" target="#b19">22]</ref>. If homeopathy is effective therapy, it implies that water could store the information of toxins to boost natural healing power. If water could stores information of material, then this capacity does not need to be confined to homeopathy.</p><p>Benveniste was the first to show water memory effect in scientific way using human basophil degranulation <ref type="bibr" target="#b0">[1]</ref>. According to Benveniste and colleagues, human basophil was still degranulated when anti-IgE was diluted extremely until there was no molecule left in the solution. Many debates were followed afterward, as water memory cannot be explained by conventional theory in which molecules should come in physical contact with a cell receptor to initiate signal transmission. In 2004 water memory effect was finally proved by double blind test using human basophil activation by extremely diluted histamine. This study was thoroughly investigated by 4 independent European laboratories <ref type="bibr" target="#b4">[5]</ref>. They could not explain their findings and encourage others to investigate this phenomenon.</p><p>Benveniste suggested that when a wave propagated from molecule is transferred to a cell receptor through water, the wave can induce resonance of a receptor initiating intracellular signal transmission. He even showed that the inherent wave of the matter could be recorded in digital form and could be transferred through email to induce physiological reaction in the far distance. Benveniste developed his theory under the name, Digital Biology.</p><p>Information wave of the matter could be modulated to variety of medium. Benveniste modulated the information wave of the matter to sound wave and the sound signal was recorded in a computer. Recorded digitized sound signal was converted into vibration signal using transducer to reproduce physiological reaction in the water <ref type="bibr">[6]</ref><ref type="bibr" target="#b5">[7]</ref><ref type="bibr" target="#b6">[8]</ref><ref type="bibr" target="#b7">[9]</ref><ref type="bibr" target="#b8">[10]</ref><ref type="bibr" target="#b9">[11]</ref>.</p><p>In this research, a new electrical device was devised to replace timeconsuming homeopathy <ref type="bibr" target="#b11">[14]</ref>. The device uses 7.8 Hz frequency, which is the resonance frequency of the earth to activate and transfer the information wave of the matter. Recently Montagnier and colleagues used similar device using 7.8 Hz frequency to transfer the information of DNA to water <ref type="bibr" target="#b20">[23]</ref>. They showed that DNA polymerase could recognize DNA wave transferred to water and produce new DNA copies, suggesting that information wave of the DNA is the physical entity. The existence of the information wave of the DNA in space as physical entity was also shown in so called 'phantom DNA effect' by Poponin <ref type="bibr">[24]</ref>. He showed that diffraction pattern of DNA which appear by laser radiation could be also generated even after DNA sample was removed.</p><p>Information wave of the matter could be transferred to other like ceramic balls (UM in this paper). The information wave of the matter could be modulated to even to electricity using the device. By applying alternating magnetic field generated by 7.8 Hz to electrical cord wound around a tub of a certain shape, the information wave of the matter in the input unit could be modulated to electricity <ref type="bibr" target="#b11">[14]</ref>. Using the technology every electrical device could be turned into a generator of information wave for hormones or cytokines <ref type="bibr" target="#b21">[25,</ref><ref type="bibr">26]</ref>.</p><p>The inherent wave of the particle is not a new concept. In 1924 de Broglie proposed that every matter has accompanying wave (matter wave). The existence of the wave inherent to matter was experimentally confirmed, awarding a Noble prize for de Broglie. De Broglie further suggested that the wave inherent to matter is guiding the trajectory of particle (pilot wave) <ref type="bibr">[12]</ref>. In 1952, Bohm redeveloped almost forgotten pilot wave theory. According to Bohm, pilot wave of particle is affected by the environment and also affects the environment, which is whole universe <ref type="bibr">[12]</ref>. In 1961 Eisberg showed by calculation that pilot wave is faster than the speed of light <ref type="bibr" target="#b22">[27]</ref>. Calling such wave as 'information wave' , Tiller suggested mass particle and pilot wave interacts so as to be experimentally operational <ref type="bibr" target="#b10">[13]</ref>. According to Tiller, pilot wave of the matter could be transferred to water, the pilot wave transferred to water could affect receptor by resonance, and intracellular signal transmission could be initiated <ref type="bibr" target="#b10">[13]</ref>.</p><p>In contrast, instead of inherent wave portion of matter, Meyl suggested that electromagnetic wave itself could be rolled to vortex and act like particle <ref type="bibr" target="#b23">[28]</ref>. According to Meyl, everything is in wave state with only differences in the shape of the wave whether it is open or closed form (vortex), in which particle state is a highly condensed vortex, and thus, particle and wave state of single substance does not coexist, although their proportion is in equilibrium as a whole. Vortex theory of Meyl could also explain water memory, of which closed form of wave from the matter (vortex state) shows particle-like characteristic inside water <ref type="bibr" target="#b23">[28]</ref>.</p><p>P53 is a transcription factor which interacts with specific position of DNA. Our data demonstrated that information wave of P53 contained in water also could function as a tumor suppressor. Although P53 is very important for suppression of tumor, so far there is no way to utilize the function of P53 protein clinically. The information wave of P53 contained in water could be very useful for cancer therapy, especially for brain tumor where blood brain barrier (BBB) blocks the flow of substances.</p><p>Water could reach to every organ of human body in 30 minutes without any obstacle. The information wave contained in water at least will not give unwanted side effects due to material decomposition. Information wave of the matter that can be contained in water is not confined to P53 <ref type="bibr" target="#b11">[14]</ref>. Virtually every kind of cytokines and hormones could be clinically utilized <ref type="bibr" target="#b21">[25,</ref><ref type="bibr">26]</ref>. Further researches regarding water memory and information wave of the matter are expected.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Effect on the inhibition of tumor cell proliferation. The MDA-MB-435 and MDA-MB-231 human cancer cells were grown in low glucose DMEM containing 10% FBS, 1% penn/strep, and 25 mM Hepes. For ARW condition, UM was incubated with DMEM for 3 hours before addition of FBS, penn/strep. pH of culture media was readjusted to 7.8 to generate MRW-DMEM. For the cell proliferation assay, cells were plated on 6 well culture plate at the density of 2×10 5 cells per well and their growth was measured every other day. Data were expressed as mean ± SD.</figDesc><graphic coords="3,48.78,121.75,240.94,193.74" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Effect on apoptosis.The cells were seeded in 6-well culture dishes at a density of 1 to 3 × 10 5 cells per well in DMEM supplemented with 10% FBS and were grown overnight at 37 °C in a ����� incubator with 5% CO 2 . Cells were treated with MRW, MRW with P53 information and control media for 3 days, followed by apoptosis assay.</figDesc><graphic coords="3,43.56,403.56,259.65,138.43" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Effect on the cell motility and invasion.For the cell motility assay, the upper and lower surface of the membrane in transwell inserts (Costar, Cambridge, MA) were coated with collagen I at 4°C overnight. For MRW condition, cells were incubated with MRW-DMEM for 24 hours before the assay and during the assay. Inserts were incubated for 2-3 hours and non-migrating cells were mechanically removed using cotton swabs. The number of cells that were attached to the bottom side of the membrane were stained and counted using crystal violet. Assays were performed in triplicate and repeated several times. Data were expressed as mean ± SD.</figDesc><graphic coords="3,308.84,552.54,259.38,139.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Composition of UM.</figDesc><table><row><cell>Component</cell><cell>Mg</cell><cell>Coral</cell><cell>Tourmaline</cell><cell>Illite</cell><cell>Biotite</cell><cell>Magnetite</cell></row><row><cell>Wt %</cell><cell>50</cell><cell>10</cell><cell>10</cell><cell>10</cell><cell>10</cell><cell>10</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Human basophil degranulation triggered by very dilute antiserum against IgE</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dayenase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Beauvais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amara</forename><forename type="middle">J</forename><surname>Oberbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Robinzon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="page" from="816" to="818" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dayenase E, Beauvais F, Amara J, Oberbaum M, Robinzon B, et al. (1988) Human basophil degranulation triggered by very dilute antiserum against IgE. Nature 333: 816-818.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Effect of dilute histamine on coronary ������������������</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hadji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arnoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ASEB</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="68" to="69" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>A</note>
+	<note type="raw_reference">Hadji L, Arnoux B, Benveniste J (1991) Effect of dilute histamine on coronary ������������������ ASEB 5 A1583 81: 68-69</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Basophil achromasia by dilute ligand</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Davenase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ducot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1008</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benveniste J, Davenase E, Ducot B, Spira A (1991) Basophil achromasia by dilute ligand. FASEB 5 A1008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Highly dilute antigen increase coronary �������������������������� ASEB 5 A1610</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arnoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hadji</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benveniste J, Arnoux B, Hadji L (1992) Highly dilute antigen increase coronary �������������������������� ASEB 5 A1610.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Molecular signaling at high dilution or by means of electronic circuitry</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Belon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cumps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ennis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Mannaioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M ;</forename><surname>Roberfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jorgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Litime</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Behar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Immunology</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">146A</biblScope>
+			<date type="published" when="1993">2004. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Histamine ������������������������������������� 6</note>
+	<note type="raw_reference">Belon P, Cumps J, Ennis M, Mannaioni PF, Roberfroid M (2004) Histamine ������������������������������������� 6. Aissa J, Jorgen P, Litime I, Behar I, Benveniste J (1993) Molecular signaling at high dilution or by means of electronic circuitry. Journal of Immunology 150: 146A.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Transfer of the �����������������������c</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Litime</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tsangaris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ASEB</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">398</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>A</note>
+	<note type="raw_reference">Benveniste J, Aissa J, Litime I, Tsangaris G, Thomas Y (1994) Transfer of the �����������������������c ASEB 8: A398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Electronic transmission of the cholinergic signal</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Littime</forename><forename type="middle">M H</forename><surname>Attias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Benvenste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">683</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aissa J, Littime M.H, Attias E, Benvenste J (1995) Electronic transmission of the cholinergic signal. FASEB 5: A683.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Digital recording/transmission of the cholinergic signal</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jurgens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1479</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benveniste J, Jurgens P, Aissia J (2000) Digital recording/transmission of the cholinergic signal. FASEB 10: A1479.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Activation of human neutrophils by electronically transmitted phorbol-myristate acetate</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Belkadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jurgens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kahhak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas Y, Schiff M, Belkadi L, Jurgens P, Kahhak L et al. (2000) Activation of human neutrophils by electronically transmitted phorbol-myristate acetate. Medical hypotheses 54: 33-39.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Transatlantic transfer of digitized antigen signal by telephone link</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benveniste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jurgens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hseuh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Allergy and Clinical Immunology</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">175</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benveniste J, Aissa J, Jurgens P, Hseuh W (1997) Transatlantic transfer of digitized antigen signal by telephone link. Journal of Allergy and Clinical Immunology 99: S175.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tiller</surname></persName>
+		</author>
+		<title level="m">Science and Human Transformation</title>
+		<imprint>
+			<publisher>PAVIOR</publisher>
+			<date type="published" when="1197">1197</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tiller W (1197) Science and Human Transformation. PAVIOR.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Apparatus for delivering substance information</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean patent</title>
+		<imprint>
+			<biblScope unit="page" from="10" to="2010" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim HW (2010) Apparatus for delivering substance information. Korean patent, 10-2010-0012200</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Characteristic and application of apparatus for transcribing information wave</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Subtle Energy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="32" to="41" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim HW (2011) Characteristic and application of apparatus for transcribing information wave. Journal of Applied Subtle Energy 9: 32-41.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Electrolyzed-reduced water scavenges active oxygen species and protects DNA from oxidative damage</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shirahata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kabayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kusumoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">234</biblScope>
+			<biblScope unit="page" from="269" to="274" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shirahata S, Kabayama S, Nakano M, Miura T, Kusumoto K et al. (1997) Electrolyzed-reduced water scavenges active oxygen species and protects DNA from oxidative damage. Biochem Biophys Res Commun 234: 269-274.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Anticancer effect of alkaline reduced water</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Ryang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Intl Soc Life Info Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="302" to="305" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lee KJ, Park SK, Kim JW, Kim GW, Ryang YS, et al. (2004) Anticancer effect of alkaline reduced water. J Intl Soc Life Info Sci 22: 302-305.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Adaptation to oxidative stress, chemoresistance, and cell survival</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Landriscina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Maddalena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Laudiero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Esposito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antioxid Redox Signal</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="2701" to="2716" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Landriscina M, Maddalena F, Laudiero G, Esposito F (2009) Adaptation to oxidative stress, chemoresistance, and cell survival. Antioxid Redox Signal 11: 2701-2716.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Tumorigenicity and metastasis of human breast carcinoma cell lines in nude mice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Polyzos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Daniels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer research</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="717" to="721" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Price JE, Polyzos A, Zhang RD, Daniels LM (1990) Tumorigenicity and metastasis of human breast carcinoma cell lines in nude mice. Cancer research 50: 717-21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Met and the integrin can function independently to promote carcinoma invasion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lipscomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mercurio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="page" from="32287" to="32293" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chung J, Yoon S, Lipscomb E, Mercurio AM (2004) Met and the integrin can function independently to promote carcinoma invasion. J Biol Chem 279: 32287-32293.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The puzzle of homeopathy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reilly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Alternative and complementary medicine</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="103" to="109" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reilly D (2001) The puzzle of homeopathy. Journal of Alternative and complementary medicine 7: 103-109.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Are the clinical effects of homeopathy placebo effect? Meta-analysis of placebo-controlled trials</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Clausius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Linde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Melchart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Eitel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="834" to="843" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clausius N, Linde K, Ramirez G, Melchart D, Eitel F, et al. (1997) Are the clinical effects of homeopathy placebo effect? Meta-analysis of placebo-controlled trials. The Lancet 350: 834-843.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Montagnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Delgiudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lavallee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tedshi</surname></persName>
+		</author>
+		<ptr target="http://www.papimi.gr/poponin.html" />
+		<title level="m">DNA wave and water</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montagnier L, Aissa J, DelGiudice E, Lavallee C, Tedshi A, et al. (2010) DNA wave and water. 24. http://www.papimi.gr/poponin.html.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Characteristic and application of digitized information wave expressed in two dimensional space</title>
+		<author>
+			<persName><forename type="first">Hw ; Kim Hw Water</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bluebird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Bookscom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Subtle Energy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="12" to="21" />
+			<date type="published" when="2009">2009. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Life of Water: A Cure for Our Body, Books.com</note>
+	<note type="raw_reference">Kim HW (2009) Life of Water: A Cure for Our Body, Books.com, editor: Kim HW Water Bluebird, Bookscom 26. Kim HW (2011) Characteristic and application of digitized information wave expressed in two dimensional space. J Appl Subtle Energy 9: 12-21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Fundamentals of Modern Physics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Eisberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">John Wiley and Sons In New Yonrk</title>
+		<imprint>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eisberg RM (1961) Fundamentals of Modern Physics. John Wiley and Sons In New Yonrk 140-146.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Scalar Waves</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Meyl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Expl</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="199" to="205" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Meyl K (2001) Scalar Waves J Sci Expl 15: 199-205.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

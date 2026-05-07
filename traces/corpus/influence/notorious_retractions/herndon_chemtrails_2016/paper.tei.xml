@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Human and Environmental Dangers Posed by Ongoing Global Tropospheric Aerosolized Particulates for Weather Modification</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Frontiers Media SA</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-07-20">20 July 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Judi</forename><surname>Krzyzanowski</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yue-Wern</forename><surname>Huang</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">J</forename><forename type="middle">Marvin</forename><surname>Herndon</surname></persName>
+							<email>mherndon@san.rr.com</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Krzyzanowski Consulting , Canada</note>
+								<orgName type="institution">Krzyzanowski Consulting</orgName>
+								<address>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Western Norway Research Institute , Norway</note>
+								<orgName type="institution">Western Norway Research Institute</orgName>
+								<address>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Missouri University of Science and Technology , USA</note>
+								<orgName type="institution">Missouri University of Science and Technology</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Transdyne Corporation , San Diego , CA , USA</note>
+								<orgName type="institution">Transdyne Corporation</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Human and Environmental Dangers Posed by Ongoing Global Tropospheric Aerosolized Particulates for Weather Modification</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Frontiers in Public Health</title>
+						<title level="j" type="abbrev">Front. Public Health</title>
+						<idno type="eISSN">2296-2565</idno>
+						<imprint>
+							<publisher>Frontiers Media SA</publisher>
+							<biblScope unit="volume">4</biblScope>
+							<date type="published" when="2016-07-20">20 July 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">33AA83F7C18F8C98F62C809D1719AB2A</idno>
+					<idno type="DOI">10.3389/fpubh.2016.00139</idno>
+					<note type="submission">This article was submitted to Environmental Health, a section of the journal Frontiers in Public Health Received: 05 April 2016 Accepted: 16 June 2016</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>geoengineering</term>
+					<term>coal fly ash</term>
+					<term>aerosol particulates</term>
+					<term>autism spectrum disorder (asD)</term>
+					<term>alzheimer&apos;s disease</term>
+					<term>Parkinson&apos;s disease</term>
+					<term>neurological disorders</term>
+					<term>chemically mobile aluminum</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: U.S. military perception of nuclear warfare led to countless unethical nuclear experiments performed on unsuspecting individuals without their informed consent. As evidenced here, subsequent perception of weather warfare has led to exposing millions of unsuspecting individuals to toxic coal fly ash with no public disclosure, no informed consent, and no health warnings.</p><p>Methods: Three methods were used: (1) comparison of eight elements analyzed in rainwater samples, thought to have leached from aerosolized coal fly ash, with corresponding coal fly ash laboratory leachate; (2) comparison of 14 elements analyzed in air filter dust with corresponding elements in coal fly ash; and (3) comparison of 23 elements analyzed in fibrous mesh found after snow melted with corresponding elements in coal fly ash. results: The rainwater element ratios show that the aerial particulate matter has essentially the same water-leach characteristics as coal fly ash. The air filter dust element ratios occur in the same range of compositions as coal fly ash, as do element ratios in fibrous mesh found on grass after snow melted. The fibrous mesh provides an inferred direct connection with the aerosolizing jet aircraft via coal fly ash association with the jet combustion environment. conclusion: Strong evidence for the correctness of the hypothesis: coal fly ash is likely the aerosolized particulate emplaced in the troposphere for geoengineering, weather modification, and/or climate alteration purposes. The documented public health associations for ≤2.5 μm particulate pollution are also applicable to aerosolized coal fly ash. The ability of coal fly ash to release aluminum in a chemically mobile form upon exposure to water or body moisture has potentially grave human and environmental consequences over a broad spectrum, including implications for neurological diseases and biota debilitation. The ability of coal fly ash to release heavy metals and radioactive elements upon exposure to body moisture has potentially grave human health implications including cancer, cardiovascular disease, diabetes, respiratory diseases, reduced male fertility, and stroke. The fibrous mesh data admit the possibility of environmentally disastrous formation of methylmercury and ozone-depleting chlorinated-fluorinated hydrocarbons in jet exhaust. Geophysical implications include atmospheric warming and rainfall retardation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>inTrODUcTiOn</head><p>In a civilized, humanitarian society, public health responsibilities include revealing threats that arise from both biological and anthropogenic causes. Global-scale naturally caused public health threats have long existed, are generally well known, and have been the subject of scholarly research. Far-reaching human-caused threats to public health, on the other hand, have mainly occurred since World War II and are typically the result of deliberate military activities conducted secretly. Public disclosure of military-originated public health dangers by scientists has galvanized public outrage against such activities in the past. The Manhattan Project gave rise to the nuclear arms race. Unethical nuclear experiments were performed involving unsuspecting individuals, sometimes numbering in the thousands, without informed consent. For example, pregnant women, told they were receiving vitamins, were instead given radioactive iron; newborn infants were injected with radioactive iodine-131 <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref>. Atmospheric detonations of nuclear devices were generally undertaken without regard for the health of unsuspecting residents downwind <ref type="bibr" target="#b4">(5)</ref>. Atmospheric nuclear testing in the United States ended as a consequence of the public outcry over civilian public health disclosure of the risks associated with strontium-90 uptake by children <ref type="bibr" target="#b5">(6)</ref>.</p><p>Modern commercial weather modification technology began with the 1946 discovery that clouds, seeded with silver iodide or dry ice, could be caused in many instances to yield rain or snow <ref type="bibr" target="#b6">(7)</ref>. That weather modification method is widely used for agricultural and other commercial purposes. Ski resorts frequently use it to increase the likelihood of snow. Insurance companies use it to cut their risks when guaranteeing certain weather conditions for commercial projects or to minimize potential losses caused by hail storms.</p><p>The military has long dreamed of controlling the weather for strategic purposes <ref type="bibr" target="#b7">(8)</ref>. The early military applications of weather modification were aimed at deliberately causing rainfall at a specific time and place by cloud seeding with substances such as silver iodide or dry ice. Reportedly, the U.S. seeded clouds to squeeze rain out before they reached Cuba in order to ruin the Cuban sugar cane harvest <ref type="bibr" target="#b8">(9)</ref>. From 1967 to 1972, Operation Popeye involved cloud seeding with the intention of extending the monsoon season over the Ho Chi Minh Trail to impede transport of troops and supplies during the Vietnam War <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b9">10)</ref>. The success of these weather modification activities provided impetus for the subsequent government/military technological interests, expressed in a 1978 U.S. Senate document <ref type="bibr" target="#b10">(11)</ref> and described in the 1996 U.S. Air Force document: "Weather as a Force Multiplier: Owning the Weather in 2025 <ref type="bibr" target="#b11">(12)</ref>. "</p><p>After the Vietnam War, military weather modification became a secret global-scale activity buttressed by a campaign of disinformation. Like its nuclear-warfare predecessor, weather modification or geoengineering continued to be covertly developed and practiced, especially over the past two decades <ref type="bibr" target="#b12">(13)</ref>. That geoengineering activity poses global-scale public-health dangers due to the nature of the principal substance being sprayed into the lower atmosphere, troposphere <ref type="bibr" target="#b13">(14)</ref>, where it mixes with the air we all breathe (15) (Figure <ref type="figure">1</ref>). The government not only hides the known (and unknown) health risks but also misleads the public about its geoengineering program and the nature of the aerosol substances it employs. 1   1 <ref type="url" target="http://NuclearPlanet.com/AFD-051013-001.pdf">http://NuclearPlanet.com/AFD-051013-001.pdf</ref> Nevertheless, through application of forensic-science methodologies and with sound observations and scientific reasoning, crucial aspects of the covert tropospheric spraying activities can be discerned. For humanity's sake, the public health and environmental implications of the current on-going, global-scale, covert tropospheric spraying are herewith disclosed for public discussion, research, and verification.</p><p>A profound dichotomy exists between the technology, practice, terminology, and public disclosure of geoengineering so that public discussion of its implications for public health is minimized. The academic community describes geoengineering as a possible future intervention in the upper atmosphere (stratosphere) to counteract anthropogenic global warming. The stratosphere is the region where volcanic eruption gases have been observed to cause global cooling. There is relatively little convection in the stratosphere so volcanic ejecta can stay suspended in the stratosphere for a year or more <ref type="bibr" target="#b15">(16)</ref>. Academic scientists postulate future geoengineering in which substances such as sulfuric acid or titanium dioxide are sprayed into the stratosphere in order to block a portion of incident sunlight <ref type="bibr" target="#b16">(17)</ref>. Various methods have been proposed for emplacing geoengineering substances into the stratosphere including shooting the substances from guns or releasing them from balloons or high-altitude jets <ref type="bibr" target="#b17">(18)</ref>. The stratosphere is the region harboring the ozone-layer that protects us from the ultraviolet component of sunlight <ref type="bibr" target="#b18">(19)</ref>. Within the academic perception of hypothetical geoengineering, public health concerns arising from geoengineering are also hypothetical, something that may become important in the future if and when stratospheric geoengineering is put into practice.</p><p>In contrast to the presumption of academic geoengineers, covert government/military geoengineering activity has occurred over the past 70 years and has intensified since the end of the Cold War and the discovery of global warming as a national security issue <ref type="bibr" target="#b19">(20)</ref>. Currently, geoengineering is taking place in the troposphere (lower atmosphere) over a large number of countries, including the United States, Canada, the European Union countries, England, Australia, and New Zealand <ref type="bibr" target="#b13">(14)</ref>. The academic community has been hesitant to publically acknowledge military geoengineering activity even though there is abundant observational evidence for its existence <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b13">14)</ref>. Since the mid-1990s, there have been numerous observations of aerial spraying of particulate matter in the troposphere. Figure <ref type="figure" target="#fig_0">2</ref> shows some recent examples of the particulate trails; however, this is a minuscule sampling. There are numerous websites devoted to exposing aerial spraying to the uninformed public. 2-14  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A C T E D</head><p>The physical basis for particulate aerial spraying is to control weather and climate by inhibiting rain. The idea behind cloud seeding is to aid the nucleation of rain, ice, or snow whereas the idea behind aerosolized particulate spraying to inhibit rainfall is to interfere with the nucleation process. The methodology is known from pollution studies <ref type="bibr" target="#b20">(21)</ref> and is described by NASA 15 : "Normal rainfall droplet creation involves water vapor condensing on particles in clouds. The droplets eventually coalesce together to form drops large enough to fall to Earth. However, as more and more pollution particles (aerosols) enter a rain cloud, the same amount of water becomes spread out. These smaller water droplets float with the air and are prevented from coalescing and growing large 15 <ref type="url" target="http://nuclearplanet.com/NASA_Particulates_Effect_on_Rainfall.pdf">http://nuclearplanet.com/NASA_Particulates_Effect_on_Rainfall.pdf</ref> enough for a raindrop. Thus, the cloud yields less rainfall over the course of its lifetime compared to a clean (non-polluted) cloud of the same size. "</p><p>The government/military solution to inhibit the fall of rain is to deliberately add an aerosolized pollutant to the region where clouds form to interfere with raindrop nucleation. The intentional addition of particulate pollution not only inhibits the fall of rain but also warms the atmosphere (by absorbing solar energy) and limits loss of heat radiated by Earth. Consequently, the particulate pollution creates an artificial increase in air pressure, which can block the movement of an oncoming weather front thus further keeping the sprayed area from experiencing rainfall <ref type="bibr" target="#b21">(22,</ref><ref type="bibr" target="#b22">23)</ref>. Subsequent settling of the pollutant matter on ice sheets may serve as solar heat collectors and aid in melting the ice <ref type="bibr" target="#b23">(24)</ref>. The harm to citizens, plants, and other biota comes not only from decreased precipitation but also from the toxic content of the pollutant substance widely utilized to retard the fall of rain <ref type="bibr" target="#b24">(25)</ref>.</p><formula xml:id="formula_0">R E T R A C T E D</formula><p>The composition of the aerosolized particulate matter, often referred to as "chemtrails, " to distinguish them from contrails, has been a closely guarded secret, and accompanied by a disinformation campaign. For example, in 2005, the U.S. Air Force distributed a document entitled "Contrails Facts", which asserted in part: "The 'Chemtrail' hoax has been investigated and refuted by many established and accredited universities, scientific organizations, and major media publications. There is no such thing as a 'Chemtrail. ' Contrails are safe and are a natural phenomenon. They pose no health hazard of any kind. "</p><p>But as Abraham Lincoln famously said, "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time. " On February 11, 2016, a bill was introduced into the General Assembly of the State of Rhode Island (USA) that would demand public disclosure and health and safety evaluations of any geoengineering activities <ref type="bibr" target="#b25">(26)</ref>. On March 11, 2016, a mass-tort environmental proposed Class Proceeding ("Proceeding") was brought in the Federal Court of Canada on behalf of all affected Canadians in respect of Aerial Discharges performed directly or indirectly by Her Majesty the Queen and/or her instrumentalities, in Canadian air space, and which Aerial Discharges are alleged to compromise cognitive function, contribute to other neurological disorders, damage property and the environment, among many other heads of damage (27).</p><p>The aerial graffiti superficially resembles contrails, which are ice crystals formed from aircraft exhaust, but there are profound differences. Contrails only form in very humid environments, 5 Herndon Dangers Posed by Weather Modification Frontiers in Public Health | <ref type="url" target="http://www.frontiersin.org">www.frontiersin.org</ref> June 2016 | Volume 4 | Article 139</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>with temperatures low enough for the saturation vapor pressure with respect to ice, and with sufficient moisture content in the exhaust gases. Moreover, the ice crystals that form contrails sublimate, disappearing by evaporation to form invisible gas on a time scale ranging from seconds to minutes (typical) to a few hours (extremes of cold and humidity) <ref type="bibr" target="#b26">(28,</ref><ref type="bibr" target="#b27">29)</ref>. The author has lived in San Diego, California (USA) for more than 40 years and as a trained scientist keenly observes the sky. For many years before the near-daily particulate spraying, the sky overhead was a rich azure blue color, frequently without clouds. In the warm dry air above San Diego, jet contrails are a rare sight that disappear in a matter of seconds to minutes, becoming invisible gas. Figure <ref type="figure">3</ref> shows six images of the San Diego sky that not only illustrate the nature of the now-pervasive particulate spraying but clearly provide the basis to refute the Air Force's published statement. Videos of aircraft spraying particulate matter into the San Diego sky are referenced here. 16-20  All of the photographs that comprise Figure <ref type="figure">3</ref> were taken on days with no natural clouds in the San Diego sky. The top left image of Figure <ref type="figure">3</ref> shows a section of rich azure blue San Diego sky with little evidence of particulate spraying. The top right image shows two trails crossing in the same region of sky, hence in similar environments, but one abruptly ceases, while the other does not. That is not the behavior of contrails, which would 16 <ref type="url" target="https://www.youtube.com/watch?v=tp2wWuqfbi0">https://www.youtube.com/watch?v=tp2wWuqfbi0</ref> 17 <ref type="url" target="https://www.youtube.com/watch?v=0Gjw_7c7GzA">https://www.youtube.com/watch?v=0Gjw_7c7GzA</ref> 18 <ref type="url" target="https://www.youtube.com/watch?v=ty1cDrUYwYg">https://www.youtube.com/watch?v=ty1cDrUYwYg</ref>  19 <ref type="url" target="https://www.youtube.com/watch?v=b1zNJzCXHZQ">https://www.youtube.com/watch?v=b1zNJzCXHZQ</ref> 20 <ref type="url" target="https://www.youtube.com/watch?v=RbwbhzCgGYw">https://www.youtube.com/watch?v=RbwbhzCgGYw</ref> </p><formula xml:id="formula_1">R E T R A C T E D</formula><p>Herndon Dangers Posed by Weather Modification Frontiers in Public Health | <ref type="url" target="http://www.frontiersin.org">www.frontiersin.org</ref> June 2016 | Volume 4 | Article 139</p><p>have behaved similarly, but rather the operation of particulate sprays where one was shut off or ran out of feedstock. Note the wispy cirrus-like "clouds" in the background. Soon after the particulate trail is laid, it begins to diffuse initially forming cirrus-like artificial clouds, which then further diffuses to form a white haze in the sky. The middle left photograph was taken after heavy spraying throughout the day produced an artificial overcast. The middle right photograph shows even heavier spraying that produced artificial overcast with a brownish hue.</p><p>The lower left shows multiple particulate trails over a recognizable location in San Diego that is uncharacteristic of normal jet traffic patterns. The lower right image shows the typical white haze produced by the particulate sprays. The blue strip at the top of the image, from the top left photo, shows for comparison natural un-polluted San Diego sky. Jet contrails do not produce white haze in San Diego skies.</p><p>Even without knowing the identity of the specific particulate matter being sprayed into the air we breathe, we may infer the potential of major adverse health risks from aerosolized particulates because they are similar in size to air pollution particles the health effects of which have been extensively studied <ref type="bibr" target="#b28">(30)</ref>. For aerosolized particulates to remain suspended for some period of time before settling, the particles must be micron (μm) or submicron in size <ref type="bibr" target="#b29">(31)</ref>. As known from epidemiological studies, pollution particles with similar diameters, ≤2.5 μm, referred to as PM2.5, have been found to be associated with increased hospital admissions <ref type="bibr" target="#b30">(32)</ref>, morbidity and premature mortality <ref type="bibr" target="#b31">(33)</ref><ref type="bibr" target="#b32">(34)</ref><ref type="bibr" target="#b33">(35)</ref>, risk for cardiovascular disease <ref type="bibr" target="#b34">(36)</ref> and lung cancer <ref type="bibr" target="#b35">(37)</ref>, lung inflammation and diabetes <ref type="bibr" target="#b36">(38)</ref>, risk for stroke (39), Alzheimer's disease <ref type="bibr" target="#b38">(40,</ref><ref type="bibr" target="#b39">41)</ref>, onset of asthma <ref type="bibr" target="#b40">(42)</ref>, renal function in older men <ref type="bibr" target="#b41">(43)</ref>, low birth weight <ref type="bibr" target="#b42">(44)</ref>, and reduced male fertility <ref type="bibr" target="#b43">(45)</ref>.</p><p>The author published the first paper in the peer-reviewed scientific literature that provided initial evidence that the main substance being aerosolized for military tropospheric geoengineering is coal combustion fly ash <ref type="bibr" target="#b13">(14)</ref>. The purpose of the present paper is to provide considerably more scientific evidence that the aerosolized particulate matter is coal fly ash, and offer considerably greater insight to the public health risks and environment impact of this multi-component aerial pollutant.</p><p>Industrial coal burning produces four kinds of waste products: (1) heavy bottom ash that settles out; (2) micron and sub-micron size particles, called coal fly ash that would go up the smokestack unless electrostatically captured and stored as is presently mandated in Western nations <ref type="bibr" target="#b44">(46,</ref><ref type="bibr" target="#b45">47)</ref>; (3) boiler slag; and (4) flue gas desulfurization product (gypsum). Of these, coal fly ash is by far the most toxic substance. When coal formed it trapped a great variety of toxic elements. Much of coal's toxic component is released upon burning and incorporated in coal fly ash, making coal fly ash a toxic nightmare capable of releasing many toxins upon exposure to water <ref type="bibr" target="#b46">(48)</ref>. These toxins include aluminum in a chemically mobile form, which is implicated in human neurological diseases <ref type="bibr" target="#b47">(49)</ref><ref type="bibr" target="#b48">(50)</ref><ref type="bibr" target="#b49">(51)</ref> and biota distress <ref type="bibr" target="#b50">(52,</ref><ref type="bibr" target="#b51">53)</ref>. "Forest die-offs and reduced survivorship or impaired reproduction of aquatic invertebrates, fish, and amphibians have been directly connected to Al toxicity. Indirect effects on birds and mammals also have been identified <ref type="bibr" target="#b52">(54)</ref>. "</p><p>Coal fly ash is a major industrial waste stream for Western nations' coal-fired electric utilities. Notably, coal fly ash has the appropriate grain-size distribution for aerosolized tropospheric spraying or else it is relatively simple to further separate an extrafine component using cyclone classifiers (separators). Huge quantities of coal fly ash are readily available worldwide at extremely low cost. Moreover, electrostatic trapping and processing facilities, as well as transport infrastructure, are in place and generally out of public view. The author submits the following hypothesis: coal fly ash is likely the principal aerosolized particulate sprayed in the troposphere by jets for geoengineering, weather modification, and/or climate alteration purposes.</p><p>The objectives of the author's research are fourfold: (1) to provide further scientific evidence as to the correctness of the hypothesis that coal fly ash is likely the aerosolized particulate sprayed in the troposphere for geoengineering, weather-modification, and/or climate-modification purposes; (2) to reveal some of the adverse human public health consequences and the antagonistic consequences on Earth's environment and biota; (3) to provide evidence that, in addition to being directly discharged into the atmosphere, coal fly ash may be exposed to jet fuel combustion environment prior to being dispersed; and, (4) to suggest that ozone-destructive chlorinated-fluorinated hydrocarbons and toxic methylmercury (CH3Hg) may be produced when coal fly ash is exposed to the jet fuel combustion environment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MaTerials anD MeThODs</head><p>The methodology is threefold: (1) compare the element ratios analyzed in rainwater with corresponding element ratios analyzed in the leachate of coal fly ash laboratory leach experiments <ref type="bibr" target="#b46">(48,</ref><ref type="bibr" target="#b53">55)</ref>; (2) compare the element ratios analyzed in dust collected outdoors by high-efficiency particulate arresting (HEPA) air filters with corresponding element ratios analyzed in samples of coal fly ash; and (3) compare the element ratios analyzed in fibrous matter collected on grass after snow melted away with corresponding element ratios analyzed in samples of coal fly ash.</p><p>Since at least 2002, individuals have collected post-spraying rainwater for chemical analysis (see footnote text 2-5). Usually only aluminum analyses were requested, but sometimes also barium, and more rarely strontium were also included in the analysis request. In 2015, the author published the first paper showing that for those three-element rainwater analyses, the ratios Al/Ba and Sr/Ba compare favorably with similar ratios from analyses of the leachate from laboratory coal fly ash leaching experiments <ref type="bibr" target="#b13">(14)</ref>. Here, the author compares three separate San Diego (USA) postspraying rainwater analyses for Al/Ba, Sr/Ba, Fe/Ba, Ca/Br, S/Br, Mg/Br, and B/Br with corresponding coal fly ash leachate ratios.</p><p>Since at least 2008, a few individuals have trapped air-borne particles on HEPA filters and had the dust analyzed. Here, the author compares the analytical results from four samples, expressed as element ratios relative to barium, with corresponding ratios from analyses of coal fly ash.</p><p>Occasionally fibers, sometimes referred to as "spider webs, " are observed descending from above, swept along by the wind, trapped on vegetation, and on the ground; 21-24 some observers have speculated that these originated from aerial spraying. Recently, such fibers were found on grass as snow was melting away and were collected and analyzed. Here, the author compares those analytical results, expressed as ratios relative to barium, with corresponding ratios from analyses of coal fly ash.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>resUlTs</head><p>Coal fly ash is trapped and confined in Western countries because it contains numerous toxic elements including aluminum, arsenic, barium, cadmium, chromium, lead, mercury, selenium, thorium, and uranium among others. These elements are readily released by contact with water. Moreno et al. <ref type="bibr" target="#b46">(48)</ref> conducted leaching experiments on 23 different coal fly ash samples from European sources (Spain, The Netherlands, Italy, and Greece), which they analyzed for 33 elements. They leached 100 g of each sample in 1 liter of distilled water in a 2-liter bottle for 24 h. They then analyzed the filtered leachate solution of each for 38 elements. No reason was given for the greater number of leachate analyses. These data provide the primary standard for comparison of the analytical results for rainwater, HEPA filter dust, and fibrous matter reported here. An additional comparison is made of the range of compositions and range of leachate values of 12 American coal fly ash samples, ten of which come from the Illinois Basin <ref type="bibr" target="#b53">(55)</ref>.</p><p>rainwater Before the near-daily aerial spraying in San Diego, California (USA), where the author has resided for more than 40 years, on many days of the year the skies were blue, cloudless and without the white haze that is the consequence of the aerial spraying; now, the visual effects of the spraying are clearly evident (Figure <ref type="figure">3</ref>). The author collected San Diego rainwater samples in February, May, and December 2015 for analysis. San Diego is ideal for rainwater sample collection as there are no coal-burning facilities nearby or in the path of prevailing winds and there are no heavy industries to cause air borne pollution in San Diego. The residence-time for smokestack particulates in the boundary layer, a few days at most, is too short for coal fly ash to arrive from China via low-level transport, which takes longer than 10 days <ref type="bibr" target="#b54">(56)</ref>. Further, the observed aerial particulate density, at times sufficient to cause artificial overcast (Figure <ref type="figure">3</ref>), is related to observed aircraft spraying activities, and is not present in the absence of aerial activity.</p><p>The rainwater samples were sent to two commercial state-of-California certified laboratories, Babcock Laboratories, Inc., and Basic Laboratory. Their analytical results, by inductively coupled plasma mass spectrometry, were consistent to within 2-10%.   The differences between samples primarily reflect various amounts of dilution. American leach experiments as the pH was constantly adjusted during the experiment to maintain a value of 5.00. Figure <ref type="figure" target="#fig_2">4</ref> also includes for comparison the analytical rainwater results from Internet sources (see footnote text 2-5) published by the author <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b55">57)</ref>. Plotted data are shown in Tables <ref type="table" target="#tab_2">1</ref><ref type="table" target="#tab_1">2</ref><ref type="table" target="#tab_3">3</ref>. Ranges of variations are observed in the compositions of coal fly ash <ref type="bibr" target="#b46">(48,</ref><ref type="bibr" target="#b53">55)</ref>. These variations arise not only from differences in coal type, in chemical compositions and mineral constituents of the coal from the various locations, but also arise from fly ash characteristics and from boiler configurations and prevailing physical conditions during the burning process. Despite those variable factors, there is nevertheless an overall compositional consistency. Not surprisingly, overall compositional consistency appears to be the case as well for leachate compositions leached from coal fly ash samples from different locations. Note in Figure <ref type="figure" target="#fig_2">4</ref> that the Internet-posted rainwater Al/Ba ratios <ref type="bibr" target="#b13">(14)</ref>, determined on samples from the United States, France, and New Zealand, are quite similar to the San Diego rainwater Al/Ba ratio and span a range less than the corresponding leachate range of the 23 European coal fly ash samples. A similar observation may be made with respect to the published rainwater Sr/Ba ratios. Indeed, each of the seven San Diego rainwater ratios of the three data sets is remarkably similar to the corresponding European leachate average and range. Rainwater samples absent aerial spraying would be desirable as blanks, but the near-daily, pervasive spraying makes such samples impossible to obtain.</p><p>Do the data shown in Figure <ref type="figure" target="#fig_2">4</ref> prove that the aerosolized substance is indeed coal fly ash? Not necessarily, as incontrovertible proof is difficult to obtain, except in mathematics. But the data of Figure <ref type="figure" target="#fig_2">4</ref> do show that some substance in the atmosphere is capable of being leached by rainwater and that substance has for eight elements similar leach characteristics to coal fly ash.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>hePa air Filter Dust</head><p>Citizens throughout Western nations, concerned about the particulate spraying they observe in the troposphere, have taken numerous samples other than rainwater. Some instances, such as soil samples, are too complicated to draw meaningful conclusions. In many instances, though, too few elements were ordered in the analyses. Individuals in Los Angeles and Montebello, California (USA) in 2011, and in Phoenix, Arizona (USA) in 2008 and 2009 were exceptions. During times of intense aerial spraying these</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>FigUre <ref type="figure">5</ref> | analyzed element ratios of dust collected on four high-efficiency air filters shown for comparison with the range of corresponding element ratios and average values for 23 non-leached european coal fly ash samples <ref type="bibr" target="#b46">(48)</ref> and element ratio ranges of 12 U.s. coal fly ash samples <ref type="bibr" target="#b53">(55)</ref>. Also shown, 11 of 22 element ratios of fibrous mesh (Figure <ref type="figure" target="#fig_5">6</ref>); remaining 11 element ratios are shown in Figure <ref type="figure" target="#fig_4">7</ref>.</p><p>citizens ran HEPA air filters out doors for 3 months during times of intense aerial spraying to capture air borne dust which they had analyzed for 14 chemical elements by state-certified laboratories. The laboratory results were posted on the Internet, but led to no immediately conclusions other than that a number of toxic elements were evident.</p><p>Having had the experience of comparing post-spraying rainwater analyses to laboratory-produced coal fly ash leachate, the author decided to compare the HEPA air filter analyses with corresponding analyses of non-leached coal fly ash samples <ref type="bibr" target="#b46">(48,</ref><ref type="bibr" target="#b53">55,</ref><ref type="bibr" target="#b55">57)</ref>. As in the case of San Diego, there were no coal burning facilities and no polluting heavy industries nearby or in the path of prevailing winds for the Los Angeles, Montebello, and Phoenix areas where sample collections took place. As noted above, the residence-time for smokestack particulates in the boundary layer, a few days at most, is too short for coal fly ash to arrive from China via low-level transport, which takes longer than 10 days <ref type="bibr" target="#b54">(56)</ref>.</p><p>Figure <ref type="figure">5</ref> shows the comparisons of the four sets of analyses of HEPA air filter dust, normalized to barium, with corresponding ratios of the average and range of European coal fly ash compositions from Moreno et al. <ref type="bibr" target="#b46">(48)</ref> and from a suite of 12 investigated by Suloway et al. ( <ref type="formula">55</ref>) that includes ten from the Illinois Basin (USA), one from North Dakoda (USA) and one from Minnesota (USA). Even though coal fly ash varies in composition according to location, the data presented in Figure <ref type="figure">5</ref> show the great similarity between the four samples of HEPA filter dust and coal fly ash compositional ranges. That great similarity is further evidence in support of the following hypothesis: coal fly ash is likely the principal aerosolized particulate sprayed in the troposphere by jets for geoengineering, weather modification, and/or climate alteration.</p><p>It follows logically that if aerosolized coal fly ash is the progenitor of the rainwater content of aluminum, barium, strontium, and other elements by leaching, as evidence suggests (Figure <ref type="figure" target="#fig_2">4</ref>), then coal fly ash should be found trapped on HEPA air filters (Figure <ref type="figure">5</ref>) as the tropospheric air at spray-altitudes mixes with the air we breathe <ref type="bibr" target="#b14">(15)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fibers Found after snow Melted</head><p>In the spring of 2015 a citizen in Laona, Wisconsin (USA) noticed that immediately after snow had melted a fibrous, sticky mesh, initially flexible and sticky, covered the underlying grass (Figure <ref type="figure" target="#fig_5">6</ref>). Upon drying over a period of 24 h, the white fibrous mesh became brittle; subsequent addition of water decomposed the fibrous mesh into a black gelatinous mass. Samples of the brittle white fibrous mesh were analyzed by inductively coupled plasma mass spectrometry at Northern Lake Services, Inc. in Crandon, Wisconsin. Of the 26 elements detected and measured in the fibrous mesh, 23 had been measured by Moreno et al. <ref type="bibr" target="#b46">(48)</ref> in the non-leached coal fly ash European samples. Of the 22 element ratios relative to barium that are common to each data set, 11 are common to element ratios measured in HEPA air filter dust and are shown with those ratios in Figure <ref type="figure">5</ref>. Considering the compositional variability in coal fly ash from different sources, it is reasonable to conclude that the fibrous mesh ratios are essentially indistinguishable from ratios measured in the HEPA air filter data and in turn are essentially indistinguishable from ratios measured in non-leached coal fly ash.  <ref type="formula">55</ref>). The great similarity observed in the data plotted in Figure <ref type="figure" target="#fig_4">7</ref> further reinforces the assertion that the composition of the white fibrous mesh is essentially identical to that of coal fly ash. Coal fly ash is electrostatically trapped as a powder that ranges in color from tan to dark gray depending on composition, which is consistent with observations of the dust trapped by HEPA air filters, which is further consistent with the hypothesis that coal fly ash is sprayed from jet aircraft. So, how might one account for the strikingly different appearance of the fibrous mesh morphology if indeed it is, as evidence indicates, essentially identical in composition to coal fly ash? For the reasons and observations described in the next section, the author posits potential circumstances in which coal fly ash is sometimes exposed to jet fuel combustion, which usually leads to aerosolized coal fly ash, but occasionally, depending physical variables, leads to the production for fibers instead. Viewed this way, the fibrous mesh provides an inferred direct connection with the aerosolizing jet aircraft and also admits  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>Herndon Dangers Posed by Weather Modification Frontiers in Public Health | <ref type="url" target="http://www.frontiersin.org">www.frontiersin.org</ref> June 2016 | Volume 4 | Article 139</p><p>the possibility for further investigation of environmentally disastrous formation of methylmercury (CH3Hg) and/or the production of ozone-depleting chlorinated-fluorinated hydrocarbons in the jet exhaust.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DiscUssiOn</head><p>The analytical results reported for rainwater (Figure <ref type="figure" target="#fig_2">4</ref>), airborne particulates collected on HEPA air filters (Figure <ref type="figure">5</ref>), and the fibrous mesh (Figures <ref type="figure" target="#fig_3">4</ref> and <ref type="figure" target="#fig_5">6</ref>) stand as evidence that coal fly ash is the principal material emplaced in the troposphere for ongoing, covert geoengineering, weather modification, and/or climate alteration. For more precise information, future experiments should sample airborne particulates at the altitude in which they are being dispersed into the atmosphere. Alternatively, the nature of the substances being sprayed into the air people breathe may be sought through the process of judicial discovery in legal proceedings such as recently initiated in Canada ( <ref type="formula">27</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biotic and Public health consequences of Tropospheric spraying</head><p>The ultra-fine particles of aerosolized coal fly ash do not long remain at the altitudes they are emplaced in the troposphere. The particles mix with and pollute the air people breathe <ref type="bibr" target="#b14">(15)</ref> and contaminate the soil with toxic, soluble aluminum. The coal fly ash also causes pH changes in the soil. Aluminum is an abundant element in Earth's crust, but typically it is tightly bound to oxygen and other elements. Earth's biota evolved without adapting defense mechanisms for soluble aluminum compounds. Tropospheric aerosolized coal fly ash poses environmental health threats from aluminum similar to those posed by acid rain, but without necessarily requiring an acid environment. The pH of coal fly ash varies and can be acidic or basic depending on its coal source. Eastern USA bituminous coal fly ash, for example, has been found to be acidic with pH in the range of 4.3-4.9 (58), whereas coal fly ash from the Western USA tends to be more basic, with pH in the range 8.16-12.4 according to one study <ref type="bibr" target="#b57">(59)</ref>. Uncontaminated natural rainwater has an acidic pH of about 5.7 due to interaction with atmospheric CO2 (60); however, an acidic pH is not a required to leach toxins from coal fly ash. In the experiments on European coal fly ash samples by Moreno et al. <ref type="bibr" target="#b46">(48)</ref>, distilled water led to aluminum extraction while other chemicals extracted led to leachate pH values in the range 6.2-12.5. Before action was taken to prevent acid rain (61), chemically mobile aluminum, which is soluble in water, was released into the environment from geological sources, such as mine tailings, and caused serious adverse effects on forests. Forest die-backs in North America were attributed to aluminum toxicity. These blighted forests included balsam fir, Fraser fir, loblolly pine, red spruce, slash pine, and sugar maples <ref type="bibr" target="#b52">(54)</ref>. Whereas reductions in NOx and SO2 emissions have seriously reduced the acid rain threat, there is a global decline in large old trees <ref type="bibr" target="#b60">(62)</ref> and particularly in the Western USA <ref type="bibr" target="#b61">(63)</ref>. The biochemical-geochemical cycling of aluminum is complex. Its dissolved form is most readily assimilated by living organisms. Once in solution, aluminum may combine with several organic complexes, especially oxalic, humic, and fulvic acids. The metal may also combine with inorganic anions including sulfates, fluorides, phosphates, bicarbonates, or hydroxides, depending on their relative concentrations. Biological activity and toxicity vary with composition and pH. Generally, sulfates are less toxic than hydroxide or organically bound aluminum; however, aqueous trivalent aluminum is considerably more active chemically and biologically <ref type="bibr" target="#b62">(64)</ref>. Soluble aluminum is toxic to plants in a variety of ways, including formation of root lesions (65) that may weaken the plant, making it vulnerable to disease, or may kill it outright. Coal fly ash leaching studies reveal that even distilled water can solubilize aluminum, but details of the mechanism have not been disclosed <ref type="bibr" target="#b46">(48,</ref><ref type="bibr" target="#b53">55)</ref>. The author posits that aerosolized coal fly ash directly settled in soil or brought down in rainwater is damaging plants both from soluble aluminum toxicity and from pH changes <ref type="bibr" target="#b13">(14)</ref>.</p><p>Exposure to air pollution particulates, not necessarily coal fly ash, in sizes ≤2.5 μm in diameter -often designated PM2.5 -is especially detrimental to human health <ref type="bibr" target="#b64">(66)</ref>. Although the specific mechanisms are not well known, epidemiological studies are beginning to reveal some of the adverse consequences of such exposures. As noted above, exposure to PM2.5 has been shown to be associated with increased hospital admissions <ref type="bibr" target="#b30">(32)</ref>, morbidity and premature mortality <ref type="bibr" target="#b31">(33)</ref><ref type="bibr" target="#b32">(34)</ref><ref type="bibr" target="#b33">(35)</ref>, risk for cardiovascular disease <ref type="bibr" target="#b34">(36)</ref> and lung cancer <ref type="bibr" target="#b35">(37)</ref>, lung inflammation and diabetes <ref type="bibr" target="#b36">(38)</ref>, risk for stroke (39), Alzheimer's disease <ref type="bibr" target="#b38">(40,</ref><ref type="bibr" target="#b39">41)</ref>, onset of asthma <ref type="bibr" target="#b40">(42)</ref>, renal function in older men <ref type="bibr" target="#b41">(43)</ref>, low birth weight <ref type="bibr" target="#b42">(44)</ref>, and reduced male fertility <ref type="bibr" target="#b43">(45)</ref>. One may therefore reasonably conclude that aerosolized coal fly ash, at least the PM2.5 component, is harmful to human health.</p><p>Coal fly ash occurs with grain sizes down to ~0.1 μm in diameter <ref type="bibr" target="#b65">(67)</ref>. In principle, extracting an ultra-fine fraction of coal fly ash is relatively simple and inexpensive using cyclone classifiers (separators). Certainly, such an ultra-fine fraction would be advantageous for aerial spraying due to added loft time. But there is a serious downside: the toxic elements of coal fly ash tend to be concentrated in the ultra-fine fraction <ref type="bibr" target="#b53">(55)</ref>. It is not known whether this mechanism for producing ultra-fine enrichment is being used for the covert tropospheric emplacement, but if it is, then that component would be even more toxic than typical coal fly ash.</p><p>The toxins in coal fly ash make that substance especially injurious to human health. The small particle size of aerosolized coal fly ash (PM2.5) enables particulate intake through inhalation, ingestion, and induction through eyes or skin <ref type="bibr" target="#b66">(68)</ref>. When inhaled, PM2.5 particles can penetrate and become trapped in terminal airways and alveoli, and retained for long periods of time. Here, it can cause inflammation and injury through antagonistic contact <ref type="bibr" target="#b67">(69)</ref>, through in situ toxin release by body moisture <ref type="bibr" target="#b68">(70)</ref>, and through ionizing radiation from uranium, thorium, and their radioactive daughter products found in coal fly ash <ref type="bibr" target="#b69">(71)</ref>. Coal fly ash has been described as being more radioactive than nuclear waste <ref type="bibr" target="#b70">(72)</ref>.</p><p>Coal fly ash is able to liberate a host of toxins through exposure to body moisture <ref type="bibr" target="#b68">(70)</ref>, including aluminum, arsenic, barium, boron, cadmium, chromium, lead, lithium, selenium, strontium, thallium, and thorium and uranium with their</p><formula xml:id="formula_2">R E T R A C T E D</formula><p>Herndon Dangers Posed by Weather Modification Frontiers in Public Health | <ref type="url" target="http://www.frontiersin.org">www.frontiersin.org</ref> June 2016 | Volume 4 | Article 139</p><p>radioactive daughter products, and other toxins. Each one of these can have adverse human health consequences, but in combination their synergistic effects may be even more deleterious. Moreover, Haber's Rule or some more general concentration versus exposure-time relationship may be expected in certain instances where a lower concentration for a long time exposure is approximately equivalent to a higher concentration exposure for a short period of time <ref type="bibr" target="#b15">(16)</ref>.</p><p>The extent of physiological damage from tropospheric coal fly ash is a function of a variety of factors including concentration and exposure duration, as well as the individual's age, physical condition, and individual susceptibility. Generally, the most at-risk individuals are pregnant women, children, the elderly, and those with compromised immune and respiratory systems. The fetuses of pregnant women exposed to inorganic arsenic from coal fly ash are at risk as arsenic can crossover the placenta. Arsenic can be involved with hypertension-related cardiovascular disease <ref type="bibr" target="#b71">(73)</ref>, cancer <ref type="bibr" target="#b72">(74)</ref>, diabetes <ref type="bibr" target="#b73">(75)</ref>, respiratory diseases <ref type="bibr" target="#b74">(76)</ref>, and stroke <ref type="bibr" target="#b72">(74)</ref>. Moreover, arsenic is just one of the numerous toxic elements of coal fly ash that are released by water and by body fluids. Another component, chromium VI, which comprises an estimated 10% of the chromium content of coal fly ash, is not only cytotoxic for lungs and kidneys but is also a carcinogen with the ability to cause lung cancer <ref type="bibr" target="#b75">(77)</ref>. These examples are just snippets of a vast array of debilitating conditions that can potentially arise from human exposure to aerosolized coal fly ash.</p><p>Although aluminum is abundant in Earth's continental crust, comprising about 8%, it is tightly bound within minerals, and thus is essentially insoluble, i.e., immobile. But coal fly ash is an unnatural product whose aluminum is not so tightly bound. Aluminum in coal fly ash can be extracted in a chemically mobile (soluble) form by water or in situ by body fluids <ref type="bibr" target="#b68">(70)</ref>. Aluminum is implicated in neurological diseases such as Alzheimer's, autism spectrum disorder (ASD), Parkinson's, and attention-deficit disorder (ADHD) <ref type="bibr" target="#b47">(49,</ref><ref type="bibr" target="#b49">51,</ref><ref type="bibr" target="#b76">(78)</ref><ref type="bibr" target="#b77">(79)</ref><ref type="bibr" target="#b78">(80)</ref>, all of which have increased markedly in recent years. Moreover, aluminum is thought to reduce fertility in men <ref type="bibr" target="#b79">(81)</ref> and is implicated in neurological disorders of bees and other creatures <ref type="bibr" target="#b80">(82)</ref><ref type="bibr" target="#b81">(83)</ref><ref type="bibr" target="#b82">(84)</ref>.</p><p>As might be expected of a covert operation, there have been no public disclosures identifying the principal substance being sprayed, no informed consent, no health warnings, and no serious investigation of the adverse health consequences. The data described here, however, provide strong evidence that the main aerosolized substance being sprayed is coal fly ash; public health inferences can be drawn from extent literature, some of which is cited herein. These citations only provide glimpses of the potential risks involved, but they are sufficient to suggest the possibility of a multi-dimensional global public health crisis, a slow pandemic in the making.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Potential Unforeseen hazards inferred from Fibrous Mesh</head><p>From observations, photographic and video evidence, patent literature, and airline pilots' statements there appears to be two main methods for dispersing the particulate matter in the troposphere: (1) blowing or pumping the powder through nozzles; and (2) dumping large quantities of the powder for the winds to spread. The evidence of a fibrous form of coal fly ash disclosed here presents the possibility of a third dispersing mechanism, one that may pose yet further public health risks.</p><p>The author can envision no practical reason for coal fly ash to be deliberately converted into an aerial fibrous form. Moreover, the fibrous form is only sporadically observed, which suggests it is the result of the occasional failure of a specific dispersing mechanism for particulate spray. This fiberproducing mechanism is different in that it involves a heat source, necessary to liquefy the material that generates fibers, a progenitor matrix that may contain additives in addition to coal fly ash, and a motive-mechanism for elongating the liquid into fibers. One known mechanism for producing fibers is to inject a liquid into a blowing stream of air, which causes elongation <ref type="bibr" target="#b83">(85,</ref><ref type="bibr" target="#b84">86)</ref>. In principle, fluid drops of coal fly ash and its additives when subjected to the high speed jet combustion exhaust under appropriate physical conditions may be lengthened to form fibers. Two potential processes come to mind that might result in coal fly ash being exposed to jet fuel combustion temperatures: (1) the coal fly ash powder, which may contain dispersion-assisting additives, is injected into the proximity of the jet engine combustion chamber, or (2) the coal fly ash is suspended in the jet fuel, possibly added along with a surfactant at the refinery or fuel distribution center.</p><p>The exposure of coal fly ash to the jet fuel combustion environment has further -and perhaps unanticipated -global public health consequences.</p><p>As is well known, coal fly ash contains mercury (87-91) in concentrations of 0.1-1.1 μg/g, which may be expected to pollute the environment with mercury as the aerosolized coal fly ash settles to the surface or is brought down by precipitation. Mercury is readily volatile; the possibility should be considered that at elevated temperatures in the presence of copious hydrocarbons, such as are found in the jet fuel combustion environment, conceivably, toxic methylmercury (CH3Hg) might form, and be released into the environment. This could explain the methylmercury recently discovered in California fog <ref type="bibr" target="#b90">(92)</ref>. To the author's knowledge, this explanation has not been previously considered, and the author could not find either experimental verification or theoretical justification in the scientific literature. Experimental verification should be relatively straightforward. In addition, those who measure methylmercury in fog might look for other toxic gases that might have been produced from coal fly ash at elevated temperatures in the presence of copious hydrocarbons in the jet fuel combustion environment. One possibility that comes to mind is arsine, AsH3, but there may be others; this is an unexplored potential area of investigation.</p><p>Coal fly ash contains readily volatile chlorine, ca. 200 μ/g (93), and fluorine, ca. 225 μ/g <ref type="bibr" target="#b92">(94)</ref>. At elevated temperatures in the presence of copious hydrocarbons, such as are found in the jet fuel combustion environment, conceivably chlorine and fluorine might react to form chlorinated-fluorinated hydrocarbons capable of damaging Earth's ozone layer <ref type="bibr" target="#b93">(95,</ref><ref type="bibr" target="#b94">96)</ref>. This could explain the observed post-Montreal Protocol emissions of those ozone-layerdamaging compounds <ref type="bibr" target="#b95">(97)</ref>. But, as in the case of methylmercury,</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>Herndon Dangers Posed by Weather Modification Frontiers in Public Health | <ref type="url" target="http://www.frontiersin.org">www.frontiersin.org</ref> June 2016 | Volume 4 | Article 139 experimental verification is extremely important because of the potentially profound implications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>geophysical considerations</head><p>Within the academic community, there has been some debate as to whether substances emplaced high in the stratosphere will have the intended result of cooling Earth to counteract global warming <ref type="bibr" target="#b17">(18)</ref>. There is no debate, however, in the open scientific literature on the efficacy of the ongoing covert tropospheric emplacement of aerosolized particulate matter. There should be. Geophysical considerations provide a basis for that discussion.</p><p>Although there is no open (unclassified) scientific literature on aerosolized coal fly ash, there are some published articles on the effects of carbon/soot particles. Although coal fly ash may be less efficient than carbon black, generally its effects are similar. Coal fly ash sprayed into the troposphere is expected to inhibit radiation from Earth into space and to heat the atmosphere <ref type="bibr" target="#b96">(98)</ref>. Coal fly ash particles, settling atop glaciers, will aid in their melting <ref type="bibr" target="#b97">(99)</ref>.</p><p>In copious amounts aerosolized coal fly ash particles, like other pollution particulates, will inhibit rainfall by preventing the smaller water droplets from coalescing and growing large enough to form raindrops (see footnote text 15). Moreover, coal fly ash is hygroscopic. Having formed under anhydrous conditions, it traps water droplets, further inhibiting rainfall. Furthermore, the particulate pollution heats the atmosphere (by absorbed solar energy) and retards heat loss form Earth; consequently, this produces an artificial increase in local atmospheric pressure, which blocks incoming weather fronts, additionally limiting rainfall. Rather than cooling Earth, aerosolized coal fly ash enhances global warming. It also has potentially devastating effects on habitats, including agriculture, from changes in natural weather patterns, from changes in soil pH, and from multiple toxic substances that derive from the coal fly ash.</p><p>For at least 15 years, covert weather/climate modification activities have been taking place that involve spraying pollutant particles into the troposphere as observed by many thousands of individuals (see footnote text 2-14). Yet none of the consequences of this near-global weather/climate modification activity has been taken into account by any of the climate change models evaluated by the United Nations' Intergovernmental Panel on Climate Change (IPCC), which calls into question their validity.</p><p>As a weapon aerosolized coal fly ash can be used to cause droughts and concomitant livestock deaths and human starvation. Worse, as discussed above, coal fly ash is a multi-component environmental public health hazard, a slow pandemic that may already be evident in the observed increase in neurological diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>cOnclUsiOn</head><p>The research results reported here provide strong evidence for the author's hypothesis: coal fly ash is likely the aerosolized particulate emplaced in the troposphere for geoengineering, weather modification and/or climate alteration purposes. The rainwater element ratios show that the aerial particulate matter has essentially the same water-leach characteristics as coal fly ash. The HEPA air filter dust element ratios occur in the same range of compositions as coal fly ash, as do the element ratios in fibrous mesh found on grass after snow melted.</p><p>The documented public health associations for PM2.5 particulate pollution are also applicable to aerosolized coal fly ash, which is similar in grain size. These associations include increased hospital admissions, morbidity and premature mortality, low birth weight, lung inflammation and diabetes, risk for cardiovascular disease, lung cancer, lung inflammation and diabetes, risk for stroke, Alzheimer's disease, onset of asthma, renal function in older men, and reduced male fertility.</p><p>The ability of coal fly ash to release aluminum in a chemically mobile form upon exposure to water or body moisture has potentially grave human and environmental consequences over a broad spectrum, including implications for neurological diseases, reduced male fertility, neurological disorders of bees and other creatures, and biota debilitation.</p><p>The ability of coal fly ash to release heavy metals and radioactive elements upon exposure to body moisture has potentially grave human health implications over a broad spectrum, including, but not limited to, cancer, cardiovascular disease, diabetes, respiratory diseases, and stroke.</p><p>Toxic methylmercury and ozone-damaging chlorinatedfluorinated hydrocarbons, the author posits, may be produced from certain types of tropospheric spraying that places coal fly ash in the jet-fuel combustion environment. Experimental verification is warranted.</p><p>From a geophysical perspective, coal fly ash sprayed in the troposphere warms the atmosphere, blocks heat from Earth radiating back into space, and retards rainfall, which can artificially elevate atmospheric pressures that can block incoming weather fronts, further leading to drought conditions. If anything this activity contributes to global warming, the purpose of this covert activity is unknown to the scientific community and to the public. The time has come for the scientific community and especially the environmental science and public health communities to understand that a multiplicity of toxic substances is being sprayed into the air breathed by people in many parts of the world and that it will adversely affect virtually all life on Earth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aUThOr cOnTriBUTiOns</head><p>The author confirms being the sole contributor of this work and approved it for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FUnDing</head><p>Only internal funding, no extramural funding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R</head><formula xml:id="formula_3">A C T E D R E T R A C T E D R E T R A C T E D</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FigUre 2 |</head><label>2</label><figDesc>FigUre 2 | images of deliberately produced particulate pollution trails. Photographs by Patrick Roddie, with permission.</figDesc><graphic coords="4,141.88,69.74,311.76,418.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FigUre 3 | 5 Herndon</head><label>35</label><figDesc>FigUre 3 | Photographs of the sky above san Diego, california (Usa) taken in 2014-2015. Top left: note the mainly blue sky, with a just small amount of white haze. Top right: spray stopped in mid-flight, which is uncharacteristic of jet contrails. Middle left: heavy spraying produced artificial overcast of an otherwise cloudless blue sky. Middle right: heavy spraying changed the blue sky to overcast with a brownish hue. Bottom left: numerous particulate trails unlike paths of normal air traffic. Bottom right: note the white haze caused by micron and sub-micron size particulates, which is uncharacteristic of jet contrails, ice crystals that rapidly disappear by evaporation. The blue stripe copied from the top left image shows the contrast. Before the heavy aerial spraying began, San Diego skies were usually the color of the blue stripe and often without cloud cover. The warm dry climate above San Diego prevents the formation of persistent jet contrails, which are ice crystals.</figDesc><graphic coords="5,141.88,262.33,311.76,367.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FigUre 4 |</head><label>4</label><figDesc>FigUre 4 | analyzed element ratios in san Diego rainwater samples taken in February, May, and December of 2015 shown for comparison with the range of corresponding element ratios and average values from laboratory coal fly ash leachate of 23 european (48) and 12 american coal fly ash samples (55). Previously published (14) rainwater Al/Ba and Sr/Ba ratios from Internet postings are shown for comparison.</figDesc><graphic coords="7,141.88,433.96,311.76,234.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>shows the San Diego rainwater analytical element ratios for comparison with corresponding ratios of the average values and ranges of the Moreno et al. (48) laboratory leachate results for 23 European coal fly ash samples and the range of American coal fly ash leachate data of Suloway et al.<ref type="bibr" target="#b53">(55)</ref>. The European coal fly ash samples were leached using distilled water (pH = 7.00). After leaching for 24 h the pH of the 23 laboratory leachates ranged from 6.40 to 12.54. Comparable data are not available for the</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 7</head><label>7</label><figDesc>is a comparison of the remaining 11 fibrous mesh ratios with corresponding ratios of Weather Modification Frontiers in Public Health | www.frontiersin.org June 2016 | Volume 4 | Article 139 the average and range of European coal fly ash compositions from Moreno et al. (48) and American coal fly ash composition ranges published by Suloway et al. (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>FigUre 6 |</head><label>6</label><figDesc>FigUre 6 | Photographs of fibrous mesh observed atop grass just as snow had melted showing its initially "sticky" nature. Photos by Robert West, with permission.</figDesc><graphic coords="10,141.88,69.74,311.76,186.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FigUre 7 |</head><label>7</label><figDesc>FigUre7| remaining 11 of 22 analyzed element ratios of fibrous mesh found after snow had melted (Figure6) shown for comparison with the range of corresponding element ratios and average values for 23 non-leached european coal fly ash samples<ref type="bibr" target="#b46">(48)</ref> and element ratio ranges of 12 U.s. coal fly ash samples<ref type="bibr" target="#b53">(55)</ref>. See Figure5for the other 11 of 22 element ratios of fibrous mesh.</figDesc><graphic coords="10,141.88,317.25,311.76,226.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="3,126.98,69.74,341.57,434.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TaBle 2 |</head><label>2</label><figDesc>Tabulation of internet-posted icP-Ms analytical data plotted in Figure4.</figDesc><table><row><cell>aluminum</cell><cell>Barium</cell><cell>strontium</cell><cell>al/Ba</cell><cell>sr/Ba</cell></row><row><cell>μg/liter</cell><cell>μg/liter</cell><cell>μg/liter</cell><cell>ratio</cell><cell>ratio</cell></row><row><cell>14</cell><cell>13</cell><cell>110</cell><cell>1.08</cell><cell>8.46</cell></row><row><cell>68</cell><cell>33</cell><cell>190</cell><cell>2.06</cell><cell>5.76</cell></row><row><cell>28</cell><cell>5</cell><cell>8.9</cell><cell>5.6</cell><cell>1.78</cell></row><row><cell>280</cell><cell>32</cell><cell>54</cell><cell>8.75</cell><cell>1.69</cell></row><row><cell>7.3</cell><cell>0.84</cell><cell>0.89</cell><cell>8.69</cell><cell>1.06</cell></row><row><cell>400</cell><cell>39.1</cell><cell>30.1</cell><cell>10.2</cell><cell>0.77</cell></row><row><cell>620</cell><cell>95</cell><cell>59</cell><cell>6.53</cell><cell>0.62</cell></row><row><cell>44</cell><cell>5.8</cell><cell>3.4</cell><cell>7.59</cell><cell>0.59</cell></row><row><cell>368</cell><cell>6</cell><cell>3</cell><cell>61.3</cell><cell>0.5</cell></row><row><cell>2190</cell><cell>43</cell><cell></cell><cell>50.9</cell><cell></cell></row><row><cell>1010</cell><cell>8</cell><cell></cell><cell>126</cell><cell></cell></row><row><cell>700</cell><cell>23.9</cell><cell></cell><cell>29.3</cell><cell></cell></row><row><cell>650</cell><cell>10</cell><cell></cell><cell>65</cell><cell></cell></row><row><cell>219</cell><cell>257</cell><cell></cell><cell>0.85</cell><cell></cell></row><row><cell>188</cell><cell>7</cell><cell></cell><cell>26.9</cell><cell></cell></row><row><cell>140</cell><cell>47</cell><cell></cell><cell>2.98</cell><cell></cell></row><row><cell>118</cell><cell>3.9</cell><cell></cell><cell>30.3</cell><cell></cell></row><row><cell>88.7</cell><cell>4.1</cell><cell></cell><cell>21.6</cell><cell></cell></row><row><cell>66.9</cell><cell>2.1</cell><cell></cell><cell>31.9</cell><cell></cell></row><row><cell>60</cell><cell>10</cell><cell></cell><cell>6</cell><cell></cell></row><row><cell>33.2</cell><cell>3.9</cell><cell></cell><cell>8.5</cell><cell></cell></row><row><cell>27.2</cell><cell>1.6</cell><cell></cell><cell>17</cell><cell></cell></row><row><cell>58</cell><cell>2.5</cell><cell></cell><cell>23.2</cell><cell></cell></row><row><cell>20.2</cell><cell>4.7</cell><cell></cell><cell>4.3</cell><cell></cell></row><row><cell>8</cell><cell>9</cell><cell></cell><cell>0.9</cell><cell></cell></row><row><cell>7.8</cell><cell>0.93</cell><cell></cell><cell>8.4</cell><cell></cell></row></table><note><p>Data sources (see footnote text 2-5).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TaBle 1 |</head><label>1</label><figDesc>analytical icP-Ms data for san Diego rainwater samples.</figDesc><table><row><cell></cell><cell></cell><cell>February 2015</cell><cell>May 2015</cell><cell>December 2015</cell></row><row><cell></cell><cell></cell><cell>μg/liter</cell><cell>μg/liter</cell><cell>μg/liter</cell></row><row><cell>Aluminum</cell><cell>Al</cell><cell>41</cell><cell>26.3</cell><cell>88.9</cell></row><row><cell>Barium</cell><cell>Ba</cell><cell>5.3</cell><cell>3.2</cell><cell>10.1</cell></row><row><cell>Boron</cell><cell>B</cell><cell>18.2</cell><cell>9.1</cell><cell>48.2</cell></row><row><cell>Calcium</cell><cell>Ca</cell><cell>1600</cell><cell>1200</cell><cell>3300</cell></row><row><cell>Iron</cell><cell>Fe</cell><cell>38</cell><cell>14</cell><cell>78</cell></row><row><cell>Magnesium</cell><cell>Mg</cell><cell>800</cell><cell>800</cell><cell>2700</cell></row><row><cell>Strontium</cell><cell>Sr</cell><cell>7.2</cell><cell>6.3</cell><cell>19</cell></row><row><cell>Sulfur</cell><cell>S</cell><cell>540</cell><cell>815</cell><cell>1860</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TaBle 3 |</head><label>3</label><figDesc>analytical icP-Ms data for hePa filter dust and fibers.</figDesc><table><row><cell></cell><cell></cell><cell>los</cell><cell>Montebello</cell><cell>Pheonix</cell><cell>Pheonix</cell><cell>Fibers</cell></row><row><cell></cell><cell></cell><cell>angeles</cell><cell>μg/filter</cell><cell>2009</cell><cell>2008</cell><cell>μg/g</cell></row><row><cell></cell><cell></cell><cell>μg/filter</cell><cell></cell><cell>μg/g</cell><cell>μg/g</cell><cell></cell></row><row><cell>Aluminum</cell><cell>Al</cell><cell>5030</cell><cell>1200</cell><cell>39000</cell><cell>12800</cell><cell>4600</cell></row><row><cell>Antimony</cell><cell>Sb</cell><cell>29.9</cell><cell>4.19</cell><cell>26</cell><cell></cell><cell></cell></row><row><cell>Arsenic</cell><cell>As</cell><cell>4.66</cell><cell>1.07</cell><cell>48</cell><cell></cell><cell>40</cell></row><row><cell>Barium</cell><cell>Ba</cell><cell>344</cell><cell>57.9</cell><cell>2100</cell><cell>556</cell><cell>100</cell></row><row><cell>Beryllium</cell><cell>Be</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.2</cell></row><row><cell>Cadmium</cell><cell>Cd</cell><cell>1.69</cell><cell></cell><cell>1.7</cell><cell>1.25</cell><cell>0.35</cell></row><row><cell>Calcium</cell><cell>Ca</cell><cell></cell><cell></cell><cell>30600</cell><cell>40400</cell><cell>7400</cell></row><row><cell>Chromium</cell><cell>Cr</cell><cell>28.4</cell><cell>4.2</cell><cell>48</cell><cell>28.2</cell><cell>56</cell></row><row><cell>Cobalt</cell><cell>Co</cell><cell>5.46</cell><cell>0.696</cell><cell>14</cell><cell></cell><cell>3.2</cell></row><row><cell>Copper</cell><cell>Cu</cell><cell>387</cell><cell>42.1</cell><cell>172</cell><cell>197</cell><cell>150</cell></row><row><cell>Iron</cell><cell>Fe</cell><cell></cell><cell></cell><cell>17300</cell><cell>16800</cell><cell>10000</cell></row><row><cell>Lead</cell><cell>Pb</cell><cell>105</cell><cell>26</cell><cell>56</cell><cell>50.5</cell><cell>15</cell></row><row><cell>Lithium</cell><cell>Li</cell><cell></cell><cell></cell><cell>15</cell><cell></cell><cell></cell></row><row><cell>Magnesium</cell><cell>Mg</cell><cell></cell><cell></cell><cell>9900</cell><cell>10600</cell><cell>3000</cell></row><row><cell>Manganese</cell><cell>Mn</cell><cell></cell><cell></cell><cell>487</cell><cell>562</cell><cell>370</cell></row><row><cell cols="2">Molybdenum Mo</cell><cell>12.4</cell><cell>1.5</cell><cell>4</cell><cell></cell><cell>1.7</cell></row><row><cell>Nickel</cell><cell>Ni</cell><cell>17.6</cell><cell>6.01</cell><cell>34</cell><cell>33.8</cell><cell>13</cell></row><row><cell>Potassium</cell><cell>K</cell><cell></cell><cell></cell><cell>2700</cell><cell>7930</cell><cell>4700</cell></row><row><cell>Selenium</cell><cell>Se</cell><cell>3.8</cell><cell>1.08</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Silicon</cell><cell>Si</cell><cell></cell><cell></cell><cell></cell><cell>1020</cell><cell>940</cell></row><row><cell>Sodium</cell><cell>Na</cell><cell></cell><cell></cell><cell>1200</cell><cell>6370</cell><cell>410</cell></row><row><cell>Strontium</cell><cell>Sr</cell><cell></cell><cell></cell><cell>178</cell><cell>245</cell><cell>47</cell></row><row><cell>Titanium</cell><cell>Ti</cell><cell></cell><cell></cell><cell>1900</cell><cell></cell><cell>280</cell></row><row><cell>Vanadium</cell><cell>V</cell><cell>29</cell><cell>5.43</cell><cell>46</cell><cell>31.2</cell><cell>14</cell></row><row><cell>Zinc</cell><cell>Zn</cell><cell>727</cell><cell>119</cell><cell>1100</cell><cell>593</cell><cell>170</cell></row><row><cell cols="4">Sample weights unspecified in reports.</cell><cell></cell><cell></cell><cell></cell></row></table><note><p>8 Herndon Dangers Posed by Weather Modification Frontiers in Public Health | www.frontiersin.org June 2016 | Volume 4 | Article 139</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>http://globalskywatch.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>http://www.cielvoile.fr</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>http://www.geoengineeringwatch.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p>https://chemtrailsnorthnz.wordpress.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p>http://www.endgeoengineering.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p>http://stopsprayingcalifornia.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p>http://socalskywatch.net</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p>http://byebyebluesky.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p>http://www.tankerenemy.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p>http://weatherwars.info</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_10"><p>http://www.sauberer-himmel.de</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_11"><p>http://www.canadaskywatch.com</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_12"><p>http://www.guardacielos.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_13"><p>https://www.youtube.com/watch?v=qpysApXRXYE</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_14"><p>https://www.youtube.com/watch?v=KJMgYdExWjQ</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_15"><p>https://www.youtube.com/watch?v=Q5T4KcM5GB4</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_16"><p>https://www.youtube.com/watch?v=8KLU2kATAvQ&amp;feature=youtu.be</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_17"><p>Frontiers in Public Health | www.frontiersin.org June 2016 | Volume 4 | Article 139</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest Statement:</head><p>The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p><p>Copyright © 2016 <ref type="bibr">Herndon.</ref> This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cole</surname></persName>
+		</author>
+		<title level="m">Clouds of Secrecy: The Army&apos;s Germ Warfare Tests Over Populated Areas</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rowman &amp; Littlefield Publishers, Inc</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cole LA. Clouds of Secrecy: The Army&apos;s Germ Warfare Tests Over Populated Areas. Oxford: Rowman &amp; Littlefield Publishers, Inc (1988).</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goliszek</surname></persName>
+		</author>
+		<title level="m">the Name of Science: A History of Secret Programs, Medical Research, and Human Experimentation</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>St. Martin&apos;s Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goliszek A. In the Name of Science: A History of Secret Programs, Medical Research, and Human Experimentation. New York: St. Martin&apos;s Press (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hornblum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Dober</surname></persName>
+		</author>
+		<title level="m">Against their Will: The Secret History of Medical Experimentation on Children in Cold War America</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hornblum AM, Newman JL, Dober GJ. Against their Will: The Secret History of Medical Experimentation on Children in Cold War America. New York: Palgrave Macmillan (2013).</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Loue</surname></persName>
+		</author>
+		<title level="m">Textbook of Research Ethics: Theory and Practice</title>
+		<meeting><address><addrLine>US</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Loue S. Textbook of Research Ethics: Theory and Practice. US: Springer (2000).</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gallagher</surname></persName>
+		</author>
+		<title level="m">American Ground Zero: The Secret Nuclear War</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Random House</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gallagher C. American Ground Zero: The Secret Nuclear War. New York: Random House (1993).</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Strontium-90 absorption by deciduous teeth</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Reiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.134.3491.1669</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">3491</biblScope>
+			<biblScope unit="page" from="1669" to="1673" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reiss LZ. Strontium-90 absorption by deciduous teeth. Science (1961) 134(3491):1669-73. doi:10.1126/science.134.3491.1669</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The production of ice crystals in a cloud of supercooled water droplets</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Schaefer</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.104.2707.457</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="457" to="459" />
+			<date type="published" when="1946">1946</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schaefer VJ. The production of ice crystals in a cloud of super- cooled water droplets. Science (1946) 104:457-9. doi:10.1126/ science.104.2707.457</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Fleming</surname></persName>
+		</author>
+		<title level="m">Fixing the Sky: The Checkered History of Weather and Climate Control</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fleming JR. Fixing the Sky: The Checkered History of Weather and Climate Control. New York: Columbia University Press (2010).</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Seeded Clouds Over Cuba. Palm Beach Post-Times</title>
+		<imprint>
+			<date type="published" when="1976-06-27">June 27 (1976</date>
+			<publisher>Ex-Researcher Says US</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ex-Researcher Says US. Seeded Clouds Over Cuba. Palm Beach Post-Times. June 27 (1976).</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Rainmaking Used as Weapon of War in SE Asia</title>
+	</analytic>
+	<monogr>
+		<title level="j">Daytona Beach Morning Journal</title>
+		<imprint>
+			<date type="published" when="1974-05-19">May 19 (1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rainmaking Used as Weapon of War in SE Asia. Daytona Beach Morning Journal. May 19 (1974).</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m">Weather Modification: Programs, Problems, Policy, and Potential</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>United States Senate</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">United States Senate. Weather Modification: Programs, Problems, Policy, and Potential. Washington, DC (1978).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Weather as a Force Multiplier: Owning the Weather in</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Near</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Shields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Celentano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Husband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mercer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">2025. 1996</date>
+			<publisher>US Air Force</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">House TJ, Near JB, Shields WB, Celentano RJ, Husband DM, Mercer AE, et al. Weather as a Force Multiplier: Owning the Weather in 2025. US Air Force (1996).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Thomas</surname></persName>
+		</author>
+		<title level="m">Chemtrails Confirmed</title>
+		<meeting><address><addrLine>Carson City, NV</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bridger House Publishers</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas W. Chemtrails Confirmed. Carson City, NV: Bridger House Publishers (2004).</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Aluminum poisoning of humanity and Earth&apos;s biota by clandestine geoengineering activity: implications for India</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Herndon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Sci</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2173" to="2177" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herndon JM. Aluminum poisoning of humanity and Earth&apos;s biota by clandestine geoengineering activity: implications for India. Curr Sci (2015) 108(12):2173-7.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Tropospheric chemistry and transport</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kley</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.276.5315.1043</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="issue">5315</biblScope>
+			<biblScope unit="page" from="1043" to="1044" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kley D. Tropospheric chemistry and transport. Science (1997) 276(5315): 1043-4. doi:10.1126/science.276.5315.1043</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Haber&apos;s rule: a special case in a family of curves relating concentration and duration of exposure to a fixed level of response for a given endpoint</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Schlosser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Janszen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0300-483X(00)00229-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="page" from="21" to="34" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miller FJ, Schlosser PM, Janszen DB. Haber&apos;s rule: a special case in a family of curves relating concentration and duration of exposure to a fixed level of response for a given endpoint. Toxicology (2000) 149:21-34. doi:10.1016/ S0300-483X(00)00229-8</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Stratospheric aerosol particles and solar-radiation management</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Braesicke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Grainger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kalberer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Davidson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nclimate1528</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Clim Chang</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="713" to="719" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pope FD, Braesicke P, Grainger RG, Kalberer M, Watson IM, Davidson PJ, et al. Stratospheric aerosol particles and solar-radiation management. Nat Clim Chang (2012) 2(10):713-9. doi:10.1038/nclimate1528</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Benefits, risks, and costs of stratospheric geoengineering</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Robock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marquardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kravitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stenchikov</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2009GL039209</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys Res Lett</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">L19703</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robock A, Marquardt A, Kravitz B, Stenchikov G. Benefits, risks, and costs of stratospheric geoengineering. Geophys Res Lett (2009) 36:L19703. doi:10.1029/2009GL039209</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ozone depletion and climate change: impacts on UV radiation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Bais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bernhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Aucamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ilyas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Madronich</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c4pp90032d</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Photochem Photobiol Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="19" to="52" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bais AF, McKenzie RL, Bernhard G, Aucamp PJ, Ilyas M, Madronich S, et al. Ozone depletion and climate change: impacts on UV radiation. Photochem Photobiol Sci (2014) 14:19-52. doi:10.1039/c4pp90032d</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A national security issue? How people tried to frame global warming</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Global Climate Change: National Security Implications</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Pumphrey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Carlisle, PA</addrLine></address></meeting>
+		<imprint>
+			<publisher>US Army War College</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="23" to="24" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weart S. A national security issue? How people tried to frame global warming. In: Pumphrey C, editor. Global Climate Change: National Security Implications. Vol. 1, Carlisle, PA: Strategic Studies Institute, US Army War College (2008), 23-4.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A reduction in rainfall associated with smoke from sugar-cane fires: an inadvertent weather modification?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Warner</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/1520-0450(1968)007&lt;0247:ARIRAW&gt;2.0.CO;2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Meteorol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="247" to="251" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Warner J. A reduction in rainfall associated with smoke from sugar-cane fires: an inadvertent weather modification? J Appl Meteorol (1968) 7:247-51. doi:10.1175/1520-0450(1968)007&lt;0247:ARIRAW&gt;2.0.CO;2</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Inadvertent weather modification in urban areas: lessons for global climate change</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Changnon</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/1520-0477(1992)073&lt;0619:IWMIUA&gt;2.0.CO;2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Am Meteorol Soc</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="619" to="627" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Changnon SA. Inadvertent weather modification in urban areas: lessons for global climate change. Bull Am Meteorol Soc (1992) 73(5):619-27. doi:10.1175/1520-0477(1992)073&lt;0619:IWMIUA&gt;2.0.CO;2</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effects on the physical properties of the atmosphere</title>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Air Pollution: The Effects of Air Pollution</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Stern</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press, Inc</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="349" to="400" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robinson E. Effects on the physical properties of the atmosphere. In: Stern AC, editor. Air Pollution: The Effects of Air Pollution. Vol. 2, New York: Academic Press, Inc (1977), 349-400.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Soot climate forcing via snow and ice albedos</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nazarenko</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.2237157100</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="423" to="428" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hansen J, Nazarenko L. Soot climate forcing via snow and ice albedos. Proc Natl Acad Sci U S A (2004) 101(2):423-8. doi:10.1073/pnas.2237157100</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impacts of fly-ash on soil and plant responses</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">N</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Tripathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inouhe</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10265-002-0057-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Plant Res</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="401" to="409" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gupta DK, Rai UN, Tripathi RD, Inouhe M. Impacts of fly-ash on soil and plant responses. J Plant Res (2002) 115(6):401-9. doi:10.1007/s10265- 002-0057-3</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<ptr target="https://legiscan.com/RI/text/H7578/id/1334695" />
+		<title level="m">An Act Relating to Health and Safety -Geoengineering</title>
+		<imprint>
+			<publisher>State of Rhode Island House Bill</publisher>
+			<date type="published" when="2016">7578. 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">State of Rhode Island House Bill 7578: An Act Relating to Health and Safety -Geoengineering. (2016). Available from: https://legiscan.com/RI/ text/H7578/id/1334695</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Jiusto</surname></persName>
+		</author>
+		<idno>No. VC-1055-P-5</idno>
+		<title level="m">Prediction of Aircraft Condensation Trails, PROJECT CONTRAILS</title>
+		<meeting><address><addrLine>Buffalo, NY</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+		</imprint>
+		<respStmt>
+			<orgName>Cornell Aeronautical Laboratory</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note type="raw_reference">Jiusto JE. Prediction of Aircraft Condensation Trails, PROJECT CONTRAILS. Buffalo, NY: Cornell Aeronautical Laboratory (1961). Report No. VC-1055-P-5.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">On conditions for contrail formation from aircraft exhausts</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schumann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Meteorologisch Zeitschrift</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="4" to="23" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schumann U. On conditions for contrail formation from aircraft exhausts. Meteorologisch Zeitschrift (1996) 5:4-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Human health effects of air pollution</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kampa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castanas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envpol.2007.06.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Pollut</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="362" to="367" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kampa M, Castanas E. Human health effects of air pollution. Environ Pollut (2008) 151:362-7. doi:10.1016/j.envpol.2007.06.012</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Modeling of particle size distribution and its influence on the radiative properties of mineral dust</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tegen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Lacis</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/95JD03610</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="19237" to="19244" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tegen I, Lacis AA. Modeling of particle size distribution and its influ- ence on the radiative properties of mineral dust. J Geophys Res (1996) 101(D14):19237-44. doi:10.1029/95JD03610</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Associations of PM2.5 constituents and sources with hospital admissions: analysis of four counties in Connecticut and Massachusetts (USA)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ebisu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Leaderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Gent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koutrakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1306656</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="138" to="144" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bell ML, Ebisu K, Leaderer BP, Gent JF, Lee HJ, Koutrakis P, et al. Associations of PM2.5 constituents and sources with hospital admissions: analysis of four counties in Connecticut and Massachusetts (USA). Environ Health Perspect (2014) 122(2):138-44. doi:10.1289/ehp.1306656</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Associations of fine particulate matter species with mortality in the United States: a multicity time-series analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zanobetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koutrakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Schwartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1307568</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="837" to="842" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dai L, Zanobetti A, Koutrakis P, Schwartz JD. Associations of fine particulate matter species with mortality in the United States: a multicity time-series analysis. Environ Health Perspect (2014) 122(8):837-42. doi:10.1289/ ehp.1307568</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">An association between air pollution and mortality in six U. S. cities</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dockery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Spengler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Ware</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fay</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJM199312093292401</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="1753" to="1759" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dockery DW, Pope CA, Xu X, Spengler JD, Ware JH, Fay ME, et al. An association between air pollution and mortality in six U. S. cities. N Engl J Med (1993) 329:1753-9. doi:10.1056/NEJM199312093292401</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Fine-particulate air polution and life expectancy in the United States</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ezzati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dockery</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMsa0805646</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="376" to="386" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pope CA, Ezzati M, Dockery DW. Fine-particulate air polution and life expec- tancy in the United States. N Engl J Med (2009) 360:376-86. doi:10.1056/ NEJMsa0805646</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Exposure to ambient air fine particulate matter prevents VEGF-induced mobilization of endothelial progenitor cells from bone matter</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haberzetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Duggineni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccracken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bolanowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Toole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1104206</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="848" to="856" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Haberzetti P, Lee J, Duggineni D, McCracken J, Bolanowski D, O&apos;Toole TE, et al. Exposure to ambient air fine particulate matter prevents VEGF-induced mobilization of endothelial progenitor cells from bone matter. Environ Health Perspect (2012) 120(6):848-56. doi:10.1289/ehp.1104206</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Long-term concentrations of ambient air pollutants and incident lung cancer in California adults: results from the AHSMOG study</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Beeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Abbey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Knutsen</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3434125</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="813" to="822" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beeson WL, Abbey DE, Knutsen SF. Long-term concentrations of ambient air pollutants and incident lung cancer in California adults: results from the AHSMOG study. Environ Health Perspect (1998) 106(12):813-22. doi:10.2307/3434125</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Toxicity beyond the lung: connecting PM2.5, inflammation, and diabetes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Potera</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.122-A29</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Potera C. Toxicity beyond the lung: connecting PM2.5, inflammation, and diabetes. Environ Health Perspect (2014) 122(1):A29. doi:10.1289/ ehp.122-A29</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Air pollution: a new risk factor in ischemic stroke mortality</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kwon</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/01.STR.0000026865.52610.5B</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2165" to="2169" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hong YC, Lee JT, Kim H, Kwon HJ. Air pollution: a new risk factor in ischemic stroke mortality. Stroke (2002) 33:2165-9. doi:10.1161/01. STR.0000026865.52610.5B</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Early Alzheimer&apos;s and Parkinson&apos;s disease pathology in urban children: friend verses foe responses -it&apos;s time to face the evidence</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Calderon-Garciduenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Franko-Lira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mora-Tiscareno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Medina-Cortina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Torres-Jardon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kavanaugh</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2013/161687</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed Res Int</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="650" to="658" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Calderon-Garciduenas L, Franko-Lira M, Mora-Tiscareno A, Medina- Cortina H, Torres-Jardon R, Kavanaugh M. Early Alzheimer&apos;s and Parkinson&apos;s disease pathology in urban children: friend verses foe responses -it&apos;s time to face the evidence. Biomed Res Int (2013) 32:650-8. doi:10.1155/2013/161687</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Air pollution, oxidative stress, and Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Moulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Environ Public Health</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1004" to="1011" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moulton PV, Yang W. Air pollution, oxidative stress, and Alzheimer&apos;s disease. J Environ Public Health (2012) 109(8):1004-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Childhood exposure to ambient air pollutants and the onset of asthma: an administrative cohort study in Quebec</title>
+		<author>
+			<persName><forename type="first">L-F</forename><surname>Tetreault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Doucet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gamache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fournier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brand</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1509838</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tetreault L-F, Doucet M, Gamache P, Fournier M, Brand A, et al. Childhood exposure to ambient air pollutants and the onset of asthma: an administrative cohort study in Quebec. Environ Health Perspect (2016). doi:10.1289/ehp.1509838</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Long-term exposure to ambient fine particulate matter and renal function in older men: the VA Normative aging study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zanobetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kloog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koutrakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sparrow</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1510269</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mehta AJ, Zanobetti A, Bind MC, Kloog I, Koutrakis P, Sparrow D, et al. Long-term exposure to ambient fine particulate matter and renal function in older men: the VA Normative aging study. Environ Health Perspect (2016). doi:10.1289/ehp.1510269</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Airborne PM2.5 chemical components and low birth weight in the northeastern and mid-atlantic regions of the United States</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ebisu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Bell</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.1104763</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1746" to="1752" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ebisu K, Bell ML. Airborne PM2.5 chemical components and low birth weight in the northeastern and mid-atlantic regions of the United States. Environ Health Perspect (2012) 120(12):1746-52. doi:10.1289/ehp.1104763</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Pre-and postnatal exposure to ambient levels of urban particulate matter (PM2.5) affects mice spermatogenesis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pires</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>De Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mauad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phn</forename><surname>Saldiva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bueno</forename><surname>Hmds</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/08958378.2011.563508</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Inhal Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="237" to="245" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pires A, de Melo EN, Mauad T, Saldiva PHN, Bueno HMdS. Pre-and post- natal exposure to ambient levels of urban particulate matter (PM2.5) affects mice spermatogenesis. Inhal Toxicol (2011) 23(4):237-45. doi:10.3109/0895 8378.2011.563508</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Mutagenicity and genotoxicity of coal fly ash water leachate</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecoenv.2008.09.023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicol Environ Saf</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="838" to="842" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chakraborty R, Mukherjee A. Mutagenicity and genotoxicity of coal fly ash water leachate. Ecotoxicol Environ Saf (2009) 72(3):838-42. doi:10.1016/j. ecoenv.2008.09.023</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Survey of the potential environmental and health impacts in the immediate Herndon Dangers Posed by Weather Modification Frontiers in Public Health | www.frontiersin.org June 2016 | Volume 4 | Article 139 aftermath of the coal ash spill in Kingston, Tennessee</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ruhl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vengosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hsu-Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deonarine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bergin</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/es900714p</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="6326" to="6333" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ruhl L, Vengosh A, Dwyer GS, Hsu-Kim H, Deonarine A, Bergin M, et al. Survey of the potential environmental and health impacts in the immediate Herndon Dangers Posed by Weather Modification Frontiers in Public Health | www.frontiersin.org June 2016 | Volume 4 | Article 139 aftermath of the coal ash spill in Kingston, Tennessee. Environ Sci Technol (2009) 43:6326-33. doi:10.1021/es900714p</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Physico-chemical characteristics of European pulverized coal combustion fly ashes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Querol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stanton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Towler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nugteren</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.fuel.2004.06.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1351" to="1363" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moreno N, Querol X, Andres JM, Stanton K, Towler M, Nugteren H, et al. Physico-chemical characteristics of European pulverized coal combustion fly ashes. Fuel (2005) 84:1351-63. doi:10.1016/j.fuel.2004.06.038</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Prolonged exposure to low levels of aluminum leads to changes associated with brain aging and neurodegeneration</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Bondi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tox.2013.10.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">315</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bondi SC. Prolonged exposure to low levels of aluminum leads to changes associated with brain aging and neurodegeneration. Toxicology (2014) 315:1-7. doi:10.1016/j.tox.2013.10.008</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Neuromelanin-containing neurons of the substantia nigra accumulate iron and aluminum in Parkinson&apos;s disease: a LAMMA study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Olanow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Perl</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0006-8993(92)91334-B</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">593</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="343" to="346" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Good PF, Olanow CW, Perl DP. Neuromelanin-containing neurons of the substantia nigra accumulate iron and aluminum in Parkinson&apos;s disease: a LAMMA study. Brain Res (1992) 593(2):343-6. doi:10.1016/0006- 8993(92)91334-B</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Entry, half-life and desferrioxamine-accelerated clearance of brain aluminum after a single Al-26 exposure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Yokel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Rhineheimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Elmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/toxsci/64.1.77</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Sci</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">26</biblScope>
+			<biblScope unit="page" from="77" to="82" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yokel RA, Rhineheimer SS, Sharma P, Elmore D, McNamara PJ. Entry, half-life and desferrioxamine-accelerated clearance of brain aluminum after a single Al-26 exposure. Toxicol Sci (2001) 64(26):77-82. doi:10.1093/ toxsci/64.1.77</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Direct damage to vegetation caused by acid rain and polluted cloud: definition of critical levels for forest trees</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cape</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0269-7491(93)90114-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Pollut</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="180" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cape JN. Direct damage to vegetation caused by acid rain and polluted cloud: definition of critical levels for forest trees. Environ Pollut (1993) 82(2):167-80. doi:10.1016/0269-7491(93)90114-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Acid rain and its ecological consequences</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Agrawal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Environ Biol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="24" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh A, Agrawal M. Acid rain and its ecological consequences. J Environ Biol (2008) 29(1):15-24.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Environmental hazards of aluminum to plants, invertebrates, fish, and wildlife</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Sparling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Lowe</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4612-2354-2_1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Environ Contam Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="1" to="127" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sparling DW, Lowe TP. Environmental hazards of aluminum to plants, inver- tebrates, fish, and wildlife. Rev Environ Contam Toxicol (1996) 145:1-127. doi:10.1007/978-1-4612-2354-2_1</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Suloway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Skelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Dickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Schuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Griffin</surname></persName>
+		</author>
+		<title level="m">Chemical and Toxicological Properties of Coal Fly Ash</title>
+		<meeting><address><addrLine>Illinois</addrLine></address></meeting>
+		<imprint>
+			<publisher>Illinois Department of Energy and Natural Resources</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Suloway JJ, Roy WR, Skelly TR, Dickerson DR, Schuller RM, Griffin RA. Chemical and Toxicological Properties of Coal Fly Ash. Illinois: Illinois Department of Energy and Natural Resources (1983).</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Intercontinental transport of air pollution: an introduction. Air Pollution</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stohl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<editor>Stohl A</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="1" to="11" />
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stohl A, Eckhardt S. Intercontinental transport of air pollution: an introduc- tion. Air Pollution. In: Stohl A, editor. Berlin: Springer (2004). p. 1-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Obtaining evidence of coal fly ash content in weather modification (geoengineering) through analyses of post-aerosol spraying rainwater and solid substances</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Herndon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Sci Res Technol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="30" to="36" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herndon JM. Obtaining evidence of coal fly ash content in weather modifi- cation (geoengineering) through analyses of post-aerosol spraying rainwater and solid substances. Indian J Sci Res Technol (2016) 4(1):30-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Fly ash disposal in a limestone quarry</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-6584.1982.tb01346.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ground Water</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">267</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peffer J. Fly ash disposal in a limestone quarry. Ground Water (1982) 20(3):267. doi:10.1111/j.1745-6584.1982.tb01346.x</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Environmental assessment of ash disposal</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Theis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gardner</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10643389009388388</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Environ Control</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Theis T, Gardner K. Environmental assessment of ash disposal. Crit Rev Environ Control (1990) 20(21):21. doi:10.1080/10643389009388388</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Characteristics and composition of fly ash from Canadian coal-fired power plants</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Goodarzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.fuel.2005.07.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1418" to="1427" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goodarzi F. Characteristics and composition of fly ash from Canadian coal-fired power plants. Fuel (2006) 85:1418-27. doi:10.1016/j. fuel.2005.07.008</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Acid rain</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Likens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Bormann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00139157.1972.9933001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="33" to="40" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Likens GE, Bormann FH, Johnson NM. Acid rain. Environment (1972) 14(2):33-40. doi:10.1080/00139157.1972.9933001</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Global decline in large old trees</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Lindenmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurance</forename><forename type="middle">Wf</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1231070</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="1305" to="1306" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lindenmayer DB, Laurance WF, Franklin JF. Global decline in large old trees. Science (2012) 338:1305-6. doi:10.1126/science.1231070</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Widespread increase of tree mortality rates in the western United States</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Van Mantgem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Daniels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Fulé</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1165000</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page" from="521" to="524" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Mantgem PJ, Stephenson NL, Byrne JC, Daniels LD, Franklin JF, Fulé PZ, et al. Widespread increase of tree mortality rates in the western United States. Science (2009) 323:521-4. doi:10.1126/science.1165000</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Aluminum in the environment</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Driscol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Schecher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Aluminum and Its Role in Biology. Metal Ions in Biological System</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Siegel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Siegel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Marcel Dekker</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="59" to="122" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Driscol CT, Schecher WD. Aluminum in the environment. In: Siegel H, Siegel A, editors. Aluminum and Its Role in Biology. Metal Ions in Biological System. Vol. 24, New York: Marcel Dekker (1988). p. 59-122.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Identification of the primary lesion of toxic aluminum in plant roots</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Kopittke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lombi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gianoncelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Blamey</surname></persName>
+		</author>
+		<idno type="DOI">10.1104/pp.114.253229</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Physiol</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1402" to="1411" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kopittke PM, Moore KL, Lombi E, Gianoncelli A, Ferguson BJ, Blamey FP, et al. Identification of the primary lesion of toxic aluminum in plant roots. Plant Physiol (2015) 167(4):1402-11. doi:10.1104/pp.114.253229</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Air pollution and ASDs: honing in on an environmental risk factor</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arnold</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.123-A68</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">68</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arnold C. Air pollution and ASDs: honing in on an environmental risk factor. Environ Health Perspect (2015) 123(3):A68. doi:10.1289/ehp.123-A68</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Comparison of particle size distributions and elemental partitioning from the combustion of pulverized coal and residual fuel oil</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Linak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jol</forename><surname>Wendt</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10473289.2000.10464171</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Air Waste Manag Assoc</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1532" to="1544" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linak WP, Miller CA, Wendt JOL. Comparison of particle size distributions and elemental partitioning from the combustion of pulverized coal and residual fuel oil. J Air Waste Manag Assoc (2000) 50:1532-44. doi:10.1080/ 10473289.2000.10464171</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Acute lung disease after exposure to fly ash</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Shrivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kapre</surname></persName>
+		</author>
+		<idno type="DOI">10.1378/chest.106.1.309</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chest</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="309" to="331" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cho K, Cho YJ, Shrivastava DK, Kapre SS. Acute lung disease after exposure to fly ash. Chest (1994) 106(1):309-31. doi:10.1378/chest.106.1.309</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Differential pulmonary inflammation and in vitro cytotoxicity of size-fractionated fly ash particles from pulverized coal combustion</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Gilmour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Caj</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Linak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/10473289.2004.10470906</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Air Waste Manag Assoc</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="286" to="295" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gilmour MI, O&apos;Connor S, Dick CAJ, Miller CA, Linak WP. Differential pulmonary inflammation and in vitro cytotoxicity of size-fractionated fly ash particles from pulverized coal combustion. J Air Waste Manag Assoc (2004) 54:286-95. doi:10.1080/10473289.2004.10470906</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Risk ranking of bioaccessible metals from fly ash dissolved in simulated lung and gut fluids</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Twining</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcglinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Giere</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/es0502369</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="7749" to="7756" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Twining J, McGlinn P, Lol E, Smith K, Giere R. Risk ranking of bioaccessible metals from fly ash dissolved in simulated lung and gut fluids. Environ Sci Technol (2005) 39(19):7749-56. doi:10.1021/es0502369</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Deposition and clearance of inhaled particles</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Stuart</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.8455369</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="373" to="393" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stuart BO. Deposition and clearance of inhaled particles. Environ Health Perspect (1984) 55:373-93. doi:10.1289/ehp.8455369</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Coal ash is more radioactive than nuclear waste</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hvistendahl</surname></persName>
+		</author>
+		<ptr target="http://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/" />
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Scientific American</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hvistendahl M. Coal ash is more radioactive than nuclear waste. Scientific American. (2007). Available from: http://www.scientificamerican.com/ article/coal-ash-is-more-radioactive-than-nuclear-waste/</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Long-term arsenic exposure and ischemic heart disease in arseniasishyperendemic villages in Taiwan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Tseng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-K</forename><surname>Chong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-P</forename><surname>Tseng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-M</forename><surname>Hsueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-Y</forename><surname>Chiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Tseng</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0378-4274(02)00377-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Lett</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="15" to="21" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tseng CH, Chong C-K, Tseng C-P, Hsueh Y-M, Chiou H-Y, Tseng C-C, et al. Long-term arsenic exposure and ischemic heart disease in arseniasis- hyperendemic villages in Taiwan. Toxicol Lett (2003) 137(1-2):15-21. doi:10.1016/S0378-4274(02)00377-6</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Cancer risks from arsenic in drinking water</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hopenhayn-Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Goeden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hertz-Picciotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.9297259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="259" to="267" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smith AH, Hopenhayn-Rich C, Bates MN, Goeden HM, Hertz-Picciotto I, Duggan HM, et al. Cancer risks from arsenic in drinking water. Environ Health Perspect (1992) 97:259-67. doi:10.1289/ehp.9297259</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Environmental arsenic exposure and diabetes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Kile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Christiani</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.300.7.845</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="845" to="846" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kile ML, Christiani DC. Environmental arsenic exposure and diabetes. JAMA (2008) 300(7):845-6. doi:10.1001/jama.300.7.845</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Mortality from heart, respiratory, and kidney disease in coal mining areas of Appalachia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hendryx</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00420-008-0328-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int Arch Occup Environ Health</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="243" to="249" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hendryx M. Mortality from heart, respiratory, and kidney disease in coal mining areas of Appalachia. Int Arch Occup Environ Health (2009) 82(2):243-9. doi:10.1007/s00420-008-0328-y</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Health aspects of coal fly ash</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Ash Utilization Symposium</title>
+		<meeting><address><addrLine>Lexington, KY</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>Center for Applied Energy Research: University of Kentucky</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Meij R. Health aspects of coal fly ash. International Ash Utilization Symposium. Lexington, KY: Center for Applied Energy Research: University of Kentucky (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Selective accumulation of aluminum and iron in the neurofibrillary tangles of Alzheimer&apos;s disease: a laser microprobe (LAMMA) study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Perl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Bierer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schmeidler</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ana.410310310</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Neurol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="286" to="292" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Good PF, Perl DP, Bierer LM, Schmeidler J. Selective accumulation of alu- minum and iron in the neurofibrillary tangles of Alzheimer&apos;s disease: a laser microprobe (LAMMA) study. Ann Neurol (1992) 31:286-92. doi:10.1002/ ana.410310310</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Aluminum: impacts and disease</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Prasunpriya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Res</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="101" to="115" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prasunpriya N. Aluminum: impacts and disease. Environ Res (2002) 82(2):101-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Aluminium and silica in drinking water and the risk of Alzheimer&apos;s disease or cognitive decline: findings from 15-year follow-up of the PAQUID cohort</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rondeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jacqmin-Gadda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciommenges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Helmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Dartigues</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwn348</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="489" to="496" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rondeau V, Jacqmin-Gadda H, Ciommenges D, Helmer C, Dartigues JF. Aluminium and silica in drinking water and the risk of Alzheimer&apos;s disease or cognitive decline: findings from 15-year follow-up of the PAQUID cohort. Am J Epidemiol (2009) 169:489-96. doi:10.1093/aje/kwn348</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Aluminium content of human semen: implications for semen quality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cottier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Exley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.reprotox.2014.10.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Reprod Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="43" to="48" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klein J, Mold M, Cottier M, Exley C. Aluminium content of human semen: implications for semen quality. Reprod Toxicol (2014) 50:43-8. doi:10.1016/j. reprotox.2014.10.001</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Aluminuminduced neurofibrillary degeneration affects a subset of neurons in rabbit cerebral cortex, basal forebrain and upper brainstem</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Kowall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Pendlebury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Perl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Beal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0306-4522(89)90060-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="329" to="337" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kowall NW, Pendlebury WW, Kessler JB, Perl DP, Beal MF. Aluminum- induced neurofibrillary degeneration affects a subset of neurons in rabbit cerebral cortex, basal forebrain and upper brainstem. Neuroscience (1989) 29(2):329-37. doi:10.1016/0306-4522(89)90060-2</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Bumblebee pupae contain high levels of aluminum</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Exley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rotheray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goulson</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0127665</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">127665</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Exley C, Rotheray E, Goulson D. Bumblebee pupae contain high levels of alu- minum. PLoS One (2015) 10(6):e0127665. doi:10.1371/journal.pone.0127665</note>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Cholinergic system under aluminum toxicity in rat brain</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yellamma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saraswathamma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Kumari</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/0971-6580.72682</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Int</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="106" to="112" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yellamma K, Saraswathamma S, Kumari BN. Cholinergic system under aluminum toxicity in rat brain. Toxicol Int (2010) 17(2):106-12. doi:10.4103/0971-6580.72682</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">The production of 100/400 nm inner/outer diameter carbon tubes by solution blowing and carbonization of core-shell nanofibers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sinha-Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Yarin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pourdeyhimi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.carbon.2010.05.056</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon N Y</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="3575" to="3578" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sinha-Ray S, Yarin AL, Pourdeyhimi B. The production of 100/400 nm inner/outer diameter carbon tubes by solution blowing and carbonization of core-shell nanofibers. Carbon N Y (2010) 48:3575-8. doi:10.1016/j. carbon.2010.05.056</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Process and Apparatus for the Production of Nanofibers</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Reneker</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Inventor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">US Patent</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="425" to="B426" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reneker DH, Inventor. Process and Apparatus for the Production of Nanofibers. (2003). US Patent No. 6,520,425 B1</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Mercury capture by native fly ash carbons in coal-fired power plants</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Senior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Suuberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hurt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wilcox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Olson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pecs.2009.12.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Prog Energy Combust Sci</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="510" to="529" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hower JC, Senior CL, Suuberg EM, Hurt RH, Wilcox JL, Olson ES. Mercury capture by native fly ash carbons in coal-fired power plants. Prog Energy Combust Sci (2010) 36(4):510-529. doi:10.1016/j.pecs.2009.12.003</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Multitechnique multielement analysis of coal and fly ash</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Nadkarni</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ac50056a036</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anal Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="929" to="935" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nadkarni RA. Multitechnique multielement analysis of coal and fly ash. Anal Chem (1980) 52:929-35. doi:10.1021/ac50056a036</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Determination of arsenic, cadmium, mercury, stibium, thallium and zinc in coal and coal fly-ash</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sager</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0016-2361(93)90132-L</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1327" to="1330" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sager M. Determination of arsenic, cadmium, mercury, stibium, thallium and zinc in coal and coal fly-ash. Fuel (1993) 72(9):1327-30. doi:10.1016/0016-2361(93)90132-L</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Potentially carcinogenic species emitted to the atmosphere by fossil-fueled power plants</title>
+		<author>
+			<persName><forename type="first">Dfs</forename><surname>Natusch</surname></persName>
+		</author>
+		<idno type="DOI">10.1289/ehp.782279</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="79" to="90" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Natusch DFS. Potentially carcinogenic species emitted to the atmosphere by fossil-fueled power plants. Environ Health Perspect (1978) 22:79-90. doi:10.1289/ehp.782279</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Investigation of the relationship between particulate-bound mercury and properties of fly ash in a full-scale 100 MWe pulverized coal combustion boiler</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-M</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vervynckt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adebambo</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ef0701384</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Fuels</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="3292" to="3299" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li S, Cheng C-M, Chen B, Cao Y, Vervynckt J, Adebambo A, et al. Investigation of the relationship between particulate-bound mercury and properties of fly ash in a full-scale 100 MWe pulverized coal combustion boiler. Energy Fuels (2007) 21:3292-9. doi:10.1021/ef0701384</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Total and monomethyl mercury in fog water from the central California coast</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Weiss-Penzias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Acosta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Heim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fernandez</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2011GL050324</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys Res Lett</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">3804</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weiss-Penzias PS, Ortiz C Jr, Acosta RP, Heim W, Ryan JP, Fernandez D, et al. Total and monomethyl mercury in fog water from the central California coast. Geophys Res Lett (2012) 39:L03804. doi:10.1029/2011GL050324</note>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Mercury transformation across particulate control devices in six power plants of China: the co-effect of chlorine and ash composition</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yufeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yuqun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liguo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xianghua</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.fuel.2006.07.030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="603" to="610" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lei C, Yufeng D, Yuqun Z, Liguo Y, Liang Z, Xianghua Y, et al. Mercury transformation across particulate control devices in six power plants of China: the co-effect of chlorine and ash composition. Fuel (2007) 86:603-10. doi:10.1016/j.fuel.2006.07.030</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Fluorine enrichment phenomena in coal combustion cycle</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cereda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fazinic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jaksic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Braga-Marcazzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Valkovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0168-583X(92)96168-X</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl Instrum Methods Phys Res</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="298" to="301" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carida A, Cereda E, Fazinic S, Jaksic M, Braga-Marcazzan GM, Valkovic O, et al. Fluorine enrichment phenomena in coal com- bustion cycle. Nucl Instrum Methods Phys Res (1992) B66:298-301. doi:10.1016/0168-583X(92)96168-X</note>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Organization</surname></persName>
+		</author>
+		<idno>No. 47 2003</idno>
+		<title level="m">Scientific Assessment of Ozone Depletion</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Ozone Research and Monitoring Project</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note type="raw_reference">Organization WM. Scientific Assessment of Ozone Depletion. Geneva: Global Ozone Research and Monitoring Project (2002). Report No. 47 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Organization</surname></persName>
+		</author>
+		<idno>No. 52 2011</idno>
+		<title level="m">Scientific Assessment of Ozone Depletion</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Ozone Research and Monitoring Project</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note type="raw_reference">Organization WM. Scientific Assessment of Ozone Depletion. Geneva: Global Ozone Research and Monitoring Project (2010). Report No. 52 2011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Newly detected ozone-depleting substances in the atmosphere</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Laube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Newland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cam</forename><surname>Brenninkmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martinerie</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ngeo2109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Geosci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="266" to="269" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Laube JC, Newland MJ, Hogan C, Brenninkmeijer CAM, Fraser PJ, Martinerie P, et al. Newly detected ozone-depleting substances in the atmo- sphere. Nat Geosci (2014) 7:266-9. doi:10.1038/ngeo2109</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Stratospheric heating by potential geoengineering aerosols</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Ferraro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Highwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlton-Perez</forename><surname>Aj</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2011GL049761</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys Res Lett</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page">24706</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ferraro AJ, Highwood EJ, Charlton-Perez AJ. Stratospheric heating by potential geoengineering aerosols. Geophys Res Lett (2011) 38(24):L24706. doi:10.1029/2011GL049761</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Black soot and the survival of Tibetan glaciers</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yoao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Joswia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.0910444106</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">52</biblScope>
+			<biblScope unit="page" from="22114" to="22118" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xu BD, Cao J, Hansen J, Yoao T, Joswia DR, Wang N, et al. Black soot and the survival of Tibetan glaciers. Proc Natl Acad Sci U S A (2009) 106(52):22114-8. doi:10.1073/pnas.0910444106</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

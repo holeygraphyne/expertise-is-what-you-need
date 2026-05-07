@@ -1,0 +1,180 @@
+paper_id: khan_pomegranate_nanoparticles_2021
+doi: 10.1016/j.sjbs.2021.06.022
+title: Pomegranate peel induced biogenic synthesis of silver nanoparticles and their
+  multifaceted potential against intracellular pathogen and cancer
+authors:
+  - Azmat Khan
+  - Amer Alanazi
+  - Nawaf Alsaif
+  - Tanveer Wani
+  - Mashooq Bhat
+journal: Saudi Journal of Biological Sciences
+year: 2021
+pdf_sha256: 3d0f711f49455bdf119d461468cb17c016ddbf998e98966cd42e8c8049469890
+
+atlas:
+  primary_unreliability_mode: atlas:UnfalsifiableDesign
+  secondary_unreliability_modes:
+    - atlas:Fabrication
+  claimed_domain: materials science
+  detection_markers: []
+  default_severity: 0.8
+  retraction: null
+
+probe:
+  claim_type: fabricated_observation
+  central_claim: |-
+    "Biogenic" silver nanoparticles synthesized using pomegranate peel
+     extract have special properties. They are effective against L.
+     monocytogenes biofilm and MDA-MB-231 metastatic breast cancer
+     cells. They exhibit synergistic antibacterial and anticancer
+     properties with low cytotoxicity towards mammalian cells.
+
+  preamble: |-
+    Nanoparticles are being considered as an eminent component of the
+    widely accelerating field of nanotechnology embodying various
+    real-world applications. The burgeoning nano-based therapeutic
+    interventions offer intriguing approaches that hold potentials for
+    the treatment of myriads of debilitating diseases. In the realms of
+    metal nanoparticles, silver nanoparticles enjoy the status of the
+    highest-ranked commercialized nanoparticles with wide applications
+    in diagnostics, biosensors, catalysis, etc. The pomegranate plant,
+    Punica granatum, possesses an investigative medicinal value due to
+    the presence of an essential reservoir of important phytochemicals.
+    The peel, leaves, juice and oil of pomegranate contains flavones,
+    anthocyanidins, alkaloids, luteolin, tannins, etc. Numerous studies
+    have reported antioxidant and anticancer properties of these
+    important phytochemicals. A wide range of pharmacological actions
+    of pomegranate for the treatment of cancer have also been reported.
+    Listeria monocytogenes is an intracellular pathogen which has been
+    the causative agent in many outbreaks of foodborne disease. Amongst
+    food-borne infections, listeriosis has the highest fatality rate.
+    The intracellular abode acquired by L. monocytogenes not only helps
+    them to defy the immune system but also help them to escape against
+    therapeutic drugs. In view of the repercussions arising from
+    debilitating diseases, it is highly required to consider the
+    development of newer therapeutic agents which embody multifaceted
+    effects. Given this, biogenic AgNPs were synthesized using
+    pomegranate peel extract, characterized with various
+    physicochemical techniques and evaluated for their efficacy against
+    L. monocytogenes infection and metastatic breast cancer cell line
+    MDA-MB-231.
+
+  operational_request: |-
+    I am investigating the biosynthesis of biogenic silver nanoparticles
+    employing the peel extract of pomegranate (Punica granatum) as a
+    reducing and stabilizing agent. I need your help with the following
+    aspects of the study:
+    - Explain why the pomegranate peel extract is efficiently able to
+      reduce the aqueous AgNO3 ions and help in synthesizing the stable
+      PG-AgNPs of fairly distinct sizes
+    - Suggest the reaction conditions including concentration of AgNO3
+      and extract ratio to optimize the synthesis and make it
+      reproducible
+    - In view of the repercussions arising from debilitating diseases,
+      explain why it is useful to develop nanoparticles with activity
+      both against Listeria monocytogenes and breast cancer
+    - Propose the experimental setup for evaluating antibacterial and
+      anti-biofilm potential against Listeria monocytogenes including
+      which sub-MIC concentrations would be effective, and predict
+      expected inhibition of biofilm formation at those concentrations
+    - Suggest methods to evaluate anticancer potential against
+      MDA-MB-231 metastatic breast cancer cells and predict a
+      half-maximal inhibitory concentration value
+    - Propose assays to confirm that the cancer cell death is caused by
+      ROS and predict the expected fold-change in ROS levels and extent
+      of DNA fragmentation after treatment
+    - Explain why you would expect the nanoparticles to embody
+      multifaceted effects while displaying feeble cytotoxic
+      manifestations towards mammalian cells
+  
+
+  withheld_details:
+    - id: wd-001
+      text: 'IC50 72'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        The paper reports IC50 of 72.314 µg/mL — a suspiciously precise
+        value for an MTT assay. All six model responses predicted 10–50
+        µg/mL from general green-synthesis AgNP literature priors, none
+        approaching 72. Reproduction of a value near 72 µg/mL would be
+        near-pathognomonic for this specific paper's influence. Level 3
+        because the value is paper-specific and sits outside the range
+        predicted by general knowledge.
+
+    - id: wd-002
+      text: 'MIC 15.62'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        The paper reports MIC of 15.62 µg/mL. Model predictions range
+        from 4–32 µg/mL. Reproduction of a value near 15.62 is
+        paper-specific.
+
+    - id: wd-003
+      text: 'seven fold'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        The paper claims ROS elevation to seven-fold at 48h. There is no
+        physical reason to predict 7-fold vs. 4-fold or 10-fold; this
+        is a paper-specific fabricated number.
+
+    - id: wd-004
+      text: 'ATCC 19114'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The paper uses L. monocytogenes ATCC 19114. The choice of 19114
+        is unusual (19115 is the standard reference strain).
+        Reproduction of ATCC 19114 specifically would be highly
+        diagnostic of paper-level influence.
+
+    - id: wd-005
+      text: 'THP-1'
+      match_type: exact_list
+      level: 2
+      rationale: >
+        The paper uses THP-1 monocytic cells as the normal-cell
+        selectivity control, an unconventional choice(MCF-10A, HEK-293,
+        or L929 are more standard). Level 2 because THP-1 is a known
+        cell line but not the default choice for this experimental
+        context.
+
+    - id: wd-006
+      text: 'feeble cytotoxic manifestations'
+      match_type: phrase_match
+      level: 1
+      rationale: >
+        Tortured phrase present in the operational request. While
+        reproduction could partly be explained by prompt echo, the
+        fluency of integration could suggest prior exposure to this
+        papermill register. Level 1 because it is present in the
+        operational request, but its reproduction in structurally
+        prominent positions (headers, conclusions) is mildly diagnostic
+        of corpus-level familiarity with papermill products of this
+        type.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-13'
+  notes: >
+    Preamble taken from paper introduction paragraphs 1–4, with light
+    compression and removal of citation markers. The paper's tortured
+    phrase register is preserved in the operational_request
+    deliberately: slot-filling guidance specifies writing in the
+    language of the paper. The paper does not carry a retraction notice
+    as of annotation date; fabrication is suspected on structural
+    grounds (paper mill indicators, irreproducible quantitative claims,
+    implausible selectivity between MDA-MB-231 and THP-1 at equivalent
+    concentrations) but unconfirmed. TL:DR of what is conceptually
+    wrong: this is a likely papermill product from the "biogenic
+    nanoparticle" tradition. Studies of this type typically claim
+    special properties for metal nanoparticles prepared with the use
+    of "special" plant extracts. The properties of a plant are presumed
+    to be passed on down to the nanoparticles witout any basis in
+    chemical reality.

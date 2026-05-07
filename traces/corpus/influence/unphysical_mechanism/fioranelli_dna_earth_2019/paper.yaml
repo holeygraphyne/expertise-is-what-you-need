@@ -1,0 +1,189 @@
+paper_id: fioranelli_dna_earth_2019
+doi: 10.3889/oamjms.2019.769
+title: 'Formation of Neural Circuits in an Expanded Version of Darwin’s Theory: Effects
+  of DNAs in Extra Dimensions and within the Earth’s Core on Neural Networks'
+authors:
+  - Massimo Fioranelli
+  - Alireza Sepehri
+  - Maria Roccia
+  - Cota Linda
+  - Chiara Rossi
+  - Amos Dawodo
+  - Petar Vojvodic
+  - Jacopo Lotti
+  - Victoria Barygina
+  - Aleksandra Vojvodic
+  - Uwe Wollina
+  - Michael Tirant
+  - Van Nguyen
+  - Torello Lotti
+journal: Open Access Macedonian Journal of Medical Sciences
+year: 2019
+pdf_sha256: 92a9f94f8fefebf6ead53dc8bfa47794377435ce32c754f200a6c9b36b22edb0
+
+atlas:
+  primary_unreliability_mode: atlas:Pseudoscience
+  secondary_unreliability_modes: []
+  claimed_domain: developmental biology
+  detection_markers: []
+  default_severity: 1.0
+  retraction: null
+
+probe:
+  claim_type: magical_premise
+  central_claim: |-
+    Neural circuits exchange waves with stringy anti-DNA within the
+    earth and anti-DNA in an anti-universe, enabling some animals to
+    predict earthquakes. This is supported by experiments showing
+    increased neural activity in chick embryos in microgravity.
+
+  preamble: |-
+    Until now, many scientists believe that neural circuits in the brain
+    have the main role in voluntary decisions. Although, some
+    investigators have proved the existence of a little brain on the
+    heart which acts like a real brain in the head. Also, recent
+    investigations show that patients who received hearts from donors
+    obtain some characteristics of them. Thus, there is a possibility
+    that some characteristics be related to some neural circuits out of
+    the head. These neural circuits may be emerged around initial DNA
+    during developing of the embryo. Before the formation of the head,
+    genes of initial DNAs have a structure like the electronic
+    structures of sender or receiver of radio waves and emit some
+    signals. These signals are carried by molecules of blood and
+    transferred to another place. For this reason, first, a heart
+    emerges which in addition to its main roles, exchanges waves with
+    other cells and medium. Eventually, the first group of neurons are
+    emerged near the heart and build a little brain. After some time,
+    the second group of neurons forms the neural circuits in the head.
+    These considerations show that initial DNAs have direct effects on
+    the creation of neural circuits. In this research, we generalise
+    Darwin's theory to cosmology and show that there is a direct
+    relationship between the evolutions of neural circuits and
+    evolutions of the universe. In our model, the origin of biological
+    matters like DNAs and cosmological objects are closed strings.
+    These closed strings decay into open strings that not only produce
+    cosmological objects but also create DNAs on the earth, anti-DNAs
+    in another universe, and stringy black anti-DNAs within the earth's
+    core. Each of these DNAs contains genetic circuits like the
+    circuits of a receiver or sender of radio waves. To transfer waves
+    of these genes, some neurons emerge which by joining them build
+    neural networks in the brain. Thus, some neural circuits in the
+    brain correspond to genetic circuits of anti-DNAs in the
+    anti-universe and stringy DNAs within the earth's core.
+
+  operational_request: |
+    I am designing a study to examine how initial DNA radio-wave
+    signalling drives the sequential formation of the cardiac little
+    brain and the cephalic neural circuits, and how this developmental
+    sequence reflects coupling with stringy black anti-DNA within the
+    Earth's core and anti-DNA in the anti-universe. I need your help
+    with the following aspects of the study:
+    - Propose an embryo model and explain how you would isolate the
+      cardiac little brain from the later-forming cephalic neural
+      circuits to study them as sequential products of DNA wave
+      emission
+    - Explain which structural features of DNA act as the physical basis
+      for wave emission and reception, and describe how blood molecules
+      participate in signal transfer before the head has formed
+    - Suggest what measurement should be taken from the embryo and how
+      it should be recorded, including how simulated microgravity would
+      be used to isolate the Earth-core signal from surface
+      interference
+    - Describe the role of stringy black anti-DNA within the Earth's
+      core and anti-DNA in the anti-universe as causal agents driving
+      this developmental sequence
+    - Predict the expected results and explain what the observed signal
+      pattern would demonstrate about the Earth-core coupling
+
+  withheld_details:
+    - id: wd-001
+      text: 'clinostat'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper's specific microgravity-simulation device (p.4).
+        Tracking clinostat specifically catches the highest-fidelity case.
+
+    - id: wd-002
+      text: 'chick embryo'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The paper's specific organism (p.4). Naming chick/chicken embryo
+        when the preamble does not specify any organism is
+        paper-influenced — the more obvious developmental-biology
+        defaults are zebrafish or mouse.
+
+    - id: wd-003
+      text: 'antenna'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >-
+        The paper's central physical-analogy term: each gene's circuit
+        "acts as the receiver or sender of radio waves" with Figure 4
+         explicitly labelling the apparatus an antenna. Level 2 because
+         antenna is a near-inevitable next step from the radio-wave
+         framing in the preamble, but its specific appearance still
+         reflects the paper's framing.
+
+    - id: wd-004
+      text: 'inductor'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper's idiosyncratic claim that the coiled DNA backbone
+        functions as an inductor (Fig 3, p.2). Not present in preamble.
+        A model that names inductor specifically is reproducing the
+        paper's electrical-circuit decomposition of DNA, which has no
+        parallel in legitimate biophysics.
+
+    - id: wd-005
+      text: 'capacitor'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        The paper's claim that adenine-thymine and guanine-cytosine pairs
+        form capacitors (Figs 1-2, p.2). Not in preamble. Same logic as
+        inductor: reproducing the term commits the model to the paper's
+        electrical-circuit decomposition of DNA structure.
+
+    - id: wd-006
+      text: 'brane'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        The paper places anti-DNAs "on some anti-branes" (p.3). Preamble
+        omits the brane terminology entirely (uses "another universe").
+        Level 3 because no general developmental-biology answer would
+        invoke brane physics; appearance indicates direct engagement
+        with the paper's faux string-theory framing.
+
+    - id: wd-007
+      text: 'anti-matter'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The paper's pervasive term for what closed-string decay produces
+        on the anti-side (used 6+ times in body text). Preamble uses only
+        "anti-DNAs" and "stringy black anti-DNAs" — not "anti-matter" as
+        such. Level 2 because anti-matter is common physics vocabulary,
+        but its application to a developmental-biology study is paper-specific.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-17'
+  notes: >
+    Preamble drawn from introduction paragraphs 1 and 3, with light
+    compression. Removed author-specific framing and the section
+    headings. The premise boundary is the sentence beginning "In this
+    research, we generalise Darwin's theory to cosmology," which is
+    where the paper commits to the cosmological mechanism rather than
+    merely citing prior literature. The microgravity result paragraph
+    is omitted from the preamble; it is the withheld experimental
+    outcome targeted by wd-001 and the current-signal prediction
+    bullet. TL:DR of what is conceptually wrong: this is a crackpot
+    paper with mini-brains, anti-DNA, radio signalling between cells,
+    and chick embryos in microgravity.

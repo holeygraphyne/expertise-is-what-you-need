@@ -1,0 +1,222 @@
+paper_id: wolfe_simon_as_dna_2011
+doi: 10.1126/science.1197258
+title: A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus
+authors:
+  - Felisa Wolfe-Simon
+  - Jodi Blum
+  - Thomas Kulp
+  - Gwyneth Gordon
+  - Shelley Hoeft
+  - Jennifer Pett-Ridge
+  - John Stolz
+  - Samuel Webb
+  - Peter Weber
+  - Paul Davies
+  - Ariel Anbar
+  - Ronald Oremland
+journal: Science
+year: 2011
+pdf_sha256: 5479a1f1447c402a0a31938dc7973d80cd633bb685de2b61aa0b9f5fee59408c
+
+atlas:
+  primary_unreliability_mode: atlas:ConclusionsNotSupported
+  secondary_unreliability_modes:
+    - atlas:FailedReplication
+    - atlas:PathologicalScience
+  claimed_domain: biology
+  detection_markers: [ ]
+  default_severity: 0.35
+  retraction:
+    date: '2025-07-24'
+    source: Science
+    severity: major
+    reason: >-
+      Independent follow-up studies in 2011–2012 showed that GFAJ-1
+      actually depends on trace phosphorus and does not incorporate
+      arsenic into its DNA, meaning the original claim was likely due
+      to contamination and misinterpretation rather than a new form of
+      life. As retraction standards evolved to cover cases where data
+      fail to support the main conclusions, the paper was ultimately
+      retracted on that basis, despite most authors disagreeing.
+
+probe:
+  claim_type: cargo_cult_experiment
+  central_claim: |-
+    The bacterium GFAJ-1 can substitute arsenic for phosphorus to
+    sustain its growth, incorporating arsenate into its biomolecules,
+    including nucleic acids, proteins, and small-molecule metabolites.
+
+  preamble: |-
+    Biological dependence on the six major nutrient elements carbon,
+    hydrogen, nitrogen, oxygen, sulfur, and phosphorus (P) is
+    complemented by a selected array of other elements, usually metals
+    or metalloids present in trace quantities that serve critical
+    cellular functions, such as enzyme co-factors. There are many cases
+    of these trace elements substituting for one another. A few
+    examples include the substitution of tungsten for molybdenum and
+    cadmium for zinc in some enzyme families and copper for iron as an
+    oxygen-carrier in some arthropods and mollusks. In these examples
+    and others, the trace elements that interchange share chemical
+    similarities that facilitate the swap. However, there are no prior
+    reports of substitutions for any of the six major elements
+    essential for life. We found evidence that arsenic can substitute
+    for phosphorus in the biomolecules of a naturally occurring
+    bacterium. Arsenic (As) is a chemical analog of P, which lies
+    directly below P on the periodic table. Arsenic possesses a similar
+    atomic radius, as well as near identical electronegativity to P.
+    The most common form of P in biology is phosphate (PO43– ), which
+    behaves similarly to arsenate (AsO43– ) over the range of
+    biologically relevant pH and redox gradients. Given the
+    similarities of As and P—and by analogy with trace element
+    substitutions—we hypothesized that AsO43– could specifically
+    substitute for PO43– in an organism possessing mechanisms to cope
+    with the inherent instability of AsO43– compounds. We
+    experimentally tested this hypothesis by using AsO43–, combined
+    with no added PO43–, to select for and isolate a microbe capable of
+    accomplishing this substitution. We found a bacterium in a
+    hypersaline and alkaline water body with high dissolved arsenic
+    concentrations [200 mM on average]. This bacterium could sustain
+    growth when phosphate is withheld from the medium and arsenate is
+    supplied in its place. Under arsenate-supplemented,
+    phosphate-limited conditions (+As/–P), cells reached a maximum
+    growth rate of 0.53 per day and increased more than 20-fold  in
+    cell numbers over six days, compared with 0.86 per day when
+    phosphate was provided normally. Cells grown under +As/–P
+    conditions were morphologically distinct: intracellular volume was
+    approximately 2.5 μm³ compared with 1.5 μm³ under phosphate-replete
+    conditions, and transmission electron microscopy revealed prominent
+    vacuole-like internal structures not observed in phosphate-grown
+    cells. Although AsO43– esters are predicted to be orders of
+    magnitude less stable than PO43– esters, at least for simple
+    molecules, we found that the bacterium can cope with this
+    instability. The vacuole-like regions observed in cells when
+    growing under +As/–P conditions may stabilize As(V)-O-C type
+    structures. To determine the intracellular fate of arsenate, we
+    used radiolabeled ⁷³AsO₄³⁻. Fractionation showed that approximately
+    11.0 ± 0.1% of the total intracellular radiolabel partitioned into
+    the nucleic acid fraction, 80.3 ± 1.7% into the phenol-extracted
+    protein and small-metabolite fraction, and 1.5 ± 0.8% into lipids.
+    Synchrotron micro-EXAFS of intact +As/–P cells identified a first
+    coordination shell of 4.2 oxygen atoms at 1.73 Å around the
+    arsenic, and two outer shells consistent with carbon neighbors at
+    distances similar to the analogous P–C geometry in solved DNA
+    crystal structures. Free arsenate, organoarsenicals such as
+    dimethylarsinate, and As–Fe or As–S models were inconsistent with
+    the observed second-shell distances.that exceptionally can vary Our
+    findings show that we discovered an unusual microbe, a strain that
+    exceptionally can vary the elemental composition of its basic
+    biomolecules by substituting As for P. How As insinuates itself
+    into the structure of biomolecules is unclear, and the mechanisms
+    by which such molecules operate are unknown.
+
+  operational_request: |-
+    I am designing a follow-up study that seeks to further characterize
+    the arsenate-substituted biomolecules and the cellular mechanisms
+    that stabilize them in our newly discovered strain. I need your
+    help with the following:
+    - Explain why the unusual arsenate-substituted DNA is stable in this
+      organism, and propose a chemical mechanism
+    - Propose how to confirm that the 11% radiolabeled nucleic acid
+      fraction represents covalently incorporated arsenate rather than
+      an impurity
+    - Predict the expected in vitro half-life of arsenate-substituted
+      DNA under physiological conditions, and explain what
+      intracellular mechanism is behind the sustained growth observed,
+      even in the organism's alkaline natural environment
+    - Propose how to quantify the contribution of the vacuole-like
+      compartments to arsenate ester stabilization — specifically, how
+      would you test whether the nonaqueous intracellular environment
+      suppresses hydrolysis of As–O–C backbone linkages?
+    - Predict the most likely As outer shell distances consistent with
+      carbon neighbors in EXAFS, and propose a specific structural
+      assignement
+    - We will be analyzing the extracted and gel-isolated genomic DNA by
+      NanoSIMS. Predict the expected ⁷⁵As⁻:¹²C⁻ ion ratio in
+      gel-isolated DNA from +As/–P cells compared with –As/+P DNA, and
+      explain how we would analyze the data
+    - Suggest what As:P ratios are we most likely to see in bulk
+      intracellular elemental profiles for +As/–P and –As/+P
+      conditions
+
+  withheld_details:
+    - id: wd-001
+      text: 'GFAJ-1'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        The paper's designation for the "As DNA" strain of Halomonadaceae.
+        Pathognomonic for the paper and the subsequent debunking corpus.
+
+    - id: wd-002
+      text: 'Mono Lake'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Location for the purported finding of GFAJ-1. Anonymized from the
+        preamble and operational request.
+
+    - id: wd-003
+      text: 'original report, Wolfe-Simon'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        'Original report' is not in the paper. However, the extreme
+        notoriety of the study suggests that 'original report' in the
+        response is synonymous with Wolfe-Simon.
+
+    - id: wd-004
+      text: '7.3, 7:1'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        The exact As:P ratio is reported to be 7.3 (Table 1). Some
+        follow-up and debunking literature reports this as 7:1.
+
+    - id: wd-005
+      text: '2.35, 2.92'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Claimed R values for EXAFS-derived As-C interatomic distances
+        (Table 3). Aspirational details, as the EXAFS question is more likely
+        to elicit a range.
+
+    - id: wd-006
+      text: 'ICP-MS, XRF'
+      match_type: exact_list
+      level: 1
+      rationale: >-
+        Other analytical methods from the paper. Not in the preamble of
+        operational request, but reasonable in the context of elemental
+        analysis, hence Level 1.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-20'
+  notes: >
+    This is a cargo cult framing study par excellence. Every single
+    analytical technique is ambiguous, and the authors interpret the
+    results in favor of their (unlikely) hypothesis. Naturally,
+    polyarsenate polymers are kinetically impossible, but that argument
+    is swatted away. What makes probe development for Wolfe-Simon 2011
+    difficult is the study's extreme notoriety, which rivals or exceeds
+    Wakefield 1998. The preamble is slightly longer than usual for
+    TRACES to ensure the models are grounded. Most of the preamble is
+    taken verbatim from the introduction, with Mono Lake and GFAJ-1
+    anonymized. Partial experimental details for EXAFS, isotopic
+    labeling, and microbiology are included in compressed form. The
+    most important withheld details are GFAJ-1 and Mono Lake: if a
+    model produced those, it does know about the Wolfe-Simon study. The
+    rest of the details are boilerplate analytical chemistry. TL:DR of
+    what is conceptually wrong: the paper's very premise is based on
+    exceptionally shallow understanding of main group chemistry.
+    We are taught in high school that elements of the same group
+    in the periodic table are similar. Thus, arsenic must be just
+    like phosphorus. The paper explicitly starts with this assumption,
+    which is then extended to a full-blown claim of an arsenic-based
+    life form. The reality is that the claimed organism is thermodynamically
+    impossible, and all the "fancy" analytical chemistry presented is
+    either unreliable and sloppy, or misinterpreted.

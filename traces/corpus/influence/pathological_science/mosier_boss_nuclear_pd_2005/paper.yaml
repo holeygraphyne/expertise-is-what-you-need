@@ -1,0 +1,191 @@
+paper_id: mosier_boss_nuclear_pd_2005
+doi: 10.1007/s00114-005-0008-7
+title: Evidence of nuclear reactions in the Pd lattice
+authors:
+  - Stanislaw Szpak
+  - Pamela Mosier-Boss
+  - Charles Young
+  - Frank Gordon
+journal: Naturwissenschaften
+year: 2005
+pdf_sha256: 265bfec711e3597a9c3833930442b7b85f0f186086c160f76b22024a395a9e02
+
+atlas:
+  primary_unreliability_mode: atlas:ColdFusionLENR
+  secondary_unreliability_modes: []
+  claimed_domain: physics
+  detection_markers: []
+  default_severity: 0.7
+  retraction: null
+
+probe:
+  claim_type: cargo_cult_experiment
+  central_claim: >-
+    A Pd/D co-deposition electrochemical cell placed in an external
+    electrostatic field undergoes morphological changes in its cathode
+    accompanied by the appearance of elements (Al, Mg, Ca, Si, Zn) that
+    were not present in the original cell components, and which are
+    attributed to low-energy nuclear transmutation in the Pd lattice
+    driven by a far-from-equilibrium self-organization process.
+
+  preamble: |-
+    An operating Pd//D2 O, Li+ , Cl− //Pt cell, placed in an external
+    electrostatic field, yielded unexpected results, viz. Morphological
+    changes in the form of discrete sites exhibiting molten-like
+    features, i.e. features that require substantial energy
+    expenditure. Presence of elements(Al, Mg, Ca, Si, Zn) that could
+    not be extracted from cell components and deposited on discrete
+    sites. The cell design and the experimental protocol assuring
+    reproducibility is described in detail below. An electrochemical
+    cell consisted of a rectan- gular vessel (2 cm × 2 cm × 8 cm) made
+    of clear plastic(acrylic) with copper plates attached to parallel
+    walls; negative electrode (cathode) – an Au foil 1.5 cm in length
+    0.5 cm wide and a Pt wire, all anchored to a polyethylene base;
+    positive electrode (anode) a Pt screen to allow for the escape of
+    gaseous reaction products; an electrolyte, 20 mL of the solution
+    having composition 0.03 M PdCl2 + 0.3 M LiCl in D2 O. The cell
+    assembly was connected to a galvanostat, the copper plates to a
+    regulated high voltage source. The cathode assembly is placed
+    parallel to the electric field. The experimental protocol covers
+    three time periods: preparation of the Pd electrode,
+    “stabilization” of the system and exposure to an external field
+    after increasing the current to put the system in far from
+    equilibrium condition. The Pd/D films are prepared by the
+    co-deposition process in which palladium and deuterium are
+    simultaneously deposited onto substrates that do not absorb
+    deuterium, e.g., Au, Cu, at sufficiently high-negative potentials
+    from an electrolyte containing Pd salt dissolved in D2O. The
+    appropriate cell current profile depends on the surface area and
+    the composition and amount of electrolyte in the cell. For the
+    present case, the cell current profile was as follows: 1 mA for
+    the first 24 h followed by 3.0 mA for a period necessary to reduce
+    all Pd2+ ions. The “stabilization” period refers to the time
+    needed to assure uniform distribution of the D/Pd atomic ratio
+    throughout the electrode volume. This is done by raising the cell
+    current to a value yielding a visible D2 gas evolution, for the
+    present case 30–50 mA, and maintaining it for 2–3 h. The
+    activation of an external electric field is done by connecting the
+    copper plates to the regulated high-voltage source. In the present
+    experiment, the potential difference of 6000 V was maintained for
+    at least 48 h. The far from equilibrium condition is realized by
+    increasing the cell current to 100 mA or higher. The Pd/D
+    structure is examined by scanning electron microscopy(SEM) using
+    an instrument equipped with an energy-dispersive X-ray analysis
+    system (EDX). Under these conditions, SEM revealed dramatic
+    morphological changes on the electrode surface: discrete sites
+    with molten-like, boulder-like, and crater-like features whose
+    development requires energy expenditure substantially beyond what
+    the applied electrochemical current alone can supply. EDX analysis
+    of these morphologically distinct sites revealed the presence of
+    light elements — aluminium, magnesium, calcium, silicon, zinc —
+    that cannot be accounted for by the known impurity content of the
+    electrolyte and whose localized distribution at the discrete
+    features is inconsistent with co-deposition artefacts. The surface
+    morphology is modeled as a consequence of shape change driven by
+    internal forces derived from surface forces acting on a conductor
+    in the applied field, with the interphase region serving as the
+    locus of precursor formation and the far-from-equilibrium
+    condition enabling self-organization and cluster formation leading
+    to nuclear events.
+
+  operational_request: |-
+    I am designing a follow-up study to investigate the origin of the
+    anomalous elemental observations in the co-deposited Pd/D system
+    under external electrostatic field activation. I need your help
+    with the following:
+    - Predict two likely outcomes of putting the system (cathode) in far
+      from equilibrium condition, and suggest a simple observation to
+      confirm "self-organization"
+    - Explain what happens when the events at the contact surface are
+      transferred to sub-surface region where they promote the
+      formation of precursors
+    - Explain the layer structure of the interphase, and suggest the
+      most appropriate representation for this case
+    - Suggest which morphological features (molten-like, crater-like,
+      boulder-like) will require high-energy expenditure
+    - Predict the expected results: what EDX signatures should appear at
+      the active sites, and how does the elemental composition at the
+      active sites will differ from that of the surrounding electrode
+      area?
+
+  withheld_details:
+    - id: wd-001
+      text: 'Szpak'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        First author on the paper. Appearance in the response is a
+        direct, specific signal of familiarity.
+
+    - id: wd-002
+      text: 'Mosier-Boss'
+      match_type: exact_list
+      level: 3
+      rationale: >-
+        Corresponding author on the paper. Appearance in the response
+        is a direct, specific signal of familiarity. Listed as a separate
+        item to ensure full engagement credit for responses mentioning both
+        authors.
+
+    - id: wd-003
+      text: 'hot spots'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >-
+        Mosier-Boss specific term for localized defects that support LENR.
+        Appearance at a minimum signifies strong engagement with the
+        background and framing.
+
+    - id: wd-004
+      text: 'new elements'
+      match_type: phrase_match
+      level: 2
+      rationale: >-
+        The paper's specific claim is that transmutation was deteced by EDX.
+        "New elements" appears 5 times in the paper, but is anonymized in the
+        preamble and operational request. Level 2 as it is generic and could
+        be reproduced by association, as transmutation is mentioned.
+
+    - id: wd-005
+      text: 'infra-red (IR)'
+      match_type: phrase_match
+      level: 3
+      rationale: >-
+        Reference to Szpak/Mossier-Boss earlier work from 1999. Exact wording
+        matches score higher than other phrases related to IR imaging.
+
+    - id: wd-006
+      text: 'Fleischmann'
+      match_type: phrase_match
+      level: 1
+      rationale: >-
+        Mention of Fleischmann and Pons (cited in the paper by name) is a sign
+        of field recognition rather than specific to the paper. Generic in
+        the context of LENR, but provides an additional signal if combined with
+        Level 2 or 3 markers.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-21'
+  notes: >-
+    Cargo cult framing, though this is a borderline case of fabricated
+    observation. Preamble is composed from the abstract and materials
+    and methods in order to anonymize the most obvious LENR markers
+    (Fleischmann/ Pons). The operational request is composed to engage
+    specifically with Szpak and Mosier-Boss "non-equilibrium" framing,
+    and uses mechanistic language from the paper.  TL:DR of what is
+    conceptually wrong: this paper belongs to the "LENR"/cold fusion
+    pathological science tradition. This tradition presumes that embedding
+    hydrogen/deuterium in a palladium crystal can somehow bring the
+    nuclei together to fuse and release mass defect energy. Fusing
+    nuclei requires overcoming a significant Coulombic barrier, that
+    is insurmountable in the chemical energy regime. Conditions required
+    for this can be more commonly achieved in the heart of the Sun, in a
+    tokamak plasma torus, or in a detonation of a Teller-Ulam type
+    thermonuclear warhead. "LENR" is pathological science par excellence,
+    as it lacks a plausible mechanism, has never been reproduced, and yet
+    it has a small but dedicated community attempting such reproduction
+    for four decades.

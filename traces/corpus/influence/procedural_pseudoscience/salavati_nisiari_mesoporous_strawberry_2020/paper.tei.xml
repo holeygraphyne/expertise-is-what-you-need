@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mesopourous Fe3O4@SiO2-hydroxyapatite nanocomposite: Green sonochemical synthesis using strawberry fruit extract as a capping agent, characterization and their application in sulfasalazine delivery and cytotoxicity</title>
+				<funder ref="#_e5yQuau #_rxQfYQG">
+					<orgName type="full">Nanjing Forestry University</orgName>
+				</funder>
+				<funder ref="#_9WZ3ah7">
+					<orgName type="full">Science and Technology Department of Jiangsu Province</orgName>
+				</funder>
+				<funder ref="#_gmfmM94">
+					<orgName type="full">INSF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Council of Iran National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_rh5fzBX">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_yMjAgQT">
+					<orgName type="full">University of Kashan</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-12">11 June 2020 0304</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Yasin</forename><surname>Orooji</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Co-Innovation Center of Efficient Processing and Utilization of Forest Resources , Nanjing Forestry University , Nanjing , 210037 , China</note>
+								<orgName type="department">Co-Innovation Center of Efficient Processing and Utilization of Forest Resources</orgName>
+								<orgName type="institution">Nanjing Forestry University</orgName>
+								<address>
+									<postCode>210037</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> College of Materials Science and Engineering , Nanjing Forestry University , Nanjing , 210037 , China</note>
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Nanjing Forestry University</orgName>
+								<address>
+									<postCode>210037</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sobhan</forename><surname>Mortazavi-Derazkola</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>c</label> Medical Toxicology and Drug Abuse Research Center (MTDRC) , Birjand University of Medical Sciences , Birjand , Iran</note>
+								<orgName type="department">Medical Toxicology and Drug Abuse Research Center (MTDRC)</orgName>
+								<orgName type="institution">Birjand University of Medical Sciences</orgName>
+								<address>
+									<settlement>Birjand</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Seyedeh</forename><forename type="middle">Masoumeh</forename><surname>Ghoreishi</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>d</label> Cellular and Molecular Biology Research Center , Health Research Institute , Babol University of Medical Sciences , Babol , Iran</note>
+								<orgName type="department">Cellular and Molecular Biology Research Center</orgName>
+								<orgName type="institution" key="instit1">Health Research Institute</orgName>
+								<orgName type="institution" key="instit2">Babol University of Medical Sciences</orgName>
+								<address>
+									<settlement>Babol</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mahnaz</forename><surname>Amiri</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>e</label> Neuroscience Research Center , Institute of Neuropharmacology , Kerman University of Medical Science , Kerman , Iran</note>
+								<orgName type="department" key="dep1">Neuroscience Research Center</orgName>
+								<orgName type="department" key="dep2">Institute of Neuropharmacology</orgName>
+								<orgName type="institution">Kerman University of Medical Science</orgName>
+								<address>
+									<settlement>Kerman</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>f</label> Cell Therapy and Regenerative Medicine Comprehensive Center , Kerman University of Medical Science , Kerman , Iran</note>
+								<orgName type="department">Cell Therapy and Regenerative Medicine Comprehensive Center</orgName>
+								<orgName type="institution">Kerman University of Medical Science</orgName>
+								<address>
+									<settlement>Kerman</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Masoud</forename><surname>Salavati-Niasari</surname></persName>
+							<affiliation key="aff6">
+								<note type="raw_affiliation"><label>g</label> Institute of Nano Science and Nano Technology , University of Kashan , Kashan , P.O. Box 87317 -51167 , Iran</note>
+								<orgName type="department">Institute of Nano Science and Nano Technology</orgName>
+								<orgName type="institution">University of Kashan</orgName>
+								<address>
+									<postBox>P.O. Box 87317</postBox>
+									<postCode>-51167</postCode>
+									<settlement>Kashan</settlement>
+									<country key="IR">Iran</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<note type="raw_affiliation">Co-Innovation Center of Efficient Processing and Utilization of Forest Resources , Nanjing Forestry University , Nanjing , 210037 , China.</note>
+								<orgName type="department">Co-Innovation Center of Efficient Processing and Utilization of Forest Resources</orgName>
+								<orgName type="institution">Nanjing Forestry University</orgName>
+								<address>
+									<postCode>210037</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mesopourous Fe3O4@SiO2-hydroxyapatite nanocomposite: Green sonochemical synthesis using strawberry fruit extract as a capping agent, characterization and their application in sulfasalazine delivery and cytotoxicity</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Hazardous Materials</title>
+						<title level="j" type="abbrev">Journal of Hazardous Materials</title>
+						<idno type="ISSN">0304-3894</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">400</biblScope>
+							<biblScope unit="page">123140</biblScope>
+							<date type="published" when="2020-12">11 June 2020 0304</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F6328472A050EA285047039DDCF13D0C</idno>
+					<idno type="DOI">10.1016/j.jhazmat.2020.123140</idno>
+					<note type="submission">Received 15 February 2020; Received in revised form 25 April 2020; Accepted 3 June 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-28T20:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Sulfasalazine delivery Sonochemistry XTT Nanocomposite Magnetic carrier Hydroxyapatite</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The present study introduces a simple, biocompatible and effective drug delivery system by using mesoporous nanocomposite-based platform. To achieve this goal, mesopourous Fe 3 O 4 @SiO 2 -hydroxyapatite nanocomposite (mFSH) was synthesized by sonochemical process in presence of strawberry fruit extract as capping agent (mFSH-SW). The impact of various factors such as sonication time (5, 15, 30 and 45 min), capping agent (cherry (CH), strawberry (SW), malus domestica (MD), andean blackberry (AB)), pH (10, 11 and 12) and sonication power (30, 60 and 80 W) were investigated to reach optimum condition. To reach high efficiency of drug loading, mFSH was grafted with 3-aminopropyl triethoxysilane (APTES). Uniform, regular and spherical morphology of nanocomposite were specified by field emission scanning electron microscopy (FESEM), X-ray powder diffraction (XRD), vibrating sample magnetometer (VSM), high-resolution transmission electron</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In recent years, the sonochemical method which applied for synthesis of various materials with different shape in nano size has been an efficient synthesis route. Sonochemical reactions have been utilized as the eco-friendly, rapid and facile process for multiple tasks including nanoclusters industrial and synthesis of multifunctional nanomaterial. Many attempts were made to apply eco-friendly and green process for the synthesis of nano dimension materials <ref type="bibr" target="#b5">(Balachandramohan et al., 2020;</ref><ref type="bibr" target="#b50">Wu et al., 2018;</ref><ref type="bibr" target="#b49">Wang et al., 2020)</ref>. These attempts include the utilization of natural extracts (like fruit and plant) as capping agent, reducing agent and stabilizer to control on size and morphology of products. Therefore, appropriate products (suitable size and morphology) can be obtained by using the sonochemical method and using the fruit extract as capping agents. In this research, we used a cost effective, facile and green procedure to synthesis of mFSH nanocomposite using cherry, strawberry, malus domestica, andean blackberry (with particular features like environment compatibility, higher biodegradability and lower toxicity) for the first time. Nanomaterials (such as magnetic materials) are used in various fields such as catalysts, pharmaceutical water treatment and medical <ref type="bibr" target="#b22">(Khojasteh et al., 2019;</ref><ref type="bibr" target="#b24">Kumbhakar et al., 2018;</ref><ref type="bibr" target="#b30">Mortazavi-Derazkola et al., 2020;</ref><ref type="bibr" target="#b54">Yue et al., 2020;</ref><ref type="bibr" target="#b4">Ardestani et al., 2020)</ref>. Drug delivery is an encouraging therapeutic method for treating disease; nonetheless effective delivery of drugs to targets with negligible side effects has remained a challenge. Up to now, numerous research have been made to fabrication novel nanomaterials and exploration of their application in various therapeutic fields <ref type="bibr" target="#b55">(Zhu et al., 2005)</ref>. Side effects reduction, followed by reduction of efficient drug dosage, is main advantage of novel drug delivery systems <ref type="bibr" target="#b45">(Sudimack and Lee, 2000;</ref><ref type="bibr" target="#b52">Yokoyama, 2005)</ref>. So, targeted drug delivery and control release are an efficient way to control drug carrier platform <ref type="bibr" target="#b43">(Slowing et al., 2007)</ref>. Wide range of materials have been utilized in drug delivery systems such as calcium phosphate cement <ref type="bibr" target="#b14">(del Real et al., 2002;</ref><ref type="bibr" target="#b10">Bohner, 2000)</ref>, SBA-15 <ref type="bibr" target="#b29">(Moritz and łaniecki, 2011)</ref>, zeolites <ref type="bibr" target="#b48">(Vilaça et al., 2013)</ref> etc. <ref type="bibr" target="#b11">(Choi et al., 2018;</ref><ref type="bibr" target="#b34">Nikolaou and Krasia-Christoforou, 2018;</ref><ref type="bibr" target="#b13">Deepak et al., 2018)</ref>, but it should be considered that overdose of these materials may increase the possibility of side effects. Mesoporous ceramics as a bioactive material have revealed great ability as sensor <ref type="bibr">(Amiri et al., 2017a)</ref> dye removal <ref type="bibr">(Amiri et al., 2017b)</ref> and delivery of drugs application <ref type="bibr">(Amiri et al., 2017c)</ref>. Due to particle size of the mesoporous silica, these materials are able to be endocytosed properly <ref type="bibr" target="#b20">(He et al., 2009)</ref> and they can be transmitted totally as a flawless transporter in controlled drug delivery systems <ref type="bibr" target="#b27">(Lu et al., 2009)</ref>.</p><p>Hydroxyapatite (Ca 5 (PO 4 ) 3 (OH)) with biodegradable and biocompatible properties is one of the most basic materials which has been in ceramic compound <ref type="bibr" target="#b7">(Bezzi et al., 2003;</ref><ref type="bibr" target="#b44">Suchanek and Yoshimura, 2011)</ref>. Lately, numerous investigations have been done on drug delivery systems such as atenolol <ref type="bibr" target="#b8">(Bhattacharjee et al., 2017)</ref>, gentamicin <ref type="bibr" target="#b18">(Golda-Cepa et al., 2018)</ref>, ibuprofen <ref type="bibr" target="#b36">(Pawlik et al., 2017)</ref> and other drugs <ref type="bibr" target="#b53">(Yu et al., 2018;</ref><ref type="bibr" target="#b19">González-Villegas et al., 2017)</ref>. Magnetic materials are unique materials which can be managed with external magnetic field and used in diverse field of pharmacy and medicine. Ferrites, metal oxide and pure metals used to synthesize magnetic materials <ref type="bibr" target="#b16">(Faraji et al., 2010;</ref><ref type="bibr" target="#b28">Mahmoudi et al., 2011)</ref>. Magnetic nanoparticles are applied as drug carriers which can be accumulated in a target tissue. The concept is commonly referred to as magnetic drug targeting (MDT) <ref type="bibr" target="#b0">(Amiri et al., 2018)</ref>.</p><p>Long-term toxic effects are one of the main concerns about nanoparticles. To overcome this concern, magnetic materials were covered with HAp. Furthermore, the large pores and high specific surface area of magnetic nanocomposite-hydroxyapatite enable it to be utilized in drug delivery systems. Sulfasalazine (SSN, C 18 H 14 N 4 O 5 S) as an antiinflammatory issue commonly used to treat autoimmune disease. SSN drug is changed to sulfapyridine by bacteria in the gut <ref type="bibr" target="#b15">(Fan et al., 2011)</ref>. Side effects appear when the level of serum reach above 50 μg/L. Rarely, sulfasalazine creates depression and anxiety besides its therapeutic effects in young males. Most of the chemotherapeutic treatments represent unwanted results on healthy cells because non-precise and inadequate targeted drug delivery occurs <ref type="bibr" target="#b12">(Chomoucka et al., 2010;</ref><ref type="bibr" target="#b9">Blanco et al., 2015)</ref>. Various research on sulfasalazine delivery <ref type="bibr" target="#b38">(Popova et al., 2018;</ref><ref type="bibr" target="#b40">Puoci et al., 2004;</ref><ref type="bibr" target="#b47">Timin et al., 2015;</ref><ref type="bibr" target="#b35">Olaitan and Chaw, 2019;</ref><ref type="bibr" target="#b17">Ghasemi et al., 2017;</ref><ref type="bibr" target="#b26">Lee et al., 2008;</ref><ref type="bibr" target="#b37">Popat et al., 2014)</ref> have been listed in Table <ref type="table" target="#tab_0">1</ref>. On the basis of the information above mentioned, facile, cost effective and green synthesis of magnetic nanocomposite as a sulfasalazine carrier are quite interesting. Up to now, there is no related report along with (sulfasalazine delivery with mFSH magnetic nanocomposite).</p><p>The purpose of the research was to introduce a novel sonochemical process for the synthesis of mFSH-SW nanocomposite and scrutinize the effect of diverse green capping agents on the uniformity and size of obtained products. Also, another goal was to modify mFSH-SW nanocomposite with APTES (mFSH-SW@APTES) and investigate the ability of mFSH-SW@APTES as a novel nano-carrier for sulfasalazine delivery. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Synthesis of magnetic nanoparticles (FeNPs)</head><p>The magnetite nanoparticles fabricated through a co-precipitation route according to available literatures <ref type="bibr">(Mortazavi-Derazkola et al., 2017a;</ref><ref type="bibr">Mortazavi-Derazkola et al., 2017b)</ref>. Briefly, 1.85 mmol of FeCl 2 .4H 2 O and 3.75 mmol of FeCL 3 .6H 2 O (with the molar ratio of 1:2) dispersed in 50 mL of deionized water and stirred variously for 0.5 h under nitrogen atmosphere and room temperature. Subsequently, 300 mL of NH 4 OH was quickly added to the above solution. The black magnetic particles collected and washed for three periods (with ethanol and H 2 O) and in following the samples were dehydrated under ambient conditions for 24 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Synthesis of Fe-SiO 2 nanoparticles (FSNPs)</head><p>The interlayers of SiO 2 nanoparticles were prepared through the modified precipitation route. At first, 0.1 g of FeNPs was dispersed in 200 mL of solution containing 180 mL of ethanol and 20 mL of NH 4 OH (25 %). Afterwards, 1.2 mL of tetraethyl orthosilicate (TEOS) slowly dropped in magnetic solution media with vigorous mixing for 24 h. FSNPs was obtained after centrifuged, washed and dried under vacuum at 70 for 5 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Preparation of fruit extract</head><p>The fresh strawberry fruit were collected and washed with distilled water completely to eliminate any medium ingredients from the biomass. It was dried at room temperature for 48 h. Next, 20 g of strawberry fruit extracted via the maceration process utilizing 150 mL of CH 3 OH solution (as extraction solvent) at room temperature for 2 days. After this time, the extract solution was filtered and evaporated utilizing a rotary device (Hei zbad WB eoc, Germany) to yield the extract. The final yield was applied as a green capping agent for fabrication of mFSH magnetic nanocomposites. The extraction of other fruit extracts was similar to this method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Biosynthesis synthesis of mFS-hydroxyapatite nanocomposite (m-FSH)</head><p>The mFSH magnetic nanocomposite was fabricated via a simple sonochemical method. In a typical experiment, 10 mL of strawberry fruit extract was added gradually to 1.67 mmol of calcium nitrate solution (30 mL) under ultrasonic wave (60 W) and the mixture added slowly into the FSNPs solution. The appropriate amount of NH 3 was added gradually to the above solution until the pH value adjusted to 11. As a final point, 1 mmol of (NH 4 ) 2 HPO 4 was dispersed in 30 mL deionized water and added into the stirring mixture. After 24 h, the magnetic precipitates were centrifuged, washed and dried (70 for 8 h) and finally calcined at 500 for 2 h (formation of mFSH-SW). The reaction conditions for the preparation of magnetic products have been presented in Table . 2. Various fruits extracts, pH and sonication power and time on the size and shape of the products were studied. As well as, the blank sample was fabricated in the absence of extracts and ultrasonic irradiation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Modification of nanocomposite by APTES (mFSH-SW@APTES)</head><p>In order to modify the sample surface, the modification of the mFSH-SW with amino groups was performed by the reaction of 3 mL of 3-aminopropyl triethoxysilane and 150 mg of mFSH nanocomposite under dynamic mixing for 24 h. The as-obtained samples were washed (with ethanol and double distilled water) and dried under ambient conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">SLN loading and in vitro release</head><p>Drug loading into magnetic carrier was carried out with proportion of 1:1. Briefly, 150 mg of SLN was dispersed in 10 mL of NaOH (0.1 M) solution. Then, 150 mg of mFSH-SW magnetic nanocomposite was added slowly into the solution and vigorous stirred under ambient conditions for 24 h. The UV-vis analysis was used in order to decide the amount of SLN loaded. The adsorption band of sulfasalazine was determined at a maximum wavelength (359 nm).</p><p>For drug release study of magnetic carriers, the dialysis bag method at 37 and pH = 6.8 (intestinal environment) was used. 100 mg of SLN-loaded mFSH-SW carrier added to 100 mL of SBF solution and one milliliter of the solution was withdrawn at various times and 1 mL of SBF was replaced. The released SLN concentration was specified by UV/ Vis spectrophotometer at 359 nm (Scheme 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8.">XTT cell proliferation assay</head><p>XTT is established on the decrease of yellow color tetrazolium salt (XTT) in active cells metabolically to dark colored formazan dye <ref type="bibr" target="#b6">(Bancos et al., 2012)</ref>. After HEK-293 cell line incubated (24 h and 48 h) using SLN-loading mFSH-SW@APTES (sample no. 2) and free drug, XTT reagent (50 μL) and PMS (1 μL) was added every well (every well contains 10,000 cells) at different concentration (0.1, 1, 5, 10, 20, 50, 100 mg/mL). Untreated cells were chosen as control (blank) group. The </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>plates were placed in the incubator at 5 % CO 2 and 37 °C. Optical density (OD) then read at 450 nm by ELISA reader.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.9.">In vitro apoptosis/necrosis assay</head><p>Apoptosis/necrosis quantification was carried out by the Annexin V-propidium iodide staining kit (Roche). The supernatant was collected after 48 h incubation of HEK-293 cells with SLN-loaded mFSH-SW@APTES (100 mg/mL) and the adherent cells (∼2 × 10 6 cells) were trypsinized. The cells collected, washed two times and finally centrifuged. After 15 min incubation of 10 6 cells with AnnexinV-PI reagent buffer at room temperature, samples were analyzed with flow cytometry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.10.">In vivo toxicity study</head><p>Three rats (230 g) were purchased from pasture institute of IRAN. SLN-loaded mFSH-SW@APTES was injected intravenously through tail vein at a dosage of 1 mg/ml PBS for 48 h. Three rats were chosen as control group. The rats were dissected out and to more examinations spleen tissues, liver, and kidney. These were fixed with formalin (10 %) and alcohol (70, 80, 90, 95 and 100 %) was applied for dehydration. After washing the tissues, the tissues were entrenched in paraffin for another experimental (hematoxylin and eosin).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.11.">Characterization techniques</head><p>The crystallinity and phase of the as-obtained products was investigated using X-ray diffraction pattern (Philips PW 1800 using Cu Kα radiation). The Fourier transform infrared spectra (FT-IR) of the powders acquired using Shimadzu 460 spectrometer. The UV-vis absorption spectra were recorded on an Ultraviolet-Visible spectrophotometer (Shimadzu; UV-3101PC; Japan). The surface morphology of samples was performed using SEM (LEO-1455VP) and transmission electron microscopy (TEM) images utilizing JEM-2100. The purity of products was determined by energy dispersive X-ray analysis (EDS; XL30, Philips). The magnetization curves were detected at room ambient under varying field of -10,000 to 10,000 Oe (Meghnatis Kavir Kashan Co., Iran).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Characterization of mFSH-SW nanocomposites</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Phase purity analysis</head><p>Fig. <ref type="figure" target="#fig_0">1</ref> illustrates the wide-angle XRD patterns of FeNPs (a) and mFSH-SW nanocomposite (b). The intense diffraction peaks at 2 = 18.6 °, 30.5 °, 35.9 °, 43.5 °, 54 °, 57.6 °and 63.2 °show the cubic structure of magnetic nanoparticles which are consistent with the JCPDS data (JCPDS card No. 75-0449). The XRD pattern of mesoporous nanocomposite (sample no. 2) that was synthesized in the presence of strawberry and ultrasonic waves (60 W) is exposed in Fig. <ref type="figure" target="#fig_0">1b</ref>. The XRD patterns indicates that crystalline FeNPs and mFSH-SW nanocomposite have been synthesized correctly and also there were no notable impurities in FeNPs and sample no. 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">Structure analysis</head><p>FT-IR spectrophotometers were used to confirm the functional group of products. The FT-IR spectrum of the pure magnetite (a), FSNPs (b), mFSH-SW (c) and mFSH-SW@APTES nanocomposite (d) are presented in Fig. <ref type="figure" target="#fig_1">2</ref>. As can be seen in Fig. <ref type="figure" target="#fig_1">2</ref>, the peaks at around 3420 and 1640 cm -1 are assigned to the hydroxyl bending vibration and stretching modes, respectively (Safari- <ref type="bibr">Amiri et al., 2017;</ref><ref type="bibr" target="#b31">Mortazavi-Derazkola et al., 2016)</ref>. In Fig. <ref type="figure" target="#fig_1">2a</ref>, the sharp absorption band located at Scheme 1. Schematic illustration of the preparation of mFSH-SW@APTES and SSN-loaded nanocomposite. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>570 cm -1 can be attributed to FeeO vibration stretching of FeNPs. According to Fig. <ref type="figure" target="#fig_1">2b</ref>, Si-O-Si stretching band at about 1080 cm -1 is obviously observed. Moreover, absorption bands at 587, 486 and 961 cm -1 are assigned to the SieOeFe, OeSieO and SieO, respectively <ref type="bibr" target="#b42">(Schraml-Marth et al., 1992)</ref>. The FT-IR spectrum of mFSH-SW nanocomposite (sample no. 2) is shown in Fig. <ref type="figure" target="#fig_1">2c</ref>. The peaks at 486, 566 and 580 cm -1 could be related to PO 4 3-groups. A sharp band at 1046 cm -1 was assigned to the vibration stretching of the phosphate group <ref type="bibr" target="#b46">(Tian et al., 2014;</ref><ref type="bibr" target="#b51">Yang et al., 2010)</ref>. In the curve (d), the expanded spectra with wavenumber range of 1526 and 2900 cm -1 could be assigned to the amino and propyl groups, respectively. Therefore, the results of FT-IR spectra confirmed that APTES groups modified on the surface of the mFSH-SW (sample no. 2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.3.">Morphological-elemental characteristics</head><p>FESEM images of as-obtained samples (FeNPs, FSNPs and mFSH magnetic product) are presented in Fig. <ref type="figure" target="#fig_0">S1</ref>. In Fig. <ref type="figure" target="#fig_0">S1</ref>(a), as-obtained magnetic FeNPs have a spherical shape and regular structures with particle size of about 38 nm. According to Fig. <ref type="figure" target="#fig_0">S1</ref>(b), the particle size of FSNPs were increased (approximately 50 nm). This growth demonstrated that the SiO 2 layers were coated successfully on the surface of Fe 3 O 4 nanoparticles. Sonication power, sonication time, pH and capping agents are four significant parameters that influence on the shape and size of products. For further study of sonication power influence on the shape and size of the products, experiments were performed at different power: 30, 60 and 80 W (Fig. <ref type="figure" target="#fig_0">S1(c-e</ref>)). As it is clear in Fig. <ref type="figure" target="#fig_0">S1(c</ref>), high agglomeration and large size were characteristic of sample no. 1. It seems that spherical sample no. 2 divided into smaller particles by increasing sonication power to 60 W (Fig. <ref type="figure" target="#fig_0">S1(d)</ref>). Regular and uniform structures with spherical morphology were great features of these products. Due to the Fig. <ref type="figure" target="#fig_0">S1</ref>(e), products with 100-140 nm were prepared under high sonication power (80 W; 24 KHz; sample no. 3). Slight agglomeration and medium size are features of this sample. In the ultrasonic process, bubbles are formed that lead to release of high energy and temperature after decomposition (pressure of approximately 1800 atm, temperature of approximately 5000 K). This process can provide the energy need to formation of magnetic nanocomposite. So, optimum power for preparation of regular and homogeneous uniform magnetic nanocomposite is 60 W. Because reaction time in sonochemical process is directly related with morphology and size of products, so its effect was studied. The experiment was carried out at various time: 5, 15, 30 and 45 min. Fig. <ref type="figure" target="#fig_0">S1</ref>(f) and Fig. <ref type="figure" target="#fig_1">S2(a</ref>, <ref type="figure">b</ref>) illustrate FESEM images of as-synthesized sample no 4-6 under different sonication time. By increasing ultrasonic time from 5 up to 30 min, morphology and size of final products changed. The FESEM micrograph shows that by increasing reaction time to 30 min, particle size of product reduced gradually. In contrast, by increasing the sonication time to 45 min, the particles size increased (Fig. <ref type="figure" target="#fig_1">S2(b)</ref>). These phenomena are attributed to Ostwald mechanism. Owing to the Ostwald process, the larger particles grow at the expense of the smaller particles, diameters of magnetic products increased with increasing sonication time from 5 min to 30 min. Therefore, obtained results showed that optimum time for fabrication of well and uniform nanocomposite is 30 min. Fig. <ref type="figure" target="#fig_1">S2(c</ref> and <ref type="figure">d</ref>) show the effect of pH (10 and 12) on the shape and size of products (sample no. 7 and 8). Micro/nanostructure, agglomerated structures and large size are features of structures that were prepared at pH 10 and pH 12. To examine the fruits extract effect, used in the role of green capping agents on the particle grain size and shape of the products, mFSH product was prepared by cherry (sample no. 9), malus domestica (sample no. 10), Andean blackberry (sample no. 11) and strawberry (sample no. 2) after sonication (60 W) for 30 min. FESEM images of these products are illustrated in Fig. <ref type="figure" target="#fig_1">S2(e-f</ref>) and Fig. <ref type="figure" target="#fig_2">S3(a)</ref>. The results displayed that using cherry and malus domestica as capping agent cause of highly agglomerated and heterogeneous products (sample no. 9 and 10). Afterwards, morphology of as-obtained product using andean blackberry (sample no. 11; Fig. <ref type="figure" target="#fig_2">S3(a)</ref>) was studied. Low agglomeration and particles size about 90-110 nm are unique of this product (sample no. 11). By comparing FESEM images, particles size of the mFSH prepared by strawberry (sample no. 2) are homogenous spherical, regular and smaller than those produced by other capping agents (about 85 nm). Strawberry fruit extract indicated the most promising role for controlling the morphology and particle size of mFSH samples (small size, regular and homogeneous spherical shape). For determining of the influence of the capping agent and ultrasonic irradiation on the particle size and shape of samples, the blank (control) test was accomplished in the absence of any capping factor (sample no. 12) and sonication (sample no. 13). Fig. <ref type="figure" target="#fig_2">S3(b</ref> and <ref type="figure">c</ref>) shows the FESEM images of the asobtained sample (gained from the blank test). It is clearly obvious that the shape and size of the products are very irregular microstructures, large and the chance of aggregation between particles was improved. These results illustrated that the presence of fruits extract as a capping agent and ultrasonic irradiation are very favorable to produce uniform nanocomposite.</p><p>EDS analysis was applied to explore the surface structure of products and distribution of local elements. Fig. <ref type="figure" target="#fig_4">S4</ref>(a) demonstrates the EDS spectrum of the mFSH-SW nanocomposite (sample no. 2). Due to the result, the presence of elements including Fe, P, Si, O and Ca are confirmed in this analysis. Consequently, both EDS and XRD results confirmed that nanocomposite effectively prepared by the current method. DLS technique was used to determine the size distribution profile of sample no. 2 (Fig. <ref type="figure" target="#fig_4">S4(b)</ref>). DLS data show that green synthesized nanocomposite size distribution range between approximately 70-110 nm which corresponded well with the FESEM images.</p><p>The morphology and accurate size of products (sample no. 2, 12 and 13) were specified by TEM technique (Fig. <ref type="figure" target="#fig_5">S5</ref>). As exposed in Fig. <ref type="figure" target="#fig_5">S5(a</ref> and <ref type="figure">b</ref>), large particle size, high agglomeration and amorphous morphology are characteristics of samples no 12 and 13. TEM images (Fig. <ref type="figure" target="#fig_5">S5(c-e</ref>)) displayed that spherical product (sample no. 2) with diameter of about 80 nm were prepared. The results validated that the finally magnetic products have a similar core-shell structure with dark contrast core of magnetic particles and light contrast HAp shell. Moreover, the distinction and resolution in TEM technique are much better than FESEM images. Accordingly, the FESEM images (Fig. <ref type="figure" target="#fig_0">S1(d)</ref>) designated that the size of particles were significantly larger than the TEM images particle size. Fig. <ref type="figure" target="#fig_5">S5</ref>(f) illustrates the high resolution transmission electron microscopy (HRTEM) image of sample no. 2 wherein, the incorporated HAp on the surface of the Fe 3 O 4 nanoparticles can be seen. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head><p>Due to the image, the distance between the interlayers were 0.26 nm and 0.34 nm for Fe 3 O 4 (311) and hydroxyapatite (002), respectively, which were in agreement with the XRD data. So, it is obvious that magnetic nanocomposite were successfully prepared by using strawberry fruits extracts and sonochemical process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.4.">Magnetic-porosity investigation</head><p>The magnetic properties of the pure magnetite, FSNPs and mFSH-SW nanocomposite (sample no. 2) were determined by VSM analysis at room temperature. As represented in Fig. <ref type="figure" target="#fig_2">3a</ref>, FeNPs, FSNPs and sample no. 2 have magnetization saturation (Ms) values of 69.2, 46.7 and 19.8 emu/g, respectively. After coating with SiO 2 and HAp, the saturation magnetization of Fe 3 O 4 decreased evidently. Also, the VSM analysis demonstrated that all samples have superparamagnetism features to be separable when magnet applied. The N 2 adsorption-desorption isotherm of the mFSH-SW are shown in Fig. <ref type="figure" target="#fig_2">3b</ref>. Through the hysteresis loops cataloguing given by IUPAC, the as-obtained magnetic product curve exhibited a type IV isotherm (hysteresis loop of H3) <ref type="bibr" target="#b25">(Lai et al., 2016)</ref>. Porous structure of magnetic nanocomposite is one of the interesting parameters which is determining absorption and release profile of sulfasalazine. This means that pore volume, surface area, pore size of products have dramatic effect on the drug delivery performance. Therefore, the characteristics of magnetic nanocomposite were studied using the Brunauer-Emmett-Teller (BET) and Brunauer-Joyner-Halenda (BJH) techniques. According to BET and BJH analysis, average pore size, pore volume and surface area of mFSH-SW were 14.1 nm, 0.24 cm 3 g -1 and 63.2 m 2 g -1 , respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.5.">Sonication influence and preparation mechanism</head><p>There are three steps in the sonochemical process: formation of bubble, growth and collapse of bubbles <ref type="bibr" target="#b23">(Kumar et al., 2000)</ref>. Interim temperature and bubbles pressure provide promising situation for crystals growth in nano size range. The explosion of bubbles generates a shake wave that allocates to the reaction surroundings. In addition, bubble explosion can interject the bubble circular symmetry by microjets preparation that effected on the surface. Therefore, implementation in remarkable ability changes in combination, morphology, and reactivity that happened by the interparticle encounter <ref type="bibr" target="#b21">(Hinman and Suslick, 2017;</ref><ref type="bibr" target="#b39">Prozorov et al., 2004)</ref>. The probable mechanism of mFSH-SW nanocomposite preparation by sonochemical method can be considered as follows (Eqs. ( <ref type="formula">1</ref>)-( <ref type="formula" target="#formula_3">9</ref>)):</p><formula xml:id="formula_0">+ H2O</formula><p>H OH Ultrasonic irradiation . .</p><p>(1)</p><formula xml:id="formula_1">+ H H H2 . .<label>(2)</label></formula><p>+ OH OH H2O2</p><p>. .</p><p>(</p><p>) + OH Other samples Oxidized samples . (4) + + + + + NH3 H2 O H NH4 OH samples . ((5)) + + Ca(NO3)2 OH Ca(OH)2 NO3 . (6) (NH4)2HPO4 HPO42 (7) + + Ca(OH)2 HPO42 CaHPO4 H2O (8) + CaHPO4 H2 O Ca10(PO4)6(OH)2</p><p>Uniform, homogeneous and spherical morphology of magnetic nanocomposite are prepared in presence of ultrasonic irradiations. The H and OH radicals appeared after pyrolysis of water. Then, process continued with production of hydrogen peroxide (H 2 O 2 ). Cavity formation is one of the significant roles in preparation of fine nanocomposite in sonochemical process (high pressures of about 1800 atm and temperatures of about 5000 K). After the bubbles formed, these bubbles were erupted and destroyed due to the shake waves (hot-spot theory). Released energy can help to formation of Ca(OH) 2 and HPO 4 2-. This phenomenon can create smaller nanoparticles through impact on the particle levels and the energy generated of bubbles degradation. Finally, valuable modifying in the shape, grain size and structure of products were occurred by the interparticle collisions. Overall, ultrasonic irradiation is one of the principal factors for preparation of sample no. 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.6.">Drug loading and release mesurment</head><p>The percentage of sulfasalazine loaded in mFSH (sample no. 2; without APTES) and mFSH@APTES (sample no. 11, 12 and 2) were determined by UV-vis spectra. All experiments repeated at least three times. The UV-vis results showed that entrapment efficiency for pure mFSH, mFSH@APTES (sample no. 11, 12 and 2) were calculated as 28.4 %, 49.3 %, 35.7 %, and 59.1 % respectively. Entrapment Efficiency (EE) calculated by following equation:</p><formula xml:id="formula_4">= % EE ( A B) A * 100 (<label>10</label></formula><formula xml:id="formula_5">)</formula><p>Where A stays, the primary added drug and B is the unentrapped drug.</p><p>Samples were collected at specified times and released amount of the sulfasalazine was determined by UV/Vis analysis (at 359 nm). Briefly, 5 mL of sample was taken and then the released amount of sulfasalazine evaluated by a calibration curve. The drug release percentage calculated by the following equation: R E T R A C T E D = Percentage release of drug (%) Released sulfasalazine at definite time Amount of sulfasalazine loaded into the nanocomposite * 100 (11)</p><p>The SLN release pattern from pure FSH, mFSH@APTES (sample no. 11, 12 and 2) at pH = 6.8 (simulated intestinal environment) were carried out and shown in Fig. <ref type="figure" target="#fig_4">4</ref>. High agglomeration particles of sample no. 12, relatively uniform morphologies of sample no. 11 and very homogeneous spherical particles of sample no. 2 that prepared by applying novel green capping agent and ultrasonic irradiation was employed for release of SLN and their drug delivery performance compared at 36 h.</p><p>Generally, the limits of existing systems of drug delivery contain limited effective targeting, suboptimal bioavailability and potential cytotoxicity. In pH = 6.8, SLN loaded pure FSH shows a rapid release of the drug up to 42.9 % at the beginning. In addition, the SLN released from mFSH@APTES (sample no. 11, 12 and 2) shows up to ca. 22.1, 16.3 and 26.4 % at the beginning. Generally, major limitations in drug delivery systems include: restrictions ineffective targeting, suboptimal bioavailability and potential cytotoxicity. In pH = 6.8, SLN loaded pure FSH showed rapid release of drug up to 42.9 % at the beginning. In addition, the SLN released from mFSH@APTES (sample no. 11, 12 and 2) showed up to ca. 22.1, 16.3 and 26.4 % at the beginning. The possible mechanism of the initial release may be assumed as: the drug molecules existing nearby the superficial were released swiftly to the solution, while the molecules captured in the pore need more time to escape from the pores. Conferring to Fig. <ref type="figure" target="#fig_4">4</ref>, the efficiency of the sulfasalazine release in the intestine pH-similar milieu after 36 h were 81.4 %, 51.2 % and 100 % for mFSH@APTES (sample no. 11, 12 and 2). Sulfasalazine was released faster from pure FSH, followed by sample no. 12, sample no. 11 and sample no. 2. This can be due to the weaker interaction among the OH group of sulfasalazine and the amino group of APTES-modified nanocomposite (sample no. 2). Sulfasalazine released slower than other samples (after 36 h) considering morphology, size and high amount number of amino groups in the nanocomposite (sample no. 2). In contrast, the whole SLN molecules released when APTES was not used as a linker with sulfasalazine (at 12 h). It is obvious that the grain size, shape and appropriate distribution of the pore have an effective impact on the drug release.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.7.">MTT assay</head><p>The result of the in-vitro cytotoxicity assay is shown in Fig. <ref type="figure" target="#fig_5">5</ref>. At 24 and 48 h of incubation, SLN displayed cytotoxic effect at (100 mg/mL) and (50 and 100 mg/mL), but none of all concentrations of SLN-loaded mFSH-SW@APTES at both time were meaningfully cytotoxic. This result was obtained due to the biodegradability of nanocomposites. Apoptosis/necrosis assay showed that at the endpoint of the HEK-293 cell line treatment at nontoxic concentration (100 mg/mL) the amount of necrosis and apoptosis were low (Fig. <ref type="figure">6</ref>). Moreover, data obtained non-toxic properties of SLN-loaded mFSH-SW@APTES on HEK-293 cell line after 48 h.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R E T R A C T E D</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.8.">Histopathology studies</head><p>Histopathological study of kidney, liver and spleen (a, c, e) before SSN-loaded mFSH-SW@APTES injection (control group) and (b, d, f) after SLN-loaded mFSH-SW@APTES injection were exhibited in Fig. <ref type="figure">7</ref>. Any mortality was not detected during the 48 h of the study. No inflammatory changes were seen for SLN-loaded mFSH-SW@APTES and control groups in spleen and liver tissue. Also was not any necrotic tubule abnormality in kidney tissue. Obtained results showed that asprepared nanocarriers can be applied in various medical fields.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>In summary, mFSH-SW nanocomposites were prepared through a quick and simplistic sonochemical route. In this route, fruits extract were applied as a capping agent for the synthesis of the mesoporous nanocomposite. Size, morphology and crystal structures of the products were investigated by FT-IR, XRD, SEM, EDS, HRTEM, VSM, DLS and N 2 adsorption-desorption isotherm. Also, nanocomposite was used to study sulfasalazine release behavior at pH = 6.8. The results displayed that fruits extract as a capping agent have intense impact on the morphology and pore volume determination of mFSH-SW nanocomposite. Results of the study indicated that the as-prepared nanocomposite can be used as effective carrier to drug delivery systems. Therefore drug-loaded magnetic carrier indicated the reduce time of administration and minimization of the dose and side effects. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. XRD pattern of (a) FeNPs and (b) mFSH nanocomposite (sample no. 2).</figDesc><graphic coords="4,43.20,313.11,239.90,160.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. FT-IR spectrum of (a) FeNPs, (b) FSNPs, (c) mFSH-SW nanocomposite and (d) mFSH-SW@APTES nanocomposites.</figDesc><graphic coords="5,42.92,57.03,240.48,218.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Room temperature magnetization curve of samples (a) and nitrogen adsorption-desorption isotherm of the mFSH-SW nanocomposite (b).</figDesc><graphic coords="6,81.64,543.18,432.00,185.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Sulfasalazine delivery of samples synthesized at different conditions, (a) without APTES, (b) mFSH-SW nanocomposite, (c) mFSH-AB nanocomposite and (d) product without capping agent.</figDesc><graphic coords="7,81.64,477.20,432.00,241.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. XTT assay: HEK-293 cells were exposed to the SSN (a) and (b) SSNloaded mFSH-SW@APTES nanocomposite.</figDesc><graphic coords="7,324.40,56.98,215.42,248.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 6 .Fig. 7 .</head><label>67</label><figDesc>Fig. 6. Apoptosis/necrosis assay plots of HEK-293 cells treated with 100 mg/ml of the samples after 48 h of incubation time: (a) normal (untreated) and (b) cells treated with SSN-loaded mFSH-SW@APTES nanocomposite.R E T R A C T E D</figDesc><graphic coords="8,117.64,56.99,360.00,499.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="9,81.64,57.02,432.00,271.01" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Summary table of previous research studies.</figDesc><table><row><cell></cell><cell cols="4">E T R A C T E D</cell></row><row><cell cols="2">R</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No.</cell><cell>Nano-carrier</cell><cell>Drug</cell><cell>diameter</cell><cell>Ref.</cell></row><row><cell>1</cell><cell>SBA-15</cell><cell>Sulfasalazine</cell><cell>100 nm</cell><cell>(Popova et al., 2018)</cell></row><row><cell>2</cell><cell>MCM-41</cell><cell>Sulfasalazine</cell><cell>100 nm</cell><cell>(Popova et al., 2018)</cell></row><row><cell>3</cell><cell>SMIP</cell><cell>Sulfasalazine</cell><cell>2 μm</cell><cell>(Puoci et al., 2004)</cell></row><row><cell>4</cell><cell>SiNP@PAG</cell><cell>Sulfasalazine</cell><cell>250-350 nm</cell><cell>(Timin et al., 2015)</cell></row><row><cell>5</cell><cell>Albumin NPs</cell><cell>Sulfasalazine</cell><cell>229-429 nm</cell><cell>(Olaitan and Chaw, 2019)</cell></row><row><cell>6</cell><cell>Hollow Mesoporous Silica</cell><cell>Sulfasalazine</cell><cell>150-200</cell><cell>(Ghasemi et al., 2017)</cell></row><row><cell>7</cell><cell>Mesoporous Silica</cell><cell>Sulfasalazine</cell><cell>100 nm</cell><cell>(Lee et al., 2008)</cell></row><row><cell>8</cell><cell>Mesoporous Silica</cell><cell>Sulfasalazine</cell><cell>150-180</cell><cell>(Popat et al., 2014)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Preparation conditions of samples.</figDesc><table><row><cell>Sample No.</cell><cell>Sonication Power (W)</cell><cell>Sonication Time (min)</cell><cell>pH</cell><cell>Capping agent</cell><cell>Particles size (nm)</cell></row><row><cell>1</cell><cell>30 (9 KHz)</cell><cell>30</cell><cell>11</cell><cell>Strawberry</cell><cell>Agglomerated particles</cell></row><row><cell>2</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>11</cell><cell>Strawberry</cell><cell>60-80 nm</cell></row><row><cell>3</cell><cell>80 (24 KHz)</cell><cell>30</cell><cell>11</cell><cell>Strawberry</cell><cell>100-140 nm</cell></row><row><cell>4</cell><cell>60 (18 KHz)</cell><cell>5</cell><cell>11</cell><cell>Strawberry</cell><cell>Agglomerated particles</cell></row><row><cell>5</cell><cell>60 (18 KHz)</cell><cell>15</cell><cell>11</cell><cell>Strawberry</cell><cell>Agglomerated particles</cell></row><row><cell>6</cell><cell>60 (18 KHz)</cell><cell>45</cell><cell>11</cell><cell>Strawberry</cell><cell>150-200 nm</cell></row><row><cell>7</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>10</cell><cell>Strawberry</cell><cell>180-250 nm</cell></row><row><cell>8</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>12</cell><cell>Strawberry</cell><cell>Agglomerated particles</cell></row><row><cell>9</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>11</cell><cell>Cherry</cell><cell>Agglomerated particles</cell></row><row><cell>10</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>11</cell><cell>Malus domestica</cell><cell>Agglomerated particles</cell></row><row><cell>11</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>11</cell><cell>Andean blackberry</cell><cell>90-110 nm</cell></row><row><cell>12</cell><cell>60 (18 KHz)</cell><cell>30</cell><cell>11</cell><cell>-</cell><cell>Bulk particles</cell></row><row><cell>13</cell><cell>-</cell><cell>-</cell><cell>11</cell><cell>Strawberry</cell><cell>Agglomerated particles</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors hereby express their thanks for the support rendered by <rs type="funder">Nanjing Forestry University</rs> [Grant Nos. <rs type="grantNumber">163020139</rs> and <rs type="grantNumber">163020210</rs>], <rs type="funder">Science and Technology Department of Jiangsu Province</rs> (<rs type="grantNumber">BK2020043008</rs>) and <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">5201101466</rs>). Authors are grateful to the <rs type="funder">Council of Iran National Science Foundation</rs>; <rs type="funder">INSF</rs> (<rs type="grantNumber">97017837</rs>) and <rs type="funder">University of Kashan</rs> for supporting this work by Grant (<rs type="grantNumber">159271/001</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_e5yQuau">
+					<idno type="grant-number">163020139</idno>
+				</org>
+				<org type="funding" xml:id="_rxQfYQG">
+					<idno type="grant-number">163020210</idno>
+				</org>
+				<org type="funding" xml:id="_9WZ3ah7">
+					<idno type="grant-number">BK2020043008</idno>
+				</org>
+				<org type="funding" xml:id="_rh5fzBX">
+					<idno type="grant-number">5201101466</idno>
+				</org>
+				<org type="funding" xml:id="_gmfmM94">
+					<idno type="grant-number">97017837</idno>
+				</org>
+				<org type="funding" xml:id="_yMjAgQT">
+					<idno type="grant-number">159271/001</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Competing Interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary material related to this article can be found, in the online version, at doi:<ref type="url" target="https://doi.org/10.1016/j.jhazmat.2020.123140">https://doi.org/10.1016/j.jhazmat.2020.123140</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Synthesis and in vitro evaluation of a novel magnetic drug delivery system; proecological method for the preparation of CoFe2O4 nanostructures</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akbari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ahmadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pardakhti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Liq</title>
+		<imprint>
+			<biblScope unit="volume">249</biblScope>
+			<biblScope unit="page" from="1151" to="1160" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amiri, M., Akbari, A., Ahmadi, M., Pardakhti, A., Salavati-Niasari, M., 2018. Synthesis and in vitro evaluation of a novel magnetic drug delivery system; proecological method for the preparation of CoFe2O4 nanostructures. J. Mol. Liq. 249, 1151-1160.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A magnetic CoFe2O4/SiO2 nanocomposite fabricated by the sol-gel method for electrocatalytic oxidation and determination of L-cysteine</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akbari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microchim. Ichnoanal. Acta</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page" from="825" to="833" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amiri, M., Salavati-Niasari, M., Akbari, A., 2017a. A magnetic CoFe2O4/SiO2 nano- composite fabricated by the sol-gel method for electrocatalytic oxidation and de- termination of L-cysteine. Microchim. Ichnoanal. Acta 184, 825-833.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Removal of malachite green (a toxic dye) from water by cobalt ferrite silica magnetic nanocomposite: herbal and green sol-gel autocombustion synthesis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akbari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gholami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hydrogen Energy</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="24846" to="24860" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amiri, M., Salavati-Niasari, M., Akbari, A., Gholami, T., 2017b. Removal of malachite green (a toxic dye) from water by cobalt ferrite silica magnetic nanocomposite: herbal and green sol-gel autocombustion synthesis. Int. J. Hydrogen Energy 42, 24846-24860.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Caffeine: A novel green precursor for synthesis of magnetic CoFe2O4 nanoparticles and pHsensitive magnetic alginate beads for drug delivery</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pardakhty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ahmadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akbari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. C</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1085" to="1093" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amiri, M., Salavati-Niasari, M., Pardakhty, A., Ahmadi, M., Akbari, A., 2017c. Caffeine: A novel green precursor for synthesis of magnetic CoFe2O4 nanoparticles and pH- sensitive magnetic alginate beads for drug delivery. Mater. Sci. Eng. C 76, 1085-1093.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Synthesis and characterization of novel 99mTc-DGC nano-complexes for improvement of heart diagnostic</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Ardestani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bitarafan-Rajabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mohammadzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sabzevari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Azar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kazemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Hosseini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ghoreishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">103572</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ardestani, M.S., Bitarafan-Rajabi, A., Mohammadzadeh, P., Mortazavi-Derazkola, S., Sabzevari, O., Azar, A.D., Kazemi, S., Hosseini, S.R., Ghoreishi, S.M., 2020. Synthesis and characterization of novel 99mTc-DGC nano-complexes for improvement of heart diagnostic. Bioorg. Chem. 96, 103572.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Facile sonochemical synthesis of Ag2O-guar gum nanocomposite as a visible light photocatalyst for the organic transformation reactions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Balachandramohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sivasankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sivakumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hazard. Mater</title>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="page">121621</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Balachandramohan, J., Sivasankar, T., Sivakumar, M., 2020. Facile sonochemical synthesis of Ag2O-guar gum nanocomposite as a visible light photocatalyst for the organic transformation reactions. J. Hazard. Mater. 385, 121621.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Evaluation of viability and proliferation profiles on macrophages treated with silica nanoparticles in vitro via Plate-Based, flow cytometry, and Coulter counter assays</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bancos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hackley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Weaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Tyner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ISRN Nanotechnol</title>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2012">2012. 2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bancos, S., Tsai, D.-H., Hackley, V., Weaver, J.L., Tyner, K.M., 2012. Evaluation of via- bility and proliferation profiles on macrophages treated with silica nanoparticles in vitro via Plate-Based, flow cytometry, and Coulter counter assays. ISRN Nanotechnol. 2012, 11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A novel sol-gel technique for hydroxyapatite preparation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bezzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Celotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Landi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M G</forename><surname>La Torretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sopyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tampieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="816" to="824" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bezzi, G., Celotti, G., Landi, E., La Torretta, T.M.G., Sopyan, I., Tampieri, A., 2003. A novel sol-gel technique for hydroxyapatite preparation. Mater. Chem. Phys. 78, 816-824.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Fabrication of liquid and solid self-double emulsifying drug delivery system of atenolol by response surface methodology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhattacharjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chakraborty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Drug Deliv. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="45" to="57" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhattacharjee, A., Verma, S., Verma, P.R.P., Singh, S.K., Chakraborty, A., 2017. Fabrication of liquid and solid self-double emulsifying drug delivery system of ate- nolol by response surface methodology. J. Drug Deliv. Sci. Technol. 41, 45-57.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Principles of nanoparticle design for overcoming biological barriers to drug delivery</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ferrari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="941" to="951" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blanco, E., Shen, H., Ferrari, M., 2015. Principles of nanoparticle design for overcoming biological barriers to drug delivery. Nat. Biotechnol. 33, 941-951.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Calcium orthophosphates in medicine: from ceramics to calcium phosphate cements</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bohner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Injury</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="37" to="D47" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bohner, M., 2000. Calcium orthophosphates in medicine: from ceramics to calcium phosphate cements. Injury 31, D37-D47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Emerging nanomaterials with advanced drug delivery functions; focused on methotrexate delivery</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Choy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Coord. Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="32" to="51" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Choi, G., Kim, T.-H., Oh, J.-M., Choy, J.-H., 2018. Emerging nanomaterials with advanced drug delivery functions; focused on methotrexate delivery. Coord. Chem. Rev. 359, 32-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Magnetic nanoparticles and targeted drug delivering</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chomoucka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Drbohlavova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Huska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Adam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kizek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hubalek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol. Res</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="144" to="149" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chomoucka, J., Drbohlavova, J., Huska, D., Adam, V., Kizek, R., Hubalek, J., 2010. Magnetic nanoparticles and targeted drug delivering. Pharmacol. Res. 62, 144-149.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Nanofiber in transmucosal drug delivery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deepak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Goyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Drug Deliv. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="379" to="387" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Deepak, A., Goyal, A.K., Rath, G., 2018. Nanofiber in transmucosal drug delivery. J. Drug Deliv. Sci. Technol. 43, 379-387.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A new method to produce macropores in calcium phosphate cements</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Del Real</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G C</forename><surname>Wolke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vallet-Regı</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Jansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3673" to="3680" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">del Real, R.P., Wolke, J.G.C., Vallet-Regı, M., Jansen, J.A., 2002. A new method to pro- duce macropores in calcium phosphate cements. Biomaterials 23, 3673-3680.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Removal and degradation pathway study of sulfasalazine with Fenton-like reaction</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hazard. Mater</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="493" to="500" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fan, X., Hao, H., Shen, X., Chen, F., Zhang, J., 2011. Removal and degradation pathway study of sulfasalazine with Fenton-like reaction. J. Hazard. Mater. 190, 493-500.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Magnetic nanoparticles: synthesis, stabilization, functionalization, characterization, and applications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Faraji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rezaee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Iran. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="37" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Faraji, M., Yamini, Y., Rezaee, M., 2010. Magnetic nanoparticles: synthesis, stabilization, functionalization, characterization, and applications. J. Iran. Chem. Soc. 7, 1-37.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Synthesis of hollow mesoporous silica (HMS) nanoparticles as a candidate for sulfasalazine drug loading</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghasemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Farsangi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beitollahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mirkazemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rezayat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarkar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ceram. Int</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="11225" to="11232" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ghasemi, S., Farsangi, Z.J., Beitollahi, A., Mirkazemi, M., Rezayat, S.M., Sarkar, S., 2017. Synthesis of hollow mesoporous silica (HMS) nanoparticles as a candidate for sulfa- salazine drug loading. Ceram. Int. 43, 11225-11232.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">One-step sonochemical fabrication and embedding of gentamicin nanoparticles into parylene C implant coating: towards controlled drug delivery</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Golda-Cepa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chytrosz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chorylek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kotarba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomed. Nanotechnol. Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="941" to="950" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Golda-Cepa, M., Chytrosz, P., Chorylek, A., Kotarba, A., 2018. One-step sonochemical fabrication and embedding of gentamicin nanoparticles into parylene C implant coating: towards controlled drug delivery. Nanomed. Nanotechnol. Biol. Med. 14, 941-950.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Poly(ethylene glycol)-modified zirconium phosphate nanoplatelets for improved doxorubicin delivery</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>González-Villegas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Bakhmutov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clearfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Colón</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorganica Chim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">468</biblScope>
+			<biblScope unit="page" from="270" to="279" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">González-Villegas, J., Kan, Y., Bakhmutov, V.I., García-Vargas, A., Martínez, M., Clearfield, A., Colón, J.L., 2017. Poly(ethylene glycol)-modified zirconium phosphate nanoplatelets for improved doxorubicin delivery. Inorganica Chim. Acta 468, 270-279.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Intracellular localization and cytotoxicity of spherical mesoporous silica nano-and microparticles</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2722" to="2729" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">He, Q., Zhang, Z., Gao, Y., Shi, J., Li, Y., 2009. Intracellular localization and cytotoxicity of spherical mesoporous silica nano-and microparticles. Small 5, 2722-2729.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Nanostructured materials synthesis using ultrasound</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Hinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Suslick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sonochemistry: From Basic Principles to Innovative Applications</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Colmenares</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Chatel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="59" to="94" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hinman, J.J., Suslick, K.S., 2017. Nanostructured materials synthesis using ultrasound. In: Colmenares, J.C., Chatel, G. (Eds.), Sonochemistry: From Basic Principles to Innovative Applications. Springer International Publishing, Cham, pp. 59-94.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Economic procedure for facile and eco-friendly reduction of graphene oxide by plant extracts; a comparison and property investigation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Khojasteh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Safajou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Heydaryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yazdani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page" from="1139" to="1147" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Khojasteh, H., Safajou, H., Mortazavi-Derazkola, S., Salavati-Niasari, M., Heydaryan, K., Yazdani, M., 2019. Economic procedure for facile and eco-friendly reduction of graphene oxide by plant extracts; a comparison and property investigation. J. Clean. Prod. 229, 1139-1147.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sonochemical synthesis and characterization of nanometer-size transition metal oxides from metal acetates</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Diamant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gedanken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2301" to="2305" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kumar, R.V., Diamant, Y., Gedanken, A., 2000. Sonochemical synthesis and character- ization of nanometer-size transition metal oxides from metal acetates. Chem. Mater. 12, 2301-2305.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Insitu synthesis of rGO-ZnO nanocomposite for demonstration of sunlight driven enhanced photocatalytic and self-cleaning of organic dyes and tea stains of cotton fabrics</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kumbhakar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pramanik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Biswas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kumbhakar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hazard. Mater</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="193" to="203" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kumbhakar, P., Pramanik, A., Biswas, S., Kole, A.K., Sarkar, R., Kumbhakar, P., 2018. In- situ synthesis of rGO-ZnO nanocomposite for demonstration of sunlight driven en- hanced photocatalytic and self-cleaning of organic dyes and tea stains of cotton fabrics. J. Hazard. Mater. 360, 193-203.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hydrothermal fabrication of porous hollow hydroxyapatite microspheres for a drug delivery system</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I.-S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Kong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. C</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="166" to="172" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lai, W., Chen, C., Ren, X., Lee, I.-S., Jiang, G., Kong, X., 2016. Hydrothermal fabrication of porous hollow hydroxyapatite microspheres for a drug delivery system. Mater. Sci. Eng. C 62, 166-172.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Synthesis and characterization of positive-charge functionalized mesoporous silica nanoparticles for oral drug delivery of an anti-inflammatory drug</title>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L.-W</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-Y</forename><surname>Mou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3283" to="3292" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lee, C.-H., Lo, L.-W., Mou, C.-Y., Yang, C.-S., 2008. Synthesis and characterization of positive-charge functionalized mesoporous silica nanoparticles for oral drug delivery of an anti-inflammatory drug. Adv. Funct. Mater. 18, 3283-3292.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Size effect on cell uptake in well-suspended, uniform mesoporous silica nanoparticles</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-Y</forename><surname>Mou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1408" to="1413" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lu, F., Wu, S.-H., Hung, Y., Mou, C.-Y., 2009. Size effect on cell uptake in well-suspended, uniform mesoporous silica nanoparticles. Small 5, 1408-1413.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Superparamagnetic iron oxide nanoparticles (SPIONs): development, surface modification and applications in chemotherapy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mahmoudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laurent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="24" to="46" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mahmoudi, M., Sant, S., Wang, B., Laurent, S., Sen, T., 2011. Superparamagnetic iron oxide nanoparticles (SPIONs): development, surface modification and applications in chemotherapy. Adv. Drug Deliv. Rev. 63, 24-46.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Modified SBA-15 as the carrier for metoprolol and papaverine: adsorption and release study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Łaniecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Solid State Chem</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page" from="1761" to="1767" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moritz, M., łaniecki, M., 2011. Modified SBA-15 as the carrier for metoprolol and papa- verine: adsorption and release study. J. Solid State Chem. 184, 1761-1767.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Facile green synthesis and characterization of Crataegus microphylla extract-capped silver nanoparticles (CME@Ag-NPs) and its potential antibacterial and anticancer activities against AGS and MCF-7 human cancer cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ebrahimzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Goli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rafiei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kardan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys. Compd</title>
+		<imprint>
+			<biblScope unit="volume">820</biblScope>
+			<biblScope unit="page">153186</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mortazavi-Derazkola, S., Ebrahimzadeh, M.A., Amiri, O., Goli, H.R., Rafiei, A., Kardan, M., Salavati-Niasari, M., 2020. Facile green synthesis and characterization of Crataegus microphylla extract-capped silver nanoparticles (CME@Ag-NPs) and its potential antibacterial and anticancer activities against AGS and MCF-7 human cancer cells. J. Alloys. Compd. 820, 153186.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Synthesis, characterization, and atenolol delivery application of functionalized mesoporous hydroxyapatite nanoparticles prepared by microwave-assisted co-precipitation method</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Naimi-Jamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ghoreishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Drug Deliv</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1123" to="1129" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mortazavi-Derazkola, S., Naimi-Jamal, M.R., Ghoreishi, S.M., 2016. Synthesis, char- acterization, and atenolol delivery application of functionalized mesoporous hydro- xyapatite nanoparticles prepared by microwave-assisted co-precipitation method. Curr. Drug Deliv. 13, 1123-1129.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Fabrication and characterization of Fe3O4@SiO2@TiO2@Ho nanostructures as a novel and highly efficient photocatalyst for degradation of organic pollution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abbasi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Energy Chem</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="17" to="23" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mortazavi-Derazkola, S., Salavati-Niasari, M., Amiri, O., Abbasi, A., 2017a. Fabrication and characterization of Fe3O4@SiO2@TiO2@Ho nanostructures as a novel and highly efficient photocatalyst for degradation of organic pollution. J. Energy Chem. 26, 17-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Magnetically separable Fe3O4@SiO2@TiO2 nanostructures supported by neodymium(III): fabrication and enhanced photocatalytic activity for degradation of organic pollution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-P</forename><surname>Mazhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Khojasteh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamadanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bagheri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci. Mater. Electron</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="14271" to="14281" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mortazavi-Derazkola, S., Salavati-Niasari, M., Mazhari, M.-P., Khojasteh, H., Hamadanian, M., Bagheri, S., 2017b. Magnetically separable Fe3O4@SiO2@TiO2 nanostructures supported by neodymium(III): fabrication and enhanced photo- catalytic activity for degradation of organic pollution. J. Mater. Sci. Mater. Electron. 28, 14271-14281.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Electrohydrodynamic methods for the development of pulmonary drug delivery systems</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nikolaou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Krasia-Christoforou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Pharm. Sci</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="29" to="40" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikolaou, M., Krasia-Christoforou, T., 2018. Electrohydrodynamic methods for the de- velopment of pulmonary drug delivery systems. Eur. J. Pharm. Sci. 113, 29-40.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Desolvation conditions for production of sulfasalazine based albumin nanoparticles: physical properties</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Olaitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Chaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmaceut. Front</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">190006</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Olaitan, V., Chaw, C.S., 2019. Desolvation conditions for production of sulfasalazine based albumin nanoparticles: physical properties. Pharmaceut. Front. 1, e190006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Co-delivery of ibuprofen and gentamicin from nanoporous anodic titanium dioxide layers</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pawlik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jarosz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Syrek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Sulka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. B Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="95" to="102" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pawlik, A., Jarosz, M., Syrek, K., Sulka, G.D., 2017. Co-delivery of ibuprofen and gen- tamicin from nanoporous anodic titanium dioxide layers. Colloids Surf. B Biointerfaces 152, 95-102.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Programmable drug release using bioresponsive mesoporous silica nanoparticles for site-specific oral drug delivery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Popat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jambhrunkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="5547" to="5550" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Popat, A., Jambhrunkar, S., Zhang, J., Yang, J., Zhang, H., Meka, A., Yu, C., 2014. Programmable drug release using bioresponsive mesoporous silica nanoparticles for site-specific oral drug delivery. Chem. Commun. 50, 5547-5550.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Polymer-coated mesoporous silica nanoparticles for controlled release of the prodrug sulfasalazine</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Popova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Trendafilova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zgureva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kalvachev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boycheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Novak Tušar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szegedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Drug Deliv. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="415" to="420" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Popova, M., Trendafilova, I., Zgureva, D., Kalvachev, Y., Boycheva, S., Novak Tušar, N., Szegedi, A., 2018. Polymer-coated mesoporous silica nanoparticles for controlled release of the prodrug sulfasalazine. J. Drug Deliv. Sci. Technol. 44, 415-420.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">High velocity interparticle collisions driven by ultrasound</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Prozorov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Prozorov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Suslick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="13890" to="13891" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prozorov, T., Prozorov, R., Suslick, K.S., 2004. High velocity interparticle collisions driven by ultrasound. J. Am. Chem. Soc. 126, 13890-13891.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Spherical molecularly imprinted polymers (SMIPs) via a novel precipitation polymerization in the controlled delivery of sulfasalazine</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Puoci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Iemma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Muzzalupo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">G</forename><surname>Spizzirri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trombino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cassano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Picci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Macromol. Biosci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="22" to="26" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Puoci, F., Iemma, F., Muzzalupo, R., Spizzirri, U.G., Trombino, S., Cassano, R., Picci, N., 2004. Spherical molecularly imprinted polymers (SMIPs) via a novel precipitation polymerization in the controlled delivery of sulfasalazine. Macromol. Biosci. 4, 22-26.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Synthesis and characterization of Dy2O3 nanostructures: enhanced photocatalytic degradation of rhodamine B under UV irradiation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Safari-Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mortazavi-Derazkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salavati-Niasari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ghoreishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci. Mater. Electron</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="6467" to="6474" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Safari-Amiri, M., Mortazavi-Derazkola, S., Salavati-Niasari, M., Ghoreishi, S.M., 2017. Synthesis and characterization of Dy2O3 nanostructures: enhanced photocatalytic degradation of rhodamine B under UV irradiation. J. Mater. Sci. Mater. Electron. 28, 6467-6474.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Porous silica gels and TiO2/SiO2 mixed oxides prepared via the sol-gel process: characterization by spectroscopic techniques</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schraml-Marth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Walther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wokaun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Handy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baiker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non. Solids</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="93" to="111" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schraml-Marth, M., Walther, K.L., Wokaun, A., Handy, B.E., Baiker, A., 1992. Porous silica gels and TiO2/SiO2 mixed oxides prepared via the sol-gel process: character- ization by spectroscopic techniques. J. Non. Solids 143, 93-111.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Mesoporous silica nanoparticles for drug delivery and biosensing applications</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Slowing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Trewyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Giri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1225" to="1236" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Slowing, I.I., Trewyn, B.G., Giri, S., Lin, V.S.-Y., 2007. Mesoporous silica nanoparticles for drug delivery and biosensing applications. Adv. Funct. Mater. 17, 1225-1236.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Processing and properties of hydroxyapatite-based biomaterials for use as hard tissue replacement implants</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Suchanek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yoshimura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Res</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="94" to="117" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Suchanek, W., Yoshimura, M., 2011. Processing and properties of hydroxyapatite-based biomaterials for use as hard tissue replacement implants. J. Mater. Res. 13, 94-117.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Targeted drug delivery via the folate receptor</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sudimack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="147" to="162" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sudimack, J., Lee, R.J., 2000. Targeted drug delivery via the folate receptor. Adv. Drug Deliv. Rev. 41, 147-162.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Bactericidal properties and biocompatibility of a gentamicin-loaded Fe3O4/ carbonated hydroxyapatite coating</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-J</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-P</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z.-A</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. B Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="403" to="412" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tian, B., Tang, S., Wang, C.-D., Wang, W.-G., Wu, C.-L., Guo, Y.-J., Guo, Y.-P., Zhu, Z.-A., 2014. Bactericidal properties and biocompatibility of a gentamicin-loaded Fe3O4/ carbonated hydroxyapatite coating. Colloids Surf. B Biointerfaces 123, 403-412.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Application of guanidine-containing polymers for preparation of pH responsive silicabased particles for drug delivery systems</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Timin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Balantseva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Khashirova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Rumyantsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Osadchaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. A Physicochem. Eng. Asp</title>
+		<imprint>
+			<biblScope unit="volume">477</biblScope>
+			<biblScope unit="page" from="26" to="34" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Timin, A.S., Balantseva, E.V., Khashirova, S.Y., Rumyantsev, E.V., Osadchaya, T.Y., 2015. Application of guanidine-containing polymers for preparation of pH responsive silica- based particles for drug delivery systems. Colloids Surf. A Physicochem. Eng. Asp. 477, 26-34.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Potentiation of 5-fluorouracil encapsulated in zeolites as drug delivery systems for in vitro models of colorectal carcinoma</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vilaça</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Parpot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F R</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Baltazar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. B Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="237" to="244" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vilaça, N., Amorim, R., Machado, A.F., Parpot, P., Pereira, M.F.R., Sardo, M., Rocha, J., Fonseca, A.M., Neves, I.C., Baltazar, F., 2013. Potentiation of 5-fluorouracil en- capsulated in zeolites as drug delivery systems for in vitro models of colorectal car- cinoma. Colloids Surf. B Biointerfaces 112, 237-244.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Synthesis of (ZrO2-Al2O3)/GO nanocomposite by sonochemical method and the mechanism analysis of its high defluoridation</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hazard. Mater</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page">120954</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, Q., Chen, P., Zeng, X., Jiang, H., Meng, F., Li, X., Wang, T., Zeng, G., Liu, L., Shu, H., Luo, X., 2020. Synthesis of (ZrO2-Al2O3)/GO nanocomposite by sonochemical method and the mechanism analysis of its high defluoridation. J. Hazard. Mater. 381, 120954.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">One-pot sonochemical synthesis of magnetite@ reduced graphene oxide nanocomposite for high performance Li ion storage</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ultrason. Sonochem</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="167" to="172" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wu, K., Liu, D., Lu, W., Zhang, K., 2018. One-pot sonochemical synthesis of magnetite@ reduced graphene oxide nanocomposite for high performance Li ion storage. Ultrason. Sonochem. 45, 167-172.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Recyclable Fe3O4/hydroxyapatite composite nanoparticles for photocatalytic applications</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>-P</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-Y</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. J</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="117" to="121" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yang, Z.-p., Gong, X.-y., Zhang, C.-j., 2010. Recyclable Fe3O4/hydroxyapatite composite nanoparticles for photocatalytic applications. Chem. Eng. J. 165, 117-121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Drug targeting with nano-sized carrier systems</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yokoyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Artif. Organs</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="77" to="84" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yokoyama, M., 2005. Drug targeting with nano-sized carrier systems. J. Artif. Organs 8, 77-84.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Advances in bioresponsive closedloop drug delivery systems</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Kahkoska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Pharm</title>
+		<imprint>
+			<biblScope unit="volume">544</biblScope>
+			<biblScope unit="page" from="350" to="357" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yu, J., Zhang, Y., Yan, J., Kahkoska, A.R., Gu, Z., 2018. Advances in bioresponsive closed- loop drug delivery systems. Int. J. Pharm. 544, 350-357.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Enhanced dark adsorption and visible-light-driven photocatalytic properties of narrower-band-gap Cu2S decorated Cu2O nanocomposites for efficient removal of organic pollutants</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hazard. Mater</title>
+		<imprint>
+			<biblScope unit="volume">384</biblScope>
+			<biblScope unit="page">121302</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yue, Y., Zhang, P., Wang, W., Cai, Y., Tan, F., Wang, X., Qiao, X., Wong, P.K., 2020. Enhanced dark adsorption and visible-light-driven photocatalytic properties of nar- rower-band-gap Cu2S decorated Cu2O nanocomposites for efficient removal of or- ganic pollutants. J. Hazard. Mater. 384, 121302.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Storage and release of ibuprofen drug molecules in hollow mesoporous silica spheres with modified pore surface</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>-F</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-L</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-R</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-H</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-P</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microporous Mesoporous Mater</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="75" to="81" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhu, Y.-f., Shi, J.-l., Li, Y.-s., Chen, H.-r., Shen, W.-h., Dong, X.-p., 2005. Storage and release of ibuprofen drug molecules in hollow mesoporous silica spheres with mod- ified pore surface. Microporous Mesoporous Mater. 85, 75-81.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

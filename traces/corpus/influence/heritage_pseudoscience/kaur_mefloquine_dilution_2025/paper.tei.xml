@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A novel prophylactic strategy to enhance immunity in Plasmodium berghei infected mice: Combining mefloquine and ultra-diluted malarial antigen</title>
+				<funder ref="#_PaPZFcP">
+					<orgName type="full">Central Council for Research in Homoeopathy (CCRH, Ministry of AYUSH, Government of India, New Delhi</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Central Council for Research in Homoeopathy</orgName>
+					<orgName type="abbreviated">CCRH</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ministry of AYUSH, Government of India, New Delhi</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date>9 July 2025 0882</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mansi</forename><surname>Suri</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Parasitology Laboratory , Department of Zoology , Panjab University , Chandigarh , 160014 , India</note>
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="laboratory">Parasitology Laboratory</orgName>
+								<orgName type="institution">Panjab University</orgName>
+								<address>
+									<postCode>160014</postCode>
+									<settlement>Chandigarh</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sapna</forename><surname>Katnoria</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Parasitology Laboratory , Department of Zoology , Panjab University , Chandigarh , 160014 , India</note>
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="laboratory">Parasitology Laboratory</orgName>
+								<orgName type="institution">Panjab University</orgName>
+								<address>
+									<postCode>160014</postCode>
+									<settlement>Chandigarh</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jyoti</forename><surname>Joshi</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>c</label> Goswami Ganesh Dutta Sanatan Dharma College , Chandigarh , India</note>
+								<orgName type="institution">Goswami Ganesh Dutta Sanatan Dharma College</orgName>
+								<address>
+									<settlement>Chandigarh</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Subhash</forename><surname>Kaushik</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Central Council for Research in Homeopathy , Ministry of AYUSH , Government of India , New Delhi , 110058 , India</note>
+								<orgName type="department" key="dep1">Central Council for Research in Homeopathy</orgName>
+								<orgName type="department" key="dep2">Ministry of AYUSH</orgName>
+								<orgName type="institution">Government of India</orgName>
+								<address>
+									<postCode>110058</postCode>
+									<settlement>New Delhi</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Debadatta</forename><surname>Nayak</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Central Council for Research in Homeopathy , Ministry of AYUSH , Government of India , New Delhi , 110058 , India</note>
+								<orgName type="department" key="dep1">Central Council for Research in Homeopathy</orgName>
+								<orgName type="department" key="dep2">Ministry of AYUSH</orgName>
+								<orgName type="institution">Government of India</orgName>
+								<address>
+									<postCode>110058</postCode>
+									<settlement>New Delhi</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Sukhbir</forename><surname>Kaur</surname></persName>
+							<email>sukhbir@pu.ac.in</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Parasitology Laboratory , Department of Zoology , Panjab University , Chandigarh , 160014 , India</note>
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="laboratory">Parasitology Laboratory</orgName>
+								<orgName type="institution">Panjab University</orgName>
+								<address>
+									<postCode>160014</postCode>
+									<settlement>Chandigarh</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A novel prophylactic strategy to enhance immunity in Plasmodium berghei infected mice: Combining mefloquine and ultra-diluted malarial antigen</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">9 July 2025 0882</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CB3D78DBC073942CA6491C76BC14B53F</idno>
+					<idno type="DOI">10.1016/j.micpath.2025.107890</idno>
+					<note type="submission">Received 22 April 2025; Received in revised form 25 June 2025; Accepted 8 July 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plasmodium berghei Biotherapics Mefloquine Malaria</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Introduction: Antimalarial drug resistance poses a significant challenge towards global efforts to combat malaria, so new strategies must be explored. Previously we showed promising antimalarial activity of ultra diluted malarial antigen (UdMAg), a novel biotherapic drug which was developed from in vitro cultures of a combination of cell-free parasites and infected red blood cells from Plasmodium falciparum 3D7 (chloroquine sensitive) and RKL-9 strains (chloroquine resistant). The stock was collected and sent to Dr. Willmar Schwabe India Pvt. Ltd., New Delhi for preparing its homeopathic dilutions to 30c by repeated succussions and potentization. The final ultradiluted Malarial antigen 30c (UdMAg) was used for the treatment along with the standard antimalarial drug mefloquine (MQ) not only to enhance the therapeutic outcomes but also ameliorate its side effects. Methods: The prophylactic efficacy of MQ in combination with UdMAg was assessed in P. berghei infected mice (ANKA strain) using Peters (1980) method. Assessment of parasitaemia and mean survival time was studied along with immunological parameters which included analysis of cell surface expression, nitric oxide (NO) concentration, and reactive oxygen species (ROS) levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results:</head><p>The results demonstrated enhanced prophylactic efficacy of the MQ, accompanied by 100 % mean survival time when given along with UdMAg. Further, the combination treatment exhibited improved immunological responses, increased concentration of nitric oxide and reactive oxygen specie levels. Discussion &amp; conclusion: MQ, a standard antimalarial has significant side-effects, so a novel antimalarial (UdMAg) was used as a biotherapy in combination to improve its prophylactic efficacy through the generation of immune responses in the host. Our findings highlight the potential of UdMAg in enhancing the prophylactic efficacy of standard antimalarial drug. This novel integrative approach strengthens the impact of standard antimalarial treatment while offering a potential avenue for immune-based prophylaxis. Such an approach may have significant translational relevance for developing adjunct therapies in malaria-endemic regions, particularly where immune resilience is crucial.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Malaria, is one of the most important tropical lethal disease, transmitted by female Anopheles mosquitoes and caused by various Plasmodium species, including P. malariae, P. ovale, P. vivax, P. knowlesi, and particularly most lethal P. falciparum. Among murine models, Plasmodium berghei ANKA (PbANKA) infection is widely studied due to its ability to induce severe cerebral malaria, closely resembling human cerebral malaria. Symptoms of malaria include high fever, headaches, nausea, sweating, fatigue, diarrhea, and anemia <ref type="bibr" target="#b0">[1]</ref>. The varied symptoms and complications caused by different Plasmodium species require specialized treatment approaches.</p><p>In 2024, the WHO reported 263 million malaria cases globally, with the majority of cases in Africa (89.7 %) and the Eastern Mediterranean (15.5 %). While malaria cases have decreased by 82.4 % from 2000 to 2023, largely due to efforts in India, the disease remains a persistent threat, especially in high-burden regions such as sub-Saharan Africa and South Asia. Resistance to artemisinin and ACT partner drugs, along with widespread pyrethroid resistance and emerging neonicotinoid resistance, continue to challenge malaria control efforts. To maintain progress, sustained surveillance and the adoption of advanced tools like pyrethroid-PBO or dual active ingredient insecticide-treated nets (ITNs) are crucial in combating transmission <ref type="bibr" target="#b1">[2]</ref>.</p><p>The rapid progression of PbANKA infection in murine models, characterized by symptoms such as ataxia, paralysis, coma, and brain hemorrhages, highlights its severity. Control efforts are hindered by the evolution of insecticide-resistant vectors and the lack of a safe, affordable, and effective malaria vaccine. The emergence of multidrugresistant strains, like the KEL1/PLA1 strain, further worsens the situation and complicates the treatment. Considering the current scenario of malaria treatment the control has become more challenging mainly due to the widespread prevalence of drug-resistant strains of the malaria parasite <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>.</p><p>T cell responses to Plasmodium infection balance protection and immunopathology. In P. berghei-infected mice, CD4 + T cells produce IFN-γ for phagocyte activation, while Th cells aid antibody production, promoting parasite clearance. However, excessive CD4 + and CD8 + T cell activity can exacerbate disease severity <ref type="bibr" target="#b4">[5]</ref>. The complex life cycle of Plasmodium species, with distinct tissue tropisms, requires a dynamic CD4 + T cell response. A single, static subset of terminally differentiated CD4 + T cells cannot fulfill all immune functions, necessitating adaptive responses as the infection progresses <ref type="bibr" target="#b5">[6]</ref>. Immune responses generated against Plasmodium parasites are generally not sufficient to prevent the establishment of infection and can even contribute to the development of disease, unless individuals have survived multiple infections <ref type="bibr" target="#b6">[7]</ref> Repeated natural infections with Plasmodium sp., induces protection from severe disease but not sterile immunity. Thus, immunity to Plasmodium is incomplete <ref type="bibr" target="#b7">[8]</ref>.</p><p>Chemoprophylaxis, the use of drugs to prevent infection in healthy individuals, is an essential strategy for malaria control, with mefloquine being a widely used drug for both prevention and treatment. Mefloquine, a 4-quinolinemethanol, acts as a blood schizonticide, though its exact mechanism remains unclear. Its long half-life of 13-30 days makes it ideal for weekly dosing, particularly benefiting travellers. However, issues such as resistance and potential neuropsychiatric side effects have limited its use in certain regions <ref type="bibr" target="#b8">[9]</ref>. The ongoing challenges in malaria elimination emphasize the need for new, effective therapies that address these limitations while being safe, affordable, and easily accessible.</p><p>Ultra-diluted medications, which are cost-effective and safe, offer a promising alternative. These treatments, derived from complementary and alternative medicine (CAM), aim to enhance conventional approaches by filling gaps in care and offering novel therapeutic frameworks <ref type="bibr" target="#b9">[10]</ref>. Ultra-diluted substances are believed to stimulate the body's healing response, with the principle that larger doses of the substance would induce similar symptoms in healthy individual. The preparation of these compounds involves techniques like trituration and succussion to activate their therapeutic properties, and their unique effects are being explored through methods such as quantum physics, spectroscopic analyses, and model simulations <ref type="bibr" target="#b10">[11]</ref>. Given their potential benefits, ultra-diluted medications could play a valuable role in the global effort to eliminate malaria, offering a safe, effective, and economical alternative to current treatments. In our previous work, we developed a novel ultra-diluted malaria antigen (UdMAg) derived from Plasmodium falciparum, which demonstrated promising in vitro and in vivo efficacy <ref type="bibr" target="#b11">[12]</ref>. Building on these findings, the current research was designed to explore the efficacy of Mefloquine, a widely used antimalarial, in combination with this ultra-diluted malaria antigen. Combination therapy, which utilizes two or more therapeutic agents, is a leading strategy in malaria treatment, addressing many of the limitations faced by single-agent therapies, such as resistance and side effects. Combining biotherapics like UdMAg with conventional antimalarials such as mefloquine offers a promising strategy to boost efficacy and counter drug resistance. Mefloquine, a quinoline derivative, disrupts Plasmodium survival by interfering with heme detoxification and mitochondrial function <ref type="bibr" target="#b12">[13]</ref> but its use is limited by toxicity and emerging resistance. Biotherapics, including ultra-diluted formulations like UdMAg, act primarily through immunomodulation.Gupta and Mathur <ref type="bibr" target="#b13">[14]</ref> showed that such agents enhance host immunity by activating macrophages and neutrophils, modulating cytokine production, and altering gene expression. Supporting this, Canova® (Método Canova) was found to reduce IL-2 and IL-4 levels and alter macrophage gene profiles <ref type="bibr" target="#b14">[15]</ref> while also promoting bone marrow activation and dynamic shifts in surface markers <ref type="bibr" target="#b15">[16]</ref>. Drug resistance in Plasmodium falciparum remains a critical issue, with multidrug resistance proteins (MRPs) diminishing drug efficacy through mechanisms such as altered glutathione transport <ref type="bibr" target="#b16">[17]</ref> amplification of the pfmdr1 gene, encoding a key parasite transporter, is a known contributor to mefloquine resistance <ref type="bibr" target="#b17">[18]</ref>. Previous studies have shown that mefloquine alone, especially at lower doses, often fails to achieve complete parasite clearance in murine models <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b26">27]</ref>. Detailed study has been discussed later in the manuscript.</p><p>However, co-administration with an adjunct like UdMAg may significantly enhance efficacy not only by directly killing the parasite, but also likely through immune modulation which might help in overcoming the problem of resistance. The observed rapid and complete parasite clearance in the combination treatment suggests restored susceptibility and improved prophylaxis.</p><p>Given the growing need for new and effective antimalarial treatments, this study aims to evaluate the potential of combining Mefloquine with ultra-diluted malaria antigens as an alternative approach to malaria treatment. This research seeks to determine whether such a combination could enhance therapeutic outcomes, overcome existing challenges, and contribute to the global efforts for malaria elimination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Animals and parasite</head><p>Female Balb/C mice, weighing 22-25 g (5-6 weeks old) were used in this study. The experimental animals were obtained from the Central Animal House Panjab University, Chandigarh and were kept under standard conditions as per guidelines of CCSEA. The mice were maintained on a 12-h light/dark cycle at 25 ± 1 • C and fed on standard pellet diet and water ad libitum.</p><p>Plasmodium berghei (P.berghei) (ANKA strain) was maintained in vivo in Balb/C according to method of <ref type="bibr" target="#b18">[19]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Dosages</head><p>Mefloquine Tablet (Meflotag 250 mg) purchased from market was used in the present study. The dose was divided into 2-day regimen (15 mg/kg and 10 mg/kg).</p><p>Ultradiluted Malaria Antigen 30c (UdMAg) and Nascent Alcohol 30c (NA) -1:10 dilution, 0.2ml/mice/day.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Preparation and composition of UdMAg</head><p>Briefly, the homeopathic mother tincture was prepared using a combination of cell-free parasites and infected red blood cells from Plasmodium falciparum 3D7 and RKL-9 strains. A total of 0.125 mL (containing 2.5 × 10 9 parasites) from each component was dissolved in 500 μL of 70 % alcohol, followed by a 1:10 dilution with 70 % alcohol to obtain the mother tincture. This stock was then submitted to Dr. Willmar Schwabe India Pvt. Ltd., New Delhi, for preparation of serial dilutions according to homeopathic principles. Potencies ranging from 5C to 30C were produced, with the 30C potency used for subsequent experiments.</p><p>The preparation and composition of the formulation have been described in our earlier publication <ref type="bibr" target="#b11">[12]</ref>. To ensure that the observed effects were attributable to the bioactive components of UdMAg and not residual ethanol, appropriate ethanol controls matched in concentration to the final dilution were included in all experimental setups. These controls were designated as Nascent alcohol (NA) throughout the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical approval</head><p>All animal experiments were conducted in accordance with the CCSEA guidelines (Approval No. 45/GO/ReBiBt/S/99/CCSEA) and approved by the Institutional Animal Ethics Committee, Panjab University, Chandigarh. Balb/C mice (6-8 weeks old) were sourced from the University's Central Animal House and housed in standard polypropylene cages (24 × 14 cm), five per cage, under controlled temperature, humidity, and a 12-h light/dark cycle, with ad libitum access to filtered water and balanced feed. Bedding was replaced twice weekly, and cages were sanitized regularly to ensure hygienic, pathogen-free conditions. Mice used in this study were not genetically modified. For euthanasia, ketamine (80 mg/kg) and xylazine (10 mg/kg) were administered intraperitoneally, followed by cervical dislocation in accordance with CCSEA guidelines. The study included five experimental groups, each comprising 20 mice. Five mice were used for survival analysis, while the remaining were euthanized on D7, D14, and D28 post-infection for analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Prophylaxis treatment</head><p>The antimalarial efficacy of MQ (Standard antimalarial) in combination with UdMAg was checked in P. berghei (ANKA strain) infected Balb/C mice. Prophylactic activity was evaluated by the method <ref type="bibr" target="#b19">[20]</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Groups of animals studied</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Parasitaemia and survival analysis</head><p>Parasitaemia was assessed by microscopic examination of Giemsastained thin blood smears prepared on different days of infection and treatment.</p><p>The parasitaemia was calculated by the formula:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of infected red blood cells</head><p>Total number of red blood cells × 100 Kaplan-Meier survival analysis of mice in the various experimental groups was done.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Analysis of cell surface expression by flow cytometry</head><p>Splenocytes were isolated from different animal groups and cell suspensions were prepared. A total of 1 × 10 6 cells were stained with fluorochrome-conjugated antibodies (anti-CD3 + FITC, anti-CD4 + PE, anti-CD8 + APC, anti-CD19 + BV421, anti-CD11 + AmCyan) for surface marker analysis <ref type="bibr" target="#b20">[21]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8.">Measurement of nitric oxide (NO) concentration and reactive oxygen species (ROS) levels</head><p>Intracellular NO production in splenocytes was measured by using Griess assay <ref type="bibr" target="#b21">[22]</ref>. Briefly, splenocytes from different experimental groups of mice were incubated in 5 % CO 2 incubator at 37 • C in the presence of whole Plasmodium berghei (ANKA) antigen. NO generation was quantified by measuring the accumulation of nitrite in culture supernatants by Griess reagent.</p><p>For measuring the levels of ROS similarly the splenocytes were incubated with 10 μM H 2 DCFDA at 37 • C for 20 min and then analysed on FACS BD LSR Fortessa flow cytometer <ref type="bibr" target="#b22">[23]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.9.">Statistical analysis</head><p>To evaluate the statistical significance between different groups, ANOVA (both one-way and two-way) followed by Tukey's multiple comparison test using GraphPad Prism version 10 was employed. Data was represented as Mean ± S.D. of five animals. To minimize the number of animals no repetition of the group/data was done. As per Rule No. 9 of the Compendium of CCSEA (2018), no experiment should be repeated if its results are already conclusively known, unless a prior and valid scientific justification is provided.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">In vivo prophylactic efficacy of mefloquine (MQ) in combination with ultradiluted malaria antigen 30c (UdMAg)</head><p>P.berghei ANKA infected mice treated with the combination of MQ + UdMAg displayed complete parasite suppression as compared to the IC, which exhibited 45 % parasitaemia on D14. However, by D28, a increase in parasitaemia (1.32 ± 0.7 %) was observed.</p><p>In MQ and UdMAg treated groups, negligible parasitaemia (0.284 ± 0.21 % and 1.17 ± 0.25 %) was observed until D14 respectively, which increased gradually by D28 (Fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">In vivo survival analysis in different groups of animals</head><p>The Kaplan-Meier survival curve illustrates survival probabilities across different treatment groups over time. The IC and NA groups exhibited rapid mortality, indicating high susceptibility. In contrast, MQ and UdMAg treatments extended survival, though mortality increased after D21, suggesting a decline in efficacy over time. However, in mice treated with MQ + UdMAg combination, exhibited 100 % survival, demonstrating a significant protective effect and potential synergistic benefits over monotherapy (Fig. <ref type="figure" target="#fig_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Analysis of different immune cells by flow cytometry</head><formula xml:id="formula_0">a) CD4 þ T cell</formula><p>On D7, mice treated with MQ, UdMAg, and MQ + UdMAg exhibited a significant increase (p ≤ 0.05) in CD4 + T cells compared to the IC group mice. By D14, the MQ + UdMAg-treated group maintained an elevation (p ≤ 0.05) in CD4 + T cells, while those treated with MQ and UdMAg also showed a significant increase (p ≤ 0.005) compared to the IC group but was less as compared to combination group. By D28, the MQ + UdMAg-treated group continued to display a significant increase (p ≤ 0.05) in CD4 + T cells as compared to MQ-treated group. A decline in CD4 + T cell levels was observed in the MQ and UdMAg-treated groups by D28 which was associated with an increase in parasitaemia. b) CD8 þ T cells CD8 + T cells were significantly elevated (p ≤ 0.05) across all treated groups on D7 and D14 compared to the IC group. However, their expansion remained controlled, likely due to minimal parasite exposure, which restricted their further proliferation and helped prevent excessive inflammation. In contrast, the infected control group exhibited low CD8 + T cell levels, likely due to persistent parasitaemia impairing T cell activation and survival. On D28, the MQ + UdMAg group of mice exhibited a significant increase in CD8 + T cells (p ≤ 0.05) compared to the MQ treated group. In contrast, mice treated with MQ and UdMAg showed a decline in CD8 + T cells, likely due to increased parasite burden and associated immune suppression. c) CD19 þ B cells CD19 + B cells were significantly elevated (p ≤ 0.05) in the MQ + UdMAg combination treated group on D7 and D14 compared to the IC group and on D28 compared to the MQ treated group. The MQ and UdMAg-treated groups also showed a significant increase in CD19 + B cells compared to the IC group on D7 and D14. However, by D28, their number declined, likely due to increased parasite burden.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>d) CD11 þ cells</head><p>The MQ + UdMAg combination group demonstrated a significant increase in CD11 + cells on D7 (p ≤ 0.05) and D14 (p ≤ 0.05) as compared to the IC group, and on D28 compared to the MQ group. The MQ and UdMAg-treated groups of mice also showed a significant increase in CD11 + cells on D7 and D14 as compared to the IC group. However, by D28, increased parasitemia led to a decline in CD11 + cell levels (Figs. <ref type="figure" target="#fig_3">3</ref> and <ref type="figure" target="#fig_4">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Analysis of reactive oxygen species (ROS) using flow cytometry</head><p>ROS levels were measured by H 2 DCFDA and expressed as fold change of fluorescence units with respect to the infected control. Increased production of ROS in malaria contributes to clearance of parasite, excessive amount of these free radicles can mediate inflammation and cause damage to host cell and contribute to pathogenesis <ref type="bibr" target="#b33">[34]</ref>. The MQ + UdMAg treated group showed maximum fold increase, on D7 (5.20-fold) and D14 (3.48-fold) as compared to IC. In MQ and UdMAg treatment groups a significant increase was observed as compared to IC's, supporting their immunostimulatory potential. The combination group treated with MQ + UdMAg showed maximum ROS levels as compared to other groups (Figs. <ref type="figure" target="#fig_5">5</ref> and <ref type="figure">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Estimation of nitric oxide concentration</head><p>The MQ + UdMAg-treated group demonstrated the highest NO concentration (p ≤ 0.05), indicating enhanced macrophage activation and a strong immune response. In contrast, the IC group exhibited the lowest NO levels, suggesting immune suppression and ineffective parasite clearance. The MQ and UdMAg-treated groups also showed a significant increase in NO concentration compared to IC on D7 and D14; however, by D28, NO levels declined, likely due to increased parasitaemia (Fig. <ref type="figure" target="#fig_7">7</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>Malaria poses a serious global health threat, often resulting in significant fatalities. Developing novel pharmacological approaches is essential in the fight against malaria. Chemoprophylaxis is essential for individuals traveling to malaria-endemic regions, particularly those in vulnerable groups, to protect against this potentially life-threatening disease. With the surge in global travel for various purposes, the demand for effective antimalarial prophylaxis has grown significantly. Various medications are available for malaria prophylaxis, among which mefloquine has been historically utilized <ref type="bibr" target="#b8">[9]</ref>. Mefloquine's once-a-week dose regimen and efficacy against malaria parasite has made it a popular choice. However, concerns have emerged regarding the emergence and spread of mefloquine-resistant parasite <ref type="bibr" target="#b23">[24]</ref> and its potential long-term neuropsychiatric side effects. Given this alarming scenario, there is an urgent need to explore new avenues for more accessible and affordable treatments. Switching to alternative therapies for malaria is driven by drug resistance in Plasmodium falciparum and significant side effects of conventional drugs.</p><p>Complementary and alternative healthcare and medical practices (CAM) encompass a wide variety of medical and healthcare systems, practices, and products that fall outside the realm of conventional medicine. CAM approaches are used in addition to complementary or instead of alternative standard medical treatments <ref type="bibr" target="#b24">[25]</ref>. The use of highly diluted medicines has grown due to limitations in conventional drugs' efficacy and potential side effects that affect patient adherence. Numerous studies have demonstrated benefits in treating infectious diseases with these preparations <ref type="bibr" target="#b25">[26]</ref>.</p><p>We previously reported that an ultra-diluted malarial agent, derived from various strains of Plasmodium falciparum, shows promising antimalarial efficacy <ref type="bibr" target="#b11">[12]</ref>. The encouraging results prompted us to use this ultradiluted antimalarial agent with the standard drug Mefloquine in a search for non-toxic efficacious alternative.</p><p>In the present prophylactic study, mefloquine when given at a dose of 25 mg/kg initially reduced the parasitaemia but later increased, with mortality occurring after D21, indicating its limited efficacy in controlling the progression of infection. Similarly, in another study, a 10 mg/kg mefloquine initially reduced the parasitaemia from 8.1 % on D5 to 0 % on D12, but then gradual increase was observed with parasitaemia of more than 40 % on D18 leading to 100 % mortality by D20 <ref type="bibr" target="#b26">[27]</ref> In another curative study, a 3 mg/kg administration of mefloquine for four days resulted in a parasitaemia of 9 % on D12 and a median survival of 21.5 days. In contrast, in a therapeutic study, 2 mg/kg free mefloquine led to a higher parasitaemia of 28 % on D12, with a reduced median survival of 17.5 days. These findings highlight the dose-dependent effects of mefloquine and its varying efficacy across different treatment regimens <ref type="bibr" target="#b23">[24]</ref>.</p><p>These studies underscore the necessity of maintaining a consistent presence of MQ in the bloodstream to ensure continued antimalarial efficacy. To achieve full protection and prevent a resurgence of parasitaemia, thus it is considered essential to implement strategies such as continuous or repeated dosing or combining MQ with other complementary therapies is considered essential. Thus, in the present study we combined MQ with ultradiluted malaria antigen (UdMAg) and observed that the combination resulted in enhanced prophylactic efficacy with negligible parasitaemia by D28, compared to the MQ alone. The mean survival was significantly increased with no mortality till D28 indicating a potential synergistic or additive effect of the combination treatment in enhancing survival of animals.</p><p>A study showed that combining artesunate and mefloquine improved survival in P. berghei-infected mice, outperforming monotherapy. Timeto-event analysis revealed a median survival of 13.66 days, with survival probabilities of 94.4 % at 7 days, 88.9 % at 15 days, and 14.9 % at 30 days. Experimental and modeling data confirmed its efficacy <ref type="bibr" target="#b27">[28]</ref>. In another study, Transdermal therapy (TDT) using 1,2,6,7-tetraoxaspiro <ref type="bibr">[7.11]</ref> nonadecane (N-89) in combination with mefloquine was similarly assessed through a 4-day suppressive test. The regimen comprising N-89 (60 mg/kg) and mefloquine (8 mg/kg) effectively cleared parasitaemia up to day 4; however, parasite recrudescence was observed by day 9, and all treated mice succumbed to infection by day 17 <ref type="bibr" target="#b28">[29]</ref>.</p><p>In the present study, we analysed the immune response in different treatment groups by assessing CD4 + T cells, CD8 + T cells, CD19 + B cells, and CD11 + as key immune markers. The combination group (MQ+ UdMAg) treated mice exhibited significantly higher immune cell levels on D7 and D14, indicating sustained immune activation, while by D28, they maintained the high levels of immune cells, suggesting effective parasite clearance along with a robust adaptive and innate immune response. This enhanced immunity may be attributed to the synergistic interaction between mefloquine (MQ), which likely inhibited parasite growth, and biotherapics (UdMAg), which may have amplified the immune response. Together, these treatments promoted greater immune cell activation and proliferation compared to individual treatments, contributing to controlled parasitaemia and the gradual downregulation of immune response over time.</p><p>During malarial infection, the immune system activates phagocytic cells, which initiate a respiratory burst that generates reactive oxygen and nitrogen species (ROS/RNS). These free radicals contribute to parasite clearance, as Plasmodium is highly susceptible to oxidative stress. However, excessive ROS/RNS can damage host tissues, including the vascular endothelium and blood-brain barrier. At controlled levels, ROS/RNS play beneficial roles as signaling molecules, immune defenders, and regulators of vascular tone. Thus, oxidative stress can be either protective or harmful depending on its concentration and localization, highlighting its complex role in infection <ref type="bibr" target="#b29">[30]</ref>.</p><p>In addition, A marked increase in CD11 + cells which is indicative of activated antigen-presenting cells (APCs) was observed in our study. This suggests enhanced antigen processing and presentation, essential steps for the activation and proliferation of T cells, particularly CD4 + subsets. The sustained CD4 + T cell levels observed in the combination group further support the role of UdMAg in reinforcing adaptive immune responses. Similarly, Seligmann et al. <ref type="bibr" target="#b30">[31]</ref> demonstrated that the Canova homeopathic complex medicine, commonly used as an immune modulator, activated macrophages in vitro. These results highlight the potential of ultra-diluted biotherapics to stimulate innate immunity and provide a supportive environment for more effective pathogen clearance. Taken together, these findings suggest that UdMAg may act synergistically with mefloquine by not only targeting the parasite directly but also by priming the host immune system, thus amplifying the overall therapeutic response.</p><p>Mefloquine can serve as an effective adjuvant in combination therapies against various pathogens. For example, combining mefloquine with SRI-286 and moxifloxacin enhanced antimicrobial activity against Mycobacterium avium complex infections in mice, emphasizing its potential to improve treatment efficacy <ref type="bibr" target="#b31">[32]</ref> Similarly, in another study it was reported that pre-treatment with biotherapy reduced the duration of detectable parasitaemia and enhanced the immune response during acute Trypanosoma cruzi infection <ref type="bibr" target="#b32">[33]</ref>. These findings support our observations that the combination of mefloquine and UdMAg elicits a stronger immune response and promotes effective parasite clearance, underscoring the therapeutic potential of combination therapies in malaria treatment.Malaria is characterized by high levels of inflammation and oxidative stress. Reactive oxygen species (ROS) generated by host phagocytes play a crucial role in the immune response against Plasmodium infection. Additionally, oxidative enzymes like xanthine oxidase are known to be upregulated in malaria patients. While ROS production aids in parasite clearance, excessive accumulation of these free radicals can trigger inflammation and lead to significant damage to host cells and tissues, potentially contributing to severe disease manifestations <ref type="bibr" target="#b33">[34]</ref>.</p><p>In our study, ROS levels were significantly elevated across treatment groups compared to the infected control (IC), highlighting their immunostimulatory effects. The combination group (MQ + UdMAg) exhibited the highest ROS levels, suggesting enhanced immune activation and indicated a synergistic effect in immune activation. ROS generated during Plasmodium infection contribute to both parasite clearance and host tissue damage. The study highlighted the dual role of oxidative stress in malaria, where controlled ROS production supports immune defense, while excessive levels lead to pathological inflammation <ref type="bibr" target="#b34">[35]</ref>.</p><p>Similarly, some authors reviewed the role of oxidative stress in malaria and discussed that antioxidants, such as N-acetylcysteine, could mitigate host cell damage while maintaining the immune response against Plasmodium <ref type="bibr" target="#b35">[36]</ref>. These findings align with our observations that the MQ + UdMAg combination leads to a significant increase in ROS levels, contributing to both immune activation and potential host oxidative stress, reinforcing the importance of controlled ROS modulation in malaria treatment.</p><p>Nitric oxide (NO), a key innate immune mediator, regulates parasitized erythrocyte sequestration and is linked to malaria severity. Elevated NO levels, often associated with genetic mutations enhancing its production, provide protection against severe malaria, whereas low NO and its precursor, L-arginine, correlate with disease severity and reduced erythrocyte deformability <ref type="bibr" target="#b36">[37]</ref>.</p><p>In this study, the combination group (MQ + UdMAg) exhibited higher NO levels, suggesting a protective role against malaria. This increase may be driven by enhanced activation of CD11 + cells, which facilitate phagocytosis and cytokine release, including iNOS upregulation for NO production. The combination study likely stimulated CD11 + cells more effectively, enhancing NO-mediated parasite clearance while maintaining immune balance. These findings align with studies highlighting NO's role in malaria immunity by inhibiting Plasmodium replication and preventing erythrocyte sequestration <ref type="bibr" target="#b37">[38]</ref>.</p><p>NO exhibits antiparasitic activity by inhibiting Plasmodium replication and reducing the sequestration of parasitized erythrocytes in microvasculature. Elevated NO levels have been associated with protection against severe malaria, while low NO levels correlate with increased disease severity. Additionally, genetic variations that enhance NO production have been linked to improved outcomes in malaria patients. UdMAg might have enhanced host immunity by activating CD11 + cells, leading to upregulated iNOS expression and increased nitric oxide (NO) production. The elevated NO levels observed in the MQ + UdMAg group suggests improved parasite clearance through NO-mediated cytotoxicity. These findings point to UdMAg's potential immunomodulatory role in augmenting antimalarial efficacy. As proposed by Cajueiro et al. <ref type="bibr" target="#b38">[39]</ref>, homeopathic dynamization may generate nanostructures such as "nanobubbles" or "clusters," which could contribute to its biological activity. Thus, UdMAg may complement mefloquine by promoting host-directed immune responses while maintaining immune balance, offering a novel adjunct strategy in antimalarial therapy.</p><p>Despite skepticism due to the extreme dilutions used, ultra dilutions, aim to stimulate the body's innate defense mechanisms and has persisted for over two centuries <ref type="bibr" target="#b39">[40]</ref> Early immunologists like Emil von Behring acknowledged conceptual overlaps between homeopathy and immunology. Modern immunology increasingly explores low-dose, multi-target approaches, aligning with homeopathy's foundational principles. Over 200 clinical trials have assessed homeopathic efficacy <ref type="bibr" target="#b40">[41]</ref>, and homotoxicology developed by Reckeweg extends this concept by using complex dilutions to regulate immune responses and detoxification <ref type="bibr" target="#b41">[42]</ref>. Emerging studies are uncovering plausible biological mechanisms. Dixit et al. <ref type="bibr" target="#b42">[43]</ref> reported that homeopathic medicines (HMs) selectively induce cytotoxicity in cancer cells by increasing reactive oxygen species, disrupting mitochondrial membrane potential, and modulating apoptosis-related proteins (e.g., p53, caspase-3, Bax, Bcl-2). HMs also caused G0/G1 cell cycle arrest, inhibited migration, and altered gene expression profiles. Chattopadhya and Mahanata <ref type="bibr" target="#b43">[44]</ref> used dielectric spectroscopy to explore molecular resonance between patient serum and prescribed remedies. In two responsive arthritis cases, serum and remedy resonance frequencies closely matched, whereas no match was found in a non-responder, suggesting a potential biophysical mechanism in remedy action. Yesudas et al. <ref type="bibr" target="#b44">[45]</ref> demonstrated that Thuja occidentalis mother tincture suppressed gastric cancer cell growth by downregulating oncogenic genes and signaling pathways (e.g., MAPK, Wnt, JAK/STAT), and also inhibited genes associated with warts. Similarly, we have also reported Joshi et al. <ref type="bibr" target="#b45">[46]</ref> that a homeopathic nosode (LdAPN 30C), prepared from Leishmania donovani, reduced parasite burden in infected mice and induced a protective Th1 immune response via upregulation of IFN-γ, IL-17, and nitric oxide. No histological toxicity was observed. Together, these findings suggest that ultra-diluted substances may exert measurable biological effects via modulation of redox states, apoptotic pathways, immune signaling, and possibly through resonance-based interactions offering a framework for integrating homeopathy with molecular immunology.</p><p>Our study highlights the potential of combining mefloquine (MQ) with an ultradiluted malaria antigen (UdMAg) as a novel prophylactic strategy against malaria. This combination not only enhanced survival and significantly reduced parasitaemia but also elicited a sustained immune response marked by increased CD4 + and CD8 + T cells, B cells, and innate immune activation. Furthermore, the synergistic effects of MQ and UdMAg promoted higher reactive oxygen species (ROS) and nitric oxide (NO) levels, contributing to effective parasite clearance while maintaining immune balance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Limitations of the study</head><p>Plasmodium berghei is a well-established model in malaria research, valued for its genetic manipulability and ability to provide insights into parasite biology, host-pathogen interactions, and antimalarial target aspects that are often difficult to study directly in human infections due to ethical and logistical constraints. It has significantly advanced our understanding of malaria pathophysiology and immune responses <ref type="bibr" target="#b46">[47]</ref> Ethical and practical constraints in studying human malaria have made animal models indispensable for advancing malaria research. These models provide valuable insights into parasite biology, disease progression, immune mechanisms, and transmission. Rodent malaria species i.e. P. berghei, P. yoelii, P. chabaudi, and P. vinckei originally isolated from Central African thicket rats, are widely employed in preclinical evaluation of antimalarial drugs and vaccines. Despite variations in life cycle and host specificity, their conserved chromosomal gene synteny with P. falciparum highlights their utility as experimental models <ref type="bibr" target="#b47">[48]</ref>. However, species-specific host factors can introduce molecular discrepancies, limiting direct translation to human malaria. To address this, mouse human chimeric models have been developed, allowing the engraftment of human red blood cells or hepatocytes, thereby improving the clinical relevance of experimental outcomes <ref type="bibr" target="#b48">[49]</ref>. The current study provided a strong foundation for further exploration in higher models and ultimately improving our understanding and treatment of human malaria.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Future prospect</head><p>Given the rising challenges of drug resistance and adverse effects associated with conventional antimalarials, our findings highlight the potential of integrative strategies that combine pharmacological action with immune modulation. To enhance the translational relevance of UdMAg, future research should focus on validating its efficacy against Plasmodium falciparum, particularly using humanized mouse models. Such in vivo systems would better mimic human host-parasite interactions and allow for detailed assessment of immune responses and therapeutic outcomes. Incorporating molecular tools like qPCR and transcriptomic profiling will provide deeper insights into host-parasite dynamics and confirm parasite clearance beyond microscopic detection. relationships which may be considered as potential competing interests: Dr Sukhbir Kaur reports financial support, equipment, drugs, or supplies, and writing assistance were provided by Central Council for Research in Homoeopathy. Reports a relationship with that includes:. Has patent pending to. If there are other authors, they declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1 .</head><label>1</label><figDesc>Infected Control (IC): Balb/C mice infected with P. berghei infected erythrocytes. 2. Nascent alcohol 30c (NA): Balb/C mice treated with Nascent alcohol 30c (NA) for 15 days (D1-D15) and injected with P. berghei infected erythrocytes on next day of dosing (D16). 3. Ultradiluted Malaria Antigen 30c (UdMAg): Balb/C mice given Ultradiluted Malaria Antigen 30c (UdMAg) for 15days (D1-D15) and injected with P. berghei infected erythrocytes on D16. 4. Mefloquine (MQ) treated group: Balb/C mice orally given Mefloquine for 2 days (D14-D15) and injected with P. berghei infected erythrocytes on next day of treatment. 5. Combination group (MQ þ UdMAg): Balb/C mice treated with MMN for 15days and MQ for last 2 days (D14-D15) and infected with P. berghei infected erythrocytes on D16.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Percent parasitaemia in experimental groups of P. berghei (ANKA strain) infected BalbC mice on different days i.e. D7, D14, D21, and D28 post-infection. The prophylactic efficacy of the standard antimalarial drug mefloquine (MQ), alone and in combination with (UdMAg) was evaluated by Peters (1965) test. The MQ + UdMAg group exhibited a greater reduction in parasitaemia compared to the infected control (IC) and groups treated alone in monotherapy. IC: Infected control, NA: Nascent alcohol, MQ: Mefloquine, UdMAg: Ultra diluted malaria antigen, MQ + UdMAg: combination of Mefloquine, and Ultra diluted malaria antigen. Data are presented as mean ± SD. (n = 5).</figDesc><graphic coords="3,311.02,534.56,242.21,115.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Kaplan-Meier analysis of mice in various experimental groups performed in Graph pad prism 10.4.1. IC: Infected control, NA: Nascent alcohol, MQ: Mefloquine, UdMAg: Ultra diluted malaria antigen, MQþUdMAg: combination of Mefloquine, and Ultra diluted malaria antigen. Data are presented as mean ± SD (n¼5).</figDesc><graphic coords="4,42.07,573.06,242.21,114.91" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Percentage of different immune cells in various groups of animals on different days (A) D7, (B) D14, (C)D28. Splenocytes were isolated from different animal groups and cell suspensions were prepared. A total of 1 × 10 6 cells were stained with fluorochrome-conjugated antimouse antibodies (anti-CD3 + FITC(Fluorescein isothiocyanate), anti-CD4 + PE (Phycoerthrin), anti-CD8 + APC (Allophycocyanin), anti-CD19 + BV421 (BrilliantViolet), anti-CD11b + AmCyan (Alternative Methyl Cyanine) for surface marker analysis and analysed by flow cytometery BD LSR Fortessa. CD4⁺ ⁺ T cells: All treated groups (MQ, UdMAg, MQ+UdMAg) showed a significant increase on D7 as compared to IC. The MQ+UdMAg group maintained the percentage on D14 and D28 while MQ and UdMAg groups showed a decline by D28. CD8⁺ ⁺ T cells: Elevated on D7 and D14 in all treated groups. On D28, levels remained significantly higher in the MQ+UdMAg group. CD19⁺ ⁺ B cells: Significantly increased in the MQ+UdMAg group on all days. MQ and UdMAg groups showed elevated levels on D7 and D14, with a decline by D28. CD11⁺ ⁺ cells: MQ+UdMAg group exhibited a significant rise on D7 , D14 , and D28 as compared to MQ group. MQ and UdMAg groups also showed early increases, followed by a decline by D28 with increasing parasitaemia. IC vs MQ / UdMAg /MQ þ UdMAg on D7, D14 and MQ vs MQ þ UdMAg on D28. *p≤0.05 statistically significant. IC: Infected control, NA: Nascent alcohol, MQ: Mefloquine, UdMAg: Ultra diluted malaria antigen, MQþUdMAg: combination of Mefloquine, and Ultra diluted malaria antigen. Values are expressed as mean± SD (n¼5). Results are analysed by two-way ANOVA, followed by Dunnet multiple comparison test.</figDesc><graphic coords="5,43.31,55.42,508.61,279.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Contour plots of immune cells on D7 to represent the gating strategy (A) IC (infected control) (B) MQ (Mefloquine) (C) UdMAg (D) MQ (Mefloquine) + UdMAg representing PE (CD4 + Tcells) vs APC (CD8 + T cells) (E) IC (infected control) (F) MQ (Mefloquine) (G) UdMAg (H) MQ (Mefloquine) + UdMAg representing SSC vs Pacific blue (CD19 + B cells).</figDesc><graphic coords="6,43.31,55.41,508.61,239.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Fluorescence intensity of Reactive Oxygen Species (ROS) in various group of animals on different days (A) D7, (B) D14, (C) D28. ROS levels were measured by H 2 DCFDA and were analysed by flow cytometer The levels were expressed as fold change of fluorescence units with respect to the IC (infected control) on D7 and D14 whereas MQ (Mefloquine) on D28. ROS levels were measured by H 2 DCFDA and were analysed by flow cytometer The levels were expressed as fold change of fluorescence units with respect to the IC (infected control) on D7 and D14 whereas MQ (Mefloquine) on D28. The MQ Mefloquine þ UdMAg(Ultra diluted malaria antigen) treated group showed maximum fold increase, on D7 (5.20-fold) and D14 (3.48-fold) as compared to IC, on D28 (2 fold increase) as compared to MQ. IC vs MQ/UdMAg/ MQþ UdMAg *p≤0.05 on D7 and D14 and MQ vs, MQþ UdMAg *p≤0.05 considered significant. Values are expressed as mean±SD (n¼5) and data analysed by ordinary one -way ANOVA followed by Dunnet multiple comparison test in Graph pad prism version 10.4.1.</figDesc><graphic coords="7,43.31,55.42,508.61,325.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Mansi Suri :</head><label>Suri</label><figDesc>Writingoriginal draft, Methodology, Data curation. Sapna Katnoria: Methodology, Data curation. Jyoti Joshi: Writingreview &amp; editing, Supervision. Subhash Kaushik: Resources, Funding acquisition. Debadatta Nayak: Conceptualization. Sukhbir Kaur: Writingreview &amp; editing, Visualization, Validation, Supervision, Methodology.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Levels of NO in various groups of animals on different days. (A) D7, (B) D14, (C)D28. Intracellular NO production in splenocytes was measured by Griess assay. Splenocytes from different experimental groups of mice were incubated in 5% CO 2 incubator at 37 • C in the presence of whole Plasmodium berghei (ANKA) antigen. The MQþUdMAg group showed the highest NO levels on all days. MQ and UdMAg groups also had elevated NO on D7 and D14, but levels declined by D28, correlating with increased parasitaemia. IC vs MQ/UdMAg/ MQþ UdMAg *p≤0.05 on D7 and D14 and MQ vs, MQþ UdMAg *p≤0.05 considered significant. Values are expressed as mean±SD (n¼5) and data analysed by ordinary one -way ANOVA followed by Dunnet multiple comparison test in Graph pad prism version 10.4.1.</figDesc><graphic coords="9,43.31,55.40,508.61,316.22" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p><rs type="funder">Central Council for Research in Homoeopathy (CCRH)</rs>, <rs type="funder">Ministry of AYUSH, Government of India, New Delhi</rs>, is acknowledged for supporting the work. We are grateful to <rs type="institution">Central Animal Facility, Panjab University</rs> for providing mice to carry out experimental work.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The work was funded by the <rs type="funder">Central Council for Research in Homoeopathy (CCRH, Ministry of AYUSH, Government of India, New Delhi</rs>, under project file no: <rs type="grantNumber">17-13/2022-23/CCRH/Tech/Coll/Panjab Univ-2022</rs>.</p><p>Declaration of competing interest: None.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_PaPZFcP">
+					<idno type="grant-number">17-13/2022-23/CCRH/Tech/Coll/Panjab Univ-2022</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare the following financial interests/personal </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A review of antimalarial activity of two or three nitrogen atoms containing heterocyclic compounds</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Verma</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00044-020-02604-6</idno>
+		<ptr target="https://doi.org/10.1007/s00044-020-02604-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Med. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1723" to="1750" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Chugh, A. Kumar, A. Verma, et al., A review of antimalarial activity of two or three nitrogen atoms containing heterocyclic compounds, Med. Chem. Res. 29 (2020) 1723-1750, https://doi.org/10.1007/s00044-020-02604-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">World malaria report</title>
+	</analytic>
+	<monogr>
+		<title level="m">Addressing inequity in the global malaria response</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2024">2024. 2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">World malaria report 2024: Addressing inequity in the global malaria response, Geneva: World Health Organization, 2024. Licence: CC BY-NC-SA 3.0 IGOISBN 978-92-4-010444-0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Rapid kill of malaria parasites by artemisinin and semi-synthetic endoperoxides involves ROS-dependent depolarization of the membrane potential</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Antoine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Amewu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jac/dkt486</idno>
+		<ptr target="https://doi.org/10.1093/jac/dkt486" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Antimicrob. Chemother</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1005</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Antoine, N. Fisher, R. Amewu, et al., Rapid kill of malaria parasites by artemisinin and semi-synthetic endoperoxides involves ROS-dependent depolarization of the membrane potential, J. Antimicrob. Chemother. 69 (4) (2014) 1005, https://doi.org/10.1093/jac/dkt486.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Resistance to antimalarial drugs: molecular, pharmacologic, and clinical considerations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Travassos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Laufer</surname></persName>
+		</author>
+		<idno type="DOI">10.1203/pdr.0b013e3181a0977e</idno>
+		<ptr target="https://doi.org/10.1203/pdr.0b013e3181a0977e" />
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr. Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">5 Pt 2</biblScope>
+			<biblScope unit="page" from="64R" to="70R" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.A. Travassos, M.K. Laufer, Resistance to antimalarial drugs: molecular, pharmacologic, and clinical considerations, Pediatr. Res. 65 (5 Pt 2) (2009) 64R-70R, https://doi.org/10.1203/pdr.0b013e3181a0977e.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Host immunity to Plasmodium infection: Contribution of Plasmodium berghei to our understanding of T cell-related immune response to blood-stage malaria</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ibraheem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bayarsaikhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Inoue</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.parint.2022.102646</idno>
+		<ptr target="https://doi.org/10.1016/j.parint.2022.102646" />
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Int</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">102646</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Ibraheem, G. Bayarsaikhan, S.I. Inoue, Host immunity to Plasmodium infection: Contribution of Plasmodium berghei to our understanding of T cell-related immune response to blood-stage malaria, Parasitol. Int. 92 (2023) 102646, https://doi.org/ 10.1016/j.parint.2022.102646.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">CD4 T-cell subsets in malaria: TH1/TH2 revisited</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Perez-Mazliah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Langhorne</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fimmu.2014.00671</idno>
+		<ptr target="https://doi.org/10.3389/fimmu.2014.00671" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">671</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Perez-Mazliah, J. Langhorne, CD4 T-cell subsets in malaria: TH1/TH2 revisited, Front. Immunol. 5 (2015) 671, https://doi.org/10.3389/fimmu.2014.00671.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The regulation of CD4 + T cells during malaria</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Loughland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Susanna</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/imr.12804</idno>
+		<ptr target="https://doi.org/10.1111/imr.12804" />
+	</analytic>
+	<monogr>
+		<title level="j">Immunol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="70" to="87" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Kumar, J.R. Loughland, S. Ng Susanna, et al., The regulation of CD4 + T cells during malaria, Immunol. Rev. 293 (1) (2020) 70-87, https://doi.org/10.1111/ imr.12804.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Innate immunity to malaria: the good, the bad and the unknown</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pohl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Cockburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">914598</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Pohl, I.A. Cockburn, Innate immunity to malaria: the good, the bad and the unknown, Front. Immunol. 13 (2022) 914598.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mefloquine as a prophylaxis for malaria needs to be revisited</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rahi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Parasitol. Drug</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="23" to="26" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.S. Ahmad, M. Rahi, et al., Mefloquine as a prophylaxis for malaria needs to be revisited, Int. J. Parasitol. Drug 17 (2021) 23-26.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The role of complementary and alternative medicine</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ernst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="issue">7269</biblScope>
+			<biblScope unit="page" from="1133" to="1135" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Ernst, The role of complementary and alternative medicine, BMJ 321 (7269) (2000) 1133-1135.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-dilution effects revisited. 2. Pharmacodynamic mechanisms</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bellavite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marzotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Olioso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="43" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Bellavite, M. Marzotto, D. Olioso, et al., High-dilution effects revisited. 2. Pharmacodynamic mechanisms, Homeopathy 103 (1) (2014) 22-43.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Preparation, standardization and antiplasmodial efficacy of novel malaria nosodes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katnoria</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0041-1729563</idno>
+		<ptr target="https://doi.org/10.1055/s-0041-1729563" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="121" to="133" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Suri, N.S. Walter, S. Katnoria, et al., Preparation, standardization and anti- plasmodial efficacy of novel malaria nosodes, Homeopathy 111 (2) (2022) 121-133, https://doi.org/10.1055/s-0041-1729563.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cellular targets of mefloquine</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ranjan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tox.2021.152995</idno>
+		<ptr target="https://doi.org/10.1016/j.tox.2021.152995" />
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">464</biblScope>
+			<biblScope unit="page">152995</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D.K. Ghosh, A. Kumar, A. Ranjan, Cellular targets of mefloquine, Toxicology 464 (2021) 152995, https://doi.org/10.1016/j.tox.2021.152995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Immunomodulatory effects of homoeopathic medicines: a review of pre-clinical studies</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mathur</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/ijrh.ijrh_26_18</idno>
+		<ptr target="https://doi.org/10.4103/ijrh.ijrh_26_18" />
+	</analytic>
+	<monogr>
+		<title level="j">IJ RH</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">90</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Gupta, M. Mathur, Immunomodulatory effects of homoeopathic medicines: a review of pre-clinical studies, IJ RH 12 (2) (2018) 90, https://doi.org/10.4103/ ijrh.ijrh_26_18.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Gene expression profiling of macrophages following mice treatment with an immunomodulator medication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Goes</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jcb.21713</idno>
+		<ptr target="https://doi.org/10.1002/jcb.21713" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Cell. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1364" to="1377" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C.C. de Oliveira, S.M. de Oliveira, V.M. Goes, et al., Gene expression profiling of macrophages following mice treatment with an immunomodulator medication, J. Cell. Biochem. 104 (4) (2008) 1364-1377, https://doi.org/10.1002/jcb.21713.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Activation of bone marrow cells treated with canova in vitro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Abud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cesar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Cavazzani</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cellbi.2006.06.011</idno>
+		<ptr target="https://doi.org/10.1016/j.cellbi.2006.06.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Cell Biol. Int</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="808" to="816" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.P. Abud, B. Cesar, L.F. Cavazzani, et al., Activation of bone marrow cells treated with canova in vitro, Cell Biol. Int. 30 (10) (2006) 808-816, https://doi.org/ 10.1016/j.cellbi.2006.06.011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Plasmodium falciparum multidrug resistance proteins (pfMRPs)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fançony</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphar.2021.759422</idno>
+		<ptr target="https://doi.org/10.3389/fphar.2021.759422" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.P. Gil, C. Fançony, Plasmodium falciparum multidrug resistance proteins (pfMRPs), Front. Pharmacol. 12 (2021), https://doi.org/10.3389/ fphar.2021.759422.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Mefloquine resistance in Plasmodium falciparum and increased pfmdr1 gene copy number</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Uhlemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brockman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(04)16767-6</idno>
+		<ptr target="https://doi.org/10.1016/s0140-6736(04)16767-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="438" to="447" />
+			<date type="published" when="2004">9432. 2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R.N. Price, A. Uhlemann, A. Brockman, et al., Mefloquine resistance in Plasmodium falciparum and increased pfmdr1 gene copy number, Lancet 364 (9432) (2004) 438-447, https://doi.org/10.1016/s0140-6736(04)16767-6.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">In vivo anti-malarial activity of propranolol against experimental Plasmodium berghei ANKA infection in mice</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">L</forename><surname>Adeyemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Ige</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Akanmu</surname></persName>
+		</author>
+		<idno type="DOI">10.4314/ajcem.v21i4.10</idno>
+		<ptr target="https://doi.org/10.4314/ajcem.v21i4.10" />
+	</analytic>
+	<monogr>
+		<title level="j">Afr. J. Clin. Exp. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="333" to="339" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O.L. Adeyemi, O.O. Ige, M.A. Akanmu, et al., In vivo anti-malarial activity of propranolol against experimental Plasmodium berghei ANKA infection in mice, Afr. J. Clin. Exp. Microbiol. 21 (4) (2020) 333-339, https://doi.org/10.4314/ajcem. v21i4.10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Drug resistance in Plasmodium berghei Vincke and Lips, 1948. I. Chloroquine resistance</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Peters</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0014-4894(65)90012-3</idno>
+		<ptr target="https://doi.org/10.1016/0014-4894(65)90012-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="80" to="89" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Peters, Drug resistance in Plasmodium berghei Vincke and Lips, 1948. I. Chloroquine resistance, Exp. Parasitol. 17 (1965) 80-89, https://doi.org/10.1016/ 0014-4894(65)90012-3.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The effect of Iodium 30c on experimental visceral leishmaniasis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bandral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Manchanda</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0040-1713361</idno>
+		<ptr target="https://doi.org/10.1055/s-0040-1713361" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="213" to="223" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Joshi, C. Bandral, R.K. Manchanda, et al., The effect of Iodium 30c on experimental visceral leishmaniasis, Homeopathy 109 (4) (2020) 213-223, https://doi.org/10.1055/s-0040-1713361.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Immunotherapeutic potential of Codonopsis clematidea and naringenin against visceral leishmaniasis</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biopha.2018.09.104</idno>
+		<ptr target="https://doi.org/10.1016/j.biopha.2018.09.104" />
+	</analytic>
+	<monogr>
+		<title level="j">Biomed. Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1048" to="1061" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Kaur, K. Chauhan, S. Kaur, Immunotherapeutic potential of Codonopsis clematidea and naringenin against visceral leishmaniasis, Biomed. Pharmacother. 108 (2018) 1048-1061, https://doi.org/10.1016/j.biopha.2018.09.104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Mahanine exerts in vitro and in vivo antileishmanial activity by modulation of redox homeostasis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Satyavarapu</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-017-03943-y</idno>
+		<ptr target="https://doi.org/10.1038/s41598-017-03943-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">4141</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Roy, D. Dutta, E.M. Satyavarapu, et al., Mahanine exerts in vitro and in vivo antileishmanial activity by modulation of redox homeostasis, Sci. Rep. 7 (1) (2017) 4141, https://doi.org/10.1038/s41598-017-03943-y.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Enhanced anti-malarial efficacy of mefloquine delivered via cationic liposome in a murine model of experimental cerebral malaria</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bharti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chauhan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejpb.2024.114210</idno>
+		<ptr target="https://doi.org/10.1016/j.ejpb.2024.114210" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Pharm. Biopharm</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page">114210</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Raza, H. Bharti, C. Chauhan, et al., Enhanced anti-malarial efficacy of mefloquine delivered via cationic liposome in a murine model of experimental cerebral malaria, Eur. J. Pharm. Biopharm. 197 (2024) 114210, https://doi.org/ 10.1016/j.ejpb.2024.114210.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Complementary and Alternative Healthcare: Is it Evidence-based?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Tabish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Health Sci. (Qassim)</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="V" to="IX" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.A. Tabish, Complementary and Alternative Healthcare: Is it Evidence-based? Int. J. Health Sci. (Qassim) 2 (1) (2008) V-IX.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Evaluation of the effect of biotherapics on experimental models of infectious diseases</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Aleixo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Santos</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1475-2875-11-13</idno>
+		<ptr target="https://doi.org/10.1186/1475-2875-11-13" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="147" to="150" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D.L. Aleixo, M.M. Barbosa, F.M. Santos, et al., Evaluation of the effect of biotherapics on experimental models of infectious diseases, Homeopathy 103 (2) (2014) 147-150, https://doi.org/10.1186/1475-2875-11-13.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Atorvastatin treatment is effective when used in combination with mefloquine in an experimental cerebral malaria murine model</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Souraud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Briolant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dormoi</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1475-2875-11-13</idno>
+		<ptr target="https://doi.org/10.1186/1475-2875-11-13" />
+	</analytic>
+	<monogr>
+		<title level="j">Malar. J</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.B. Souraud, S. Briolant, J. Dormoi, et al., Atorvastatin treatment is effective when used in combination with mefloquine in an experimental cerebral malaria murine model, Malar. J. 11 (2012) 13, https://doi.org/10.1186/1475-2875-11-13.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Efficacy of artesunate-mefloquine combination therapy on survival in Plasmodium berghei-infected mice: a time-toevent analysis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miranda</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fitd.2024.1454252</idno>
+		<ptr target="https://doi.org/10.3389/fitd.2024.1454252" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Trop</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1454252</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Santos, Pereira L, Miranda A, et al., Efficacy of artesunate-mefloquine combination therapy on survival in Plasmodium berghei-infected mice: a time-to- event analysis, Front. Trop. 5 (2024) 1454252, https://doi.org/10.3389/ fitd.2024.1454252.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Pioneer use of antimalarial transdermal combination therapy in rodent malaria model</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S M</forename><surname>Aly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsumori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Q</forename><surname>Dinh</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/pathogens12030398</idno>
+		<ptr target="https://doi.org/10.3390/pathogens12030398" />
+	</analytic>
+	<monogr>
+		<title level="j">Pathogens</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">398</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N.S.M. Aly, H. Matsumori, T.Q. Dinh, et al., Pioneer use of antimalarial transdermal combination therapy in rodent malaria model, Pathogens 12 (3) (2023) 398, https://doi.org/10.3390/pathogens12030398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Understanding the interplay of malarial pathogenesis, host immune response and oxidative stress: implications for disease progression and therapeutic strategies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Buthelezi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Masia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Masamba</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.amolm.2025.100082</idno>
+		<ptr target="https://doi.org/10.1016/j.amolm.2025.100082" />
+	</analytic>
+	<monogr>
+		<title level="j">AMM</title>
+		<imprint>
+			<biblScope unit="page">100082</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.N. Buthelezi, K.J. Masia, P. Masamba, et al., Understanding the interplay of malarial pathogenesis, host immune response and oxidative stress: implications for disease progression and therapeutic strategies, AMM (2025) 100082, https://doi. org/10.1016/j.amolm.2025.100082.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The anticancer homeopathic composite &quot;Canova Method&quot; is not genotoxic for human lymphocytes in vitro</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Seligmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genet. Mol. Res</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="223" to="228" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I.C. Seligmann, P.D. Lima, P.C. Cardoso, et al., The anticancer homeopathic composite &quot;Canova Method&quot; is not genotoxic for human lymphocytes in vitro, Genet. Mol. Res. 2 (2) (2003) 223-228.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Mefloquine is active in vitro and in vivo against Mycobacterium avium complex</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Bermudez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kolonoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/aac.43.8.1870</idno>
+		<ptr target="https://doi.org/10.1128/aac.43.8.1870" />
+	</analytic>
+	<monogr>
+		<title level="j">AAC</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1870" to="1874" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L.E. Bermudez, P. Kolonoski, M. Wu, et al., Mefloquine is active in vitro and in vivo against Mycobacterium avium complex, AAC 43 (8) (1999) 1870-1874, https://doi. org/10.1128/aac.43.8.1870.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effects of homeopathy in mice experimentally infected with Trypanosoma cruzi</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Herrera Etal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.homp.2008.02.009</idno>
+		<ptr target="https://doi.org/10.1016/j.homp.2008.02.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="65" to="69" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L.R. Almeida, M.C. Campos, H.M. Herrera etal, Effects of homeopathy in mice experimentally infected with Trypanosoma cruzi, Homeopathy 97 (2) (2008) 65-69, https://doi.org/10.1016/j.homp.2008.02.009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Oxidative stress and pathogenesis in malaria</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vasquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zuniga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fcimb.2021.768182</idno>
+		<ptr target="https://doi.org/10.3389/fcimb.2021.768182" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Cell. Infect. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">768182</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Vasquez, M. Zuniga, A. Rodriguez, Oxidative stress and pathogenesis in malaria, Front. Cell. Infect. Microbiol. 11 (2021) 768182, https://doi.org/10.3389/ fcimb.2021.768182.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Oxidative stress in malaria parasiteinfected erythrocytes: host-parasite interactions</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Vennerstrom</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijpara.2003.09.011</idno>
+		<ptr target="https://doi.org/10.1016/j.ijpara.2003.09.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="189" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Becker, L. Tilley, J.L. Vennerstrom, et al., Oxidative stress in malaria parasite- infected erythrocytes: host-parasite interactions, Int. J. Parasitol. 34 (2) (2004) 163-189, https://doi.org/10.1016/j.ijpara.2003.09.011.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Oxidative stress in malaria</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Percário</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Moreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijms131216346</idno>
+		<ptr target="https://doi.org/10.3390/ijms131216346" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="16346" to="16372" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Percário, D.R. Moreira, B.A. Gomes, et al., Oxidative stress in malaria, Int. J. Mol. Sci. 13 (12) (2012) 16346-16372, https://doi.org/10.3390/ijms131216346.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Interplay between Plasmodium falciparum haemozoin and L-arginine: implication for nitric oxide production</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dalessandro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Parapini</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12936-018-2602-0</idno>
+		<ptr target="https://doi.org/10.1186/s12936-018-2602-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Malar. J</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">456</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Corbett, S. Dalessandro, S. Parapini, et al., Interplay between Plasmodium falciparum haemozoin and L-arginine: implication for nitric oxide production, Malar. J. 17 (1) (2018) 456, https://doi.org/10.1186/s12936-018-2602-0.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A review of polymorphisms in the human gene for inducible nitric oxide synthase (NOS2) in patients with malaria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Levesque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Hobbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Anstey</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1012913023602</idno>
+		<ptr target="https://doi.org/10.1023/A:1012913023602" />
+	</analytic>
+	<monogr>
+		<title level="j">Sepsis</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="217" to="231" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.C. Levesque, M.R. Hobbs, N.M. Anstey, et al., A review of polymorphisms in the human gene for inducible nitric oxide synthase (NOS2) in patients with malaria, Sepsis 4 (3) (2001) 217-231, https://doi.org/10.1023/A:1012913023602.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Homeopathic medicines cause Th1 predominance and induce spleen and megakaryocytes changes in BALB/c mice infected with Leishmania infantum</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P B</forename><surname>Cajueiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Goma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Santos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cyto.2017.02.010</idno>
+		<ptr target="https://doi.org/10.1016/j.cyto.2017.02.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Cytokine</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="97" to="101" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.P.B. Cajueiro, E.P. Goma, H. Santos, et al., Homeopathic medicines cause Th1 predominance and induce spleen and megakaryocytes changes in BALB/c mice infected with Leishmania infantum, Cytokine 95 (2017) 97-101, https://doi.org/ 10.1016/j.cyto.2017.02.010.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Towards understanding molecular mechanisms of action of homeopathic drugs: an overview</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Khuda-Bukhsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/a:1026048907739</idno>
+		<ptr target="https://doi.org/10.1023/a:1026048907739" />
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cell. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">253</biblScope>
+			<biblScope unit="issue">1/2</biblScope>
+			<biblScope unit="page" from="339" to="345" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.R. Khuda-Bukhsh, Towards understanding molecular mechanisms of action of homeopathic drugs: an overview, Mol. Cell. Biochem. 253 (1/2) (2003) 339-345, https://doi.org/10.1023/a:1026048907739.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Advances in homeopathy and immunology a review of clinical research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bellavite</surname></persName>
+		</author>
+		<idno type="DOI">10.2741/s230</idno>
+		<ptr target="https://doi.org/10.2741/s230" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Biosci.-Scholar S</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1363" to="1389" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Bellavite, Advances in homeopathy and immunology a review of clinical research, Front. Biosci.-Scholar S3 (4) (2011) 1363-1389, https://doi.org/ 10.2741/s230.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Effect of an Ultra-diluted complex on health, growth performance, and blood parameters of pre-weaned dairy calves</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Palma</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/vetsci12020128</idno>
+		<ptr target="https://doi.org/10.3390/vetsci12020128" />
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Sci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">128</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.M. Martins, Da Silva, T.H. Palma, et al., Effect of an Ultra-diluted complex on health, growth performance, and blood parameters of pre-weaned dairy calves, Vet. Sci. 12 (2) (2025) 128, https://doi.org/10.3390/vetsci12020128.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Exploring the molecular mechanism of homoeopathic medicines against cancer: a pragmatic approach with narrative review of cell line studies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Dixit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Javed</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0042-1742591</idno>
+		<ptr target="https://doi.org/10.1055/s-0042-1742591,037-047" />
+	</analytic>
+	<monogr>
+		<title level="j">Homoeopath. Links</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.K. Dixit, S. Mukherjee, D. Javed, et al., Exploring the molecular mechanism of homoeopathic medicines against cancer: a pragmatic approach with narrative review of cell line studies, Homoeopath. Links 35 (1) (2022), https://doi.org/ 10.1055/s-0042-1742591, 037-047.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A fundamental study to observe correlation at molecular level between BioSamples of patients and indicated homoeopathic medicines</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mahata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. High Dilution Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="11" to="17" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Chattopadhyay, C.R. Mahata, A fundamental study to observe correlation at molecular level between BioSamples of patients and indicated homoeopathic medicines, Int. J. High Dilution Res. 15 (3) (2015) 11-17.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Identification of molecular therapeutic features of the homeopathy medicine Thuja by genome-wide expression profiling</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yesudas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Mohanraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Senthil</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.prmcm.2025.100596</idno>
+		<ptr target="https://doi.org/10.1016/j.prmcm.2025.100596" />
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol. Res</title>
+		<imprint>
+			<biblScope unit="page">100596</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Yesudas, Y.S. Mohanraj, J. Senthil, et al., Identification of molecular therapeutic features of the homeopathy medicine Thuja by genome-wide expression profiling, Pharmacol. Res. (2025) 100596, https://doi.org/10.1016/j.prmcm.2025.100596.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Evidence for reversal of immunosuppression by homeopathic medicine to a predominant Th1-type immune response in BALB/c mice infected with Leishmania donovani</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bandral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Manchanda</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0041-1727170</idno>
+		<ptr target="https://doi.org/10.1055/s-0041-1727170" />
+	</analytic>
+	<monogr>
+		<title level="j">Homeopathy</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="41" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Joshi, C. Bandral, R.K. Manchanda, et al., Evidence for reversal of immunosuppression by homeopathic medicine to a predominant Th1-type immune response in BALB/c mice infected with Leishmania donovani, Homeopathy 111 (1) (2022) 31-41, https://doi.org/10.1055/s-0041-1727170.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Evaluation of Plasmodium berghei models in malaria research</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Otun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Graca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Onisuru</surname></persName>
+		</author>
+		<idno type="DOI">10.33696/signaling.5.117</idno>
+		<ptr target="https://doi.org/10.33696/signaling.5.117" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Cell. Signal</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="96" to="113" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.O. Otun, R. Graca, O. Onisuru, et al., Evaluation of Plasmodium berghei models in malaria research, J. Cell. Signal 5 (3) (2024) 96-113, https://doi.org/10.33696/ signaling.5.117.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Current status of experimental models for the study of malaria</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Simwela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Waters</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0031182021002134</idno>
+		<ptr target="https://doi.org/10.1017/S0031182021002134" />
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N.V. Simwela, A.P. Waters, Current status of experimental models for the study of malaria, Parasitol 149 (6) (2022) 1-22, https://doi.org/10.1017/ S0031182021002134.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Using cryopreserved Plasmodium falciparum sporozoites in a humanized mouse model to study early malaria infection processes and test prophylactic treatments</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Jiménez-Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Möhrle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Angulo-Barturen</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/microorganisms11092209</idno>
+		<ptr target="https://doi.org/10.3390/microorganisms11092209" />
+	</analytic>
+	<monogr>
+		<title level="j">Microorganisms</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">2209</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.B. Jiménez-Díaz, J.J. Möhrle, I. Angulo-Barturen, et al., Using cryopreserved Plasmodium falciparum sporozoites in a humanized mouse model to study early malaria infection processes and test prophylactic treatments, Microorganisms 11 (9) (2023) 2209, https://doi.org/10.3390/microorganisms11092209.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

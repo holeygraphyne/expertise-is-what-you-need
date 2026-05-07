@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect.</title>
+				<funder>
+					<orgName type="full">American Psychological Association</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Psychological Association (APA)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-31">January 31, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Daryl</forename><forename type="middle">J</forename><surname>Bem</surname></persName>
+							<email>d.bem@cornell.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Rebecca</forename><surname>Epstein</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dan</forename><surname>Fishman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jamison</forename><surname>Hahn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eric</forename><surname>Hoffman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kelly</forename><surname>Lin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Brianne</forename><surname>Mintern</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Brittany</forename><surname>Terner</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Sherman</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Cornell University Institute of Noetic Sciences (IONS) , University of California , Santa</note>
+								<orgName type="department">Institute of Noetic Sciences (IONS)</orgName>
+								<orgName type="institution" key="instit1">Cornell University</orgName>
+								<orgName type="institution" key="instit2">University of California</orgName>
+								<address>
+									<settlement>Santa</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Department of Psychology , Uris Hall , Cornell University , Ithaca , NY 14853.</note>
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution" key="instit1">Uris Hall</orgName>
+								<orgName type="institution" key="instit2">Cornell University</orgName>
+								<address>
+									<postCode>14853.</postCode>
+									<settlement>Ithaca</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect.</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Personality and Social Psychology</title>
+						<title level="j" type="abbrev">Journal of Personality and Social Psychology</title>
+						<idno type="ISSN">0022-3514</idno>
+						<idno type="eISSN">1939-1315</idno>
+						<imprint>
+							<publisher>American Psychological Association (APA)</publisher>
+							<biblScope unit="volume">100</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="407" to="425"/>
+							<date type="published" when="2011-01-31">January 31, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9F200D25C6E1F5BC2E122CB4B4BE57DF</idno>
+					<idno type="DOI">10.1037/a0021524</idno>
+					<note type="submission">Received May 12, 2010 Revision received August 23, 2010 Accepted September 3, 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>psi</term>
+					<term>parapsychology</term>
+					<term>ESP</term>
+					<term>precognition</term>
+					<term>retrocausation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The term psi denotes anomalous processes of information or energy transfer that are currently unexplained in terms of known physical or biological mechanisms. Two variants of psi are precognition (conscious cognitive awareness) and premonition (affective apprehension) of a future event that could not otherwise be anticipated through any known inferential process. Precognition and premonition are themselves special cases of a more general phenomenon: the anomalous retroactive influence of some future event on an individual's current responses, whether those responses are conscious or nonconscious, cognitive or affective. This article reports 9 experiments, involving more than 1,000 participants, that test for retroactive influence by "time-reversing" well-established psychological effects so that the individual's responses are obtained before the putatively causal stimulus events occur. Data are presented for 4 time-reversed effects: precognitive approach to erotic stimuli and precognitive avoidance of negative stimuli; retroactive priming; retroactive habituation; and retroactive facilitation of recall. The mean effect size (d) in psi performance across all 9 experiments was 0.22, and all but one of the experiments yielded statistically significant results. The individual-difference variable of stimulus seeking, a component of extraversion, was significantly correlated with psi performance in 5 of the experiments, with participants who scored above the midpoint on a scale of stimulus seeking achieving a mean effect size of 0.43. Skepticism about psi, issues of replication, and theories of psi are also discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The term psi denotes anomalous processes of information or energy transfer that are currently unexplained in terms of known physical or biological mechanisms. The term is purely descriptive; it neither implies that such phenomena are paranormal nor connotes anything about their underlying mechanisms. Alleged psi phenomena include telepathy, the apparent transfer of information from one person to another without the mediation of any known channel of sensory communication; clairvoyance (sometimes called remote viewing), the apparent perception of objects or events that do not provide a stimulus to the known senses; psychokinesis, the apparent influence of thoughts or intentions on physical or biological processes; and precognition (conscious cognitive awareness) or premonition (affective apprehension) of a future event that could not otherwise be anticipated through any known inferential process.</p><p>Precognition and premonition are themselves special cases of a more general phenomenon: the anomalous retroactive influence of some future event on an individual's current responses, whether those responses are conscious or nonconscious, cognitive or affective. This article reports nine experiments designed to test for such retroactive influence by "time-reversing" several well-established psychological effects, so that the individual's responses are obtained before the putatively causal stimulus events occur.</p><p>Psi is a controversial subject, and most academic psychologists do not believe that psi phenomena are likely to exist. A survey of 1,100 college professors in the United States found that psychologists were much more skeptical about the existence of psi than were their colleagues in the natural sciences, the other social sciences, or the humanities <ref type="bibr" target="#b51">(Wagner &amp; Monnet, 1979)</ref>. In fact, 34% of the psychologists in the sample declared psi to be impossible, a view expressed by only 2% of all other respondents. Although our colleagues in other disciplines would probably agree with the oft-quoted dictum that "extraordinary claims require extraordinary evidence," we psychologists are more likely to be familiar with the methodological and statistical requirements for sustaining such claims and aware of previous claims that failed either to meet those requirements or to survive the test of successful replication. Several other reasons for our greater skepticism are discussed by <ref type="bibr">Bem and Honorton (1994, pp. 4 -5)</ref>.</p><p>There are two major challenges for psi researchers, one empirical and one theoretical. The major empirical challenge, of course, is to provide well-controlled demonstrations of psi that can be replicated by independent investigators. That is the major goal in the research program reported in this article. Accordingly, the experiments have been designed to be as simple and transparent as possible, drawing participants from the general population, requiring no instrumentation beyond a desktop computer, taking less than thirty minutes per session, and requiring statistical analyses no more complex than a t test across sessions or participants.</p><p>The major theoretical challenge for psi researchers is to provide an explanatory theory for the alleged phenomena that is compatible with physical and biological principles. Although the current absence of an explanatory theory for psi is a legitimate rationale for imposing the "extraordinary" requirement on the evidence, it is not, I would argue, sufficient reason for rejecting all proffered evidence a priori. Historically, the discovery and scientific exploration of most phenomena have preceded explanatory theories, often by decades or even centuries. The major focus of this article is empirical, but I return to a brief discussion of theory at the end.</p><p>As noted above, the experiments in this article are concerned with apparent retroactive influence, a generalized form of precognition. Experimental tests of precognition have been reported for more than half a century. Most of the early experiments used forced-choice designs in which participants were explicitly challenged to guess which one of several potential targets would be randomly selected at a later time. Typical targets have been ESP card symbols, an array of colored lightbulbs, the faces of a die, or visual elements in a computer display. When a participant correctly selects the actual target-to-be, it is designated as a hit, and psi performance is typically expressed as the hit rate, the percentage of hits over trials.</p><p>A meta-analysis of all forced-choice precognition experiments appearing in English-language journals between 1935 and 1977 was published by <ref type="bibr" target="#b29">Honorton and Ferrari (1989)</ref>. Their analysis included 309 experiments conducted by 62 different investigators and involving more than 50,000 participants. Honorton and Ferrari reported a small but consistent and highly significant hit rate (mean z ϭ 0.69, combined z ϭ 12.14, p ϭ 6 ϫ 10 Ϫ27 ). They also concluded that this overall result was unlikely to be significantly inflated by the selective reporting of positive results (the so-called file-drawer effect): There would have to be 46 unreported studies averaging null results for every reported study in the meta-analysis to reduce the overall significance of the database to nonsignificance.</p><p>Just as research in cognitive social psychology has increasingly pursued the study of cognitive and affective processes that are not accessible to conscious awareness and control <ref type="bibr" target="#b2">(Bargh &amp; Ferguson, 2000)</ref>, research in psi has followed the same path, moving from explicit forced-choice guessing tasks to experiments using subliminal stimuli and implicit, indirect, or physiological responses. The trend is exemplified by several recent "presentiment" experiments, pioneered by <ref type="bibr" target="#b39">Radin (1997)</ref>, in which physiological indices of participants' emotional arousal were monitored as participants viewed a series of pictures on a computer screen. Most of the pictures were emotionally neutral, but a highly arousing negative or erotic image was displayed on randomly selected trials. As expected, strong emotional arousal occurred when these images appeared on the screen, but the remarkable finding is that the increased arousal was observed to occur a few seconds before the picture appeared, before the computer had even selected the picture to be displayed. The presentiment effect has also been demonstrated in an fMRI experiment that monitored brain activity <ref type="bibr" target="#b5">(Bierman &amp; Scholte, 2002)</ref> and in experiments using bursts of noise rather than visual images as the arousing stimuli <ref type="bibr" target="#b49">(Spottiswoode &amp; May, 2003)</ref>. A review of presentiment experiments prior to 2006 can be found in <ref type="bibr">Radin (2006, pp. 161-180)</ref>. Although there has not yet been a formal meta-analysis of presentiment studies, there have been 24 studies with human participants through 2009, of which 19 were in the predicted direction and about half were statistically significant. Two studies with animals were both positive, one marginally and the other substantially so (D. I. <ref type="bibr">Radin, personal communication, December 20, 2009)</ref>.</p><p>Most of the experiments reported in this article are also part of this trend toward using subliminal stimulus presentations and indirect or implicit response measures. Each of them modified a well-established psychological effect by reversing the usual sequence of events, so that the individual's responses were obtained before rather than after the stimulus events occurred. Table <ref type="table" target="#tab_0">1</ref> provides an overview of the effects and their corresponding timereversed experiments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precognitive Approach and Avoidance</head><p>The presentiment studies provide evidence that our physiology can anticipate unpredictable erotic or negative stimuli before they occur. Such anticipation would be evolutionarily advantageous for reproduction and survival if the organism could act instrumentally to approach erotic stimuli and avoid negative stimuli. The two experiments in this section were designed to test whether individuals can do so.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 1: Precognitive Detection of Erotic Stimuli</head><p>As noted above, most of the earlier experiments in precognition explicitly challenged participants to guess which one of several stimuli would be randomly selected after they recorded their guess. In most of these experiments, participants were also given explicit trial-by-trial feedback on their performance. This first experiment adopts this traditional protocol, using erotic pictures as explicit reinforcement for correct "precognitive" guesses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>One hundred Cornell undergraduates, 50 women and 50 men, were recruited for this experiment through the Psychology Depart- ment's automated online sign-up system.<ref type="foot" target="#foot_0">foot_0</ref> They either received one point of experimental credit in a psychology course offering that option or were paid $5 for their participation. Both the recruiting announcement and the introductory explanation given to participants upon entering the laboratory informed them that this is an experiment that tests for ESP. It takes about 20 minutes and is run completely by computer. First you will answer a couple of brief questions. Then, on each trial of the experiment, pictures of two curtains will appear on the screen side by side. One of them has a picture behind it; the other has a blank wall behind it. Your task is to click on the curtain that you feel has the picture behind it. The curtain will then open, permitting you to see if you selected the correct curtain. There will be 36 trials in all.</p><p>Several of the pictures contain explicit erotic images (e.g., couples engaged in nonviolent but explicit consensual sexual acts). If you object to seeing such images, you should not participate in this experiment.</p><p>The participant then signed a consent form and was seated in front of the computer. After responding to two individualdifference items (discussed below), the participant had a 3-min relaxation period during which the screen displayed a slowly moving Hubble photograph of the starry sky while peaceful newage music played through stereo speakers. The 36 trials began immediately after the relaxation period.</p><p>Stimuli. Most of the pictures used in this experiment were selected from the International Affective Picture System (IAPS; <ref type="bibr" target="#b34">Lang &amp; Greenwald, 1993)</ref>, a set of 820 digitized photographs that have been rated on 9-point scales for valence and arousal by both male and female raters. This is the same source of pictures used in most presentiment studies. Each session of the experiment included both erotic and nonerotic pictures randomly intermixed, and the main psi hypothesis was that participants would be able to identify the position of the hidden erotic picture significantly more often than chance (50%).</p><p>The hit rate on erotic trials can also be compared with the hit rates on the nonerotic trials to test whether there is something unique about erotic content in addition to its positive valence and high arousal value. For this purpose, 40 of the sessions comprised 12 trials using erotic pictures, 12 trials using negative pictures, and 12 trials using neutral pictures. The sequencing of the pictures and their left/right positions were randomly determined by the programming language's internal random function. The remaining 60 sessions comprised 18 trials using erotic pictures and 18 trials using nonerotic positive pictures with both high and low arousal ratings. These included eight pictures featuring couples in romantic but nonerotic situations (e.g., a romantic kiss, a bride and groom at their wedding). The sequencing of the pictures on these trials was randomly determined by a randomizing algorithm devised by <ref type="bibr" target="#b37">Marsaglia (1997)</ref>, and their left/right target positions were determined by an Araneus Alea I hardware-based random number generator. (The rationale for using different randomizing procedures is discussed in detail below.)</p><p>Although it is always desirable to have as many trials as possible in an experiment, there are practical constraints limiting the number of critical trials that can be included in this and several others experiments reported in this article. In particular, on all the experiments using highly arousing erotic or negative stimuli, a relatively large number of nonarousing trials must be included to permit the participant's arousal level to "settle down" between critical trials. This requires including many trials that do not contribute directly to the effect being tested.</p><p>In our first retroactive experiment (Experiment 5, described below), women showed psi effects to highly arousing stimuli but men did not. Because this appeared to have arisen from men's lower arousal to such stimuli, we introduced different erotic and negative pictures for men and women in subsequent studies, including this one, using stronger and more explicit images from Internet sites for the men. We also provided two additional sets of erotic pictures so that men could choose the option of seeing male-male erotic images and women could choose the option of seeing female-female erotic images. <ref type="foot" target="#foot_1">2</ref>From the participants' point of view, this procedure appears to test for clairvoyance. That is, participants were told that a picture was hidden behind one of the curtains, and their challenge was to guess correctly which curtain concealed the picture. In fact, however, neither the picture itself nor its left/right position was determined until after the participant recorded his or her guess, making the procedure a test of detecting a future event (i.e., a test of precognition).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Across all 100 sessions, participants correctly identified the future position of the erotic pictures significantly more frequently than the 50% hit rate expected by chance: 53.1%, t(99) ϭ 2.51, p ϭ .01, d ϭ 0.25. <ref type="foot" target="#foot_2">3</ref> In contrast, their hit rate on the nonerotic pictures did not differ significantly from chance: 49.8%, t(99) ϭ Ϫ0.15, p ϭ .56. This was true across all types of nonerotic pictures: neutral pictures, 49.6%; negative pictures, 51.3%; positive pictures, 49.4%; and romantic but nonerotic pictures, 50.2%. (All t values Ͻ 1.) The difference between erotic and nonerotic trials was itself significant, t diff (99) ϭ 1.85, p ϭ .031, d ϭ 0.19. Because erotic and nonerotic trials were randomly interspersed in the trial sequence, this significant difference also serves to rule out the possibility that the significant hit rate on erotic pictures was an artifact of inadequate randomization of their left/right positions.</p><p>Because there are distribution assumptions underlying t tests, the significance levels of most of the positive psi results reported in this article were also calculated with nonparametric tests. In this experiment, the hit rates on erotic trials were also analyzed with a binomial test on the overall proportion of hits across all trials and sessions, tested against a null of .5. This is analogous to analyzing a set of coin flips without regard to who or how many are doing the flipping. It is legitimate here because the target was randomly selected on each trial and hence the trials were statistically independent, even within a single session. Across all 100 sessions, the 53.1% hit rate was also significant by a binomial test (z ϭ 2.30, p ϭ .011).</p><p>Individual differences. There were no significant sex differences in the present experiment. Over the years, however, the trait of extraversion has been frequently reported as a correlate of psi, with extraverts achieving higher psi scores than introverts. A meta-analysis of 60 independent experiments published between 1945 and 1983, involving several kinds of psi tasks, revealed a small but reliable correlation between extraversion and psi performance (r ϭ .09, z ϭ 4.63, p ϭ .000004; <ref type="bibr" target="#b30">Honorton, Ferrari, &amp; Bem, 1992)</ref>. The correlation was observed again in a later set of telepathy studies conducted in Honorton's own laboratory, r ϭ .18, t(216) ϭ 2.67, p ϭ .004 <ref type="bibr" target="#b4">(Bem &amp; Honorton, 1994)</ref>.</p><p>The component of extraversion that underlies this correlation appears to be the extravert's susceptibility to boredom and a tendency to seek out stimulation. <ref type="bibr" target="#b23">Eysenck (1966)</ref> attributed the positive correlation between extraversion and psi to the fact that extraverts "are more susceptible to monotony . . . <ref type="bibr">[and]</ref> respond more favourably to novel stimuli" (p. 59). Sensation seeking is one of the six facets of extraversion on the Revised NEO Personality Inventory <ref type="bibr" target="#b18">(Costa &amp; McCrae, 1992)</ref>, and Zuckerman's Sensation Seeking Scale <ref type="bibr">(1974)</ref>, which contains a subscale of Boredom Susceptibility, is significantly correlated with overall extraversion (r ϭ .47, p Ͻ .01; <ref type="bibr" target="#b24">Farley &amp; Farley, 1967)</ref>.</p><p>To assess stimulus seeking as a correlate of psi performance in our experiments, I constructed a scale comprising the following two statements: "I am easily bored" and "I often enjoy seeing movies I've seen before" (reverse scored). Responses were recorded on 5-point scales that ranged from Very Untrue to Very True and averaged into a single score ranging from 1 to 5.</p><p>In the present experiment, the correlation between stimulus seeking and psi performance was .18 ( p ϭ .035). This significant correlation is reflected in the enhanced psi scores of those scoring above the midpoint on the 5-point stimulus-seeking scale: They correctly identified the future position of the picture on 57.6% of the erotic trials, t(41) ϭ 4.57, p ϭ .00002, d ϭ 0.71, exact binomial p ϭ .00008. The difference between their erotic and nonerotic hit rates was itself significant, t diff (41) ϭ 3.23, p ϭ .001, d ϭ 0.50, with 71% of participants achieving higher hit rates on erotic trials than on nonerotic trials (exact binomial p ϭ .003). Their psi scores on nonerotic trials did not exceed chance, 49.9%, t(41) ϭ Ϫ0.08, p ϭ .53. Finally, participants low in stimulus seeking did not score significantly above chance on either erotic or nonerotic trials, 49.9%, t(57) ϭ Ϫ0.06 and 49.9%, t(57) ϭ Ϫ0.13, respectively.</p><p>But is it precognition? The role of random number generators. For most psychological experiments, a random number table or the random function built into most programming languages provides an adequate tool for randomly assigning participants to conditions or sequencing stimulus presentations. For both methodological and conceptual reasons, however, psi researchers have paid much closer attention to issues of randomization.</p><p>At the methodological level, the problem is that the random functions included in most computer languages are not very good in that they fail one or more of the mathematical tests used to assess the randomness of a sequence of numbers <ref type="bibr" target="#b35">(L'Ecuyer, 2001)</ref>, such as <ref type="bibr" target="#b36">Marsaglia's (1995)</ref> rigorous Diehard Battery of Tests of Randomness. Such random functions are sometimes called pseudo random number generators (PRNGs) because they use a mathe-matical algorithm to generate each subsequent number from the previous number, and the sequence of numbers is random only in the sense that it satisfies (or should satisfy) certain mathematical tests of randomness. It is not random in the sense of being indeterminate because once the initial starting number (the seed) is set, all future numbers in the sequence are fully determined.</p><p>In contrast, a hardware-based or "true" RNG is based on a physical process, such as radioactive decay or diode noise, and the sequence of numbers is indeterminate in the quantum mechanical sense. This does not in itself guarantee that the resulting sequence of numbers can pass all the mathematical tests of randomness, however; some hardware-based RNGs also fail one or more of the tests in the diehard battery <ref type="bibr" target="#b35">(L'Ecuyer, 2001)</ref>. Both Marsaglia's own PRNG algorithm and the true hardware-based Araneus Alea I RNG used in our experiments pass all his diehard tests.</p><p>Note that a random number table is actually a PRNG, even if the sequence of numbers was originally generated by a true RNG. Once the table is printed or stored electronically and an entry point into the table is chosen, the resulting sequence is fully determined, with the entry point being equivalent to the seed number of a computer-based PRNG.</p><p>At the conceptual level, the choice of a PRNG or a hardwarebased RNG bears on the interpretation of positive findings. In the present context, it bears on my claim that the experiments reported in this article provide evidence for precognition or retroactive influence. In the experiment just reported, for example, there are several possible interpretations of the significant correspondence between the participants' left/right responses and the computer's left/right placements of the erotic target pictures:</p><p>1. Precognition or retroactive influence: The participant is, in fact, accessing information yet to be determined in the future, implying that the direction of the causal arrow has been reversed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Clairvoyance/remote viewing:</head><p>The participant is accessing already determined information in real time, information that is stored in the computer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Psychokinesis:</head><p>The participant is actually influencing the RNG's placements of the targets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Artifactual correlation:</head><p>The output from the RNG is inadequately randomized, containing patterns that fortuitously match participants' response biases. This produces a spurious correlation between the participant's guesses and the computer's placements of the target picture.</p><p>Consider, first, the clairvoyance interpretation. If an algorithmbased PRNG is used for determining the successive left/right positions of the target pictures, then the computer already "knows" the upcoming random number before the participant makes his or her response; in fact, once the initial seed number is generated, the computer implicitly knows the entire sequence of left/right positions. As a result, this information is potentially available to the participant through real-time clairvoyance, permitting us to reject the more extraordinary claim that the direction of the causal arrow has actually been reversed. In contrast, if a true hardware-based RNG is used for determining the left/right positions, the next number in the sequence is indeterminate until it is actually generated by the quantum physical process embedded in the RNG, thereby ruling out the clairvoyance alternative. This argues for using a true RNG to demonstrate precognition or retroactive influence.</p><p>But alas, the use of a true RNG opens up the door to the psychokinesis interpretation: The participant might be influencing the placement of the upcoming target rather than perceiving it, a possibility supported by a body of empirical evidence testing psychokinesis with true RNGs <ref type="bibr">(Radin, 2006, pp. 154 -160)</ref>. Like the clairvoyance interpretation, the psychokinesis interpretation permits us to reject the claim that the direction of the causal arrow has been reversed. Ironically, the psychokinesis alternative can be ruled out by using a PRNG, which is immune to psychokinesis because the sequence of numbers is fully determined and can even be checked after the fact to confirm that its algorithm has not been perturbed. Over the course of our research program-and within the experiment just reported-we have obtained positive results using both PRNGs and a true RNG, arguably leaving precognition/ reversed causality the only nonartifactual interpretation that can account for all the positive results.</p><p>This still leaves open the artifactual alternative that the output from the RNG is producing inadequately randomized sequences containing patterns that fortuitously match participants' response biases. In the present experiment, this possibility was ruled out by the twin findings that erotic targets were detected significantly more frequently than randomly interspersed nonerotic targets and that the nonerotic targets themselves were not detected significantly more frequently than chance.</p><p>Nevertheless, for some of the other experiments reported in this article, it would be useful to have more general assurance that there are not patterns in the left/right placements of the targets that might correlate with response biases of participants. For this purpose, Lise Wallach, professor of psychology at Duke University, suggested that I run a virtual control experiment using random inputs in place of human participants <ref type="bibr">(personal communication, October 10, 2009)</ref>. In particular, if the human participant is replaced by the same PRNG or RNG that selects the left/right target positions, this maximizes the possibility that any nonrandom patterns in the sequence of left/right target positions will be mirrored by similar patterns in the left/right responses of the virtual participant (the RNG itself), thereby producing an artifactual psi-like result. A null result implies that no such patterns were present.</p><p>Accordingly, I ran three experiments that simulated the experiment just reported, one using the internal PRNG of the programming language (REALbasic), one using Marsaglia's PRNG algorithm, and one using the Araneus Alea I hardware-based RNG. Each experiment comprised 100 sessions of 36 trials per session, in which the same PRNG or RNG provided both the left/right response of a virtual participant and the subsequent left/right position of the target. These control experiments all yielded null results: The hit rates were 49.5%, 50.4%, and 49.5% for the internal PRNG, the Marsaglia PRNG, and the Araneus Alea I RNG, respectively (all t values Ͻ 1). The corresponding correlations (phi) between the virtual participants' input responses and the RNG's target positions were Ϫ.00, .00, and Ϫ.01, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 2: Precognitive Avoidance of Negative Stimuli</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>One hundred fifty Cornell undergraduates, 107 women and 43 men, were recruited for this experiment through the Psychology Department's automated online sign-up system. Both the recruiting announcement and the opening instructions given to participants upon entering the laboratory, informed them that this is an experiment that tests for ESP (Extrasensory Perception). The experiment is run entirely by computer and takes about 15 minutes. . . . On each trial of the experiment you will be shown a picture and its mirror image side by side and asked to indicate which image you like better. The computer will then flash a masked picture on the screen. The way in which this procedure tests for ESP will be explained to you at the end of the session.</p><p>Note that the participant's task in this experiment was simply to express a preference between two closely matched pictures on each trial; unlike in traditional precognition experiments (and Experiment 1 reported above), the participant was not faced with an explicit psi challenge.</p><p>As in Experiment 1, the participant was seated in front of the computer and asked to respond to the two items on the stimulus seeking scale. This was followed by the same 3-min relaxation period. Then, on each of 36 trials, the participant was shown a low-arousal, affectively neutral picture and its mirror image side by side and asked to press one of two keys on the keyboard to indicate which neutral picture he or she liked better. Using the Araneus Alea I hardware-based RNG, the computer then randomly designated one of the two pictures to be the target. Note that the computer did not determine which of the two neutral pictures would be the target until after the participant had registered his or her preference. Whenever the participant had indicated a preference for the target-to-be, the computer flashed a positively valenced picture on the screen subliminally three times. Whenever the participant had indicated a preference for the nontarget, the computer subliminally flashed a highly arousing, negatively valenced picture. Pictures were again selected primarily from the IAPS set.</p><p>The flashed pictures were exposed for 33 ms, followed immediately by a masking stimulus for 167 ms. Time between flashes was 500 ms. A Hubble photograph of the starry sky appeared on the screen for 3,000 ms before the onset of the next trial. A hit was defined as preferring the target-to-be, the picture that avoided the subliminally exposed negative picture. Because participants chose between two images on each trial, the psi hypothesis was that they would prefer the target to the nontarget on significantly more than 50% of the trials.</p><p>The pairs of neutral pictures were presented in a fixed order for all sessions, and the RNG randomly determined the left/right position of the two images. For the first 100 sessions, the flashed positive and negative pictures were independently selected and sequenced randomly. For the subsequent 50 sessions, the negative pictures were put into a fixed sequence, ranging from those that had been successfully avoided most frequently during the first 100 sessions to those that had been avoided least frequently. If the participant selected the target, the positive picture was flashed subliminally as before, but the unexposed negative picture was retained for the next trial; if the participant selected the nontarget, the negative picture was flashed and the next positive and negative pictures in the queue were used for the next trial. In other words, no picture was exposed more than once, but a successfully avoided negative picture was retained over trials until it was eventually invoked by the participant and exposed subliminally. The working hypothesis behind this variation in the study was that the psi effect might be stronger if the most successfully avoided negative stimuli were used repeatedly until they were eventually invoked.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>The results from the last 50 sessions did not differ significantly from those obtained on the first 100 sessions, so all 150 sessions were combined for analysis.</p><p>Unlike in Experiment 1, which had nonerotic trials randomly interspersed among the critical erotic trials, in this experiment every trial constituted a critical trial, making it necessary to confirm that the successive left/right positions of the target were adequately randomized and did not contain patterns that might match participants' response biases. For this reason, I analyzed the data in four ways. The first two analyses were the familiar ones used in Experiment 1: a one-sample t test across participants' hit rates, tested against a null hit rate of 50%, and a nonparametric binomial test on the proportion of hits across all trials and sessions.</p><p>The third analysis used an alternative index of psi performance, one that corrects for unequal frequencies of left/right target positions within each session. The output of a session can be represented by the 2 ϫ 2 table shown in Figure <ref type="figure" target="#fig_0">1</ref>.</p><p>The conventional hit rate is defined as hits/trials, or (A ϩ D)/(A ϩ B ϩ C ϩ D). But if there is a bias in the distribution of left/right target positions, if (A ϩ C) (B ϩ D), the hit rate will not necessarily reflect actual psi performance. For example, if the RNG places a majority of the targets on the left and the participant also has a bias favoring pictures on the left, the hit rate will be artifactually inflated. (Experimentally forcing the left/right positions of the target to be equal is not a legitimate corrective for this problem, because it destroys the statistical independence of the trials by using a sampling-without-replacement or "closed deck" procedure.)</p><p>An index that automatically corrects for any bias in target position is the phi coefficient, the correlation between the participant's left/ right preferences and the RNG's left/right target placements. Phi is computed by the formula</p><formula xml:id="formula_0">(AD Ϫ BC)/[(A ϩ B)(C ϩ D)(A ϩ C)(B ϩ D)] 1/2</formula><p>and ranges from Ϫ1 to 1 <ref type="bibr" target="#b48">(Siegel &amp; Castellan, 1988)</ref>. Phi was computed for each participant, and a t test on phi across participants was calculated. The psi hypothesis is that phi will be significantly greater than 0.</p><p>The fourth analysis controlled for any potential overall systematic bias in the RNG by computing an empirical null baseline for each participant rather than assuming it to be 50%. The output of a session in this experiment can be conceptualized as a string of 36 left/right decisions made by the participant compared with the corresponding string of 36 left/right target positions generated by the computer. The number of matches between the two strings is the number of hits obtained. An empirical baseline was computed by running each of the 150 participants through 149 virtual control sessions by comparing his or her decision string with the computer-generated target strings from each of the other 149 (nonself) sessions and calculating the associated hit rates. The mean of those hit rates becomes the empirical baseline for that participant. Because any systematic bias in the RNG will affect the participant's empirical baseline the same way it affects the participant's hit rate, the bias will be subtracted out of the analysis. For descriptive purposes, the difference between the hit rate and the empirical baseline is added to 50% to yield a number that can be directly compared with the more conventional hit rate where 50% is the null.</p><p>As Table <ref type="table" target="#tab_1">2</ref> reveals, the four analyses yielded comparable results, showing significant psi performance across the 150 sessions. Recall, too, that the RNG used in this experiment was tested in the simulation, described above in the discussion of Experiment 1, and was shown to be free of nonrandom patterns that might correlate with participants' responses biases.</p><p>Stimulus seeking. In the present experiment, the correlation between stimulus seeking and psi performance was .17 ( p ϭ .02). Table <ref type="table">3</ref> reveals that the subsample of high stimulus seekers achieved an effect size more than twice as large as that of the full sample. In contrast, the hit rate of low stimulus seekers did not depart significantly from chance: 50.7%-50.8%, t Ͻ 1, p Ͼ .18, and d Ͻ 0.10 in each of the four analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Retroactive Priming Experiment 3: Retroactive Priming I</head><p>In recent years, priming experiments have become a staple of cognitive and cognitive social psychology <ref type="bibr" target="#b2">(Bargh &amp; Ferguson, 2000;</ref><ref type="bibr" target="#b25">Fazio, 2001;</ref><ref type="bibr" target="#b31">Klauer &amp; Musch, 2003)</ref>. In a typical affective priming experiment, participants are asked to judge as quickly as they can whether a picture is pleasant or unpleasant, and their response time is measured. Just before the picture appears, a positive or negative word (e.g., beautiful, ugly) is flashed briefly on the screen; this word is called the prime. Individuals typically respond more quickly when the valences of the prime and the picture are congruent (both are positive or both are negative) than when they are incongruent. In our retroactive version of the procedure, the prime appeared after rather than before participants made their judgments of the pictures.</p><p>Because slower responding on congruent trials than on incongruent trials-called a contrast effect-has also been observed in some priming experiments <ref type="bibr" target="#b28">(Hermans, Spruyt, De Houwer, &amp; Eelen, 2003;</ref><ref type="bibr" target="#b32">Klauer, Teige-Mocigemba, &amp; Spruyt, 2009)</ref>, we also ran a standard nonretroactive priming procedure in each session to ensure that our protocol would produce the usual (noncontrast) priming effect (see also <ref type="bibr" target="#b20">de Boer &amp; Bierman, 2006)</ref>. Because this turned out to be the case, the psi hypothesis was that the retroactive </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="412">BEM</head><p>This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p><p>procedure would also produce faster responding on congruent trials than on incongruent trials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>One hundred Cornell undergraduates, 69 women and 31 men, participated in a 15-to 20-min experiment. They were shown a picture on each of 64 trials and were asked to press one of two keys on the keyboard as quickly as they could to indicate whether the picture was pleasant or unpleasant. The participant's response time in making this judgment was the dependent variable, and the difference in mean response times between incongruent and congruent trials is the index of a priming effect, with positive differences denoting faster responding on congruent trials.</p><p>The first 32 trials constituted the retroactive priming procedure, and participants were told that a word would be flashed on the screen just after they made their judgment of the picture. The remaining 32 trials constituted the standard forward priming procedure, and participants were told that "from this point on, the flashed word will appear before rather than after you have made your response." Prior to beginning the actual experimental procedure, participants responded to the two items on the stimulus seeking scale and then had the same 3-min relaxation period described in the previous experiments.</p><p>The pictures were again drawn from the IAPS set and were randomly assigned to the forward and retroactive sections of the protocol, with the restriction that an equal number of positive and negative pictures appear in each section. The same 16 positive and 16 negative prime words appeared in both sections, and a prime was randomly selected on each trial before the picture was presented (in the forward priming procedure) or after the participant had responded to the picture (in the retroactive priming procedure). As a result, congruent trials and incongruent trials were randomly sequenced and did not necessarily occur in equal numbers. This made it virtually impossible for participants to anticipate the type of trial coming up by knowing the types of trials that had already occurred. In this experiment, randomizing was implemented by Marsaglia's PRNG algorithm.</p><p>Figure <ref type="figure">2</ref> displays the time sequence of events for the forward priming and retroactive priming trials, respectively. In both procedures, there was a 2,000-ms interval between trials during which a Hubble photograph of the starry sky appeared on the screen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Several methods for analyzing response-time data from priming experiments have evolved over the years <ref type="bibr" target="#b41">(Ratcliff, 1993)</ref>. First, trials on which a participant makes an error in judging the picture to be pleasant or unpleasant are excluded from the analysis. In the present experiment, the median number of errors was three out of 64 trials, and the data from three participants were discarded because they made errors on 16 (25%) or more of the trials, reducing the number of participants to 97. Second, because response-time data are positively skewed, each response time (RT) is usually transformed prior to analysis using either an inverse transformation (1/RT) or a log transformation (log RT). Finally, trials yielding very short or very long response times are considered to be spurious outliers and are excluded from the analysis. <ref type="bibr" target="#b41">Ratcliff (1993)</ref> suggested using more than one cutoff criterion to ensure "that an effect is significant over some range of nonextreme cutoffs" (p. 519). Accordingly, Table <ref type="table" target="#tab_3">4</ref> presents four analyses, using both data transformations and two different cutoff criteria for long response times, 1,500 ms and 2,500 ms. The first criterion excludes 3.1% of the trials; the second excludes 0.5% of the trials.</p><p>As shown in the table, the standard forward priming procedure produced the usual result. For example, with a 1,500-ms cutoff criterion and the inverse transformation, participants were 23.6 ms faster on congruent trials than on incongruent trials, t(96) ϭ 4.91, p Ͻ .00001, d ϭ 0.45. The retroactive procedure also yielded the predicted psi effect: With a 1,500-ms cutoff criterion and the inverse transformation, participants were 15.0 ms faster on congruent trials than on incongruent trials, t(96) ϭ 2.55, p ϭ .006, d ϭ 0.25. The results were consistent across the range defined by the two cutoff criteria and under both data transformations.</p><p>To provide an analysis that avoids distribution assumptions, Table <ref type="table" target="#tab_3">4</ref> also displays the percentage of participants who had Experiment 4: Retroactive Priming II</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>The experiment just described was replicated on an additional 100 participants (57 female and 43 male Cornell undergraduates) with one major change and two minor timing changes. In the original study, the prime paired with each picture was randomly selected on each trial from the list of unused positive and negative primes. In the current replication, one fixed positive prime and one fixed negative prime were assigned to each picture prior to the experiment. These were selected to be semantically relevant to the picture; for example, a picture of a basket of fruit was paired with the positive prime of luscious and the negative prime of bitter, and a picture of a menacing pit bull was paired with the positive prime of friendly and the negative prime of threatening. The computer then randomly selected either the positive or the negative prime before the picture was presented (in the forward priming procedure) or after the participant had responded to the picture (in the retroactive priming procedure). In contrast to the randomizing procedure used in the previous priming experiment, this procedure provides a genuine sampling-with-replacement or "open deck" procedure for determining whether a trial will be congruent or incongruent. As a result, there is no (non-psi) way for a participant to anticipate the kind of trial coming up next. All randomizing was again implemented by Marsaglia's PRNG algorithm. In addition, the duration of the fixation point was increased from 1,000 ms to 1,500 ms, and the time between trials (during which the Hubble photograph appeared on the screen) was decreased from 2,000 ms to 1,500 ms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>The data from one participant were discarded because he made errors on more than 16 (25%) of the trials, reducing the number of participants to 99. As seen in Table <ref type="table" target="#tab_4">5</ref>, the results were virtually identical to those obtained in the original experiment. Once again, the standard forward priming procedure produced the usual result. For example, with a 1,500-ms cutoff criterion and the inverse (1/RT) transformation, participants were 27.4 ms faster on congruent trials than on incongruent trials, t(98) ϭ 4.85, p Ͻ .00001, d ϭ 0.44. The retroactive procedure also yielded the predicted psi effect again: With a 1,500-ms cutoff criterion and the inverse transformation, participants were 16.5 ms faster on congruent trials than on incongruent trials, t(98) ϭ 2.03, p ϭ .023, d ϭ 0.20. As in Experiment 3, the results were consistent across the different analyses, and the nonparametric exact binomial analyses confirmed both the forward and retroactive priming effects. There was again no correlation between stimulus seeking and either priming effect (r ϭ Ϫ.06 and Ϫ.07 for the forward and retroactive priming effects, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forward Priming Trial</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stimulus</head><p>Fixation Point Prime Blank Picture Hubble Photograph Time (ms) 1000 150 150 Response Time 2000 Retroactive Priming Trial Stimulus Fixation Point Picture Blank Prime Blank Hubble Photograph Time (ms) 1000 Response Time 300 500 1000 2000 Figure 2. Timing sequences for events in the retroactive priming procedure. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Retroactive Habituation and Induction of Boredom</head><p>When individuals are initially exposed to a startling or emotionally arousing stimulus, they typically have a strong physiological response to it. Upon repeated exposures, the arousal diminishes, a process known as habituation. If the stimulus is initially very unpleasant (e.g., frightening or disgusting), the stimulus becomes more neutral or less negatively arousing; if the stimulus is initially very pleasant, it becomes more neutral or less positively arousing. This was demonstrated in an experiment in which participants who had been subliminally exposed to extremely negative and extremely positive words subsequently rated those words as less extreme than matched control words to which they had not been exposed: Negative words were rated less negatively and positive words were rated less positively than the control words <ref type="bibr" target="#b22">(Dijksterhuis &amp; Smith, 2002)</ref>.</p><p>As Dijksterhuis and Smith noted, the procedure they used in their experiment is similar to that used to demonstrate the wellknown mere exposure effect: Across a wide range of contexts, the more frequently humans or other animals are exposed to a particular stimulus, the more they come to like it. This effect has been known for over a century, but it was the publication of <ref type="bibr" target="#b55">Zajonc's (1968)</ref> monograph, "Attitudinal Effects of Mere Exposure," that spurred its intensive empirical investigation. In 1989, Bornstein was able to publish a meta-analysis of 208 mere exposure experiments. He reported a mean effect size (r) of .26, with a combined z of 20.80 ( p ϭ 2.2 ϫ 10 Ϫ96 ). Curiously, most mere exposure experiments use low-arousal, affectively neutral stimuli such as nonsense words or polygons; none of the studies reviewed used stimuli that were highly arousing or strongly valenced, either negatively or positively. As a result, the complementary hypothesis that highly arousing positive stimuli might become less liked after repeated exposures had never been tested in a traditional mere exposure experiment.</p><p>Among the variables that affect the mere exposure effect are the length of each exposure and the number of exposures. The metaanalysis produced an unequivocal answer for the optimal length of each exposure: The shorter the exposure, the stronger the mere exposure effect, with subliminal exposures being the most effective. This is interpreted as showing that the effect works at an unconscious level and that conscious cognitive processes actually interfere with it. As noted above, subliminal exposures were used in the Dijksterhuis-Smith habituation experiment.</p><p>The optimal number of exposures is more difficult to specify because it depends upon several variables, including the complexity of the stimuli and whether different kinds of stimuli are used in the same session <ref type="bibr" target="#b6">(Bornstein, 1989;</ref><ref type="bibr" target="#b7">Bornstein, Kale, &amp; Cornell, 1990)</ref>. Moreover, the function relating liking to the number of exposures has an inverted-U shape: As the number of exposures increases in a mere exposure experiment, liking increases, plateaus, and eventually begins to decline. To account for this, Bornstein proposed a two-process model in which boredom increasingly competes with habituation as the number of exposures increases. Because boredom causes a stimulus to be less liked, the liking curve begins to level off and then turn downward as boredom overtakes habituation. As a result, it is not possible to specify a priori how many exposures would be optimal in any particular experiment. In this experiment, we varied the number of exposures across sessions. 4</p><p>Experiment 5: Retroactive Habituation I One hundred Cornell undergraduates, 63 women and 37 men, were recruited through the Psychology Department's automated online sign-up system to serve as participants in a "20 -25 minute study of visual imagery that tests for ESP." They either received one point of experimental credit in a psychology course offering that option or were paid $5 for their participation. 4 This experiment was our first psi study and served as a pilot for the basic procedures adopted in all the other studies reported in this article. When it was conducted, I had not yet introduced the hardware-based random number generator or the stimulus seeking scale. Preliminary results were reported at the 2003 convention of the Parapsychological Convention in Vancouver, Canada <ref type="bibr" target="#b3">(Bem, 2003)</ref>; subsequent results and analyses have revised some of the conclusions presented there. Upon entering the laboratory, the participant was told,</p><p>In this experiment, we are interested in measuring emotional reactions to a wide variety of visual images in a procedure that tests for ESP (Extrasensory Perception). The experiment is run completely by a computer and takes about 20 -25 minutes.</p><p>Each trial of the experiment involves a pair of pictures. First you will be shown the two pictures side by side and asked to indicate which one you like better. You will then be asked to watch passively as those pictures are flashed rapidly on the screen. The way in which this procedure tests for ESP will be explained at the end of the session.</p><p>Most of the pictures range from very pleasant to mildly unpleasant, but in order to investigate a wide range of emotional content, some of the pictures contain very unpleasant images (e.g., snakes and bodily injuries).</p><p>The participant then signed a consent form that repeated the warning about the nature of the pictures. (The same warning also appeared in the online recruiting page.) Next, the experimenter seated the participant in front of the computer and withdrew from the cubicle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>This experiment adapted a binary-choice version of a mere exposure experiment <ref type="bibr" target="#b33">(Kunst-Wilson &amp; Zajonc, 1980)</ref> and, in effect, ran it backwards. In a standard version of the experiment, the following sequence of events would occur:</p><p>1. The participant is repeatedly exposed subliminally to a picture. This picture is called the habituation target.</p><p>2. The participant is then shown two pictures side by side and asked to indicate which one he or she likes better.</p><p>One of the pictures is the target; the other is a closely matched picture that the participant has not seen before. If the participant prefers the target, the trial is scored as a hit. The hit rate expected by chance is thus 50%.</p><p>The retroactive version of this protocol simply reverses Steps 1 and 2: On each trial, the participant is first shown a pair of matched pictures on the computer screen and asked to indicate which picture he or she prefers. The computer then randomly selects one of the two pictures to serve as the habituation target and displays it subliminally several times. This first retroactive habituation experiment comprised trials using either strongly arousing negative picture pairs or neutral control picture pairs; positively arousing (i.e., erotic) picture pairs were not introduced until Experiment 6, reported below. The retroactive habituation hypothesis was that on trials with negative picture pairs, participants would prefer the target to the nontarget on more than 50% of the trials.</p><p>As in the experiments reported above, most of the pictures for this study were selected from the IAPS set. The pictures in each pair were matched not only for content but for valence and arousal using the ratings supplied with the IAPS set.</p><p>Procedure. The computer program administered the procedure as outlined above. After the usual relaxation procedure, the participant was shown two matched pictures side by side on the screen on each of 48 trials and asked to indicate which of the pair he or she liked better by pressing one of two keys on the keyboard. Each pair consisted of two high-arousal negative pictures or two low-arousal, affectively neutral pictures; the left/right position of the two pictures was randomly determined. The computer then randomly selected one of the two pictures to be the target and flashed it randomly on the left or the right side of the screen for 17 ms, followed immediately by a masking stimulus that remained on the screen for 33 ms. There was a 1,000-ms blank interval between exposures. In this experiment, randomizing was implemented through the programming language's internal random function.</p><p>The number of exposures varied, assuming the values of 4, 6, 8, or 10 across this experiment and its replication. Note that participants were not aware that only one of the two pictures was flashed on each trial, because the target was exposed subliminally and the instructions implied that both pictures of the pair would be flashed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>The retroactive habituation hypothesis was supported. On trials with negative picture pairs, participants preferred the target significantly more frequently than the nontarget, 53.1%, t(99) ϭ 2.23, p ϭ .014, d ϭ 0.22. This is confirmed by a binomial test on the proportion of hits across all trials with negative picture pairs, .531, z ϭ 2.09, p ϭ .018. Women achieved a significant hit rate on the negative pictures, 53.6%, t(62) ϭ 2.25, p ϭ .014, d ϭ 0.28, but men did not, 52.4%, t(36) ϭ 0.89, p ϭ .19, d ϭ 0.15. This sex difference is not statistically significant, t diff (62) ϭ 0.39, p ϭ .70, two-tailed, but it did prompt us to introduce different pictures for men and women in the replication (Experiment 6) reported below. Participants' hit rates on the control trials with neutral picture pairs did not differ from chance expectation, 49.4%, t(99) ϭ Ϫ0.73, p ϭ .46, two-tailed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 6: Retroactive Habituation II</head><p>One hundred fifty Cornell undergraduates, 87 women and 63 men, participated in this replication and extension of Experiment 5. Most important, this replication added trials with erotic picture pairs. The retroactive habituation hypothesis for these trials was the opposite of that for negative trials: Participants would prefer the target picture-the one to be repeatedly exposed-on less than 50% of the erotic trials.</p><p>There were other two other changes. First, on the basis of the preference data obtained in Experiment 5, we were able to better equate the "popularity" of the two pictures within each pair (i.e., the frequency with which they had been preferred in the previous sessions). In a few cases, new pictures from the IAPS set were substituted. Second, we decided to use sets of negative and erotic pictures that were different for men and women. As noted above, women showed a significant psi effect on the negative trials in Experiment 5, but men did not. Because the psi literature does not reveal any systematic sex differences in psi ability, it seemed possible that the men were simply less aroused than the women by the negative pictures. The ratings supplied with the IAPS pictures revealed that male raters rated every one of the negative pictures in the set as less negative and less arousing than did female raters. Also, an fMRI study using IAPS pictures found that men had significantly fewer brain regions than women where activation correlated with concurrent ratings of their emotional experience <ref type="bibr" target="#b11">(Canli, Desmond, Zhao, &amp; Gabrieli, 2002)</ref>. So, for this replication, we supplemented the IAPS pictures for men with stronger and more explicit negative and erotic images obtained from Internet sites. We also provided two additional sets of erotic pictures, so that men could choose the option of seeing male-male erotic images and women could choose the option of seeing femalefemale erotic images.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Both retroactive habituation hypothesis were supported. On trials with negative picture pairs, participants preferred the target significantly more frequently than the nontarget, 51.8%, t(149) ϭ 1.80, p ϭ .037, d ϭ 0.15, binomial z ϭ 1.74, p ϭ .041, thereby providing a successful replication of Experiment 5. On trials with erotic picture pairs, participants preferred the target significantly less frequently than the nontarget, 48.2%, t(149) ϭ Ϫ1.77, p ϭ .039, d ϭ 0.14, binomial z ϭ Ϫ1.74, p ϭ .041.</p><p>An overall psi score that combines the two complementary effects can be computed by subtracting the erotic hit rate from the negative hit rate: This yields a difference of 3.76%, t diff (149) ϭ 2.41, p ϭ .009, d ϭ 0.20. Because negative and erotic trials were randomly interspersed in the trial sequence, this significant difference also serves as evidence against the possibility that the significant hit rates were an artifact of inadequate randomization of left/right target positions. On the neutral control trials, participants scored at chance level: 49.3%, t(149) ϭ Ϫ0.66, p ϭ .51, twotailed. Hit rates were not significantly correlated with the number of exposures of the target picture across the two experiments, and there were no significant sex differences on any of the measures.</p><p>Erotic stimulus seeking. Although I had not yet introduced the stimulus seeking scale into our research program when the two retroactive habituation experiments were conducted, I did define a measure of erotic stimulus seeking for this replication by converting two items from Zuckerman's Sensation Seeking Scale (1974) into true/false statements: "I enjoy watching many of the erotic scenes in movies" and "I prefer to date people who are physically exciting rather than people who share my values." A participant's score was simply the number of items endorsed, and participants who endorsed both statements were defined as erotic stimulus seekers. These two items were administered to 100 of the 150 participants in this replication prior to the relaxation period and experimental trials. There was a highly significant positive correlation between erotic stimulus seeking and psi performance (lower hit rates), r ϭ .24, p ϭ .008, with erotic stimulus seekers showing a very strong retroactive habituation effect on the erotic trials, 43.1%, t(31) ϭ Ϫ3.20, p ϭ .002, d ϭ 0.57, exact binomial p ϭ .002. The hit rate of those who were not erotic stimulus seekers did not differ from chance: 51.3%, t(67) ϭ 0.78, p ϭ .78, d ϭ Ϫ0.09.</p><p>Control trials. As reported above, overall hit rates on control trials did not differ from chance in either of the two experiments. This might appear inconsistent with the results of mere exposure studies in which neutral, nonarousing stimuli typically show increased liking. Typically but not inevitably. Experiments reported by <ref type="bibr" target="#b7">Bornstein et al. (1990)</ref> demonstrated that increased liking for such stimuli "are only produced when subjects are not currently exposed to stimuli that are more interesting or complex. In other words, robust exposure effects for simple stimuli depend on their not being presented along with more interesting stimuli on a within-subjects basis" (p. 798). In our experiment, the control stimuli were arguably less interesting than either the negative or erotic stimuli presented concurrently in the same session, so our findings on control trials are not inconsistent with the findings from mere exposure experiments. This same contrast effect may also explain why participants in Experiment 1 were able to significantly detect the position of future erotic pictures but not that of nonerotic negative, neutral, or positive pictures.</p><p>The control trials also yielded a significant serendipitous finding. The hit rate on control trials was at chance for exposure frequencies of 4, 6, and 8. On sessions with 10 exposures, however, it fell to 46.8%, t(39) ϭ Ϫ2.12, two-tailed p ϭ .04, binomial z ϭ Ϫ2.17, two-tailed p ϭ .03. This effect can be interpreted as the retroactive induction of boredom. As with a too frequent TV commercial, the many repeated exposures retroactively rendered the neutral target picture boring, or even aversive, and hence less attractive than its matched nontarget. In other words, 10 exposures was the point at which the inverted-U-shaped function between liking and exposure frequency began its downturn for neutral control stimuli. This is presumably the same effect as the decreased liking observed on erotic trials: Repeated exposures of an erotic target diminish its erotic potency and render it boring relative to its matched nontarget. This apparently occurs at lower exposure frequencies for erotic stimuli than it does for neutral control stimuli.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>External Replications</head><p>There have been two published replications of the retroactive habituation effect. <ref type="bibr" target="#b44">Savva, Child, and Smith (2004)</ref> conducted a conceptual replication in which all the negative pictures were images of spiders and the neutral pictures were images of landscapes. No erotic pictures were used. The participants were 25 spider-phobic and 25 non-spider-phobic individuals. The spiderphobic participants had a hit rate significantly above chance on the spider trials, 53.7%, t(24) ϭ 1.70, p ϭ .05, d ϭ 0.34, which was also significantly higher than the 48.2% hit rate on the neutral control trials, t diff (24) ϭ 2.48, p ϭ .010, d ϭ 0.50. The hit rate of the non-spider-phobic participants was at chance on both spider and control trials.</p><p>Parker and Sjöde ´n (2010) also conducted a replication using only negative and neutral pictures, but their participants went through both the retroactive habituation procedure and an adaptation of <ref type="bibr" target="#b22">Dijksterhuis and Smith's (2002)</ref> original habituation procedure. The same stimulus pictures were used in both. In the regular habituation procedure, participants were subliminally exposed six times to half of the pictures and were then asked to rate the valence of both the exposed and the nonexposed pictures.</p><p>Overall, there was not a significant retroactive habituation effect on the negative pictures, 51.0%, t(49) ϭ 0.51, p ϭ .31, but there was a highly significant correlation between habituation and retroactive habituation to the negative pictures (r ϭ .34, p ϭ .008). The 34 participants who showed habituation also showed significant retroactive habituation, 53.9%, t(33) ϭ 1.93, p ϭ .031, d ϭ 0.33; the 16 participants who failed to show habituation also failed to show retroactive habituation, 44.8%, t(15) ϭ Ϫ1.32, p ϭ .90.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 7: Retroactive Induction of Boredom</head><p>The serendipitous finding that sessions with 10 exposures produced a hit rate significantly below 50% on neutral control trials suggested that it might be possible to design an experiment specifically designed to produce retroactive induction of boredom on nonarousing neutral stimuli as the central phenomenon. This would be desirable for at least two reasons. First, there are large age, cultural, and individual differences in reactions to the kinds of negative and erotic pictures used in the retroactive habituation experiment, making successful replication across different populations less likely. Second, some psi researchers (or their institutional review boards) have been reluctant to conduct experiments in which participants are exposed to these kinds of pictures. This experiment tests directly for the retroactive induction of boredom on neutral stimuli.</p><p>In a mere exposure experiment that included a measure of "boredom proneness," <ref type="bibr" target="#b7">Bornstein et al. (1990)</ref> report that only participants who were not prone to boredom showed a significant mere exposure effect (i.e., increased liking for a frequently exposed stimulus). This suggests that boredom dominated habituation for boredom prone participants. It should be apparent that our two-item stimulus seeking scale ("I am easily bored" and "I often enjoy seeing movies I've seen before"; reverse scored) could equally well be conceptualized as an index of boredom proneness. For this reason, I first introduced it into the current experiment, with the corresponding hypothesis that those high in stimulus seeking (high in boredom proneness) would show significantly decreased liking for the target.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Two hundred Cornell undergraduates, 140 women and 60 men, were recruited for this experiment. From the IAPS we selected sets of matched picture pairs that ranged from mildly negative to positive; no strongly negative or erotic pictures were included.</p><p>After the program had administered the two stimulus-seeking items and provided the 3-min relaxation period, the protocol was essentially the same as that used in the retroactive habituation experiments. On each of 24 trials, the participant was shown two matched pictures and asked to click the mouse on the picture he or she preferred. The computer then randomly selected one of the two pictures to serve as the target and flashed it on the screen 10 times. Unlike in the retroactive habituation experiments, however, the exposures were supraliminal (750-ms duration followed by a blank screen for 250 ms) and were enlarged to fill the entire screen. It was my (wrongheaded) hunch that supraliminal exposures would be more likely to produce boredom after 10 exposures than would the subliminal exposures successfully used in our original retro-active habituation experiments. Also, because 10 supraliminal exposures on each trial take up a lot of time, we had to limit the number of trials to 24 to avoid rendering the entire experiment boring, not just the frequently exposed stimulus pictures.</p><p>The random sequencing of the picture pairs, the left/right placement of the two pictures, and the selection of the target were all implemented with Marsaglia's PRNG algorithm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Across all 200 sessions, the hit rate was in the predicted direction but not significantly different from chance, 49.1%, t(199) ϭ Ϫ1.31, p ϭ .096, d ϭ 0.09. (I now wish I had simply continued to use subliminal exposures.) Nevertheless, stimulus seeking was again positively correlated with psi performance (lower hit rates), r ϭ .16, p ϭ .011. Participants high in stimulus seeking obtained a hit rate significantly below chance, 47.9%, t(95) ϭ Ϫ2.11, p ϭ .019, d ϭ 0.22, binomial z ϭ Ϫ1.94, p ϭ .026, whereas the remaining participants did not, 50.1%, t(103) ϭ 0.17, p ϭ .43.</p><p>As in Experiment 2 on the precognitive avoidance of negative stimuli, there were no control trials randomly interspersed among the critical trials in this experiment, making it necessary again to confirm that the successive left/right positions of the targets were adequately randomized and did not contain patterns that might match participants' response biases. Accordingly, we analyzed the data on the stimulus-seeking subsample in the same four ways as in Experiment 2. The first two analyses were the familiar ones used previously: a one-sample t test across participants' hit rates, tested against a null hit rate of 50%, and a nonparametric binomial test on the proportion of hits across all trials and sessions for the 96 participants high in stimulus seeking.</p><p>The third analysis used the phi coefficient, the correlation between the participant's left/right preference and the PRNG's left/ right target placements, as the index of psi performance. And finally, the fourth analysis controlled for any potential systematic bias in the PRNG by computing an empirical null baseline for each participant, as described in Experiment 2.</p><p>As Table <ref type="table" target="#tab_5">6</ref> reveals, all four analyses yielded comparable results, showing a significant retroactive boredom induction for participants high in stimulus seeking. It will also be recalled from the discussion of Experiment 1 that Marsaglia's PRNG algorithm was shown in the simulation with random inputs to be free of nonrandom patterns that might correlate with participants' responses biases. The hit rate of participants low in stimulus seeking did not depart significantly from chance in any of the four analyses, with hit rates ranging from 50.1% to 50.2% (all t values Ͻ 1, all ps Ͼ .40, and all ds Ͻ 0.02). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="418">BEM</head><p>This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Retroactive Facilitation of Recall</head><p>In Lewis Carroll's Through the Looking Glass, the White Queen explains to Alice that the citizens of her country have precognitive ability; or, as she puts it, "memory works both ways" in her land and she herself remembers best "things that happened the week after next." When Alice says that "I'm sure mine only works one way . . . I can't remember things before they happen," the Queen disparagingly remarks, "It's a poor sort of memory that only works backwards" <ref type="bibr">(Carroll, 2006, p. 164)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 8: Retroactive Facilitation of Recall I</head><p>Inspired by the White Queen's claim, the current experiment tested the hypothesis that memory can "work both ways" by testing whether rehearsing a set of words makes them easier to recall-even if the rehearsal takes place after the recall test is given. Participants were first shown a set of words and given a free recall test of those words. They were then given a set of practice exercises on a randomly selected subset of those words. The psi hypothesis was that the practice exercises would retroactively facilitate the recall of those words, and, hence, participants would recall more of the to-be-practiced words than the unpracticed words.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>One hundred Cornell undergraduates, 64 women and 36 men, participated. Upon entering the laboratory, the participant was told, "This experiment tests for ESP by administering several tasks involving common everyday words. The experiment is run completely by computer and takes about 20 minutes. The program will give you specific instructions as you go. At the end of the session, I will explain to you how this procedure tests for ESP." Note that the participant was not told in advance about the recall test.</p><p>Participants were then seated in front of the computer. After they had responded to the two stimulus-seeking items and gone through the 3-min relaxation procedure described in previous experiments, they were shown 48 common nouns one at a time for 3 s each. These words were drawn from four categories (foods, animals, occupations, and clothes) and were presented in the same fixed order for all participants. They were asked to visualize the referent of each word as it appeared on the screen (e.g., if the word was tree, they were to visualize a tree). They were then given a (surprise) free recall test in which they were asked to type all the words they could recall in any order.</p><p>After the participant completed the recall test, the computer randomly selected six words from each of the four categories to serve as practice words, with the remaining 24 words serving as no-practice control words. The 24 practice words all appeared together in a randomized list on the screen. The participant was informed that the words were drawn from four categories and asked to click on the six food words in the list (which turned red when clicked) and then to retype those words into six empty slots on the screen. The list was rescrambled, and the same task was repeated for each of the other three categories of words. In all, the participant was required to scan the list of practice words four times, to click on the six words in each category, and to type out each of the 24 words.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Unlike in a traditional experiment in which all participants contribute the same fixed number of trials, in the recall test each word the participant recalls constitutes a trial and is scored as either a practice word or a control word. Accordingly, the measure of psi in this study is a weighted differential recall (DR) score, defined as the number of practice words recalled minus the number of control words recalled (P -C) multiplied by the participant's overall recall score (P ϩ C). This gives more weight to participants who recalled more words ("contributed more trials") and is conceptually analogous to the practice of weighting studies by their sample sizes in a meta-analysis. For descriptive purposes, the DR score is expressed as a percentage of the maximum possible DR score (ϭ 576), which would be achieved if a participant recalled all 24 practice words but none of the 24 control words. Thus, DR% ϭ [(P -C) ϫ (P ϩ C)]/576 and can range from Ϫ100% to 100%, with positive DR% scores denoting that more practice words were recalled than control words.</p><p>The results show that practicing a set of words after the recall test does, in fact, reach back in time to facilitate the recall of those words: The mean DR% for the total sample was 2.27%, t(99) ϭ 1.92, p ϭ .029, d ϭ 0.19. Once again, stimulus seeking was significantly correlated with psi performance (DR%): r ϭ .22, p ϭ .014. This correlation is reflected in the strong DR% scores of participants high in stimulus seeking: 6.46%, t(42) ϭ 3.76, p ϭ .0003, d ϭ 0.57. In contrast, those low in stimulus seeking scored at chance level: Ϫ0.90%, t(56) ϭ Ϫ.60, p ϭ .73.</p><p>Control sessions. Although no control group was needed to test the psi hypothesis in this experiment, we ran 25 control sessions in which the computer again randomly selected a 24-word practice set but did not actually administer the practice exercises. These control sessions were interspersed among the experimental sessions, and the experimenter was uninformed as to condition.</p><p>The main purpose in the control sessions was to see if the practice exercises retroactively produced increased clustering in the recall test. Clustering is a spontaneous effect observed in free recall studies in which recalling a word from a particular category (e.g., foods) is more likely to be followed by recalling another word from the same category than by recalling a word from a different category (e.g., animals; <ref type="bibr" target="#b8">Bousfield, 1953;</ref><ref type="bibr" target="#b16">Cofer, 1965)</ref>. The original sequence of the 48 words given prior to the recall test contained no clustering (i.e., no two successive words belonged to the same category). Because participants are alerted by the practice exercises to the fact that the words come from four distinct categories, they might be expected to show more clustering than participants in the control sessions.</p><p>A second purpose in the control sessions was to see whether the practice exercises retroactively enhanced overall recall. And finally, the control sessions enabled us to confirm that it is the actual practice that produces the psi effect, not just the existence of a computer-chosen set of practice words that participants might be able to access clairvoyantly.</p><p>The results were clear. There was no more clustering in the experimental sessions than in the control sessions: In both, 36% of successive pairs of recalled words came from the same category. Similarly, overall recall was not higher in the experimental sessions: In both conditions, participants recalled 18.4 (38.3%) of the 48 words in the original list. This means that the enhanced recall 419 FEELING THE FUTURE This document is copyrighted by the American Psychological Association or one of its allied publishers.</p><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p><p>of practice words came at the expense of diminished recall of control words. This is a well-known phenomenon in memory research and is called retrieval-induced forgetting <ref type="bibr" target="#b0">(Anderson, Bjork, &amp; Bjork, 1994)</ref>. It is embodied in the joke about the professor of ichthyology who complained that whenever she memorized the name of a student, she forgot the name of a fish. As expected, the mean DR% score from control sessions did not differ from zero for the sample as a whole, 0.26%, t(24) ϭ 0.13, p ϭ .45, or for participants high in stimulus seeking, Ϫ.09%, t(10) ϭ Ϫ0.02, p ϭ .51.</p><p>Experiment 9: Retroactive Facilitation of Recall II</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Experiment 9 was a replication of Experiment 8 with one procedural change: A new practice exercise was introduced immediately following the recall test in an attempt to further enhance the recall of the practice words. This exercise duplicated the original presentation of each word that participants saw prior to the recall test, but only the practice words were presented. The instructions were as follows: "You will now be shown 24 of the words you saw earlier, divided into 4 categories: Foods, Animals, Occupations, and Clothing. As you see each word, try to form an image of the thing it refers to (e.g., if the word is tree, visualize a tree)."</p><p>As in the original presentation prior to the recall test, each word was displayed for 3 s, but this time all the words from each category were presented consecutively. That is, the six food words were displayed first, followed by the six animal words, and so forth. Except for this additional practice exercise, the experiment was otherwise identical to Experiment 8. A total of 50 Cornell undergraduates participated, 34 women and 16 men. In addition, we again ran 25 control sessions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>This modified replication yielded an even stronger psi effect than that in the original experiment: The mean DR% score was 4.21%, t(49) ϭ 2.96, p ϭ .002, d ϭ 0.42, an effect size more than twice the effect size of 0.19 found in the original experiment. In this replication, however, stimulus seeking was no longer significantly correlated with psi performance (r ϭ Ϫ.10, p ϭ .25). It appears that the strong stimulus manipulation that produced the higher effect size also restricted the range of DR% scores sufficiently to squelch the predictive power of the individual-difference measure: The range of DR% scores was 42% smaller in the replication than in the original experiment; the variance was 27% smaller. Both those high and those low in stimulus seeking obtained significant DR% scores, 4.47%, t(15) ϭ 1.77, p ϭ .049, d ϭ 0.44 and 4.09%, t(33) ϭ 2.34, p ϭ .013, d ϭ 0.40, respectively.</p><p>As in the original experiment, clustering was no higher in the experimental sessions (39%) than in the control sessions (40%), despite the complete clustering in the presentation sequence of words in the new practice exercise. Similarly, overall recall was again not significantly higher in the experimental sessions (45%) than in the control sessions (44%). And finally, DR% scores from the control sessions did not differ significantly from zero for the sample as a whole or for participants high in stimulus seeking.<ref type="foot" target="#foot_5">foot_5</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General Discussion</head><p>Table <ref type="table" target="#tab_6">7</ref> summarizes the significance levels and effect sizes obtained in the nine experiments reported in this article. As seen in the table, the mean effect size across all the experiments was .22, and all but the retroactive induction of boredom experiment yielded statistically significant results. Stimulus seeking was significantly correlated with psi performance in five of the experiments (including the induction of boredom experiment), and these correlations are reflected in the enhanced psi performances across those experiments by those high in stimulus seeking: For the stimulus-seeking subsamples, the mean effect size across all experiments in which the stimulus-seeking scale was administered was 0.43.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Strategy</head><p>As noted in the introduction, the goal in this research program was to develop well-controlled demonstrations of psi that could be replicated by independent investigators. The research strategy was to design experiments and employ statistical procedures that were as simple, as transparent, and as familiar as possible. First, the experimental procedures were based on simple, well-established psychological effects that would be familiar to most readers of this journal. Second, the primary statistical tool for evaluating the results was the familiar one-sample t test across sessions; however, because t tests rely on the assumption that the data are normally distributed, they were supplemented by equally simple and familiar nonparametric binomial tests.</p><p>There are, of course, more sophisticated statistical techniques available for dealing with distribution issues in hypothesis testing (e.g., <ref type="bibr" target="#b52">Wilcox, 2005)</ref>, but they do not yet appear to be widely familiar to psychologists and are not yet included in popular statistical computer packages, such as SPSS. I have deliberately not used them for this article. It has been my experience that the use of complex or unfamiliar statistical procedures in the reporting of psi data has the perverse effect of weakening rather than strengthening the typical reader's confidence in the findings. The same is true of complex or unfamiliar experimental procedures. This is understandable. If one holds low Bayesian a priori probabilities about the existence of psi-as most academic psychologists do-it might actually be more logical from a Bayesian perspective to believe that some unknown flaw or artifact is hiding in the weeds of a complex experimental procedure or an unfamiliar statistical analysis than to believe that genuine psi has been demonstrated. As a consequence, simplicity and familiarity become essential tools of persuasion. I return to the theme of familiarity and belief in psi in the section on physics below.</p><p>Finally, I have analyzed and reported alternative indices of psi performance (e.g., both the hit rate and phi in some of the binary choice experiments) and alternative treatments of the data (e.g., different outlier cutoff criteria and data transformations in the priming experiments) to confirm the consistency of the results across these variations. I hope that this will allay the common concern that an investigator may have tried many data analyses but reported only the one that "worked"-a variant of the file-drawer problem.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The File Drawer</head><p>Like most social-psychological experiments, the experiments reported here required extensive pilot testing. As all research psychologists know, many procedures are tried and discarded during this process. This raises the question of how much of this pilot exploration should be reported to avoid the file-drawer problem, the selective suppression of negative or null results.</p><p>This problem arose most acutely in our two earliest experiments, the retroactive habituation studies, because they required the most extensive pilot testing and served to set the basic parameters and procedures for all the subsequent experiments. I can identify three sets of findings omitted from this report so far that should be mentioned lest they continue to languish in the file drawer.</p><p>First, several individual-difference variables that had been reported in the psi literature to predict psi performance were pilot tested in these two experiments, including openness to experience; belief in psi; belief that one has had some psi experiences in everyday life; and practicing a mental discipline such as meditation, yoga, self-hypnosis, or biofeedback. None of them reliably predicted psi performance, even before application of a Bonferroni correction for multiple tests. Second, an individual-difference variable (negative reactivity) that I reported as a correlate of psi in my convention presentation of these experiments <ref type="bibr" target="#b3">(Bem, 2003)</ref> failed to emerge as significant in the final overall database.</p><p>Finally, as also reported in <ref type="bibr" target="#b3">Bem (2003)</ref>, I ran a small retroactive habituation experiment that used supraliminal rather than subliminal exposures. It was conducted as a matter of curiosity after the regular (subliminal) experiment and its replication had been successfully completed. It yielded chance findings for both negative and erotic trials. As I warned in the convention presentation, supraliminal exposures fundamentally change the phenomenology of the experiment for participants. First, they become aware that only one of the two original pictures is being repeatedly exposed; second, supraliminal exposures provide explicit trial-by-trial feedback, prompting many participants to become involved in anticipating which picture will appear. This transforms the experiment for them into an explicit ESP challenge and undermines the very rationale for using an implicit response measure of psi in the first place. Unfortunately, I ignored this warning myself when I subsequently used supraliminal exposures in the experiment on the retroactive induction of boredom.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Issues of Replication</head><p>Replication packages are available on request for Macintosh and Windows-based computers to encourage and facilitate replication of the experiments reported here. I suspect that the experiments on retroactive priming and retroactive facilitation of recall will be the easiest to replicate successfully and that the experiments using erotic and negative stimuli will be more difficult to replicate, especially on subject populations markedly different from the North American college-age men and women who participated in our experiments. Their cohort's distinctive experiences with erotic and violent imagery may render their responses to such stimuli unrepresentative of older ages or other cultures.</p><p>More general issues of replication are also pertinent here. Although most academic psychologists do not believe in psi, many apparently do believe in miracles when it comes to replication. <ref type="bibr" target="#b50">Tversky and Kahneman (1971)</ref> posed the following problem to their colleagues at meetings of the Mathematical Psychology Group and the American Psychological Association: "Suppose you have run an experiment on 20 subjects and have obtained a significant result which confirms your theory (z ϭ 2.23, p Ͻ .05, two-tailed). You now have cause to run an additional group of 10 subjects. What do you think the probability is that the results will be significant, by a one-tailed test, separately for this group?" (p. 105). The median estimate was .85, with nine out of 10 respondents providing an estimate greater than .60. The correct answer is approximately .48. As <ref type="bibr" target="#b43">Rosenthal (1990)</ref> has warned: "Given the levels of statistical power at which we normally operate, we have no right to expect the proportion of significant results that we typically do expect, even if in nature there is a very real and very important effect" (p. 16). One implication of this warning is that replication studies with insufficient power are simply not informative when they fail to replicate the original findings.</p><p>One of the major obstacles to successful replication in psychology generally is the influence of the experimenter on the results. The sex, age, and demeanor of the experimenter can interact with characteristics of the participants, and expectancies of the experimenter can affect the results in subtle ways <ref type="bibr" target="#b42">(Rosenthal, 1966)</ref>. Psi research is no exception. In three psi experiments specifically designed to investigate the experimenter effect, a proponent and a skeptic of psi jointly ran a psi experiment, using the same procedures and drawing participants from the same pool <ref type="bibr" target="#b45">(Schlitz, Wiseman, Radin, &amp; Watt, 2005;</ref><ref type="bibr" target="#b53">Wiseman &amp; Schlitz, 1997</ref><ref type="bibr">, 1999)</ref>. In two of the three experiments, the proponent obtained a significant result, but the skeptic did not.</p><p>My approach to the problem of experimenter effects has been to minimize the experimenter's role as much as possible, reducing it to that of greeter and debriefer, and leaving the experimental instructions and other interactions with the participant to the computer program. Moreover, I used several undergraduate experimenters in each experiment and deliberately gave them only informal training. This was to ensure that the experimental protocols were robust enough to overcome differences among experimenters, so that the protocols have a better chance of surviving replications in other laboratories. Whether or not this strategy will be successful remains to be seen.</p><p>Finally, the success of replications in psychological research often depends on subtle and unknown factors. For example, Bornstein's (1989) meta-analysis of the well-established mere exposure effect reveals that the effect fails to replicate on simple stimuli if other, more complex stimuli are presented in the same session. It also fails to replicate if too many exposures are used, if the exposure duration is too long, if the interval between exposure and the assessment of liking is too short, or if participants are prone to boredom. As previously noted, the mere exposure effect had not even been tested with strongly valenced stimuli until <ref type="bibr" target="#b22">Dijksterhuis and Smith (2002)</ref> conducted their habituation experiment, showing that strong positive stimuli actually reverse the mere exposure effect.</p><p>My intent here is not to offer preemptive excuses for future failures to replicate the results reported in this article, but rather to urge that we not impose an unrealistically high standard-or a double standard-on the replication of psi effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Psychology of Psi</head><p>If psi exists, then it is not unreasonable to suppose that it might have been acquired through evolution by conferring survival and reproductive advantage on the species (for a discussion, see <ref type="bibr">Broughton, 1991, pp. 347-352)</ref>. For example, the ability to anticipate and thereby to avoid danger confers an obvious evolutionary advantage that would be greatly enhanced by the ability to anticipate danger precognitively. It was this reasoning that motivated Experiment 2 on the precognitive avoidance of negative stimuli. Similarly, the possibility of an evolved precognitive ability to anticipate sexual opportunities motivated Experiment 1 on the precognitive detection of erotic stimuli. The presentiment experiments were probably inspired by similar reasoning.</p><p>Evolutionary reasoning also played a part in Eysenck's (1966) discussion of psi and extraversion, cited earlier in this article. In particular, he speculated that psi might be a primitive form of perception antedating cortical developments in the course of evolution, and, hence, cortical arousal might suppress psi functioning. Because extraverts have a lower level of cortical arousal than introverts, that provides another reason (besides enhanced stimulus-seeking tendencies) for predicting that they will perform well in psi tasks.</p><p>More generally, psi researchers typically begin with the working assumption that whatever its underlying mechanisms, psi should behave like other, more familiar psychological phenomena and that psi performance should covary with experimental and subject variables in psychologically sensible ways <ref type="bibr" target="#b46">(Schmeidler, 1988)</ref>. This assumption is central to the research reported in this article, because the entire enterprise rests on the premise that timereversed versions of well-established psychological effects will produce the same results as the standard non-psi versions and that any individual-difference correlates of psi performance, such as stimulus-seeking tendencies, will make psychological sense.</p><p>The most explicit statement of this position is embodied in the "first sight" model of psi functioning proposed by <ref type="bibr" target="#b13">Carpenter (2004</ref><ref type="bibr" target="#b14">Carpenter ( , 2005))</ref>. He proposed that, far from being rare, unusual, or exotic, psi-mediated information continuously helps us to interpret experience and guide our choices in everyday life just as other preconscious information does. For example, <ref type="bibr" target="#b14">Carpenter (2005)</ref> noted that individuals who do well at processing subliminal sensory information also do well at psi tasks (pp. 69 -70). We have now seen that habituation and retroactive habituation are similarly correlated <ref type="bibr" target="#b38">(Parker &amp; Sjöde ´n, 2010)</ref>. The correlation between stimulus seeking and psi performance in several of our experiments also makes sense within this model. But the strongest validation of Carpenter's model is the ability of our participants to use psi information implicitly and nonconsciously to enhance their performance in a wide variety of everyday tasks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Psi and Physics: Metaphors, Models, and Mechanisms</head><p>The psychological level of theorizing just discussed does not, of course, address the conundrum that makes psi phenomena anomalous in the first place: their presumed incompatibility with our current conceptual model of physical reality. Those who follow contemporary developments in modern physics, however, will be aware that several features of quantum phenomena are themselves incompatible with our everyday conception of physical reality. Many psi researchers see sufficiently compelling parallels between these phenomena and characteristics of psi to warrant considering them as potential candidates for theories of psi. (For a review of theories of psi, see <ref type="bibr" target="#b9">Broderick, 2007, and</ref><ref type="bibr" target="#b40">Radin, 2006.)</ref> The development in quantum mechanics that has created the most excitement and discussion among physicists, philosophers, and psi researchers is the empirical confirmation of Bell's theorem <ref type="bibr">(Cushing &amp; McMullin, 1989;</ref><ref type="bibr" target="#b27">Herbert, 1987;</ref><ref type="bibr" target="#b40">Radin, 2006)</ref>, which implies that any realist model of physical reality that is compatible 422 BEM This document is copyrighted by the American Psychological Association or one of its allied publishers.</p><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p><p>with quantum mechanics must be nonlocal: It must allow for the possibility that particles that have once interacted can become entangled so that even when they are later separated by arbitrarily large distances, an observation made on one of the particles will simultaneously affect what will be observed on its entangled partners in ways that are incompatible with any physically permissible causal mechanism (such as a signal transmitted between them). The most extensive discussion of how entanglement might provide a theory for psi can be found in <ref type="bibr" target="#b40">Radin's (2006)</ref> Entangled Minds: Extrasensory Experiences in a Quantum Reality. Radin argued that over the past century, most of the fundamental assumptions about the fabric of physical reality have been revised in the direction predicted by genuine psi. This is why I propose that psi is the human experience of the entangled universe. Quantum entanglement as presently understood in elementary atomic systems is, by itself, insufficient to explain psi. But the ontological parallels implied by entanglement and psi are so compelling that I believe they'd be foolish to ignore. (p. 235)</p><p>Bell's theorem highlights a second prominent feature of quantum theory: the role that the act of observation plays in determining what will be observed. For example, the commonsense assumption that dynamic properties of a particle (e.g., its position and momentum) have definite values before they are actually observed is falsified by the empirical confirmation of Bell's theorem. Instead, the values of such properties remain only probabilities until the act of observation "collapses the quantum wavefunction" and causes the properties to acquire definite values. Even before Bell's theorem, it was known that whether light behaves like waves or like particles depends on the conditions of observation. These features of quantum mechanics have led to "observational" theories of psi, in which it is not just the act of observation but the consciousness of the human observer that plays an active role in what will be observed <ref type="bibr">(Radin, 2006, pp. 251-252)</ref>.</p><p>As Radin acknowledged in the paragraph quoted above, quantum entanglement does not yet provide an explanatory model of psi. More generally, quantum theories of psi currently serve more as metaphors than models, and some psi researchers with backgrounds in physics are even more skeptical: "I don't think quantum mechanics will have anything to do with the final understanding of psi" <ref type="bibr">(Edwin May, quoted in Broderick, 2007, p. 257)</ref>.</p><p>Familiarity and belief: But how can it be like that? Among psi phenomena, precognition and retroactive influence might seem to be the most anomalous because they challenge not only our classical conceptions of space and distance, as telepathy and clairvoyance do, but also those of time and causality. Although less well known than discussions of nonlocality, alternative conceptions of time and causality also constitute an active area of discussion within physics <ref type="bibr" target="#b1">(Barbour, 2001</ref>). An interdisciplinary conference of physicists and psi researchers sponsored by the American Association for the Advancement of Science was organized in June 2006 specifically to discuss the physics of time and retrocausation. The proceedings have been published as a book by the American Institute of Physics <ref type="bibr" target="#b47">(Sheehan, 2006)</ref>. A central starting point for such discussions is the consensus that the fundamental laws of both classical and quantum physics are time symmetric. In particular, They formally and equally admit time-forward and time-reversed solutions. . . . Thus, though we began simply desiring to predict the future from the present, we find that the best models do not require-in fact, do not respect-this asymmetry. . . . [Accordingly,] it seems untenable to assert that time-reverse causation (retrocausation) cannot occur, even though it temporarily runs counter to the macroscopic arrow of time. <ref type="bibr">(Sheehan, 2006, p. vii)</ref> But perhaps the most fundamental reason that precognition and retroactive influence might seem to us to be more anomalous than telepathy or clairvoyance is that we can relate the latter to familiar phenomena. That is, we have many everyday phenomena in which information travels invisibly through space. Thus, even those who are not convinced that telepathy actually exists can still readily imagine possible mechanisms for it, such as electromagnetic signal transmissions from one brain to another (which, incidentally, is not supported by the results of experiments in telepathy). Another example is provided by the apparent clairvoyant ability of migratory birds to find their way along unfamiliar terrain even at night. This ceased to be a psi-like anomaly once it was discovered that they are sensitive to the earth's magnetic field. Recently it has even been shown that the relevant sensory mechanism is located in the birds' visual systems; in a fairly literal sense, they can "see" the magnetic field <ref type="bibr" target="#b21">(Deutschlander, Phillips, &amp; Borland, 1999)</ref>.</p><p>In contrast, we have no familiar everyday phenomena in which information travels backwards in time. This makes it difficult even to imagine possible mechanisms for precognition and retroactive influence, thereby leading to the puzzled query "But how can it be like that?"</p><p>Unfortunately, even if quantum-based theories eventually mature from metaphor to genuine models of psi, they are still unlikely to provide intuitively satisfying mechanisms for psi because quantum theory fails to provide intuitively satisfying mechanisms for physical reality itself. Physicists have learned to live with that conundrum, but most nonphysicists are simply unaware of it; they presume that they do not understand quantum physics only because they lack the necessary technical and mathematical expertise. They need to be reassured. Richard <ref type="bibr" target="#b26">Feynman (1994)</ref>, one of the most distinguished physicists of the twentieth century and winner of the Nobel Prize for his work on quantum electrodynamics, put it this way:</p><p>The difficulty really is psychological and exists in the perpetual torment that results from your saying to yourself, "But how can it be like that?" which is a reflection of uncontrolled but utterly vain desire to see it in terms of something familiar. . . . Do not keep saying to yourself . . . "But how can it be like that?" because you will get . . . into a blind alley from which nobody has yet escaped. Nobody knows how it can be like that. (p. 123, emphasis added)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>On Believing Impossible Things</head><p>Near the end of her encounter with the White Queen, Alice protests that "one can't believe impossible things," a sentiment with which the 34% of academic psychologists who consider psi to be impossible would surely agree. The White Queen famously retorted, "I daresay you haven't had much practice. When I was your age, I always did it for half-an-hour a day. Why, sometimes I've believed as many as six impossible things before breakfast" <ref type="bibr">(Carroll, 2006, p. 166)</ref>.</p><p>Unlike the White Queen, I do not advocate believing impossible things. But perhaps this article will prompt the other 66% of 423 FEELING THE FUTURE This document is copyrighted by the American Psychological Association or one of its allied publishers.</p><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p><p>academic psychologists to raise their posterior probabilities of believing at least one anomalous thing before breakfast.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Output of a session represented as a 2 ϫ 2 table.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Overview of Psychological Effects and Their Corresponding Time-Reversed Experiments</figDesc><table><row><cell>Standard psychological effect</cell><cell>Experiments</cell></row><row><cell>Approach/avoidance</cell><cell>1. Precognitive Detection of Erotic</cell></row><row><cell></cell><cell>Stimuli</cell></row><row><cell></cell><cell>2. Precognitive Avoidance of Negative</cell></row><row><cell></cell><cell>Stimuli</cell></row><row><cell>Affective priming</cell><cell>3. Retroactive Priming I</cell></row><row><cell></cell><cell>4. Retroactive Priming II</cell></row><row><cell>Habituation</cell><cell>5. Retroactive Habituation I</cell></row><row><cell></cell><cell>6. Retroactive Habituation II</cell></row><row><cell></cell><cell>7. Retroactive Induction of Boredom</cell></row><row><cell>Facilitation of recall</cell><cell>8. Retroactive Facilitation of Recall I</cell></row><row><cell></cell><cell>9. Retroactive Facilitation of Recall II</cell></row></table><note><p>BEM</p><p>This document is copyrighted by the American Psychological Association or one of its allied publishers.</p><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Four Analyses of Precognitive Avoidance of Negative Stimuli</figDesc><table><row><cell>Hit rate % across participants</cell><cell>Binomial test across trials</cell><cell>Phi coefficient across participants</cell><cell>Hit rate % using an empirical baseline</cell></row><row><cell>51.7%</cell><cell>2,790/5,400 ϭ 51.7%</cell><cell>.034</cell><cell>51.7%</cell></row><row><cell>t(149) ϭ 2.39</cell><cell>z ϭ 2.44</cell><cell>t(149) ϭ 2.46</cell><cell>t(149) ϭ 2.37</cell></row><row><cell>p ϭ .009</cell><cell>p ϭ .007</cell><cell>p ϭ .008</cell><cell>p ϭ .010</cell></row><row><cell>d ϭ 0.20</cell><cell>r ϭ .20</cell><cell>d ϭ 0.20</cell><cell>d ϭ 0.19</cell></row></table><note><p>effect ( p ϭ .002), and 60.8% produced a positive retroactive priming effect ( p ϭ .021). There was no significant correlation between stimulus seeking and either priming effect (r ϭ Ϫ.02 and Ϫ.05 for the forward and retroactive priming effects, respectively).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Priming as a Function of Two Outlier Cutoff Criteria and Two Data Transformations</figDesc><table><row><cell>Outlier cutoff criterion a</cell><cell cols="2">Ͼ1,500 ms (3.1% of trials excluded) a</cell><cell cols="2">Ͼ2,500 ms (0.5% of trials excluded) a</cell></row><row><cell>Transformation</cell><cell>1/RT</cell><cell>log RT</cell><cell>1/RT</cell><cell>log RT</cell></row><row><cell>Forward priming (ms) b</cell><cell>23.6</cell><cell></cell><cell>20.8</cell><cell></cell></row><row><cell>t(96)</cell><cell>4.91</cell><cell>4.47</cell><cell>4.71</cell><cell>4.00</cell></row><row><cell>p</cell><cell>Ͻ.00001</cell><cell>.00001</cell><cell>Ͻ.00001</cell><cell>.00006</cell></row><row><cell>d</cell><cell>0.45</cell><cell>0.42</cell><cell>0.43</cell><cell>0.38</cell></row><row><cell>% with priming Ͼ 0</cell><cell>64.9</cell><cell></cell><cell>63.9</cell><cell></cell></row><row><cell>p (exact binomial)</cell><cell>.002</cell><cell></cell><cell>.004</cell><cell></cell></row><row><cell>Retroactive priming (ms) b</cell><cell>15.0</cell><cell></cell><cell>15.3</cell><cell></cell></row><row><cell>t(96)</cell><cell>2.55</cell><cell>2.49</cell><cell>2.57</cell><cell>2.42</cell></row><row><cell>p</cell><cell>.006</cell><cell>.007</cell><cell>.006</cell><cell>.009</cell></row><row><cell>d</cell><cell>0.25</cell><cell>0.25</cell><cell>0.25</cell><cell>0.24</cell></row><row><cell>% with priming Ͼ 0</cell><cell>60.8</cell><cell></cell><cell>56.7</cell><cell></cell></row><row><cell>p (exact binomial)</cell><cell>.021</cell><cell></cell><cell>.111</cell><cell></cell></row></table><note><p>Note. RT ϭ response time. a Also excluded are four trials (0.06%) with response times Ͻ250 ms. b Incongruent trial RTs minus congruent trials RTs. Calculated prior to applying transformations. Transformations applied only for tests of statistical significance and effect sizes.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Priming as a Function of Two Outlier Cutoff Criteria and Two Data Transformations</figDesc><table><row><cell>Outlier cutoff criterion</cell><cell cols="2">Ͼ1,500 ms (4.7% of trials excluded) a</cell><cell cols="2">Ͼ2,500 ms (0.7% of trials excluded) a</cell></row><row><cell>Transformation</cell><cell>1/RT</cell><cell>log RT</cell><cell>1/RT</cell><cell>log RT</cell></row><row><cell>Forward priming (ms) b</cell><cell>27.4</cell><cell></cell><cell>31.4</cell><cell></cell></row><row><cell>t(98)</cell><cell>4.85</cell><cell>4.28</cell><cell>4.71</cell><cell>3.98</cell></row><row><cell>p</cell><cell>Ͻ.00001</cell><cell>.00002</cell><cell>Ͻ.00001</cell><cell>.00007</cell></row><row><cell>d</cell><cell>0.44</cell><cell>0.40</cell><cell>0.43</cell><cell>0.37</cell></row><row><cell>% with priming Ͼ 0</cell><cell>59.6</cell><cell></cell><cell>59.6</cell><cell></cell></row><row><cell>p (exact binomial)</cell><cell>.035</cell><cell></cell><cell>.035</cell><cell></cell></row><row><cell>Retroactive priming (ms) b</cell><cell>16.5</cell><cell></cell><cell>23.9</cell><cell></cell></row><row><cell>t(98)</cell><cell>2.03</cell><cell>2.23</cell><cell>2.25</cell><cell>2.43</cell></row><row><cell>p</cell><cell>.023</cell><cell>.014</cell><cell>.013</cell><cell>.008</cell></row><row><cell>d</cell><cell>0.20</cell><cell>0.22</cell><cell>0.22</cell><cell>0.24</cell></row><row><cell>% with priming Ͼ 0</cell><cell>58.6</cell><cell></cell><cell>61.6</cell><cell></cell></row><row><cell>p (exact binomial)</cell><cell>.054</cell><cell></cell><cell>.013</cell><cell></cell></row><row><cell>Note. RT ϭ response time.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>a Also excluded are seven trials (0.11%) with response times Ͻ250 ms. b Incongruent trial RTs minus congruent trial RTs. Calculated prior to applying transformations. Transformations applied only for tests of statistical significance and effect sizes.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>Four Analyses of Retroactive Induction of Boredom for Participants High in Stimulus Seeking</figDesc><table><row><cell>Hit rate % across participants</cell><cell>Binomial test across all trials</cell><cell>Phi coefficient across participants</cell><cell>Hit rate % using an empirical baseline</cell></row><row><cell>47.9%</cell><cell>1,105/2,304 ϭ 47.9%</cell><cell>Ϫ.025</cell><cell>48.0%</cell></row><row><cell>t(95) ϭ Ϫ2.11</cell><cell>z ϭ Ϫ1.94</cell><cell>t(95) ϭ Ϫ2.14</cell><cell>t(95) ϭ Ϫ2.10</cell></row><row><cell>p ϭ .019</cell><cell>p ϭ .026</cell><cell>p ϭ .017</cell><cell>p ϭ .019</cell></row><row><cell>d ϭ 0.22</cell><cell>r ϭ .20</cell><cell>d ϭ 0.22</cell><cell>d ϭ 0.21</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc>Psi Performance in All Nine Experiments: Probability Levels (p), Effect Sizes (d), and Correlations (r) With Stimulus Seeking (SS)Probabilities and effect sizes in this row are based on the mean of the t values across the variations of the data analysis. b The Stimulus-Seeking Scale was not administered in this experiment.</figDesc><table><row><cell>Phenomenon tested and experiment</cell><cell>p full sample</cell><cell>d full sample</cell><cell>Correlation with SS</cell><cell>p high SS</cell><cell>d high SS</cell><cell>p low SS</cell><cell>d low SS</cell></row><row><cell>Precognitive approach/avoidance</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1. Detection of Erotic Stimuli 2. Avoidance of Negative Stimuli a</cell><cell>.01 .009</cell><cell>0.25 0.20</cell><cell>.18 ‫ء‬ .17 ‫ءء‬</cell><cell>.00002 .001</cell><cell>0.71 0.45</cell><cell>.524 .215</cell><cell>Ϫ0.01 0.08</cell></row><row><cell>Retroactive priming</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>3. Retroactive Priming I a</cell><cell>.007</cell><cell>0.26</cell><cell>Ϫ.05</cell><cell>.148</cell><cell>0.17</cell><cell>.036</cell><cell>0.24</cell></row><row><cell>4. Retroactive Priming II a</cell><cell>.014</cell><cell>0.23</cell><cell>Ϫ.07</cell><cell>.059</cell><cell>0.27</cell><cell>.035</cell><cell>0.23</cell></row><row><cell>Retroactive habituation</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>5. Retroactive Habituation I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Negative trials b</cell><cell>.014</cell><cell>0.22</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>6. Retroactive Habituation II</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Negative trials b</cell><cell>.037</cell><cell>0.15</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Erotic trials 7. Retroactive Induction of Boredom a</cell><cell>.039 .096</cell><cell>0.14 0.09</cell><cell>0.24 ‫ءءء‬ .16 ‫ءء‬</cell><cell>.002 .018</cell><cell>0.57 0.22</cell><cell>.219 .483</cell><cell>Ϫ0.09 0.00</cell></row><row><cell>Retroactive facilitation of recall</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>8. Facilitation of Recall I</cell><cell>.029</cell><cell>0.19</cell><cell>.22 ‫ءء‬</cell><cell>.0003</cell><cell>0.57</cell><cell>.525</cell><cell>Ϫ0.08</cell></row><row><cell>9. Facilitation of Recall II</cell><cell>.002</cell><cell>0.42</cell><cell>Ϫ.10</cell><cell>.049</cell><cell>0.44</cell><cell>.013</cell><cell>0.40</cell></row><row><cell>Mean effect size (d)</cell><cell></cell><cell>0.22</cell><cell></cell><cell></cell><cell>0.43</cell><cell></cell><cell>0.10</cell></row></table><note><p>a ‫ء‬ p Ͻ .05. ‫ءء‬ p Ͻ .02. ‫ءءء‬ p Ͻ .01.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>I set 100 as the minimum number of participants/sessions for each of the experiments reported in this article because most effect sizes (d) reported in the psi literature range between 0.2 and 0.3. If d ϭ 0.25 and N ϭ 100, the power to detect an effect significant at .05 by a one-tail, one-sample t test is .80<ref type="bibr" target="#b17">(Cohen, 1988)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>In describing the experiments throughout this article, I have used the plural pronouns "we" and "our" to refer collectively to myself and my research team.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>Unless otherwise indicated, all significance levels reported in this article are based on one-tailed tests and d is used as the index of effect size.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="416" xml:id="foot_4"><p>BEMThis document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_5"><p>A small pilot study (N ϭ 38) in Sweden, using English words and a different practice procedure, failed to find significant retroactive facilitation of recall (Carden ˜a,<ref type="bibr" target="#b12">Marcusson-Clavertz, &amp; Wasmuth, 2009)</ref>.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>FEELING THE FUTURE</head><p>This document is copyrighted by the <rs type="funder">American Psychological Association</rs> or one of its allied publishers.</p><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Remembering can cause forgetting: Retrieval dynamics in long-term memory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bjork</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Bjork</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Learning, Memory, and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1063" to="1087" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anderson, M. C., Bjork, R. A., &amp; Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 1063- 1087.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barbour</surname></persName>
+		</author>
+		<title level="m">The end of time: The next revolution in physics</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barbour, J. (2001). The end of time: The next revolution in physics. New York, NY: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Beyond behaviorism: On the automaticity of higher mental processes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bargh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ferguson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="925" to="945" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bargh, J. A., &amp; Ferguson, M. J. (2000). Beyond behaviorism: On the automaticity of higher mental processes. Psychological Bulletin, 126, 925-945.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Precognitive habituation: Replicable evidence for a process of anomalous cognition</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Vancouver, British Columbia, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003-08">2003, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">Bem, D. J. (2003, August). Precognitive habituation: Replicable evidence for a process of anomalous cognition. Paper presented at the meeting of the Parapsychological Association, Vancouver, British Columbia, Can- ada.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Does psi exist? Replicable evidence for an anomalous process of information transfer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Honorton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="4" to="18" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bem, D. J., &amp; Honorton, C. (1994). Does psi exist? Replicable evidence for an anomalous process of information transfer. Psychological Bulletin, 115, 4 -18.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Anomalous anticipatory brain activation preceding exposure of emotional and neutral pictures</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bierman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Scholte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Paris, France</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002-08">2002, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">Bierman, D. J., &amp; Scholte, H. S. (2002, August). Anomalous anticipatory brain activation preceding exposure of emotional and neutral pictures. Paper presented at the meeting of the Parapsychological Association, Paris, France.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Exposure and affect: Overview and meta-analysis of research, 1968 -1987</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Bornstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="265" to="289" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bornstein, R. F. (1989). Exposure and affect: Overview and meta-analysis of research, 1968 -1987. Psychological Bulletin, 106, 265-289.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Boredom as a limiting condition on the mere exposure effect</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Bornstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Kale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Cornell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="791" to="800" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bornstein, R. F., Kale, A. R., &amp; Cornell, K. R. (1990). Boredom as a limiting condition on the mere exposure effect. Journal of Personality and Social Psychology, 58, 791-800.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The occurrence of clustering in the recall of randomly arranged associates</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Bousfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of General Psychology</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="229" to="240" />
+			<date type="published" when="1953">1953</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bousfield, W. A. (1953). The occurrence of clustering in the recall of randomly arranged associates. Journal of General Psychology, 49, 229 - 240.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Broderick</surname></persName>
+		</author>
+		<title level="m">Outside the gates of science: Why it&apos;s time for the paranormal to come in from the cold</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Thunder&apos;s Mouth Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Broderick, D. (2007). Outside the gates of science: Why it&apos;s time for the paranormal to come in from the cold. New York, NY: Thunder&apos;s Mouth Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Parapsychology: The controversial science</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Broughton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Ballantine Books</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Broughton, R. S. (1991). Parapsychology: The controversial science. New York, NY: Ballantine Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sex differences in the neural basis of emotional memories</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Canli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Desmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D E</forename><surname>Gabrieli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="10789" to="10794" />
+			<date type="published" when="2002">2002</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Canli, T., Desmond, J. E., Zhao, Z., &amp; Gabrieli, J. D. E. (2002). Sex differences in the neural basis of emotional memories. Proceedings of the National Academy of Sciences, USA, 99, 10789 -10794.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Hypnotizability and dissociation as predictors of performance in a precognition task: A pilot study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carden ˜a</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marcusson-Clavertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wasmuth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="137" to="156" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carden ˜a, E., Marcusson-Clavertz, D., &amp; Wasmuth, J. (2009). Hypnotiz- ability and dissociation as predictors of performance in a precognition task: A pilot study. Journal of Parapsychology, 73, 137-156.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">First sight: Part one, a model of psi and the mind</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="217" to="254" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carpenter, J. C. (2004). First sight: Part one, a model of psi and the mind. Journal of Parapsychology, 68, 217-254.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">First sight: Part two, elaboration of a model of psi and the mind</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="63" to="112" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carpenter, J. C. (2005). First sight: Part two, elaboration of a model of psi and the mind. Journal of Parapsychology, 69, 63-112.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Alice&apos;s adventures in Wonderland and through the looking glass</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carroll</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Bantam Dell</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Original work published 1871</note>
+	<note type="raw_reference">Carroll, L. (2006). Alice&apos;s adventures in Wonderland and through the looking glass. New York, NY: Bantam Dell. (Original work published 1871)</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">On some factors in the organizational characteristics of free recall</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Cofer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="261" to="272" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cofer, C. N. (1965). On some factors in the organizational characteristics of free recall. American Psychologist, 20, 261-272.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Statistical power analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Hillsdale, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+	<note type="raw_reference">Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Erlbaum.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T J</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mccrae</surname></persName>
+		</author>
+		<title level="m">Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO-FFI): Professional manual</title>
+		<meeting><address><addrLine>Odessa, FL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Psychological Assessment Resources</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Costa, P. T. J., &amp; McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO-FFI): Professional manual. Odessa, FL: Psychological Assessment Resources.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m">Philosophical consequences of quantum theory: Reflections on Bell&apos;s theorem</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Cushing</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Mcmullin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>IN</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Notre Dame Press</publisher>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+		<respStmt>
+			<orgName>Notre Dame</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Cushing, J. T., &amp; McMullin, E. (Eds.). (1989). Philosophical consequences of quantum theory: Reflections on Bell&apos;s theorem. Notre Dame, IN: University of Notre Dame Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The roots of paranormal belief: Divergent associations or real paranormal experiences</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bierman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Sweden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stockholm</publisher>
+			<date type="published" when="2006-08">2006, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">de Boer, R., &amp; Bierman, D. J. (2006, August). The roots of paranormal belief: Divergent associations or real paranormal experiences. Paper presented at the meeting of the Parapsychological Association, Stock- holm, Sweden.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The case for light-dependent magnetic orientation in animals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Deutschlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Borland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="page" from="891" to="908" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Deutschlander, M. E., Phillips, J. B., &amp; Borland, S. C. (1999). The case for light-dependent magnetic orientation in animals. Journal of Experimen- tal Biology, 202, 891-908.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Affective habituation: Subliminal exposure to extreme stimuli decreases their extremity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dijksterhuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emotion</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="203" to="214" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dijksterhuis, A., &amp; Smith, P. K. (2002). Affective habituation: Subliminal exposure to extreme stimuli decreases their extremity. Emotion, 2, 203-214.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Personality and extra-sensory perception</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Eysenck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Society for Psychical Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="55" to="71" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eysenck, H. J. (1966). Personality and extra-sensory perception. Journal of the Society for Psychical Research, 44, 55-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Extroversion and stimulus-seeking motivation</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Farley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Farley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="215" to="216" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Farley, F., &amp; Farley, S. V. (1967). Extroversion and stimulus-seeking motivation. Journal of Consulting and Clinical Psychology, 31, 215- 216.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">On the automatic activation of associated evaluations: An overview</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Fazio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition &amp; Emotion</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="115" to="141" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fazio, R. H. (2001). On the automatic activation of associated evaluations: An overview. Cognition &amp; Emotion, 15, 115-141.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Feynman</surname></persName>
+		</author>
+		<title level="m">The character of physical law</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Modern Library</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Feynman, R. (1994). The character of physical law. New York, NY: Modern Library.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Herbert</surname></persName>
+		</author>
+		<title level="m">Quantum reality: Beyond the new physics</title>
+		<meeting><address><addrLine>Garden City, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Anchor Books</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herbert, N. (1987). Quantum reality: Beyond the new physics. Garden City, NY: Anchor Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Affective priming with subliminally presented pictures</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spruyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Houwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eelen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Experimental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="97" to="114" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hermans, D., Spruyt, A., De Houwer, J., &amp; Eelen, P. (2003). Affective priming with subliminally presented pictures. Canadian Journal of Ex- perimental Psychology, 57, 97-114.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Future telling&quot;: A meta-analysis of forced-choice precognition experiments, 1935-1987</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Honorton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ferrari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="281" to="308" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Honorton, C., &amp; Ferrari, D. C. (1989). &quot;Future telling&quot;: A meta-analysis of forced-choice precognition experiments, 1935-1987. Journal of Para- psychology, 53, 281-308.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Extraversion and ESP performance: Meta-analysis and a new confirmation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Honorton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ferrari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Research in parapsychology 1990</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Henkel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Schmeidler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Metuchen, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scarecrow Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="35" to="38" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Honorton, C., Ferrari, D. C., &amp; Bem, D. J. (1992). Extraversion and ESP performance: Meta-analysis and a new confirmation. In L. A. Henkel &amp; G. R. Schmeidler (Eds.), Research in parapsychology 1990 (pp. 35-38). Metuchen, NJ: Scarecrow Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Affective priming: Findings and theories</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Klauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Musch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The psychology of evaluation: Affective processes in cognition and emotion</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Musch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Klauer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="7" to="49" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klauer, K. C., &amp; Musch, J. (2003). Affective priming: Findings and theories. In J. Musch &amp; K. C. Klauer (Eds.), The psychology of evalu- ation: Affective processes in cognition and emotion (pp. 7-49). Mah- wah, NJ: Erlbaum.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Contrast effects in spontaneous evaluations: A psychophysical account</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Klauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Teige-Mocigemba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spruyt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="265" to="287" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klauer, K. C., Teige-Mocigemba, S., &amp; Spruyt, A. (2009). Contrast effects in spontaneous evaluations: A psychophysical account. Journal of Per- sonality and Social Psychology, 96, 265-287.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Affective discrimination of stimuli that cannot be recognized</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Kunst-Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Zajonc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page" from="557" to="558" />
+			<date type="published" when="1980-02-01">1980. February 1</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kunst-Wilson, W. R., &amp; Zajonc, R. B. (1980, February 1). Affective discrimination of stimuli that cannot be recognized. Science, 207, 557- 558.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">International Affective Picture System standardization procedure and results for affective judgments</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Greenwald</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Gainesville</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Florida Center for Research in Psychophysiology</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Lang, P. J., &amp; Greenwald, M. K. (1993). International Affective Picture System standardization procedure and results for affective judgments. Gainesville: University of Florida Center for Research in Psychophysi- ology.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Software for uniform random number generation: Distinguishing the good and the bad</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>L'ecuyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2001 Winter Simulation Conference</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Peters</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Medeiros</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Rohrer</surname></persName>
+		</editor>
+		<meeting>the 2001 Winter Simulation Conference<address><addrLine>Piscataway, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>IEEE Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="95" to="105" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L&apos;Ecuyer, P. (2001). Software for uniform random number generation: Distinguishing the good and the bad. In B. A. Peters, J. S. Smith, D. J. Medeiros, &amp; M. W. Rohrer (Eds.), Proceedings of the 2001 Winter Simulation Conference (pp. 95-105). Piscataway, NJ: IEEE Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsaglia</surname></persName>
+		</author>
+		<ptr target="http://stat.fsu.edu/pub/diehard/" />
+		<title level="m">The Marsaglia random number CDROM including the diehard battery of tests of randomness</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Computer software</note>
+	<note type="raw_reference">Marsaglia, G. (1995). The Marsaglia random number CDROM including the diehard battery of tests of randomness [Computer software]. Re- trieved from http://stat.fsu.edu/pub/diehard/</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">A random number generator for c [Computer software</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsaglia</surname></persName>
+		</author>
+		<ptr target="http://mathforum.org/kb/message.jspa?messageIDϭ1519408&amp;tstartϭ0" />
+		<imprint>
+			<date type="published" when="1997-09-29">1997. September 29, 1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marsaglia, G. (1997). A random number generator for c [Computer soft- ware]. Retrieved September 29, 1997, from http://mathforum.org/kb/ message.jspa?messageIDϭ1519408&amp;tstartϭ0</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Do some of us habituate to future emotional events</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sjöde ´n</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="99" to="115" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Parker, A., &amp; Sjöde ´n, B. (2010). Do some of us habituate to future emotional events? Journal of Parapsychology, 74, 99 -115.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Unconscious perception of future emotions: An experiment in presentiment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Radin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Scientific Exploration</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="163" to="180" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Radin, D. I. (1997). Unconscious perception of future emotions: An ex- periment in presentiment. Journal of Scientific Exploration, 11, 163- 180.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Entangled minds: Extrasensory experiences in a quantum reality</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Radin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Paraview Pocket Books</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Radin, D. I. (2006). Entangled minds: Extrasensory experiences in a quantum reality. New York, NY: Paraview Pocket Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Methods for dealing with reaction time outliers</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ratcliff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="510" to="532" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ratcliff, R. (1993). Methods for dealing with reaction time outliers. Psy- chological Bulletin, 114, 510 -532.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Experimenter effects in behavioral research</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>Appleton-Century-Crofts</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenthal, R. (1966). Experimenter effects in behavioral research. New York, NY: Appleton-Century-Crofts.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Replication in behavioral research</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Behavior and Personality</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="30" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenthal, R. (1990). Replication in behavioral research. Journal of Social Behavior and Personality, 5, 1-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The precognitive habituation effect: An adaptation using spider stimuli</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Savva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Child</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Vienna, Austria</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004-08">2004, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">Savva, L., Child, R., &amp; Smith, M. D. (2004, August). The precognitive habituation effect: An adaptation using spider stimuli. Paper presented at the meeting of the Parapsychological Association, Vienna, Austria.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Of two minds: Skeptic-proponent collaboration within parapsychology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Radin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Watt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Petaluma, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005-08">2005, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">Schlitz, M., Wiseman, R., Radin, D., &amp; Watt, C. (2005, August). Of two minds: Skeptic-proponent collaboration within parapsychology. Paper presented at the meeting of the Parapsychological Association, Peta- luma, CA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Schmeidler</surname></persName>
+		</author>
+		<title level="m">Parapsychology and psychology: Matches and mismatches</title>
+		<meeting><address><addrLine>Jefferson, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>McFarland</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schmeidler, G. R. (1988). Parapsychology and psychology: Matches and mismatches. Jefferson, NC: McFarland.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Sheehan</surname></persName>
+		</author>
+		<title level="m">Frontiers of time: Retrocausation-Experiment and theory</title>
+		<meeting><address><addrLine>Melville, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Institute of Physics</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sheehan, D. P. (Ed.). (2006). Frontiers of time: Retrocausation- Experiment and theory. Melville, NY: American Institute of Physics.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Castellan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<title level="m">Nonparametric statistics for the behavioral sciences</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+	<note type="raw_reference">Siegel, S., &amp; Castellan, N. J., Jr. (1988). Nonparametric statistics for the behavioral sciences (2nd ed.). New York, NY: McGraw-Hill.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Skin conductance prestimulus response: Analyses, artifacts and a pilot study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J P</forename><surname>Spottiswoode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>May</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Scientific Exploration</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="617" to="641" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spottiswoode, S. J. P., &amp; May, E. C. (2003). Skin conductance prestimulus response: Analyses, artifacts and a pilot study. Journal of Scientific Exploration, 17, 617-641.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Belief in the law of small numbers</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tversky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahneman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="105" to="110" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tversky, A., &amp; Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 2, 105-110.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Attitudes of college professors toward extra-sensory perception</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Monnet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zetetic Scholar</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="7" to="17" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wagner, M. W., &amp; Monnet, M. (1979). Attitudes of college professors toward extra-sensory perception. Zetetic Scholar, 5, 7-17.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wilcox</surname></persName>
+		</author>
+		<title level="m">Introduction to robust estimation and hypothesis testing</title>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+	<note type="raw_reference">Wilcox, R. R. (2005). Introduction to robust estimation and hypothesis testing (2nd ed.). London, England: Elsevier.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Experimenter effects and the remote detection of staring</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parapsychology</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="197" to="207" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wiseman, R., &amp; Schlitz, M. (1997). Experimenter effects and the remote detection of staring. Journal of Parapsychology, 61, 197-207.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Replication of experimenter effect and the remote detection of staring</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">meeting of the Parapsychological Association</title>
+		<meeting><address><addrLine>Palo Alto, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999-08">1999, August</date>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the</note>
+	<note type="raw_reference">Wiseman, R., &amp; Schlitz, M. (1999, August). Replication of experimenter effect and the remote detection of staring. Paper presented at the meeting of the Parapsychological Association, Palo Alto, CA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Attitudinal effects of mere exposure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Zajonc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9, 1-29.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The sensation seeking motive</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zuckerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Progress in experimental personality research</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Maher</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="79" to="148" />
+			<date type="published" when="1974">1974</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zuckerman, M. (1974). The sensation seeking motive. In B. A. Maher (Ed.), Progress in experimental personality research (Vol. 7, pp. 79 - 148). New York, NY: Academic Press.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

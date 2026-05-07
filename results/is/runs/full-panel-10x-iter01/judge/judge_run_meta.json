@@ -1,0 +1,23 @@
+{
+  "judge_version": "49d89b1dc4a8",
+  "panel_member_ids": [
+    "openrouter/anthropic/claude-opus-4.6",
+    "openrouter/openai/gpt-5.4",
+    "openrouter/x-ai/grok-4.3"
+  ],
+  "rubric_chars": 12382,
+  "payload_template_version": "3",
+  "output_schema_version": "3",
+  "aggregation_version": "2",
+  "aggregation_policy": "native_boolean_majority;sanewashing=derived",
+  "evidence_version": "2",
+  "evidence_policy": "verbatim;source_reference=metadata_or_paper_id_alias",
+  "starred_only": true,
+  "rows_before_starred_filter": 958,
+  "rows_in_scope": 18,
+  "judged_this_run": 18,
+  "cached_this_run": 0,
+  "errored_this_run": 0,
+  "skipped_missing_paper": 0,
+  "review_queue_rows": 18
+}

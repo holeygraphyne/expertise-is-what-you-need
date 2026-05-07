@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetic treatment of irrigation water: Its effects on vegetable crop yield and water productivity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-08">2009-08</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Basant</forename><forename type="middle">L</forename><surname>Maheshwari</surname></persName>
+							<email>b.maheshwari@uws.edu.au</email>
+						</author>
+						<author>
+							<persName><forename type="first">Harsharn</forename><forename type="middle">Singh</forename><surname>Grewal</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">School of Natural Science , CRC for Irrigation Futures , Building H3 -Hawkesbury Campus ,</note>
+								<orgName type="department">School of Natural Science</orgName>
+								<orgName type="institution">CRC for Irrigation Futures</orgName>
+								<address>
+									<addrLine>Building H3 -Hawkesbury Campus</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">University of Western Sydney , Locked Bag 1797 , Penrith South DC NSW 1797 , Australia</note>
+								<orgName type="institution">University of Western Sydney</orgName>
+								<address>
+									<addrLine>Locked Bag 1797</addrLine>
+									<postCode>1797</postCode>
+									<settlement>Penrith South</settlement>
+									<region>DC NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetic treatment of irrigation water: Its effects on vegetable crop yield and water productivity</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Agricultural Water Management</title>
+						<title level="j" type="abbrev">Agricultural Water Management</title>
+						<idno type="ISSN">0378-3774</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">96</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="1229" to="1236"/>
+							<date type="published" when="2009-08" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">3A9E3FACD9A5D67A387911EE54BDE322</idno>
+					<idno type="DOI">10.1016/j.agwat.2009.03.016</idno>
+					<note type="submission">Received 20 August 2008 Accepted 22 March 2009</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Magnetic treatment Water productivity Recycled water Salinity Snow pea Celery Pea plants</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Long spell of drought and competing water demands in most parts of Australia have put enormous pressure on water resources. Steps need to be taken to conserve both the quantity and quality of water and appropriate strategies will have to be developed to avoid risk to future water supplies. The main efficiency gains must come from the dominant user, irrigation, accounting for over 70% of the total water use in Australia <ref type="bibr" target="#b1">(ANRA, 2008)</ref>.</p><p>One of the ways by which we can reduce the total water used for irrigation is to employ practices that improve crop yield per unit volume of water used (i.e., water productivity). There have been some claims made that the magnetic treatment of irrigation water can improve water productivity <ref type="bibr" target="#b6">(Duarte Diaz et al., 1997)</ref>. If those claims are valid, there is scope for magnetic treatment of water to save water supplies and assist in coping with the future water scarcity.</p><p>There is hardly any study reported, with valid scientific experiments, on the effects of magnetic treatment of water on crop yield and water productivity. However, some closely related studies have reported on some beneficial effects of magnetic field in a number of other farming situations. For example, <ref type="bibr">Lin and</ref> This study examines whether there are any beneficial effects of magnetic treatment of different irrigation water types on water productivity and yield of snow pea, celery and pea plants. Replicated pot experiments involving magnetically treated and non-magnetically treated potable water (tap water), recycled water and saline water (500 ppm and 1000 ppm NaCl for snow peas; 1500 ppm and 3000 ppm for celery and peas) were conducted in glasshouse under controlled environmental conditions during April 2007 to December 2008 period at University of Western Sydney, Richmond Campus (Australia). A magnetic treatment device with its magnetic field in the range of 3.5-136 mT was used for the magnetic treatment of irrigation water. The analysis of the data collected during the study suggests that the effects of magnetic treatment varied with plant type and the type of irrigation water used, and there were statistically significant increases in plant yield and water productivity (kg of fresh or dry produce per kL of water used). In particular, the magnetic treatment of recycled water and 3000 ppm saline water respectively increased celery yield by 12% and 23% and water productivity by 12% and 24%. For snow peas, there were 7.8%, 5.9% and 6.0% increases in pod yield with magnetically treated potable water, recycled water and 1000 ppm saline water, respectively. The water productivity of snow peas increased by 12%, 7.5% and 13% respectively for magnetically treated potable water, recycled water and 1000 ppm saline water. On the other hand, there was no beneficial effect of magnetically treated irrigation water on the yield and water productivity of peas. There was also non-significant effect of magnetic treatment of water on the total water used by any of the three types of vegetable plants tested in this study. As to soil properties after plant harvest, the use of magnetically treated irrigation water reduced soil pH but increased soil EC and available P in celery and snow pea. Overall, the results indicate some beneficial effect of magnetically treated irrigation water, particularly for saline water and recycled water, on the yield and water productivity of celery and snow pea plants under controlled environmental conditions. While the findings of this glasshouse study are interesting, the potential of the magnetic treatment of irrigation water for crop production needs to be further tested under field conditions to demonstrate clearly its beneficial effects on the yield and water productivity.</p><p>Crown Copyright ß 2009 Published by Elsevier B.V. All rights reserved. <ref type="bibr" target="#b12">Yotvat (1990)</ref> reported an increase in water productivity in both crop and livestock production with magnetically treated water. Some studies have shown that there is an increase in number of flowers, earliness and total fruit yield of strawberry and tomatoes by the application of magnetic fields <ref type="bibr" target="#b7">(Esitken and Turan, 2004;</ref><ref type="bibr" target="#b5">Danilov et al., 1994)</ref>. An increase in nutrient uptake by magnetic treatment was also observed in tomatoes by Duarte <ref type="bibr" target="#b6">Diaz et al. (1997)</ref>. <ref type="bibr" target="#b0">Amaya et al. (1996)</ref> and <ref type="bibr" target="#b20">Podleoeny et al. (2004)</ref> have shown that an optimal external electromagnetic field accelerates the plant growth, especially seed germination percentage and speed of emergence. <ref type="bibr" target="#b20">Podleoeny et al. (2004)</ref> studied the effects of magnetic treatment by exposing the broad bean seeds to variable magnetic strengths before sowing and observed marked beneficial effects on seed germination, emergence rate and seed yield. Plant emergence was more regular after the use of the magnetic treatment and the emergence occurred 2-3 days earlier in comparison with the control treatment. They attributed the higher number of pods per plant and the fewer plant losses per unit area for broad bean during the growing season and consequently the yield increase to the presowing treatment of seeds with magnetic field.</p><p>Magnetic fields can also influence the root growth of various plant species <ref type="bibr" target="#b2">(Belyavskaya, 2001</ref><ref type="bibr" target="#b3">(Belyavskaya, , 2004;;</ref><ref type="bibr" target="#b17">Muraji et al., 1992</ref><ref type="bibr" target="#b16">Muraji et al., , 1998;;</ref><ref type="bibr" target="#b22">Turker et al., 2007)</ref>. <ref type="bibr" target="#b17">Muraji et al. (1992)</ref> demonstrated an enhancement in root growth of maize (Zea mays) by exposing the maize seedling to 5 mT magnetic fields at alternating frequencies of 40-160 Hz. However, there was a reduction in primary root growth of maize plants grown in a magnetic field alternating at 240-320 Hz. Highest growth rate of maize roots was achieved in a magnetic field of 5 mT at 10 Hz <ref type="bibr" target="#b16">(Muraji et al., 1998)</ref>. <ref type="bibr" target="#b22">Turker et al. (2007)</ref> reported an inhibitory effect of static magnetic field on root dry weight of maize plants, but there was a beneficial effect of magnetic field on root dry weight of sunflower plants. <ref type="bibr" target="#b3">Belyavskaya (2004)</ref> and <ref type="bibr" target="#b22">Turker et al. (2007)</ref> reported that weak magnetic field had inhibitory effect on growth of primary roots during early growth. The proliferative activity and cell reproduction in meristem in plant roots are reduced in weak magnetic field <ref type="bibr" target="#b3">(Belyavskaya, 2004)</ref>. Cell reproductive cycle slows down due to the expansion of G1 phase in many plant species and G2 phase in flax and lentil roots. There was a decrease in the functional activity of genome at early pre-replicate period in plant cells exposed to weak magnetic field. In general, these studies conclude that weak magnetic field caused intensification of protein synthesis and disintegration in plant roots. Mitochondria were also found to be very sensitive to magnetic field. The size and relative volume of mitochondria in cells increased due to a very weak magnetic field <ref type="bibr" target="#b2">(Belyavskaya, 2001</ref><ref type="bibr" target="#b3">(Belyavskaya, , 2004))</ref>. Cells of plant roots exposed to weak magnetic field showed calcium over-saturation in all the organelles in cytoplasm <ref type="bibr" target="#b3">(Belyavskaya, 2004)</ref>. <ref type="bibr" target="#b2">Belyavskaya (2001)</ref> reported disruptions in different metabolic systems including Ca 2+ homeostasis in root cells due to low magnetic field.</p><p>Impact of heat stress at 40 8C, 42 8C and 45 8C for 40 min in cress seedlings (Lepidium sativum) was reduced by exposing plants to extremely low-frequency magnetic field (50 Hz, 100 mT) <ref type="bibr" target="#b21">(Ruzic and Jerman, 2002)</ref>. Magnetic field probably acts on the same cellular metabolic pathways as temperature stress, and as such, the study suggested that magnetic field act as a protective factor against heat stress.</p><p>In general, the literature review reveals that there are possibly some beneficial effects of magnetic field or treatment on plant growth and other related parameters. However, there is no clarity as to the extent of these effects and mechanisms operating behind these effects. Furthermore, there is not much research carried out on the effects of magnetic treatment of irrigation water on plant growth and crop and water productivity.</p><p>In this study, therefore, we investigate the effects of magnetically treated potable water, recycled water and saline water on plant yield and water productivity under controlled environmental conditions in glasshouse. The main objectives of the study are:</p><p>-To examine the performance of magnetically treated potable water, recycled water and saline water on plant growth, yield and produce nutrient composition of selected plant types, -to quantify water productivity and water saving potential of magnetically treated irrigation water, and -to determine the changes in soil properties due to irrigation with magnetically treated water from different sources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Location, plant material and growing conditions</head><p>The project involved glasshouse experiments and laboratory analysis of soil and plant properties. The glasshouse experiments were conducted to examine the effects of magnetic treatment of potable water, recycled water and saline water on plant yield, the total water use, water productivity, soil properties and nutrient composition of snow peas, celery and peas. The study was conducted under controlled environmental conditions with day and night temperature of 20 8C and 15 8C respectively in the glasshouse.</p><p>Glasshouse experiments were conducted with celery, snow pea and pea plants. There were two factors in the study: type of irrigation water and magnetic treatment of water. The following three types of irrigation waters were selected for the study:</p><p>-Potable water, -recycled water, and -saline water.</p><p>The potable water used was the normal drinking water supplied by the Sydney Water Corporation in the area, while the recycled water was the treated effluent sourced from the Richmond Sewage Treatment Plant. The saline water used in the study was prepared by adding measured amounts of NaCl salt to potable water to achieve required salinity levels.</p><p>To understand the impact of salinity levels on magnetically treated water, two salinity levels were used for each plant type. The salinity levels were 500 ppm and 1000 ppm for snow peas and 1500 ppm and 3000 ppm for celery and peas. The salinity levels of irrigation water selected for snow peas were lower due to a higher sensitivity of snow pea plants to salts when compared to celery and pea plants. By having two salinity levels in the study for each plant type, in effect, we had a total of four irrigation water types, i.e., potable water, recycled water and two variants of saline water. Snow pea, pea and celery seeds were initially sown in seeding mixture on 16th April 2007, 16th April 2007 and 2nd July 2007 respectively, and normal potable water was used for establishing the seedlings. Once seedlings achieved required growth, healthy seedlings were selected for planting in the study. Pea, celery and snow pea seedlings were transplanted on 4th May 2007, 9th May 2007 and 17th July 2007, respectively. Two uniform size plants per pot were transplanted in celery and pea pots, while four plants per pot were transplanted in snow pea pots. The experiments for snow pea, pea and celery were conducted in separate areas within the glasshouse, and there were 48 pots for each plant type studied. The pea, celery and snow pea plants were harvested on 26th <ref type="bibr">June 2007</ref><ref type="bibr">, 24th October 2007</ref><ref type="bibr">and 22nd November 2007, respectively.</ref> For achieving statistically valid and unbiased estimates of treatment means, treatment differences and experimental error, we used statistical principle of local control, replication and randomisation in these experiments. Completely randomised design was used in the study and each treatment had four replications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Magnetic treatment</head><p>The irrigation water of different types was treated with a magnetic device before applying to the plants. The mean values of pH, EC, N, P and K values of different irrigation water types before and after magnetic treatment are presented in Table <ref type="table" target="#tab_0">1</ref>. Magnetic treatment of water tends to reduce slightly the water pH, while there is no apparent trend for EC values. The values of N, P and K content of different water types were not affected by magnetic treatment of water. Recycled water had greater N, P and K content compared with tap water and saline water (Table <ref type="table" target="#tab_0">1</ref>).</p><p>Magnetic treatment device, supplied by Omni Environment Group Pty Ltd. (a Sydney based Australian company), with its magnetic field in the range of 3.5-136 mT was used for the magnetic treatment of irrigation water. The device comprised of a 100 mm pipe section with its internal diameter 22 mm. The device contains two magnets, and the arrangement of their north and south poles and the direction of magnetic field generated are shown in Fig. <ref type="figure" target="#fig_0">1</ref>. For the magnetic treatment of irrigation water, it was passed twice through the magnetic treatment device at the flow rate of 10 ml/s, providing the water magnetic field exposure of about 3 s.</p><p>The intensity of magnetic field generated by the two magnets was measured along the longitudinal and cross-sectional directions of the pipe by Sypris Model 5070 Gauss/Tesla Meter TM . The values of the magnetic field varied from 3.5 mT to 93 mT along the axis of the pipe (centre line). In this case, there was a trend of increasing values at the beginning of the pipe length, reaching peak values at the middle section of the pipe (between 30 mm and 70 mm distance from the beginning of the pipe length) and the trend of decreasing values towards the end of the pipe length.</p><p>Depending upon the distance along the pipe length, the values of the magnetic field also varied across the pipe diameter, varying from 3.3 to 136 mT, 3.2 to 94 mT, 3.2 to 97 mT and 1.8 to 118 mT at 5 mm, 10 mm, 15 mm and 20 mm distances from the one end of the pipe wall to the other. The peak values of the magnetic field in this case were observed for the pipe section between 30 mm and 70 mm distances from the beginning of the pipe length.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Soil properties and planting of seedlings</head><p>Soil for the study was obtained from a local garden supplier and was sieved to remove any pebbles or non-soil material. The soil for peas and celery was loamy sand in texture and had the value of pH 1:5(soil:water) 6.3, EC 1:5(soil:water) 655 mS/cm, available P (Olson-P) 22.2 mg/kg, NO 3 -N 1.52 mg/kg and extractable K (0.05 M HCL) 780 mg/kg. The soil used for snow peas was also loamy sand in texture but had the value of pH 1:5(soil:water) 6.4, EC 1:5(soil:water) 220 mS/cm, available P (Olson-P) 19 mg/kg, NO 3 -N 0.85 mg/kg and extractable K (0.05 M HCL) 530 mg/kg. Results indicate that the soils had low available N, moderate available P and adequate K.</p><p>Before planting the seedlings, each pot was filled with air dried soil to a constant weight of 14 kg. For celery and peas, two uniform seedlings of similar size and vigour were transplanted in each pot, while for snow peas four seedlings were transplanted in each pot.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Irrigation scheduling</head><p>The main irrigation scheduling strategy used in the study was to apply enough water to bring the soil back to field capacity at the end of each irrigation. The plants were irrigated alternate days and the volume of irrigation water applied was determined by knowing the change in pot weight due to evapotranspiration since the last irrigation. The volume of water applied varied with treatments and the stage of crop growth and was recorded for each application.</p><p>In celery and peas, initially normal potable water (no magnetic treatment) was applied to pots for the first 10 days, irrespective of the experimental treatments, to avoid any salt injury effects on young seedlings. Thereafter, irrigation water of different types as described earlier was used for the control and treatments involving celery, snow pea and pea plants. Over the total growing period, magnetically treated water was used for 42 days in peas, 158 days in celery, and 143 days in snow peas. Pea plants matured relatively quickly, and for this reason the duration of water application for peas was shorter when compared with those for celery and snow peas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Data collection and analysis</head><p>The volumes of water applied at each irrigation were recorded to determine the total water used in the three types of plants. Water productivity was calculated, based on both fresh and dry weights of produce in celery (kg of celery shoots per kL of water used) and snow peas and peas (kg of pods per kL of water used).</p><p>Celery was harvested at physiological maturity and the whole mass of produce was considered as yield. Both fresh weight and  oven dry weight of celery were measured and are reported in Section 3. Pea and snow pea pods were harvested at physiological maturity every week to determine the influence of different treatments on plant yield. These pods were oven dried at 65 8C to determine the dry weight of pods under different treatments. Whole shoots of the plants were harvested at maturity and were also oven dried at 65 8C to determine the dry weight of shoots.</p><p>Oven dried samples of snow pea pods as well as shoots and roots of both snow peas and celery were analysed by ICP (inductively coupled plasma), a method described by <ref type="bibr" target="#b23">Zarcinas et al. (1987)</ref> to determine the Ca, Mg, Na, P and K concentrations in the harvest of both snow pea and celery plants. Soil samples after the harvest of snow pea and celery plants were also collected and analysed to determine the impact of magnetic treatments and different sources of water on soil pH 1:5(soil:water) , EC 1:5 , available N (NO 3 -N) and available P (Olson-P) and extractable K (0.05 M HCl). It should be noted that, in Section 3, we have presented the results only for the elements that were significantly affected by magnetic treatment.</p><p>It should also be noted that the initial statistical analysis of glasshouse data for pea plants indicated that there is no significant effect of magnetic treatment of irrigation water on plant yield, total water used and water productivity. For this reason, further plant and soil analysis for pea experiments was not carried out to save time and resources.</p><p>The data relating to plant yield, dry matter weight, water use, plant nutrient composition and soil properties were tabulated and statistically analysed to understand the treatment effects on plant yield, water productivity and soil properties. All data were subjected to the analysis of variance (ANOVA), including separation of main effects of irrigation water types and magnetic treatment and their interaction effects. The least significant difference (LSD at P = 0.05) was used to assess the differences among pairs of treatment means and the F values of the ANOVA indicated the significance.</p><p>The effects of magnetic treatment in relation to different plant and irrigation water types are presented in tabular form. Hereafter, a change in parameter value indicated to be significant means the value is statistically significant at 95% confidence level when compared with the control treatment. In addition, we have referred the treatment effect differential when the interaction between magnetic treatment and irrigation water type was significant for some experimental treatments and not for others. For example, the treatment effect is referred to differential when there was a nonsignificant effect of magnetic treatment of a particular water type (e.g., potable water) and a significant effect for another water type (e.g., saline water).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Plant yield</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Celery</head><p>There were differential effects of magnetic treatments of different irrigation water types on yield based on both celery fresh weight and shoot dry weight (Table <ref type="table" target="#tab_1">2</ref>). The interaction effects between magnetic treatment and different irrigation water types indicate significant increase in yield due to the magnetic treatment of recycled water and 3000 ppm saline water. Irrigation with magnetically treated 3000 ppm saline water and recycled water respectively resulted in 23% and 12% increase in plant yield on fresh weight basis. Similarly, magnetically treated 3000 ppm saline water and recycled water treatment respectively resulted in 26% and 12% increase in shoot dry weight. However, there was no statistically significant increase in the yield or shoot dry weight by irrigating celery with magnetically treated potable water and 1500 ppm saline water.</p><p>It is interesting to note that, the irrigation with recycled and 3000 ppm saline waters (no magnetic treatment) resulted in 8% and 74% reduction in celery yield when compared to irrigation with potable water. However, the magnetic treatment of these waters completely eliminated the yield reduction in recycled water and changed the yield reduction from 74% to 68% in 3000 ppm saline water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">Snow peas</head><p>Similar to celery plants, the magnetic treatment of different irrigation water types had differential effect on snow pea yield based on fresh and dry weights of pods (Table <ref type="table" target="#tab_1">2</ref>). Effects of magnetic treatment of potable water, recycled water and 1000 ppm saline water were significant and respectively resulted in 7.8%, 5.9% and 6.0% increase in snow pea yield when compared with control treatments. Similarly, magnetically treated potable water, recycled water and 1000 ppm saline water respectively resulted in 8.5%, 7.0% and 8.2% increase in dry weight of pods. However, there was no significant effect of magnetically treated irrigation water on snow pea yield for 500 ppm saline water.</p><p>The magnetic treatment of irrigation water resulted in significant increase (6.1%) in number of snow pea pods per pot. The magnetic treatment also resulted in increasing trend for the number of pods for individual irrigation water types, but it was not significant. Unlike celery, the magnetic treatment had no significant effect on shoot dry weight for snow peas. The increase in number of snow pea pods per pot also contributed to the significant increase in the fresh and dry weights of pods in snow pea plants. This finding in the current study is similar to the ones of <ref type="bibr" target="#b7">Esitken and Turan (2004)</ref> and <ref type="bibr" target="#b5">Danilov et al. (1994)</ref> who reported increased fruit yield of strawberry and tomatoes by magnetic fields.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Water productivity</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.1.">Celery</head><p>Similar to plant yield, there was differential impact of magnetic treatment of different irrigation water types on water productivity (kg of fresh or dry weight produced per kL of water used) based on both fresh and dry weights of celery (Table <ref type="table" target="#tab_1">2</ref>). In particular, there was significant increase in water productivity based on fresh weight by applying magnetically treated 3000 ppm saline water (24%), 1500 ppm saline water (11%) and recycled water (12%) when compared with the controls. Similar trends were also observed for the water productivity based on dry weight, but the increase for 1500 ppm saline water was not significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2.">Snow peas</head><p>The magnetic treatment of different water types also had differential impact on the water productivity based on both fresh and dry weights of snow pea pods (Table <ref type="table" target="#tab_1">2</ref>). For water productivity based on fresh weight basis, the effects of the magnetic treatment were significant for potable water, recycled water and 1000 ppm saline water but non-significant for 500 ppm saline water. There was 12%, 7.5% and 13% increase in water productivity based on fresh pod weight by respectively applying magnetically treated potable water, recycled water and 1000 ppm saline water when compared with the control treatments. Similar trends were also observed for water productivity based on dry weight basis, but the effect of magnetic treatment was non-significant for recycled water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Total plant water use</head><p>The total water used by celery, snow pea and pea plants during the growing period varied considerably with the type of irrigation water used. However, the magnetic treatment of the water did not have significant effect on the total water used by the three plant types during the growing period for any of the irrigation water types (Table <ref type="table" target="#tab_1">2</ref>). It is an important finding from this study, particularly indicating that the magnetic treatment has no direct effect on evaporation from soil surface and transpiration from plants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Dry weight of roots</head><p>Except 3000 ppm saline water in case of celery, the magnetic treatment did not have significant effect on the root dry weight (Table <ref type="table" target="#tab_1">2</ref>) of celery and snow peas. Irrigating celery with magnetically treated 3000 ppm saline water had a significant increase (15%) in celery root dry weight when compared with the control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Nutrient and elemental composition of produce</head><p>Overall, irrigating celery with magnetically treated water significantly increased the Ca and P concentrations of celery shoots (Table <ref type="table" target="#tab_2">3</ref>). However, the interaction effects between magnetic treatment and irrigation water types were not significant for any of the elements measured in celery shoots.</p><p>For snow peas, overall, the magnetically treated water had significant effects on Ca, Mg and Na concentrations in pods (Table <ref type="table" target="#tab_3">4</ref>). As to the individual water sources, there was a significant increase in Ca and Mg concentration in snow pea pods when the plants were irrigated with magnetically treated recycled water and 1000 ppm saline water. However, there was a decrease in Mg concentration of pods when the plants were irrigated with magnetically treated potable water and 500 ppm saline water. Irrigating snow pea plants with magnetically treated 1000 ppm saline water resulted in significantly reduced Na concentration in pods.</p><p>3.6. Soil properties after plant harvest 3.6.1. Soil EC 1:5</p><p>Except for 3000 ppm saline water, the magnetic treatment of irrigation water had no significant effect on EC 1:5 values after the harvest of celery plants (Tables <ref type="table" target="#tab_4">5</ref> and <ref type="table" target="#tab_5">6</ref>). On the other hand, overall, the magnetic treatment resulted in significant effects on EC 1:5 value after harvest for snow pea plants when compared with the control treatment. In particular, the magnetically treated potable water, recycled water and 1000 ppm saline water resulted in significant increase in soil EC 1:5 values after the harvest of snow pea plants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.2.">Soil pH 1:5</head><p>For both celery and snow pea plants, the magnetic treatment of irrigation water types varied significantly and affected soil pH after the harvest (Tables <ref type="table" target="#tab_4">5</ref> and <ref type="table" target="#tab_5">6</ref>). Irrigating the two plant types with magnetically treated potable water and recycled water significantly decreased soil pH 1:5 after the harvest when compared with the control treatments. For snow peas, irrigation with magnetically treated 1000 ppm saline water also decreased the soil pH.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.3.">Available soil P and extractable soil K</head><p>For celery, the magnetic treatment of recycled water and 1500 ppm and 3000 ppm saline water significantly increased the available soil P and extractable soil K when compared with the controls (Tables <ref type="table" target="#tab_4">5</ref> and <ref type="table" target="#tab_5">6</ref>). However, the magnetic treatment of potable water had non-significant effect on the values for the two elements. On the other hand, for snow pea plants, the significant effect of the magnetic treatment was limited to the available soil P only, and this effect was observed through irrigation with potable water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.">Influence of magnetic treatment on soil properties, and other attributes</head><p>In the current study, an increase in soil available P and extractable K, particularly under magnetically treated recycled water and saline water irrigation, appears to have played some role in improving yield and water productivity of celery plants. Magnetic treatment of water may be influencing desorption of P and K from soil adsorbed P on colloidal complex, and thus increasing its availability to plants, and thus resulting in an improved plant growth and productivity. <ref type="bibr" target="#b18">Noran et al. (1996)</ref> observed (under drip irrigation system) differences in the concentrations of K, N, P, Na and Ca + Mg in soils irrigated with magnetically treated water when compared those with normal water. They argued that magnetic treatment of water slows down the movement of minerals, probably due to the effect of acceleration of the crystallisations and precipitation processes of the solute minerals.</p><p>In the current study, we also observed a decrease in soil pH after harvest of celery and snow peas under magnetically treated water treatment. It is speculated that there may be a relatively greater soil acidification due to the release of greater organic acids with in the rhizosphere by celery and snow pea plants irrigated with magnetically treated water compared with plants irrigated with water without magnetic treatment. Organic acids released in rhizosphere may be responsible for desorption of P and K, and thus making these nutrients more available to plants.</p><p>Increased Ca and P concentrations in celery shoots and Ca and Mg concentration in snow pea pods under magnetically treated water in current study also suggest an improved availability, uptake, assimilation and mobilization of these nutrients within plant system and may have contributed in improving the productivity of celery and snow pea plants with magnetic treatment of water. Duarte <ref type="bibr" target="#b6">Diaz et al. (1997)</ref> reported an increase in nutrient uptake by magnetic treatment in tomatoes. A marked increase in P content of citrus leaves by magnetically treated water was also reported by <ref type="bibr" target="#b11">Hilal et al. (2002)</ref>.</p><p>Our results of reduced Na concentration in snow pea pods irrigated with magnetically treated saline water (1000 ppm NaCl) suggest restricted Na loading into snow pea pods. Magnetic treatment may be assisting to reduce the Na toxicity at cell level by detoxification of Na, either by restricting the entry of Na at membrane level or by reduced absorption of Na by plant roots. Alternatively, the reduction of Na concentration in snow pea pods may be associated with dilution effect of increased yield when snow peas were irrigated with magnetically treated saline water.</p><p>Although Na is required in some plants, particularly halophytes <ref type="bibr" target="#b9">(Glenn et al., 1999)</ref>, high Na concentration is a limiting factor for plant growth in most crops <ref type="bibr" target="#b8">(Franc ¸ois et al., 1994;</ref><ref type="bibr" target="#b14">Munns, 2002;</ref><ref type="bibr" target="#b15">Muranaka et al., 2002)</ref>. Excessive Na has detrimental effects on electron transport and photosynthesis, and it also affects through stomatal closure <ref type="bibr" target="#b15">(Muranaka et al., 2002)</ref> which reduces assimilates supply. Excessive Na may also disrupt the cell wall and increase the permeability of the cell membrane, leading to increased solute leakage from leaves at high salt concentration. It is also interesting to note that the apparently reduced accumulation of Na in plants with magnetically treated saline water in the current study may have helped the plants to continue their growth with less detrimental effects on plant yield.</p><p>The beneficial effects of magnetic treatment of some water types in the current study may be due to some alterations within plant system at biochemical level and their possible effects at cell level. External electric and magnetic fields have been reported to influence both the activation of ions and polarisation of dipoles in living cells <ref type="bibr" target="#b13">(Moon and Chung, 2000)</ref>. Electromagnetic fields (EMFs) can alter the plasma membrane structure and function <ref type="bibr" target="#b19">(Paradisi et al., 1993;</ref><ref type="bibr" target="#b4">Blank, 1995)</ref>. <ref type="bibr" target="#b10">Goodman et al. (1983)</ref> reported an alteration of the level of some mRNA after exposure to EMFs. Increased concentration of gibberellic acid-equivalents (GAs), indole-3-acetic acid (IAA) and trans zeatin were reported in sunflower plants under field up application of magnetic field, whereas concentrations of these hormones decreased in magnetic field of the opposite direction <ref type="bibr" target="#b22">(Turker et al., 2007)</ref>. The above statements further suggest that the magnetic treatment of water probably alters something in water, makes the water more functional within plant system and therefore probably influences the plant growth at cell level. Magnetic treatment of water may also affect phyto-hormone production leading to improved cell activity and plant growth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Practical implications and future research needs</head><p>Results of the glasshouse experiments reveal differential beneficial effects of magnetically treated potable water, recycled water and saline water irrigation on the yield and water productivity of celery, snow pea and pea plants. The effects of magnetic treatment of recycled water and 3000 ppm saline water were significant on plant yield and water productivity (kg of fresh or dry produce per kL of water used) of celery, but the effects of magnetic treatment of potable water and 1500 ppm saline water were non-significant. In snow peas, there were significant effects of magnetic treatment of potable water, recycled water and 1000 ppm saline water, but there was non-significant effect of 500 ppm saline water. On the other hand, in pea plants, the effects of magnetic treatments were non-significant for all the water types. In pea plants, their short growing period to harvest and salt injury effects probably confounded the treatment effects, leading to very little effect of magnetic treatment of water. These results raise some interesting but critical questions that need further explanation, research and experimentation. For example, one key question is that why magnetic treatment failed to have any effect on yield under potable water and 1500 ppm saline water treatment in celery plants and 500 ppm saline water treatment in snow pea plants. Improved water productivity with magnetic treatment of water in the current study could help in the sustainability of water resources, particularly in the use of recycled and saline waters for irrigation. As water productivity is based on the amount of yield and water required to produce this yield, the increased yield of both celery and snow peas under magnetically treated water irrigation mainly contributed to the increase in the water productivity of the two plant types in the current study.</p><p>The results of the current study demonstrate some significant effects of magnetically treated irrigation water on water productivity, yield and nutrient composition of snow pea and celery plants under some conditions. However, the study has raised some important questions that must be answered before any unequivocal conclusion could be reached as to the usefulness of the magnetic treatment in improving crop yield and water productivity at farmer's field. In particular, the questions are: (a) why did the magnetic treatment improve the plant yield and water productivity in some instances and not in others? (b) how does the magnetic treatment affect water, soil and plant? and (c) will the magnetic treatment of irrigation water have significant benefits under field conditions?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The magnetic treatment of irrigation water resulted in statistically significant increases in the yield and water productivity for celery and snow pea plants in some instances. However, it had no significant effect on the yield and water productivity for pea plant. This means, before this technology can be recommended to farmers, it will be critical to clearly understand the mechanisms and processes that affect plant yield and water productivity through the magnetic treatment, the conditions under which it will work and the extent of its effectiveness under field situations. The effect of magnetic treatment of irrigation water on the total water used for any of the plant types included was not significant in this study. Under some circumstances, when compared with the control treatment, the magnetic treatment of irrigation water tends to change soil pH, EC, available P and extractable K measured at the crop harvest. Overall, the data collected in this preliminary study under controlled conditions in glasshouse situation suggest that there are possibly some beneficial effects of the magnetic treatment of irrigation water for the plant yield and water productivity. As such, the results need to be further tested under field conditions to assess the usefulness of magnetic treatment of irrigation water in crop production.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Schematic of magnetic fields and direction of water flow during the magnetic treatment.</figDesc><graphic coords="3,317.03,55.50,240.11,171.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Effects of magnetic treatment on mean values of pH, EC and N, P and K concentrations in different types of irrigation waters.</figDesc><table><row><cell>Irrigation water type</cell><cell>pH</cell><cell></cell><cell cols="2">EC (mS/m at 25 8C)</cell><cell>N (mg/l)</cell><cell></cell><cell>P (mg/l)</cell><cell></cell><cell>K (mg/l)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Magnetic</cell><cell>Control</cell><cell>Magnetic</cell><cell>Control</cell><cell>Magnetic</cell><cell>Control</cell><cell>Magnetic</cell><cell>Control</cell><cell>Magnetic</cell></row><row><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell>treatment</cell><cell></cell><cell>treatment</cell><cell></cell><cell>treatment</cell><cell></cell><cell>treatment</cell></row><row><cell>Potable water</cell><cell>8.15</cell><cell>8.13</cell><cell>0.254</cell><cell>0.255</cell><cell>0.254</cell><cell>0.257</cell><cell>0.044</cell><cell>0.045</cell><cell>2.28</cell><cell>2.19</cell></row><row><cell>Recycled water</cell><cell>9.08</cell><cell>9.09</cell><cell>0.943</cell><cell>0.940</cell><cell>1.475</cell><cell>1.465</cell><cell>0.062</cell><cell>0.062</cell><cell>19.32</cell><cell>19.32</cell></row><row><cell>500 ppm saline water</cell><cell>8.38</cell><cell>8.35</cell><cell>1.241</cell><cell>1.230</cell><cell>0.276</cell><cell>0.280</cell><cell>0.047</cell><cell>0.046</cell><cell>2.34</cell><cell>2.40</cell></row><row><cell>1000 ppm saline water</cell><cell>8.42</cell><cell>8.37</cell><cell>2.187</cell><cell>2.192</cell><cell>0.275</cell><cell>0.277</cell><cell>0.047</cell><cell>0.048</cell><cell>2.43</cell><cell>2.43</cell></row><row><cell>1500 ppm saline water</cell><cell>8.40</cell><cell>8.36</cell><cell>3.07</cell><cell>3.10</cell><cell>0.284</cell><cell>0.286</cell><cell>0.049</cell><cell>0.049</cell><cell>2.49</cell><cell>2.49</cell></row><row><cell>3000 ppm saline water</cell><cell>8.41</cell><cell>8.36</cell><cell>5.83</cell><cell>5.80</cell><cell>0.303</cell><cell>0.300</cell><cell>0.050</cell><cell>0.050</cell><cell>2.79</cell><cell>2.79</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Effects of magnetic treatment of irrigation waters on mean values of plant yield parameters, water use and water productivity (based on fresh weight) of (a) celery, (b) snow peas and (c) peas.</figDesc><table><row><cell>(a) Celery</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Water source</cell><cell>Yield -fresh</cell><cell>Yield -dry</cell><cell>Shoot dry</cell><cell>Root dry</cell><cell>Water</cell><cell>Water</cell></row><row><cell></cell><cell>weight (g)</cell><cell>weight (g)</cell><cell>weight (g)</cell><cell>weight (g)</cell><cell>use (ml)</cell><cell>productivity</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(kg/kL water)</cell></row><row><cell>Control</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>414.3</cell><cell>54.9</cell><cell>54.9</cell><cell>123.5</cell><cell>37,933</cell><cell>10.94</cell></row><row><cell>Recycled water</cell><cell>377.3</cell><cell>51.0</cell><cell>51.0</cell><cell>121.8</cell><cell>35,596</cell><cell>10.60</cell></row><row><cell>1500 ppm saline water</cell><cell>181.0</cell><cell>28.0</cell><cell>28.0</cell><cell>49.4</cell><cell>23,945</cell><cell>7.56</cell></row><row><cell>3000 ppm saline water</cell><cell>108.5</cell><cell>16.0</cell><cell>16.0</cell><cell>23.8</cell><cell>20,568</cell><cell>5.28</cell></row><row><cell>Magnetic treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>414.5</cell><cell>53.8</cell><cell>53.8</cell><cell>119.5</cell><cell>36,307</cell><cell>11.42</cell></row><row><cell>Recycled water</cell><cell>424.0</cell><cell>57.1</cell><cell>57.1</cell><cell>125.3</cell><cell>35,822</cell><cell>11.84</cell></row><row><cell>1500 ppm saline water</cell><cell>198.3</cell><cell>29.2</cell><cell>29.2</cell><cell>49.2</cell><cell>23,597</cell><cell>8.40</cell></row><row><cell>3000 ppm saline water</cell><cell>133.3</cell><cell>20.3</cell><cell>20.3</cell><cell>27.3</cell><cell>20,405</cell><cell>6.53</cell></row><row><cell>LSD 0.05</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LSD 0.05 water</cell><cell>13.4</cell><cell>2.9</cell><cell>2.9</cell><cell>2.8</cell><cell>907</cell><cell>0.45</cell></row><row><cell>LSD 0.05 magnetic</cell><cell>9.5</cell><cell>2.1</cell><cell>2.1</cell><cell>NS</cell><cell>NS</cell><cell>0.32</cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell>18.9</cell><cell>3.8</cell><cell>3.8</cell><cell>4.0</cell><cell>NS</cell><cell>0.64</cell></row><row><cell>(b) Snow peas</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Water source</cell><cell>Mean</cell><cell>Mean</cell><cell>Mean</cell><cell>Mean</cell><cell>Water</cell><cell>Water</cell></row><row><cell></cell><cell>yield -fresh</cell><cell>yield -dry</cell><cell>shoot dry</cell><cell>root dry</cell><cell>use (ml)</cell><cell>productivity</cell></row><row><cell></cell><cell>weight (g)</cell><cell>weight (g)</cell><cell>weight (g)</cell><cell>weight (g)</cell><cell></cell><cell>(kg/kL water)</cell></row><row><cell>Control</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>216</cell><cell>30.93</cell><cell>46.0</cell><cell>4.35</cell><cell>19,279</cell><cell>11.22</cell></row><row><cell>Recycled water</cell><cell>198</cell><cell>28.66</cell><cell>44.5</cell><cell>3.84</cell><cell>18,154</cell><cell>10.95</cell></row><row><cell>500 ppm saline water</cell><cell>186</cell><cell>27.95</cell><cell>44.6</cell><cell>3.36</cell><cell>17,084</cell><cell>10.88</cell></row><row><cell>1000 ppm saline water</cell><cell>164</cell><cell>24.68</cell><cell>34.5</cell><cell>2.89</cell><cell>16,159</cell><cell>10.14</cell></row><row><cell>Magnetic treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>233</cell><cell>33.56</cell><cell>46.2</cell><cell>4.19</cell><cell>18,546</cell><cell>12.58</cell></row><row><cell>Recycled water</cell><cell>210</cell><cell>30.65</cell><cell>44.7</cell><cell>3.72</cell><cell>17,901</cell><cell>11.77</cell></row><row><cell>500 ppm saline water</cell><cell>188</cell><cell>28.44</cell><cell>44.4</cell><cell>3.50</cell><cell>17,032</cell><cell>10.87</cell></row><row><cell>1000 ppm saline water</cell><cell>174</cell><cell>26.71</cell><cell>35.4</cell><cell>3.14</cell><cell>15,214</cell><cell>11.42</cell></row><row><cell>LSD 0.05</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LSD 0.05 water</cell><cell>6.8</cell><cell>2.51</cell><cell>1.95</cell><cell>0.16</cell><cell>691</cell><cell>0.40</cell></row><row><cell>LSD 0.05 magnetic</cell><cell>4.8</cell><cell>1.77</cell><cell>NS</cell><cell>NS</cell><cell>NS</cell><cell>0.29</cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell>9.6</cell><cell>NS</cell><cell>NS</cell><cell>0.23</cell><cell>NS</cell><cell>0.57</cell></row><row><cell>(c) Peas</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Water source</cell><cell>Mean</cell><cell></cell><cell>Mean</cell><cell>Water</cell><cell></cell><cell>Water</cell></row><row><cell></cell><cell>yield -fresh</cell><cell></cell><cell>yield -dry</cell><cell>use (ml)</cell><cell></cell><cell>productivity</cell></row><row><cell></cell><cell>weight (g)</cell><cell></cell><cell>weight (g)</cell><cell></cell><cell></cell><cell>(kg/kL water)</cell></row><row><cell>Control</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>1.60</cell><cell></cell><cell>1.24</cell><cell>4263</cell><cell></cell><cell>0.38</cell></row><row><cell>Recycled water</cell><cell>1.23</cell><cell></cell><cell>0.93</cell><cell>4160</cell><cell></cell><cell>0.30</cell></row><row><cell>1500 ppm saline water</cell><cell>1.05</cell><cell></cell><cell>1.04</cell><cell>3788</cell><cell></cell><cell>0.28</cell></row><row><cell>3000 ppm saline water</cell><cell>0.88</cell><cell></cell><cell>1.05</cell><cell>3695</cell><cell></cell><cell>0.24</cell></row><row><cell>Magnetic treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potable water</cell><cell>1.62</cell><cell></cell><cell>1.24</cell><cell>4058</cell><cell></cell><cell>0.40</cell></row><row><cell>Recycled water</cell><cell>1.33</cell><cell></cell><cell>1.02</cell><cell>4166</cell><cell></cell><cell>0.32</cell></row><row><cell>1500 ppm saline water</cell><cell>1.03</cell><cell></cell><cell>1.02</cell><cell>3704</cell><cell></cell><cell>0.28</cell></row><row><cell>3000 ppm saline water</cell><cell>0.93</cell><cell></cell><cell>1.10</cell><cell>3617</cell><cell></cell><cell>0.25</cell></row><row><cell>LSD 0.05</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LSD 0.05 water</cell><cell>0.12</cell><cell></cell><cell>0.13</cell><cell>208</cell><cell></cell><cell>0.03</cell></row><row><cell>LSD 0.05 magnetic</cell><cell>NS</cell><cell></cell><cell>NS</cell><cell>NS</cell><cell></cell><cell>NS</cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell>NS</cell><cell></cell><cell>NS</cell><cell>NS</cell><cell></cell><cell>NS</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Effects of magnetic treatment of irrigation water types on mean values of Ca and P concentrations of celery shoots.</figDesc><table><row><cell>Water source</cell><cell cols="2">Ca concentration (mg/kg dry matter)</cell><cell></cell><cell cols="2">P concentration (mg/kg dry matter)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell></row><row><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell></row><row><cell>Potable water</cell><cell>10,500</cell><cell>10,500</cell><cell>10,500</cell><cell>2867</cell><cell>2933</cell><cell>2900</cell></row><row><cell>Recycled water</cell><cell>10,900</cell><cell>11,767</cell><cell>11,333</cell><cell>2733</cell><cell>2967</cell><cell>2850</cell></row><row><cell>1500 ppm saline water</cell><cell>10,167</cell><cell>12,867</cell><cell>11,517</cell><cell>2203</cell><cell>2500</cell><cell>2352</cell></row><row><cell>3000 ppm saline water</cell><cell>11,500</cell><cell>13,400</cell><cell>12,450</cell><cell>2373</cell><cell>2667</cell><cell>2520</cell></row><row><cell>Mean</cell><cell>10,767</cell><cell>12,133</cell><cell>11,450</cell><cell>2544</cell><cell>2767</cell><cell>2655</cell></row><row><cell>LSD 0.05 water</cell><cell></cell><cell>1517</cell><cell></cell><cell></cell><cell>295</cell><cell></cell></row><row><cell>LSD 0.05 magnetic</cell><cell></cell><cell>1072</cell><cell></cell><cell></cell><cell>209</cell><cell></cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell></cell><cell>NS</cell><cell></cell><cell></cell><cell>NS</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Effects of magnetic treatment of irrigation water types on mean values of Ca, Mg and Na concentrations of snow pea pods.</figDesc><table><row><cell>Water source</cell><cell cols="3">Ca concentration (mg/kg dry matter)</cell><cell cols="3">Mg concentration (mg/kg dry matter)</cell><cell cols="3">Na concentration (mg/kg dry matter)</cell></row><row><cell></cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell></row><row><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell></row><row><cell>Potable water</cell><cell>3733</cell><cell>3633</cell><cell>3683</cell><cell>2200</cell><cell>2100</cell><cell>2150</cell><cell>25</cell><cell>35</cell><cell>30.0</cell></row><row><cell>Recycled water</cell><cell>3700</cell><cell>4100</cell><cell>3900</cell><cell>2100</cell><cell>2200</cell><cell>2150</cell><cell>45</cell><cell>44</cell><cell>44.5</cell></row><row><cell>500 ppm saline water</cell><cell>4233</cell><cell>4167</cell><cell>4200</cell><cell>1983</cell><cell>1930</cell><cell>1956</cell><cell>147</cell><cell>166</cell><cell>156.5</cell></row><row><cell>1000 ppm saline water</cell><cell>4200</cell><cell>5000</cell><cell>4600</cell><cell>1817</cell><cell>1933</cell><cell>1875</cell><cell>866</cell><cell>517</cell><cell>691.5</cell></row><row><cell>Mean</cell><cell>3967</cell><cell>4225</cell><cell>4096</cell><cell>2025</cell><cell>2041</cell><cell>2033</cell><cell>271</cell><cell>190</cell><cell>230.5</cell></row><row><cell>LSD 0.05 water</cell><cell></cell><cell>102.74</cell><cell></cell><cell></cell><cell>15.28</cell><cell></cell><cell></cell><cell>14</cell><cell></cell></row><row><cell>LSD 0.05 magnetic</cell><cell></cell><cell>72.65</cell><cell></cell><cell></cell><cell>10.80</cell><cell></cell><cell></cell><cell>10</cell><cell></cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell></cell><cell>145.30</cell><cell></cell><cell></cell><cell>21.60</cell><cell></cell><cell></cell><cell>19</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Effects of magnetic treatment of irrigation water types on mean value of soil EC 1:5 , pH 1:5 and available P after snow pea harvest.</figDesc><table><row><cell>Water source</cell><cell cols="2">EC 1:5 (mS/cm at 25 8C)</cell><cell></cell><cell>pH 1:5</cell><cell></cell><cell></cell><cell cols="2">Available P (Olson-P)</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell></row><row><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell></row><row><cell>Potable water</cell><cell>178</cell><cell>191</cell><cell>185</cell><cell>6.23</cell><cell>6.20</cell><cell>6.22</cell><cell>17.10</cell><cell>19.05</cell><cell>18.08</cell></row><row><cell>Recycled water</cell><cell>240</cell><cell>269</cell><cell>255</cell><cell>6.26</cell><cell>6.22</cell><cell>6.24</cell><cell>18.55</cell><cell>19.12</cell><cell>18.84</cell></row><row><cell>500 ppm saline water</cell><cell>375</cell><cell>382</cell><cell>379</cell><cell>6.11</cell><cell>6.13</cell><cell>6.12</cell><cell>18.25</cell><cell>18.34</cell><cell>18.30</cell></row><row><cell>1000 ppm saline water</cell><cell>523</cell><cell>563</cell><cell>543</cell><cell>6.15</cell><cell>6.10</cell><cell>6.13</cell><cell>17.71</cell><cell>17.74</cell><cell>17.73</cell></row><row><cell>Mean</cell><cell>329</cell><cell>351</cell><cell>340</cell><cell>6.19</cell><cell>6.16</cell><cell>6.18</cell><cell>17.90</cell><cell>18.56</cell><cell>18.23</cell></row><row><cell>LSD 0.05 water</cell><cell></cell><cell>7.39</cell><cell></cell><cell></cell><cell>0.02</cell><cell></cell><cell></cell><cell>0.52</cell><cell></cell></row><row><cell>LSD 0.05 magnetic</cell><cell></cell><cell>5.23</cell><cell></cell><cell></cell><cell>0.02</cell><cell></cell><cell></cell><cell>0.37</cell><cell></cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell></cell><cell>10.45</cell><cell></cell><cell></cell><cell>0.03</cell><cell></cell><cell></cell><cell>0.74</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>Effects of magnetic treatment of irrigation water types on mean values of soil EC 1:5 , pH 1:5 , available P and extractable K after celery harvest.</figDesc><table><row><cell>Water source</cell><cell cols="3">Soil EC 1:5 (mS/cm at 25 8C)</cell><cell>Soil pH 1:5</cell><cell></cell><cell></cell><cell cols="2">Available P (mg/kg soil)</cell><cell></cell><cell cols="2">Extractable soil K</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell><cell>Control</cell><cell>Magnetic</cell><cell>Mean</cell></row><row><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell><cell></cell><cell>treatment</cell><cell></cell></row><row><cell>Potable water</cell><cell>482</cell><cell>468</cell><cell>475</cell><cell>6.14</cell><cell>5.98</cell><cell>6.06</cell><cell>19.43</cell><cell>19.29</cell><cell>19.36</cell><cell>697.4</cell><cell>695.9</cell><cell>696.7</cell></row><row><cell>Recycled water</cell><cell>619</cell><cell>686</cell><cell>653</cell><cell>6.15</cell><cell>5.98</cell><cell>6.07</cell><cell>20.7</cell><cell>22.35</cell><cell>21.53</cell><cell>725.3</cell><cell>740.2</cell><cell>732.7</cell></row><row><cell>1500 ppm saline water</cell><cell>1556</cell><cell>1541</cell><cell>1549</cell><cell>5.91</cell><cell>5.97</cell><cell>5.94</cell><cell>20.17</cell><cell>24.55</cell><cell>22.36</cell><cell>723.9</cell><cell>735.5</cell><cell>729.7</cell></row><row><cell>3000 ppm saline water</cell><cell>2163</cell><cell>2297</cell><cell>2230</cell><cell>5.94</cell><cell>5.94</cell><cell>5.94</cell><cell>22.03</cell><cell>26.44</cell><cell>24.24</cell><cell>724.5</cell><cell>753.6</cell><cell>739.0</cell></row><row><cell>Mean</cell><cell>1205</cell><cell>1248</cell><cell>1227</cell><cell>6.04</cell><cell>5.97</cell><cell>6.00</cell><cell>20.58</cell><cell>23.16</cell><cell>21.87</cell><cell>717.8</cell><cell>731.3</cell><cell>724.5</cell></row><row><cell>LSD 0.05 water</cell><cell></cell><cell>66</cell><cell></cell><cell></cell><cell>0.08</cell><cell></cell><cell></cell><cell>0.68</cell><cell></cell><cell></cell><cell>7.24</cell><cell></cell></row><row><cell>LSD 0.05 magnetic</cell><cell></cell><cell>NS</cell><cell></cell><cell></cell><cell>0.06</cell><cell></cell><cell></cell><cell>0.48</cell><cell></cell><cell></cell><cell>5.12</cell><cell></cell></row><row><cell>LSD 0.05 water Â magnetic</cell><cell></cell><cell>93</cell><cell></cell><cell></cell><cell>0.11</cell><cell></cell><cell></cell><cell>0.96</cell><cell></cell><cell></cell><cell>10.24</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgement</head><p>The authors wish to thank <rs type="institution">Omni Environmental Group Australia Ltd.</rs> for providing funds to undertake this work. Also, thanks to <rs type="person">Mr B. Simmons</rs> from <rs type="affiliation">University of Western Sydney</rs> for his valuable input during the study.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Effects of stationary magnetic fields on germination and growth of seeds</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Amaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hortic. Abst</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">1363</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amaya, J.M., Carbonell, M.V., Martinez, E., Raya, A., 1996. Effects of stationary magnetic fields on germination and growth of seeds. Hortic. Abst. 68, 1363.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><surname>Anra</surname></persName>
+		</author>
+		<ptr target="http://www.anra.gov.au/topics/irrigation/overview/index.html" />
+		<title level="m">Australian Natural Resources Atlas</title>
+		<imprint>
+			<date type="published" when="2008-07-18">2008. July 18</date>
+		</imprint>
+	</monogr>
+	<note>Irrigation-an overview</note>
+	<note type="raw_reference">ANRA, 2008. Irrigation-an overview. Australian Natural Resources Atlas. http:// www.anra.gov.au/topics/irrigation/overview/index.html (accessed July 18).</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ultrastructure and calcium balance in meristem cells of pea roots exposed to extremely low magnetic fields</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Belyavskaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Space Res</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="645" to="650" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Belyavskaya, N.A., 2001. Ultrastructure and calcium balance in meristem cells of pea roots exposed to extremely low magnetic fields. Adv. Space Res. 28, 645-650.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Biological effects due to weak magnetic field on plants</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Belyavskaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Space Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1566" to="1574" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Belyavskaya, N.A., 2004. Biological effects due to weak magnetic field on plants. Adv. Space Res. 34, 1566-1574.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Biological effects of environmental electromagnetic fields: molecular mechanisms</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BioSystems</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="175" to="178" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blank, M., 1995. Biological effects of environmental electromagnetic fields: mole- cular mechanisms. BioSystems 35, 175-178.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Artificial magnetic field effects on yield and quality of tomatoes</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Danilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">¸</forename><surname>Bas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Eltez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rizakulyeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Hortic</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="279" to="285" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Danilov, V., Bas ¸, T., Eltez, M., Rizakulyeva, A., 1994. Artificial magnetic field effects on yield and quality of tomatoes. Acta Hortic. 366, 279-285.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of magnetic treatment of irrigation water on the tomato crop</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Duarte Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Riquenes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sotolongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Portuondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Quintana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Perez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hortic. Abst</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page">494</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duarte Diaz, C.E., Riquenes, J.A., Sotolongo, B., Portuondo, M.A., Quintana, E.O., Perez, R., 1997. Effects of magnetic treatment of irrigation water on the tomato crop. Hortic. Abst. 69, 494.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Alternating magnetic field effects on yield and plant nutrient element composition of strawberry (Fragaria Â ananassa cv. camarosa)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Esitken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Turan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Agric. Scand., Sect. B, Soil Plant Sci</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="135" to="139" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Esitken, A., Turan, M., 2004. Alternating magnetic field effects on yield and plant nutrient element composition of strawberry (Fragaria Â ananassa cv. camarosa). Acta Agric. Scand., Sect. B, Soil Plant Sci. 54, 135-139.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Time of salt stress affects growth and yield components of irrigated wheat</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Franc ¸ois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Maas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lesch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agron. J</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="100" to="107" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Franc ¸ois, L.E., Donovan, T.J., Maas, E.V., Lesch, S.M., 1994. Time of salt stress affects growth and yield components of irrigated wheat. Agron. J. 86, 100-107.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Salt-tolerate mechanisms and crop potential of halophytes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Glenn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blumwald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit. Rev. Plant Sci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="227" to="255" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Glenn, E., Brown, J.J., Blumwald, E., 1999. Salt-tolerate mechanisms and crop potential of halophytes. Crit. Rev. Plant Sci. 18, 227-255.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pulsing electromagnetic fields induce cellular transcription</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Basset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Henderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page" from="1283" to="1285" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goodman, R., Basset, C.A., Henderson, A., 1983. Pulsing electromagnetic fields induce cellular transcription. Science 220, 1283-1285.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Application of magnetic technologies in desert agriculture. III. Effect of magnetized water on yield and uptake of certain elements by citrus in relation to nutrients mobilization in soil. Egypt</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Shata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Abdel-Dayem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Hilal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Soil Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="43" to="55" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hilal, M.H., Shata, S.M., Abdel-Dayem, A.A., Hilal, M.M., 2002. Application of magnetic technologies in desert agriculture. III. Effect of magnetized water on yield and uptake of certain elements by citrus in relation to nutrients mobilization in soil. Egypt. J. Soil Sci. 42, 43-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Exposure of irrigation and drinking water to a magnetic field with controlled power and direction</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yotvat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Magn. Magn. Mater</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="525" to="526" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lin, I.J., Yotvat, J., 1990. Exposure of irrigation and drinking water to a magnetic field with controlled power and direction. J. Magn. Magn. Mater. 83, 525-526.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Acceleration of germination of tomato seeds by applying AC electric and magnetic fields</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrostat</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="103" to="114" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moon, J., Chung, H., 2000. Acceleration of germination of tomato seeds by applying AC electric and magnetic fields. J. Electrostat. 48, 103-114.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Comparative physiology of salt and water stress</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Munns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Cell Environ</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="239" to="250" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Munns, R., 2002. Comparative physiology of salt and water stress. Plant Cell Environ. 25, 239-250.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ionic and osmotic effects of salinity on single-leaf photosynthesis in two wheat cultivars with different drought tolerance</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Muranaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Photosynthetica</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="201" to="207" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muranaka, S., Shimizu, K., Kato, M., 2002. Ionic and osmotic effects of salinity on single-leaf photosynthesis in two wheat cultivars with different drought tol- erance. Photosynthetica 40, 201-207.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Primary root growth rate of Zea mays seedlings grown in an alternating magnetic field of different frequencies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muraji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Asai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tatebe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Bioenerg</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="271" to="273" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muraji, M., Asai, T., Tatebe, W., 1998. Primary root growth rate of Zea mays seedlings grown in an alternating magnetic field of different frequencies. Biochem. Bioenerg. 44, 271-273.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effect of alternating magnetic field on the growth of the primary root of corn</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muraji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tatebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fujii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE. Trans. Magn</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1996" to="2000" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Muraji, M., Nishimura, M., Tatebe, W., Fujii, T., 1992. Effect of alternating magnetic field on the growth of the primary root of corn. IEEE. Trans. Magn. 28, 1996-2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The effect of irrigation with magnetically treated water on the translocation of minerals in the soil</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Noran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Magn. Electr. Sep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="109" to="122" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Noran, R., Shani, R., Lin, I., 1996. The effect of irrigation with magnetically treated water on the translocation of minerals in the soil. Magn. Electr. Sep. 7, 109-122.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A 50-Hz magnetic field induces structural and biophysical changes in membranes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paradisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Donelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Santini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Straface</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Malorni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioelectromagnetics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="247" to="255" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paradisi, S., Donelli, G., Santini, M.T., Straface, E., Malorni, W., 1993. A 50-Hz magnetic field induces structural and biophysical changes in membranes. Bioelectromagnetics 14, 247-255.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Efficiency of the magnetic treatment of broad bean seeds cultivated under experimental plot conditions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Podleoeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pietruszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Podleoena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Agrophys</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="65" to="71" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Podleoeny, J., Pietruszewski, S., Podleoena, A., 2004. Efficiency of the magnetic treatment of broad bean seeds cultivated under experimental plot conditions. Int. Agrophys. 18, 65-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Weak magnetic field decreases heat stress in cress seedlings</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruzic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electromagn. Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="69" to="80" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ruzic, R., Jerman, I., 2002. Weak magnetic field decreases heat stress in cress seedlings. Electromagn. Biol. Med. 21, 69-80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The effects of an artificial and static magnetic field on plant growth, chlorophyll and phytohormone levels in maize and sunflower plants</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Turker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Temirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Battal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Erez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phyton Ann. Rei Bot</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="271" to="284" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Turker, M., Temirci, C., Battal, P., Erez, M.E., 2007. The effects of an artificial and static magnetic field on plant growth, chlorophyll and phytohormone levels in maize and sunflower plants. Phyton Ann. Rei Bot. 46, 271-284.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Nitric acid digestion and multielement analysis of plant material by inductively coupled plasma spectrometry</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Zarcinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Spouncer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Soil Sci. Plant Anal</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="131" to="146" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zarcinas, B.A., Cartwright, B., Spouncer, L.R., 1987. Nitric acid digestion and multi- element analysis of plant material by inductively coupled plasma spectrometry. Commun. Soil Sci. Plant Anal. 18, 131-146.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

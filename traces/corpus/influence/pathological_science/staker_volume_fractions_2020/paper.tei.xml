@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Estimating volume fractions of superabundant vacancy phases and their potential roles in low energy nuclear reactions and high conductivity in the palladium – isotopic hydrogen system</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-09">22 June 2020 0921</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Staker</surname></persName>
+							<email>m.r.staker@alum.mit.edu</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Department of Engineering , Loyola University Maryland , 4501 North Charles St , Baltimore , MD 21210 , USA</note>
+								<orgName type="department">Department of Engineering</orgName>
+								<orgName type="institution">Loyola University Maryland</orgName>
+								<address>
+									<addrLine>4501 North Charles St</addrLine>
+									<postCode>21210</postCode>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> American Patent Institute , 2817 Wesleyan Drive , Churchville , MD 21028 , USA</note>
+								<orgName type="institution">American Patent Institute</orgName>
+								<address>
+									<addrLine>2817 Wesleyan Drive</addrLine>
+									<postCode>21028</postCode>
+									<settlement>Churchville</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Estimating volume fractions of superabundant vacancy phases and their potential roles in low energy nuclear reactions and high conductivity in the palladium – isotopic hydrogen system</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Materials Science and Engineering: B</title>
+						<title level="j" type="abbrev">Materials Science and Engineering: B</title>
+						<idno type="ISSN">0921-5107</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">259</biblScope>
+							<biblScope unit="page">114600</biblScope>
+							<date type="published" when="2020-09">22 June 2020 0921</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E2CC53AF168B1CD2768A4495A0455C56</idno>
+					<idno type="DOI">10.1016/j.mseb.2020.114600</idno>
+					<note type="submission">Received 1 January 2019; Received in revised form 5 June 2020; Accepted 6 June 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-11T18:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Superabundant vacancy structures High conductivity</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nuclear active environment (NAE) Palladium -Isotopic hydrogen phases Delta δ and delta prime δ′ phases Low energy nuclear reactions (LENR)</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Superabundant vacancies (SAV) in face centered cubic (FCC) metals change the unit cells from FCC to simple cubic (SC) with vacancies (Vac) replacing all 8 corner atoms of the FCC unit cell, creating long strings of Vac that intersect at the corners of unit cells in three orthogonal directions <ref type="bibr" target="#b0">[1]</ref>. This Vac ordering is similar to the gold (Au) ordering in copper-gold (Cu 3 Au). In palladium (Pd), ordered SAV structures are: Pd 3 Vac 1 D x (δ or δ′ phases) <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> where x is between 4 and 8, and Pd 7 Vac 1 D 6-8 (γ phase) <ref type="bibr" target="#b6">[7]</ref>. Isotopic hydrogen [protium (H), deuterium (D), or tritium (T)] occupy octahedral interstitial sites (δ phase, Pd 3 Vac 1 D 4 ) <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> and/or occupy tetrahedral interstitial sites (δ′ phase, Pd 3 Vac 1 D 4-8 ) <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>SAV phases result from hydrogen-induced vacancy formation <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>. It has been shown <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> that creation of SAV structures near room temperature requires creation of vacancies by a mechanism other than diffusion (dragging of jogs by screw dislocations) and relocation of vacancies (attraction to electromigrating D + ions). Vac have higher mobility (validated by density functional perturbation theory (DFT) <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>) from being dragged by electromigrating D + ions (charge is not necessarily equal to + 1.0, but might be a partial positive net charge) to form SAV structures <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref>; and higher numbers of Vac are promoted by high dislocation density <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> and the mechanism presented in Appendix B of <ref type="bibr" target="#b0">[1]</ref>. The kinetics of these two steps in the formation of room temperature SAV make SAV possible under room temperature electrolysis where conventional diffusion kinetics are too slow. Even so, the nucleation and growth of δ and δ′ to large volume fractions in the bulk quickly by this two-step mechanism are not anticipated because of a limited supply of vacancies and low kinetic rates. The SAV phase, supporting excess heat, can be shown to be a small volume fraction <ref type="bibr" target="#b0">[1]</ref>. The limited rate of creation and ordering of vacancies at room temperature explains the incubation period to initiate excess heat in many low energy nuclear reaction (LENR) experiments <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref>.</p><p>Fig. <ref type="figure">1</ref> shows the proposed equilibrium phase diagram of palladiumisotopic hydrogen <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> with δ and δ′ phases centered near D/ Pd = 1.33 while δ′ extends to 2.66: details of its development are reported elsewhere <ref type="bibr" target="#b0">[1]</ref>. The δ′ appears below a temperature of 375 °K based on resistivity data <ref type="bibr" target="#b0">[1]</ref> and is supported by measured tetrahedral occupancy by D from Pitt and Gray <ref type="bibr" target="#b4">[5]</ref> and Ferguson et al. <ref type="bibr" target="#b5">[6]</ref>. From DFT, Isaeva et al. <ref type="bibr" target="#b18">[19]</ref> found, at lower temperatures, occupancy of tetrahedral sites by H (D) stabilizes SAV more than at octahedral sites. Neutron diffraction data by two research groups <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref> show D (H) migrates from octahedral to tetrahedral sites at lower temperatures. There are twice as many interstitial sites in δ′ as in δ. The δ and δ′ phases are of interest to the study of LENR and high electrical conductivity, respectively. The lower isotopic hydrogen composition phases of metal hydrides (α and β) have ordinary structures and electron distributions and might not be capable of supporting high conductivity and nuclear reactions. However, SAV phases of δ, and δ′ have open tubes or channels (intersecting strings of vacancies) <ref type="bibr" target="#b0">[1]</ref> for fast transport conditions, unfamiliar electron-proton (or deuteron) interaction, and are insufficiently studied. The purpose of this investigation is to estimate their volume fractions and posit the nature and roles each phase plays.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head><p>The experimental materials and methods are detailed in an earlier work <ref type="bibr" target="#b0">[1]</ref> including electromigration in Appendix A of that study. The electrolytic cells, with Pd/D 2 O and with Pt/H 2 O <ref type="bibr" target="#b0">[1]</ref>, are shown in Fig. <ref type="figure" target="#fig_0">2</ref> with the important features of ability to measure resistivity in situ as well as determine excess heat (more energy out than put in). Resistance measurements verified loading of Pd over the resistive hump at D/Pd ratio of 0.74 <ref type="bibr" target="#b26">[27,</ref><ref type="bibr" target="#b27">28]</ref> in the beginning of runs, recorded any changes in resistivity during excess heat events, and was accomplished by measuring voltage drop along the length L of Pd cathode at constant currents. This assured the specimen (diameter d of 0.05 cm and L of 2.54 cm) was above the range of D/Pd = 0.93 for events featured here. The two specimens reported here for analysis had electromigration currents of I = 1.235 A and I = 1.422 A (axial currents divided by cross-section are 629 and 724 A/cm 2 ) in addition to both having an electrolysis current i T of 471 mA (current density of 1180 mA/cm 2 ). Excess heat was 150 MJ/cc of Pd cathode or 14000 eV/Pd atom of excess heat during a 46 day experiment <ref type="bibr" target="#b0">[1]</ref>. Electromigration current forced D + ions toward the bottom (or right) of the specimen to a high D/Pd ratio (Figs. <ref type="figure" target="#fig_0">2</ref> and <ref type="figure" target="#fig_1">3</ref>). Some portions of the Pd need to have D/Pd near 1.3 (see Fig. <ref type="figure">1</ref>), even if the overall ratio is much less (~1.0), in order to develop small pockets of SAV phases of δ and δ′. Pre-processing of Pd by the technique of repeatedly electrolytically loading, reversing polarity to unload deuterium <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> and re-loading, developed high vacancy concentration as explained in reference <ref type="bibr" target="#b0">[1]</ref> and its Appendix B.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Analysis and results</head><p>The following analysis uses the production of nuclear energy from the arrangement in Fig. <ref type="figure" target="#fig_0">2</ref>, and significant changes in resistivity of the Pd-D, to estimate the volume fractions of δ, and δ′ phases, respectively. The development of the concentration profile of ionic interstitials of D + is shown in Fig. <ref type="figure" target="#fig_1">3</ref> with further details in Appendix A of reference <ref type="bibr" target="#b0">[1]</ref>. The ratio of concentration at the right end of the Pd wire compared to the left end, D/Pd enhancement, is also in Table <ref type="table" target="#tab_1">1</ref> as C L /C O . For conditions of 0.05 cm diameter and ~1.5 A, theoretical enhancement is about 2 times (or slightly less, C L /C O = 1.38, if Z = 0.4, see Table <ref type="table" target="#tab_1">1</ref>. footnote).</p><p>This does not include any contribution from electroysis current (Fig. <ref type="figure" target="#fig_0">2</ref>). Electrolysis current also contributes to electromigration and enhancement. The Appendix A (below) shows the method of incorporating this effect. It can, conservatively, be ignored when Fig. <ref type="figure">1</ref>. Equilibrium Phase Diagram for Isotopic Hydrogen -Palladium after reference <ref type="bibr" target="#b0">[1]</ref> with modified phase field near higher compositions of δ′: there can be as many as 8 tetrahedral D atoms per unit cell in δ′ but only 4 octahedral D atoms per unit cell in δ. At higher D/Pd ratios D fills these extra sites making δ′ a more stable (lower free energy) phase at these compositions. Both cells are in series on one "current controlled" power supply (P. S.). Independent electromigration currents from P. S.'s for each cell were also operated in "current control" mode, from <ref type="bibr" target="#b0">[1]</ref>. calculating enhancemant, but needs to be incorporated when evaluating voltage drop and resistivity of the specimen, enabling a more accurate estimate of volume fraction f v of δ′ phase. It does not affect the estimate of f v of δ phase which is based on measurement of excess energy.</p><p>To determine volume fraction (f v ) of δ phase, the amount of nuclear energy produced is used. This fraction is nuclear active atoms divided by total atoms. The number of Pd atoms is 3.4 × 10 20 based on volume of specimen wire with d of 0.05 cm and L of 2.54 cm. Nuclear reactions can produces 23,800,000 eV/reaction of D-atom pairs <ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b30">[30]</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref>. The actual nuclear energy produced as excess heat is 14000 eV/Pd atom, or 7000 eV/(D atom pair) over 46 days <ref type="bibr" target="#b0">[1]</ref>. Thus f v = 7000/ 23800000 = 0.0003 = 0.03% volume fraction. The total number of D pairs participating is 1.0 × 10 17 pairs out of 3.4 × 10 20 atoms. If all of δ phase is active in giving heat, then it is difficult to detect it from optical and conventional electron microscopy because of its small volume.</p><p>On the other hand, δ′ phase produces a macroscopic and measureable effect, lowering of overall resistivity of the bulk specimen. Since the value of f v (δ′), as a first guess, is close to f v (δ) (because they share the same composition (D/Pd ratio) and both result from hydrogen-induced vacancy formation); inherent resistivity of δ′ must be very low. Using the law of mixtures, the sum of the resistivity of δ′ phase, times its volume fraction f v (δ′), and resistivity of beta β phase, times its volume fraction f v (β), equals the resistivity of the bulk specimen ρ Bulk . The volume fraction of β is the complement of f v (δ′):</p><formula xml:id="formula_0">f v (δ′) + f v (β) = 1.</formula><p>[Note: Since SAVs are low volume fractions, β is used as the "parent phase" rather than γ <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> which is likely to be either completely transformed to δ and/or δ′, being a precursor phase, or not formed at all, under the kinetics involved: δ and δ′ have lower free energies at this D/Pd ratio.] Typical resistivity changes are shown in Fig. <ref type="figure" target="#fig_3">4a</ref> and <ref type="figure">b</ref> for two specimens: the change in voltage ΔV Tot from the top of the length (L = 2.54 cm) to the bottom of the first specimen (+, Fig. <ref type="figure" target="#fig_3">4a</ref>) drops with time from ΔV max = 0.0353 to ΔV min = 0.0335 V, while for the second specimen (•, Fig. <ref type="figure" target="#fig_3">4b</ref>), drops from ΔV max = 0.0398 to ΔV min = 0.0378 V. The constant electromigration current I for the first specimen (Fig. <ref type="figure" target="#fig_3">4a</ref>) was 1.235 A, and for the second specimen (Fig. <ref type="figure" target="#fig_3">4b</ref>) was 1.422 A. Electrolysis current i T must be included when considering these voltage drops. The Appendix A shows the appropriate value of electrolysis current to be added to electromigration current I is one half of its value, for a total of (I + i T /2). Total voltage drop is ΔV Tot = R•(I + i T /2) = (ρ•L/A)•(I + i T /2), where R is total resistance of the specimen, ρ is resistivity of the bulk specimen, and A (=1.963•10 -3 cm 2 ) is cross sectional area based on d of 0.05 cm. Electrolysis current i T for both specimens at the time of phase changes was 0.471 A. Resistivity for beta phase of Pd, ρ β , is based on resistivity of unalloyed Pd, ρ Pd (with D/Pd = 0), and the actual D/Pd ratio (r x ) . Using the average measured r x of 0.93 in Fig. <ref type="figure" target="#fig_3">4a</ref> and <ref type="figure" target="#fig_3">4b</ref>, ρ β is determined from results of Burger et al <ref type="bibr" target="#b26">[27]</ref> and McKubre et al <ref type="bibr" target="#b27">[28]</ref>. Their analysis of variation of resistivity with r x showed ρ β follows the relationship:</p><formula xml:id="formula_1">= + + + = / .<label>97869</label></formula><p>3.0001(r ) 15.090(r ) 44.155(r ) 49.119(r ) 17.577(r ) , with R .999 Pd x x 2 x 3 x 4 x 5 2</p><p>Thus ρ β /ρ Pd = 1.718 at r x = 0.93 which is r x measured before the resistivity change and therefore, ρ β = 1.718•(10.8•10 -6 ) = 18.56•10 -6 Ω-cm, where ρ Pd = 10.8•10 -6 Ω-cm is resistivity of unalloyed Pd <ref type="bibr" target="#b33">[33]</ref>. The drop in bulk resistance due to phase change is ΔR = (ΔV max -ΔV min )/(I + i T /2) = (0.0353-0.0335)/(1.235 + 0.471/ 2) = 0.001224 Ω and (0.0398-0.0378)/(1.422 + 0.471/ 2) = 0.001207 Ω for Fig. <ref type="figure" target="#fig_3">4a</ref> and <ref type="figure">b</ref>, respectively. This corresponds to a change in resistivity due to phase change Δρ = ΔR•A/ L = (0.001224)•(1.963•10 -3 )/2.54 = 0.946•10 -6 Ω-cm (Fig. <ref type="figure" target="#fig_3">4a</ref>) and = 0.933•10 -6 Ω-cm (Fig. <ref type="figure" target="#fig_3">4b</ref>). Resistivity of the ρ Bulk (with β and δ′ present) is equal to ρ β -Δρ = (18.56•10 -6 )-(0.946•10 -6 ) = 17.61•10 -6 Ω-cm (Fig. <ref type="figure" target="#fig_3">4a</ref>) and = 17.63•10 -6 Ω-cm (Fig. <ref type="figure" target="#fig_3">4b</ref>). Now that resistivity for multiphase Pd (ρ Bulk ) is determined, resistivity of the individual δ′ phase can be determined using the law of mixtures and the complement fraction:</p><formula xml:id="formula_2">= + = + f f f f • ( ) • ( ) •(1 ( )) • ( ) Bulk v v v v</formula><p>Resistivity of δ′, assuming the same volume fraction as δ, is <ref type="bibr">[17.</ref>61•10 -6 + 18.56•10 -6 •(0.0003 -1)]/0.0003 = -0.00314 Ωcm (Fig. <ref type="figure" target="#fig_3">4a</ref>), or = -0.00308 Ω-cm (Fig. <ref type="figure" target="#fig_3">4b</ref> with ρ Bulk = 17.63•10 -6 Ωcm). The negative values are not real possibilities (f v cannot be less than zero) and just indicate the value for ρ δ′ should be 0, and thus 0.0003 is not the real value of f v (δ′): it has to be higher for ρ δ′ to be 0. Thus δ′ has zero resistance if f v (δ′) is near f v (δ). This would suggest it is superconducting. However, there are other possibilities: those combinations f v (δ′) and ρ δ′ on the curve of Fig. <ref type="figure" target="#fig_4">5</ref> which are all solutions satisfying the rule of mixtures to bring down overall resistivity to the measured value, but the solution with ρ δ′ = 0 is the most likely, as discussed below.</p><formula xml:id="formula_3">ρ δ′ = [ρ Bulk -ρ β •(1 -f v (δ′))]/f v (δ′) = [ρ Bulk + ρ β •(f v (δ′) -1)]/f v (δ′) =</formula><p>If ρ δ′ is 0, the real volume fraction for δ′ phase, f v (δ′) (not 0.03%, but low), can be determined. Using the law of mixtures, and solving for f v (δ′) gives f v (δ′) = 1 -ρ Bulk /ρ β = 1 -(17.61•10 -6 )/ (18.56•10 -6 ) = 5.1% (Fig. <ref type="figure" target="#fig_3">4a</ref>) and = 5.0% (Fig. <ref type="figure" target="#fig_3">4b</ref>, with 17.63•10 -6 ), considerably higher than the volume fraction for δ.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>If other conditions (Fig. <ref type="figure" target="#fig_4">5</ref>) are invoked for volume fractions calculation, it becomes higher than f v (δ′) ≈ 5%. These are less probable due to the inference that f v (δ′) should be near f v (δ), since they should share the same r x , and both result from hydrogen-induced vacancy formation and the same atomic arrangement except for location of D atoms. More importantly, kinetics for formation of SAV (Vac number and Vac mobility) will limit volume fraction to the lowest value satisfying the rule of mixtures (Fig. <ref type="figure" target="#fig_4">5</ref>, f v (δ′) ≈ 5%). Limited supply of D also discourages large f v (δ′). With δ′ having twice the number of interstitial sites than δ for filling, these should fill more completely rather than create more δ′. The fact that the average bulk ratio r x (~1.0) is less than that required for δ′ (≥1.33), would also limit f v (δ′). This value of resistivity (ρ δ′ = 0 for f v (δ′) ≈ 5%) and its implication of superconductivity for δ′, supports suggestions and conclusions of Syed et al <ref type="bibr" target="#b34">[34]</ref>, Tripodi et al. <ref type="bibr" target="#b35">[35]</ref>,</p><p>Anderson <ref type="bibr" target="#b36">[36]</ref> and Sinha <ref type="bibr" target="#b37">[37]</ref> and supports increased electron-photon coupling. It would also imply δ′ and δ″ (as well as possibly ε) are one and the same phase (Fig. <ref type="figure">1</ref>). This conclusion about the resistivity of δ′ and its volume fraction would mean significant variation in resistivity (0 to 18.56•10 -6 Ω-cm) with location in the bulk (δ′ vs β phase) with only a very small additional volume fraction of δ scattered throughout the bulk, producing nuclear energy. This is consistent with observed local hot spots for production of tritium observed by Will et al. <ref type="bibr" target="#b38">[38]</ref> and Srinivasan et al. <ref type="bibr" target="#b39">[39]</ref>. It is also consistent with small and scarce local explosive reactions in the lattice in near-surface region from volcanic-like eruptions observed in optical and scanning electron microscopy of the surface after excess heat <ref type="bibr" target="#b40">[40]</ref>.</p><p>A drop in resistivity while temperature increases (Fig. <ref type="figure" target="#fig_3">4</ref>), is not expected behavior of PdD. Most metals and metal hydrides (or deuterides) show increasing resistivity with temperature <ref type="bibr" target="#b41">[41]</ref><ref type="bibr" target="#b42">[42]</ref><ref type="bibr" target="#b43">[43]</ref>, as in Fig. <ref type="figure" target="#fig_5">6</ref>. This behavior strongly suggests that the drop in resistivity is from a phase change. If excess heat is from δ (Pd 3 VacD 4 with D in octahedral sites), then formation of δ′ (Pd 3 VacD 4 with D in tetrahedral sites), (Fig. <ref type="figure" target="#fig_6">7</ref>) enables extensive pathways of low resistance for electron transport along vacuum tubes, which are "vacancy channels of undulating diameter", free of atoms, along all edges of unit cells. The only nearest Pd neighbors are face-centered atoms (see Figs. The spread between opposed tetrahedral sites at ¼ ¼ ¼, and ¼ -¼ -¼, is the same as at the corner site (tube diameter = d Pd atom , neglecting the size of the deuteron). This undulating diameter tube is a long mean free path for electron transport. In a regular FCC lattice there are no such straight line directions with uninterrupted openings for distances of more than 2•d Pd atom . They are long, yet intersecting channels of vacancies, as shown in Fig. <ref type="figure" target="#fig_7">8</ref>.</p><p>The tube lattice (Fig. <ref type="figure" target="#fig_7">8</ref>) has Pd atoms nested between the volumes defined by tube intersections: either Pd with D (H) or only Pd, depending on whether the phase is δ′ or δ. If it is δ, with D + inside the tubes as ions (octahedral sites), then it is a variant of Storms' model <ref type="bibr" target="#b44">[44]</ref>: an electron  e in between each D + ion (Fig. <ref type="figure" target="#fig_8">9</ref>). The tube would keep the shielding aligned and set up the tube of D-e-D-e-D-e-D… for a resonance condition of linear one dimensional vibrating deuterons along the tube. This resonance condition was calculated <ref type="bibr" target="#b45">[45]</ref> for a string of spring-connected masses (deuterons separated by negative charge as in δ phase). Resonance would allow the compressive forces on the deuterons to increase and inter-deuteron displacements to decrease without limit, yielding a NAE.</p><p>It has been understood that δ phase, with interstitial occupancy at octahedral sites, is more probable than δ′ phase with interstitial occupancy at tetrahedral sites near room temperature. This is possibly true for the lower D/Pd ratios (r x ). However at high r x , this research, along with other research <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b37">37,</ref><ref type="bibr" target="#b46">46]</ref>, suggests the reverse (tetrahedral more likely) since the volume fraction of δ′ (5%) is much higher than the volume fraction of δ (0.03%). Isaeva et al. <ref type="bibr" target="#b18">[19]</ref> has indicated the phase change to tetrahedral site occupancy is a change with more order than that of octahedral site occupancy: tetrahedral site is favored as having more order.</p><p>Resistivity is larger in a disordered state than in an ordered state <ref type="bibr" target="#b47">[47]</ref>. Neutron diffraction data of Ferguson et al. <ref type="bibr" target="#b5">[6]</ref> and Pitt and Gray <ref type="bibr" target="#b4">[5]</ref> show H (D) in both octahedral and tetrahedral sites, and groups of each phase, since the neutron beam would encounter groups of both phases. High D/Pd ratios have been harder to achieve historically, so SAV by room temperature electrolysis has not been produced (or at least recognized). If, in addition to merely having δ phase (necessary and sufficient), a requirement such as resonance is an additional     <ref type="bibr" target="#b44">[44]</ref> has modeled electron shielding in a two-dimensional crack shown on left and available online: <ref type="url" target="https://www.youtube.com/watch%3fv%3dSNodilc6su0">https://www.youtube.com/watch?v=</ref> SNodilc6su0. The center shows that a string of alternating electrons and deuterons (protons) will buckle when left in a two-dimension crack with a third dimension of width of 1 atom. The present view of SAV in Figs. 7 to 9 corrects the buckling problem since the lattice tube is ≤ 1 atom in diameter and maintains alignment when compressed axially (see Staker <ref type="bibr" target="#b45">[45]</ref>).</p><p>necessary condition to produce nuclear energy, then f v (δ) could be larger than 0.03%. A nuclear reaction of lower energy (e.g. production of tritium and protium; but it cannot be the dominant reaction) would also make it larger, but only by a factor of 5.9 (=23.8 MeV/4.04 MeV, making f v (δ) ≈ 0.18%). It must be emphasized that δ phase as a NAE is a very small volume fraction and could easily be absent or missed, explaining why evidence for LENR is often not found in the early replication attempts. Also since δ′ phase is of such low volume fraction (total resistance of the bulk does not drop to zero), therefore δ′ can be overlooked too. Light on these issues, should come from recent insight into the processing required to produce SAV <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b25">26]</ref> near room temperature in Pd and Ni, along with additional future research on the topic, especially DFT calculations of electron density inside the open undulating diameter Vac tubes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>(1) The volume fraction (f v ) of δ phase was estimated from the amount of nuclear energy measured. The volume fraction was f v (δ) ≈ 0.03%. Experimental measurements suggest that δ is the nuclear active environment (NAE) for low energy nuclear reactions (LENR). ( <ref type="formula" target="#formula_4">2</ref>) The volume fraction (f v ) of δ′ phase was estimated from the measurement of the change in resistivity of the overall multiphase Pd-D alloy using the rule of mixtures. The volume fraction of δ′ phase was f v (δ′) ≈ 5%. (3) The ordered structure of the unit cell of these SAV is simple cubic.</p><p>There are very long strings of Pd vacancies, without even deuterons present in these tubes or channels. These are part of the δ′ phase, and since calculations show the resistivity to be near zero, these long strings of Pd vacancies offer an environment that could support a high conducting state (phase). (4) Which interstitial site (octahedral or tetrahedral) is occupied by isotopic hydrogen determines whether the SAV phase is potentially nuclear active or potentially highly electrically conductive. These two phases are distinct and can coexist as minor volumetric components (phases) because they share the same composition (same D/Pd ratio) and atomic arrangements of Pd atoms and lattice vacancy sites, and result from hydrogen-induced vacancy formation. Thus, portions of the specimen can potentially be producing nuclear energy (excess heat) while other portions are potentially highly electrically conductive.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electrolysis current: voltage drop, and electromigration contribution</head><p>Consider a long cathode undergoing electrolysis while also undergoing an electromigration current I along its length (Fig. <ref type="figure" target="#fig_9">A1</ref>). With the electrolysis current i T at zero, the voltage drop along the length, ΔV I , is I•R, where R is total resistance of the rod and equal to ρ•L/A, where ρ is resistivity of the rod, L its length, and A its cross sectional area. Next consider the case where electromigration current is zero: ΔV i is the integral of dV from 0 to L, with dV being the differential voltage drop across a differential element of the rod of length dx located at a variable position x, so that dV i = (R L •dx) i x , where R L is the resistance per unit length of rod and i x is electrolysis current through the element at x. The current in the rod entering at the top of a differential element at x is i x = i T -i T (x/L) where i T is the total electrolysis current impinging from the electrolyte onto the total surface area (full length) of the rod and i T (x/L) is that portion of electrolytic current below the differential element of length dx. This gives: This is as expected since the contribution of the voltage drop from the electrolyte current, as x changes from 0 to L, is linear with a minimum of 0, a maximum of R L i T L, and an average value of R L i T L/2. Thus one half of the electrolysis current must be added to the electromigration current when determining the voltage drop for the specimen. But since (R L •L) is R, the voltage drop with the combination of both electromigration current I and electrolysis current i T , is ΔV Tot = R(I + i T /2) = (ρ•L/A) (I + i T /2). This extra contribution to the voltage drop from electrolysis current also contributes to electromigration, making its largest contribution at the bottom of the specimen where it makes a contribution of twice the average value, and making basically zero contribution at the top. It is generally ignored in the table of concentration enhancement as a function of electromigration currents, but cannot be ignored when estimating voltage drop and resistivity.</p><formula xml:id="formula_4">= = = = R i i L R i dx R i L x R i L R i L R i L R i L R i L V ( x ) dx dx [ x 2 ] [ L<label>2</label></formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Electrolytic cells of four nested (not shown) Pyrex test tubes with Pd or Pt cathodes and Pt anodes, sealed with Teflon tops (not shown).Both cells are in series on one "current controlled" power supply (P. S.). Independent electromigration currents from P. S.'s for each cell were also operated in "current control" mode, from<ref type="bibr" target="#b0">[1]</ref>.</figDesc><graphic coords="2,311.70,57.02,240.91,216.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Pd between two Cu leads, the two fluxes that develop and the resulting concentration profile.</figDesc><graphic coords="2,311.70,342.02,240.91,122.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>7 or 8) along close-packed directions 〈1 1 0〉 (Pd atom diameters d Pd atom have zero separating distance along 〈1 1 0〉). This leaves the minimum opening or diameter of the tube in Fig. 8 (considering only Pd atoms) at 1.4142•d Pd atom -d Pd atom = 0.4142•d Pd atom , at these locations (octahedral sites) and = 1•d Pd atom , at the maximum opening (at Vac sites on corners of unit cells).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Left cell (Pd/Pt) in D 2 O exhibiting excess power. Resistivity of the PdD had gone over the hump in resistance (D/Pd = 0.74) at the beginning of the run assuring both specimens are in the range above an average D/Pd = 0.93 for the events featured here. The drop in voltage along specimens is from a change in its resistivity since electromigration current is constant and the temperature of the cell is increasing, as in (b). Each unit on the time scale is 12 min (data taken every 15 min). (a) Specimen 1, (+), (b) Specimen 2, (•).</figDesc><graphic coords="4,95.81,57.02,403.63,274.46" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Calculated resistivity as a function of volume fraction δ′ using the rule of mixtures on the multiphase alloy of Pd -D. Negative resistivity values do satisfy the rule of mixtures equation and bring the overall total resistivity down to that measured, but in reality, they only serve to advise the real value of ρ δ′ = 0 at f v (δ′) = 5%. The balance of the curve (positive values) offers other less likely solutions.</figDesc><graphic coords="4,47.00,389.82,232.27,172.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Resistivity versus Temperature for Pd-H samples from low temperature to room temperature and extrapolated to temperatures above room temperature with a positive coefficient of resistivity. from Schindler et al. [41] and Tripodi et al. [42].</figDesc><graphic coords="5,42.69,57.03,240.91,189.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. The ordered unit cells of the delta (δ), Pd 3 VacD 4 and delta prime (δ′), Pd 3 VacD 4 phases. The main difference is that D occupies octahedral sites (x) in δ and tetrahedral sites (o) in δ′. Edges of the unit cell in δ′ are straight paths of open tunnels (or tubes) because of vacant Pd atoms. In δ, the only atoms in these tubes are D + ions, but in δ′, the tubes are completely empty of all atoms.</figDesc><graphic coords="5,37.59,442.24,382.03,84.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8 .</head><label>8</label><figDesc>Fig. 8. Tubes for each unit cells of either δ or δ′ phases. These phases form a 3-D vacancy tube lattice or network of intersecting tunnels. The tube lattice (green) has Pd and isotopic hydrogen in the space between tubes in δ′ (left image = Pd 3 VacD 4 -T), or has only Pd atoms and one central D atom (right image = Pd 3 VacD 4 -O) in the space with D + inside the tubes in δ. Tube diamter varies from 0.4142 to 1 of Pd atom with wavelength (period) matching the unit cell. Only 1 of the 12 unit cell edges is shown with the udulating diameter tubes, but all 12 have them (2 wavelengths shown in each case). Unit cell images (blue and red) after Isaeva et al. [19].</figDesc><graphic coords="5,37.59,563.58,343.01,174.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 9 .</head><label>9</label><figDesc>Fig.9.Storms [44]  has modeled electron shielding in a two-dimensional crack shown on left and available online: https://www.youtube.com/watch?v= SNodilc6su0. The center shows that a string of alternating electrons and deuterons (protons) will buckle when left in a two-dimension crack with a third dimension of width of 1 atom. The present view of SAV in Figs. 7 to 9 corrects the buckling problem since the lattice tube is ≤ 1 atom in diameter and maintains alignment when compressed axially (see Staker<ref type="bibr" target="#b45">[45]</ref>).</figDesc><graphic coords="5,311.70,56.99,240.91,139.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. A1 .</head><label>A1</label><figDesc>Fig. A1. A long thin cathode of cross section A and length L undergoing electrolysis current i T with an additional internal current I.</figDesc><graphic coords="6,212.32,512.42,170.64,216.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Composition enhancement from one end to the other by electromigration in Pd.</figDesc><table><row><cell>Total</cell><cell>Diameter of</cell><cell>Power</cell><cell>Total power</cell><cell cols="2">Composition ratio</cell></row><row><cell>current, I</cell><cell>specimen, d</cell><cell>density by</cell><cell>[= P × spec.</cell><cell cols="2">[enhancement] C L /C o</cell></row><row><cell>(amps)</cell><cell>(cm)</cell><cell>joule</cell><cell>vol.] (watts)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>heating, P</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(watts/cc)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Z = 0.7</cell><cell>Z = 1</cell></row><row><cell>1</cell><cell>0.10</cell><cell>0.175</cell><cell>0.0035</cell><cell>1.10</cell><cell>1.14</cell></row><row><cell>3</cell><cell>0.10</cell><cell>1.58</cell><cell>0.0314</cell><cell>1.33</cell><cell>1.50</cell></row><row><cell>10</cell><cell>0.10</cell><cell>17.5</cell><cell>0.349</cell><cell>2.57</cell><cell>3.86</cell></row><row><cell>20</cell><cell>0.10</cell><cell>70</cell><cell>1.40</cell><cell>6.60</cell><cell>14.91</cell></row><row><cell>1</cell><cell>0.05</cell><cell>2.80</cell><cell>0.014</cell><cell>1.46</cell><cell>1.72</cell></row><row><cell>1.5</cell><cell>0.05</cell><cell>6.3</cell><cell>0.0314</cell><cell>1.76</cell><cell>2.25</cell></row><row><cell>2</cell><cell>0.05</cell><cell>11.2</cell><cell>0.0559</cell><cell>2.13</cell><cell>2.95</cell></row><row><cell>3</cell><cell>0.05</cell><cell>25.21</cell><cell>0.126</cell><cell>3.10</cell><cell>5.06</cell></row><row><cell>10</cell><cell>0.05</cell><cell>280</cell><cell>1.40</cell><cell>44.0</cell><cell>222.0</cell></row><row><cell>20</cell><cell>0.05</cell><cell>1121</cell><cell>5.59</cell><cell>1902.0</cell><cell>49 425.0</cell></row><row><cell cols="6">a Note: Using ρ = 10.8•10 -6 Ω-cm, L = 2.54 cm, temperature (300 °K) and</cell></row><row><cell cols="6">constant diffusion coefficient, electric wind force at zero, steady state is as-</cell></row><row><cell cols="6">sumed (transient period is proportional to length 2 /Diffusion coefficient, L 2 /D)</cell></row><row><cell cols="6">and no "leakage" back into electrolyte along specimen surface (highest poten-tial). Thus, C L /C o = exp (0.0005319•I•L/d 2 ), for Z = 1, where Z is defined as</cell></row><row><cell cols="2">ratio of charge on D</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>+ to that of absolute value of electron (q/|e -|). Joule heating (Total Power = P × Volume of specimen) uses P = .000017508•I 2 /d 4 in watts/cc. The general equation for any value of Z is C L /C o = exp (4ZeIρL/ πd 2 k B T): its derivation and other details are in Appendix A of Ref.<ref type="bibr" target="#b0">[1]</ref></p><p>. Higher ρ values, such as ρ β = 18.56•10 -6 Ω-cm, increase enhancement beyond those listed here, where as lower values of Z decrease enhancement below values listed here; for example, for Z = 0.4, I = 1.5, C L /C o = 1.38 (without including the effect of electrolysis current) or C L /C o = 1.46 (including electrolysis current of 0.471 A), see text and Appendix A for discussion of combined currents.</p></note></figure>
+		</body>
+		<back>
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This research did not receive any grant from funding agencies in public, commercial.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Competing Interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Coupled calorimetry and resistivity measurements, in conjunction with an emended and more complete phase diagram of the palladium -isotopic hydrogen system</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Staker</surname></persName>
+		</author>
+		<ptr target="http://lenr-canr.org/acrobat/StakerMRpreprintco.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Condensed Matter Nucl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="129" to="168" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.R. Staker, Coupled calorimetry and resistivity measurements, in conjunction with an emended and more complete phase diagram of the palladium -isotopic hydrogen system, J. Condensed Matter Nucl. Sci. 29 (2019) 129-168 http://lenr-canr.org/ acrobat/StakerMRpreprintco.pdf.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Metal-Hydrogen system: basic bulk properties</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page">216</biblScope>
+			<pubPlace>Berlin, Germany</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+	<note type="raw_reference">Y. Fukai, The Metal-Hydrogen system: basic bulk properties, 2nd ed., Springer, Berlin, Germany, 2005, p. 216.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Evidence of copious vacancy formation in Ni and Pd under a high hydrogen pressure</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Okuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn. J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">1256</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, N. Okuma, Evidence of copious vacancy formation in Ni and Pd under a high hydrogen pressure, Jpn. J. Appl. Phys 32 (1993) 1256.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Formation of superabundant vacancies in Pd hydride under high hydrogen pressures</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Okuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Letters</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1640" to="1643" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, N. Okuma, Formation of superabundant vacancies in Pd hydride under high hydrogen pressures, Phys. Rev. Letters 73 (12) (1994) 1640-1643.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Tetrahedral occupancy in the Pd-D system observed by in situ neutron powder diffraction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maca</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gray</surname></persName>
+		</author>
+		<ptr target="https://core.ac.uk/download/pdf/143855039.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Europhys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="344" to="350" />
+			<date type="published" when="2003-11-25">2003. 25 November 2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.A. Pitt, E.MacA. Gray, Tetrahedral occupancy in the Pd-D system observed by in situ neutron powder diffraction, Europhys. Lett. 64 (3) (2003) 344-350 https:// core.ac.uk/download/pdf/143855039.pdf accessed 25 November 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Neutron diffraction study of temperature-dependent properties of Palladium containing absorbed hydrogen</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Ferguson</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Morita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2A</biblScope>
+			<biblScope unit="page">483</biblScope>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G.A. Ferguson Jr., A.I. Schindler, T. Tanaka, T. Morita, Neutron diffraction study of temperature-dependent properties of Palladium containing absorbed hydrogen, Phys. Rev. 137 (2A) (1965) 483.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Multiple phase separation of super-abundantvacancies in Pd hydrides by all solid-state electrolysis in moderate temperatures around 300 C</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hioki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Motohiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">688</biblScope>
+			<biblScope unit="page" from="404" to="e412" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukada, T. Hioki, T. Motohiro, Multiple phase separation of super-abundant- vacancies in Pd hydrides by all solid-state electrolysis in moderate temperatures around 300 C, J. Alloys Compd. 688 (2016) 404e412.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">On the copious formation of vacancies in metals</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Oates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenzl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scripta Metall. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="851" to="854" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W.A. Oates, H. Wenzl, On the copious formation of vacancies in metals, Scripta Metall. Mater. 30 (7) (1994) 851-854.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">On the formation and ordering of superabundant vacancies in Palladium due to hydrogen absorption</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Oates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenzl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scripta Metall. Mater</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="185" to="193" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W.A. Oates, H. Wenzl, On the formation and ordering of superabundant vacancies in Palladium due to hydrogen absorption, Scripta Metall. Mater. 33 (2) (1995) 185-193.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Superabundant vacancies formed in metal-hydrogen alloys</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Scripta</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2002">2003. 2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai Superabundant vacancies formed in metal-hydrogen alloys Phys. Scripta 2003 T103 2002 11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase Diagram and Superabundant Vacancy Formation in Cr-H Alloys</title>
+		<author>
+			<persName><forename type="first">Yuh</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masaki</forename><surname>Mizutani</surname></persName>
+		</author>
+		<idno>.2320/matertrans.43.1079</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Trans</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1079" to="1084" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yuh Fukai Masaki Mizutani Phase Diagram and Superabundant Vacancy Formation in Cr-H Alloys Mater. Trans. 43 5 2002 1079 1084 10.2320/matertrans.43.1079.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Superabundant vacancies in a metal-hydrogen system: monte carlo simulations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tanguy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page">174116</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Tanguy, M. Mareschal, Superabundant vacancies in a metal-hydrogen system: monte carlo simulations, Phys. Rev. B 72 (17) (2005) 174116.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Hydrogen-Induced superabundant vacancies in metals: implication for electrodeposition</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Defect and diffusion form</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Ochsner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Murch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>O\q</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Delgado</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="1106" to="1115" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, Hydrogen-Induced superabundant vacancies in metals: implication for electrodeposition, ed. A. Ochsner, G. E. Murch and J. M. O\Q. Delgado, Defect and diffusion form, Vol. 312-315 (2011) 1106-1115.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A high pressure investigation of Pd and the Pd-H system</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miraglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fruchart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="1" to="L5" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D.S. dos Santos, S. Miraglia, D. Fruchart, A high pressure investigation of Pd and the Pd-H system, J. Alloys Compd. 291 (1999) L1-L5.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Electronic origin of superabundant vacancies in Pd hydride under high hydrogen pressures</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Degtyareva</surname></persName>
+		</author>
+		<ptr target="http://arxiv.org/pdf/1001.1525.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Presented on the Conference on Hydrogen Materials Science (ICHMS)</title>
+		<meeting><address><addrLine>Yalta, Ukraine</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-08-31">25-31 August (2009. 25 November 2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. F. Degtyareva, Electronic origin of superabundant vacancies in Pd hydride under high hydrogen pressures, Presented on the Conference on Hydrogen Materials Science (ICHMS), Yalta, Ukraine, 25-31 August (2009)&quot;: http://arxiv.org/pdf/ 1001.1525.pdf , accessed 25 November 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">First-principles study of superabundant vacancy formation in metal hydrides</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Alavi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="9808" to="9817" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Zhang, Ali Alavi, First-principles study of superabundant vacancy formation in metal hydrides, J. Am. Chem. Soc. 127 (2005) 9808-9817.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Superabundant vacancy-hydrogen clusters in electrodeposited Ni and Cu</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mizutani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yokota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kanazawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Watanabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="page">270</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, M. Mizutani, S. Yokota, M. Kanazawa, Y. Miura, T. Watanabe, Superabundant vacancy-hydrogen clusters in electrodeposited Ni and Cu, J. Alloys Compd. 356-357 (2003) 270.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Formation of superabundant vacancies in M-H alloys and some of its consequences: a review</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="263" to="269" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, Formation of superabundant vacancies in M-H alloys and some of its consequences: a review, J. Alloys Compd. 356-357 (2003) 263-269.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Dynamic stability of Palladium hydride: An ab initio study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Isaeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Bazhanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eyvas</forename><surname>Isaev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Eremeev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kulkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Igor</forename><surname>Abrikosov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. of Hydro. Energy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1254" to="1258" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. E. Isaeva, D. I. Bazhanov, Eyvas Isaev, S. V. Eremeev, S. E. Kulkova and Igor Abrikosov, &quot;Dynamic stability of Palladium hydride: An ab initio study&quot;, Int. J. of Hydro. Energy, (36), 1, (2011) 1254-1258.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Formation mechanism of defect metal hydrides containing superabundant vacancies</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sugimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Condens. Matter</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">43</biblScope>
+			<biblScope unit="page">436201</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, H. Sugimoto, Formation mechanism of defect metal hydrides containing superabundant vacancies, J. Phys. Condens. Matter 19 (43) (2007) 436201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Migration mechanism in defect metal hydrides containing superabundant vacancies</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diffusion-fundamentals</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Sugimoto, Y. Fukai, Migration mechanism in defect metal hydrides containing superabundant vacancies, Diffusion-fundamentals.org 11 (2009) 102, pp 1-2.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Heinola Thermodynamics of impurity-enhanced vacancy formation in metals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bukonte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahlgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Heinola</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4974530</idno>
+		<ptr target="https://doi.org/10.1063/1.4974530045102-1-045102-11" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Bukonte, T. Ahlgren, K. Heinola, Heinola Thermodynamics of impurity-enhanced vacancy formation in metals, J. Appl. Phys. 121 (2017), https://doi.org/10.1063/1. 4974530 045102-1-045102-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The defect structure with superabundant vacancies to be formed from FCC binary metal hydrides: experiments and simulations</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sugimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">446</biblScope>
+			<biblScope unit="page" from="474" to="478" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Fukai, H. Sugimoto, The defect structure with superabundant vacancies to be formed from FCC binary metal hydrides: experiments and simulations, J. Alloys Compd. 446 &amp; 447 (2007) 474-478.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ab Initio study of H-vacancy interactions in FCC metals: implications for the formation of superabundant vacancies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nazarov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Neugebauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">144108</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Nazarov, T. Hickel, J. Neugebauer, Ab Initio study of H-vacancy interactions in FCC metals: implications for the formation of superabundant vacancies, Phys. Rev. B 89 (2014) 144108.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Superabundant vacancy formation and its consequences in metal hydrogen alloys</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kurokawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hiraoka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Jpn. Inst. Met</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="663" to="e670" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+	<note type="raw_reference">Y. Fukai, Y. Kurokawa, H. Hiraoka, Superabundant vacancy formation and its consequences in metal hydrogen alloys, J. Jpn. Inst. Met. 61 (1997) 663e670 (in Japanese).</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">On the role of superabundant vacancies (SAV&apos;s) in hydrogen loading and production of the Fleischmann Pons heat effect</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C H</forename><surname>Mckubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Staker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">13th Int. Workshop on Anomalies in Hydrogen Loaded Metals</title>
+		<meeting><address><addrLine>Greccio Italy</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018-10">October 2018</date>
+			<biblScope unit="page" from="5" to="9" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. C. H. McKubre and M. R. Staker, On the role of superabundant vacancies (SAV&apos;s) in hydrogen loading and production of the Fleischmann Pons heat effect, 13th Int. Workshop on Anomalies in Hydrogen Loaded Metals, 5-9 October 2018, Greccio Italy.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Electrical resistivity of PdH x : 1 -residual resistivity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Maclachlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mailfert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Souffaché</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Solid State Commun</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="277" to="280" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.P. Burger, D.S. MacLachlan, R. Mailfert, B. Souffaché, Electrical resistivity of PdH x : 1 -residual resistivity, Solid State Commun. 17 (3) (1975) 277-280.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Calorimetry and electrochemistry in the D/Pd system</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mckubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Romeu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Rocha-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Smedley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Tanzella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bindi</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Chexal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Passell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Santucci</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>National Cold Fusion Institute</publisher>
+			<biblScope unit="page" from="20" to="31" />
+			<pubPlace>Park, Salt Lake City, Utah</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Univ. of Utah Research</orgName>
+		</respStmt>
+	</monogr>
+	<note>The first annual conf. on cold fusion</note>
+	<note type="raw_reference">Michael C.H. McKubre, Romeu C. Rocha-Filho, Stuart Smedley, Francis Tanzella, Jason Chao, Bindi Chexal, Tom Passell, and Joseph Santucci, Calorimetry and electrochemistry in the D/Pd system, The first annual conf. on cold fusion, Univ. of Utah Research Park, Salt Lake City, Utah: National Cold Fusion Institute (1990) pp. 20-31.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The science of cold fusion, for proceedings of the II annual conf</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Bush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Ostrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lagowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Soc</title>
+		<editor>
+			<persName><forename type="first">T</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+		</imprint>
+	</monogr>
+	<note>on cold fusion of Italian The science of cold fusion -Proc. of second annual conf. on cold fusion</note>
+	<note type="raw_reference">M.H. Miles, B.F. Bush, G.S. Ostrom, J.J. Lagowski, The science of cold fusion, for proceedings of the II annual conf. on cold fusion of Italian Phys. Soc., Vol. 33 for The science of cold fusion -Proc. of second annual conf. on cold fusion&apos;, edited T.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Como, Italy, held at A. Volta Center for Sci Culture</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bressani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Preparata</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991-07-04">29 June -4 July 1991</date>
+			<biblScope unit="page" from="363" to="372" />
+			<pubPlace>Villa Olmo</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bressani, E. Del Giudice, and G. Preparata, Como, Italy, held at A. Volta Center for Sci Culture, Villa Olmo 29 June -4 July 1991 pp. 363-372.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C H</forename><surname>Mckubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crouch-Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jevtic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Smedley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Tanzella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mcmohon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Warren</surname></persName>
+		</author>
+		<idno>TR-107843-V1</idno>
+		<title level="m">Energy production processes in deuterated metals</title>
+		<meeting><address><addrLine>Palo Alto, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">SRI International Report</note>
+	<note type="raw_reference">M.C.H. McKubre, S. Crouch-Baker, A. Hauser, N. Jevtic, S. I. Smedley, F. L. Tanzella, M. Williams, S. Wing, B. Bush, F. McMohon, M. Srinivasan, A. Wark and D. Warren, Energy production processes in deuterated metals: Vol. 1, SRI International Report TR-107843-V1, for Electric Power Research Institute (EPRI), Palo Alto, CA (1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">heat excess and 4He in the electrochemical confinement of deuterium in palladium</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cellucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Cignini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gigli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tomellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cisbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Frullani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Garibaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jodice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Urciuoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ICCF-6), Progress in new hydrogen energy</title>
+		<meeting><address><addrLine>Lake Toya, Hokkaido, Japan; Tokyo, Japan</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tokyo Institute of Technology</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>New Energy and Industrial Technology Development Organization</orgName>
+		</respStmt>
+	</monogr>
+	<note>X-Ray proceedings of the sixth int. conf. on cold fusion (</note>
+	<note type="raw_reference">F. Cellucci, P. L. Cignini, G. Gigli, D. Gozzi, M. Tomellini, E. Cisbani, S. Frullani, F. Garibaldi, M. Jodice, and G. M. Urciuoli, X-Ray, heat excess and 4He in the elec- trochemical confinement of deuterium in palladium, proceedings of the sixth int. conf. on cold fusion (ICCF-6), Progress in new hydrogen energy, Lake Toya, Hokkaido, Japan: New Energy and Industrial Technology Development Organization, Tokyo Institute of Technology, Tokyo, Japan (1996) p. 3.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hagelstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Mckubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Talbot</forename><forename type="middle">A</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Randall</forename><forename type="middle">J</forename><surname>Chubb</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hekman</surname></persName>
+		</author>
+		<ptr target="http://sciencewise.info/resource/Michael_McKubre/Michael_McKubre_by_Wikipedia" />
+		<title level="m">of Energy Report of the review of low energy nuclear reactions</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Department of Energy</publisher>
+			<date type="published" when="2004">2004. 2008-07-19. 25 Nov 2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Dep</orgName>
+		</respStmt>
+	</monogr>
+	<note>New Physical Effects In Metal Deuterides Archived from the original on 2008-02-26</note>
+	<note type="raw_reference">Peter L. Hagelstein, Michael C. H. McKubre, David J. Nagel, Talbot A. Chubb, and Randall J. Hekman, New Physical Effects In Metal Deuterides, U.S. Dep. of Energy Report of the review of low energy nuclear reactions, Washington, DC: U.S. Department of Energy (2004). Archived from the original on 2008-02-26. Retrieved 2008-07-19. Available: http://sciencewise.info/resource/Michael_McKubre/ Michael_McKubre_by_Wikipedia, accessed 25 Nov 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Bard Properties of palladium and palladium alloys</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Vines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metals Handbook Properties and Selection: Nonferrous Alloys and Pure Metals</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="1979">1979</date>
+			<publisher>Am. Soc. for Metals</publisher>
+			<pubPlace>Metals Park Ohio</pubPlace>
+		</imprint>
+	</monogr>
+	<note>9th edition</note>
+	<note type="raw_reference">E.M. Wise R.F. Vines J.A. Bard Properties of palladium and palladium alloys, Metals Handbook Properties and Selection: Nonferrous Alloys and Pure Metals Vol. 2 9th edition, 1979 Am. Soc. for Metals, Metals Park Ohio 701.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Syed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maca</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gray</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/ftp/arxiv/papers/1608/1608.01774.pdf" />
+		<title level="m">Superconductivity in palladium hydride and deuteride at 52-61 kelvin</title>
+		<meeting><address><addrLine>Nathan; Brisbane, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018-11-24">4111. 24 November 2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Report for Queensland Micro-and Nanotechnology Centre, Griffith University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">H. M. Syed, T. J. Gould, C. J. Webb and E. MacA. Gray, Superconductivity in pal- ladium hydride and deuteride at 52-61 kelvin, Report for Queensland Micro-and Nanotechnology Centre, Griffith University, Nathan 4111, Brisbane, Australia https://arxiv.org/ftp/arxiv/papers/1608/1608.01774.pdf, accessed 24 November 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Magnetic and transport properties of PdH: intriguing superconductive observations</title>
+		<author>
+			<persName><forename type="first">Paolo</forename><surname>Tripodi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniele</forename><surname>Di Gioacchino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jenny</forename><forename type="middle">Darja</forename><surname>Vinko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian J. of Phys</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3B</biblScope>
+			<date type="published" when="2004-09">September, 2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paolo Tripodi, Daniele Di Gioacchino, and Jenny Darja Vinko, Magnetic and transport properties of PdH: intriguing superconductive observations, Brazilian J. of Phys., vol. 34, no. 3B, September, 2004.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">The Dynamics of hydrogen in metals studied by inelastic neutron scattering</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Anderson</surname></persName>
+		</author>
+		<editor>A. Furrer</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>World Scientific</publisher>
+			<biblScope unit="page" from="142" to="167" />
+			<pubPlace>Singapore</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Neutron scattering from hydrogen in metals</note>
+	<note type="raw_reference">I. Anderson, The Dynamics of hydrogen in metals studied by inelastic neutron scattering, in Neutron scattering from hydrogen in metals&apos; A. Furrer (editor), World Scientific, Singapore (1994) pp. 142-167.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">High temperature superconductivity in Pd-[H (D)]X system</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Sinha</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:cond-mat/0509596</idno>
+		<ptr target="https://arxiv.org/abs/cond-mat/0509596" />
+	</analytic>
+	<monogr>
+		<title level="j">Natl. Academy Sci. Lett. (India)</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3&amp;4</biblScope>
+			<biblScope unit="page" from="125" to="129" />
+			<date type="published" when="2006-11-25">2006. 25 November 2018</date>
+		</imprint>
+	</monogr>
+	<note>cond-mat.supr-con</note>
+	<note type="raw_reference">K. P. Sinha, High temperature superconductivity in Pd-[H (D)]X system, Natl. Academy Sci. Lett. (India), Vol. 29, No. 3&amp;4 (2006) pp. 125-129: arXiv:cond-mat/ 0509596 [cond-mat.supr-con], https://arxiv.org/abs/cond-mat/0509596, accessed 25 November 2018.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Studies of electrolytic and gas phase loading of Pd with deuterium</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cedzynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Bergeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Barrowes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Linton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conf. proceedings of Italian Phys. Soc</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Bressani</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Del Giudice</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Preparata</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Como, Italy; Villa Olmo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Volta Center for Sci. Culture</publisher>
+			<date type="published" when="1991-07-04">29 June -4 July 1991. 1991</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="373" to="383" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. G. Will, K. Cedzynska, M. C. Yang, J. R. Peterson, H. E. Bergeson, S. C. Barrowes, W. J. West and D. C. Linton, Studies of electrolytic and gas phase loading of Pd with deuterium, in Conf. proceedings of Italian Phys. Soc., Vol. 33 for The science of cold fusion -Proc. of second annual conf. on cold fusion, edited T. Bressani, E. Del Giudice, and G. Preparata, Como, Italy, 29 June -4 July 1991, held at A. Volta Center for Sci. Culture, Villa Olmo, (1991) pp. 373-383.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Observation of tritium in gas/ plasma loaded titanium samples</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Kaushik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Rout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Malhotra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Nagvenkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Iyengar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AIP Conf. Proceedings 228 -Anomalous nuclear effects in deuterium/solid system</title>
+		<meeting><address><addrLine>Provo, UT; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Am. Institute of Phys</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="514" to="534" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Srinivasan, A. Shyam, T. C. Kaushik, R. K. Rout, L. V. Kulkarni, M. S. Krishnan, S. K. Malhotra, V. G. Nagvenkar, and P. K. Iyengar, Observation of tritium in gas/ plasma loaded titanium samples, AIP Conf. Proceedings 228 -Anomalous nuclear effects in deuterium/solid system. (1990). Brigham Young Univ., Provo, UT: Am. Institute of Phys., New York, pp 514-534.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Characteristics and energetics of craters in LENR experimental materials</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Nagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Condensed Matter Nucl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">David J. Nagel, Characteristics and energetics of craters in LENR experimental materials, J. Condensed Matter Nucl. Sci. 10 (2013) 1-14.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Low-temperature dependence of the electrical resistivity and thermoelectric power of Palladium and Palladium-Nickel alloys containing absorbed hydrogen</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Kammer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Int. Congress of Refrigeration</title>
+		<meeting>the Int. Congress of Refrigeration<address><addrLine>Copenhagen; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pergamon Press, Inc</publisher>
+			<date type="published" when="1959">August 19-26, 1959, 10th. 1960</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. I. Schindler, R. J. Smith and E. W. Kammer, Low-temperature dependence of the electrical resistivity and thermoelectric power of Palladium and Palladium-Nickel alloys containing absorbed hydrogen, Proceedings of the Int. Congress of Refrigeration, Copenhagen, August 19-26, 1959, 10th Congress, Vol. 1, p. 74, Pergamon Press, Inc., New York, 1960.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Temperature coefficient of resistivity at compositions approaching PdH</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tripodi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C H</forename><surname>Mckubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Tanzella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Honnor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Di Giacchino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Celani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Violante</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. A</title>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="page" from="122" to="126" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Tripodi, M.C.H. McKubre, F.L. Tanzella, P.A. Honnor, D. Di Giacchino, F. Celani, V. Violante, Temperature coefficient of resistivity at compositions approaching PdH, Phys. Lett. A 276 (2000) 122-126.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The resistivity-temperature-concentration relationship in β-phase titanium-hydrogen alloys</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Ames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Mcquillan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Metall</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">609</biblScope>
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.L. Ames, A.D. McQuillan, The resistivity-temperature-concentration relationship in β-phase titanium-hydrogen alloys, Acta Metall. 4 (1956) 609.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">An Explanation of low energy nuclear reactions (cold fusion)</title>
+		<author>
+			<persName><forename type="first">Edmund</forename><surname>Storms</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=SNodilc6su0" />
+		<imprint>
+			<date type="published" when="2020-05-15">May 15, 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Edmund Storms, An Explanation of low energy nuclear reactions (cold fusion), https://www.youtube.com/watch?v=SNodilc6su0, accessed May 15, 2020.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">A Model and simulation of lattice vibrations in a superabundant vacancy phase of palladium-deuterium</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Staker</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-651X/ab9994</idno>
+		<ptr target="https://doi.org/10.1088/1361-651X/ab9994" />
+	</analytic>
+	<monogr>
+		<title level="j">Modelling and Simul. Mater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+	<note type="raw_reference">M.R. Staker, A Model and simulation of lattice vibrations in a superabundant va- cancy phase of palladium-deuterium, Modelling and Simul. Mater. Sci. Eng. 28 (2020) (in press), https://doi.org/10.1088/1361-651X/ab9994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Muhammad</forename><surname>Hansnain</surname></persName>
+		</author>
+		<ptr target="https://research-repository.griffith.edu.au/bitstream/handle/10072/367614/Muhammad%20Hasnain_2016_01Thesis.pdf?sequence=1&amp;isAllowed=y" />
+		<title level="m">Transient high-temperature superconductivity in palladium hydride</title>
+		<meeting><address><addrLine>Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006-02">February 2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>School of Natural Sci., Griffith University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+	<note type="raw_reference">S. Muhammad Hansnain, Transient high-temperature superconductivity in palla- dium hydride, Ph.D. Thesis, School of Natural Sci., Griffith University, Australia (February 2006). https://research-repository.griffith.edu.au/bitstream/handle/ 10072/367614/Muhammad%20Hasnain_2016_01Thesis.pdf?sequence=1&amp; isAllowed=y.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">The Metal-Hydrogen System: Basic Bulk Properties</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page">43</biblScope>
+			<pubPlace>Berlin, Germany</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+	<note type="raw_reference">Y. Fukai, The Metal-Hydrogen System: Basic Bulk Properties, 2nd ed., Springer, Berlin, Germany, 2005, p. 43</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

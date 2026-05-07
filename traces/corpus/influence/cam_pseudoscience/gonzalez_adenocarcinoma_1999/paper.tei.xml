@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evaluation of Pancreatic Proteolytic Enzyme Treatment of Adenocarcinoma of the Pancreas, With Nutrition and Detoxification Support</title>
+				<funder>
+					<orgName type="full">Nestle Corporation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="1999-03">1999-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nicholas</forename><forename type="middle">James</forename><surname>Gonzalez</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Linda</forename><forename type="middle">Lee</forename><surname>Isaacs</surname></persName>
+						</author>
+						<title level="a" type="main">Evaluation of Pancreatic Proteolytic Enzyme Treatment of Adenocarcinoma of the Pancreas, With Nutrition and Detoxification Support</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nutrition and Cancer</title>
+						<title level="j" type="abbrev">Nutrition and Cancer</title>
+						<idno type="ISSN">0163-5581</idno>
+						<idno type="eISSN">1532-7914</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">33</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="117" to="124"/>
+							<date type="published" when="1999-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">CF9DE4553073BD64E604F8784ADE230F</idno>
+					<idno type="DOI">10.1207/s15327914nc330201</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Historically, large doses of proteolytic enzymes, along with diet, nutritional supplements, and "detoxification" procedures, have been used in alternative therapies to treat all forms of cancer, without formal clinical studies to support their use. A 2-year, unblinded, 1-treatment arm, 10-patient, pilot prospective case study was used to assess survival in patients suffering inoperable stage II-IV pancreatic adenocarcinoma treated with large doses of orally ingested pancreatic enzymes, nutritional supplements, "detoxification" procedures, and an organic diet. From January 1993 to April 1996 in the authors' private practice, 10 patients with inoperable, biopsy-proven pancreatic adenocarcinoma were entered into the trial. After one patient dropped out, an 11th patient was added to the study (however, all 11   are considered in the data tabulation). Patients followed the treatment at home, under the supervision of the authors. As of 12 January 1999, of 11 patients entered into the study, 9 (81%) survived one year, 5 (45%) survived two years, and at this time, 4 have survived three years. Two patients are alive and doing well: one at three years and the other at four years. These results are far above the 25% survival at one year and 10% survival at two years for all stages of pancreatic adenocarcinoma reported in the National Cancer Data Base from 1995. This pilot study suggests that an aggressive nutritional therapy with large doses of pancreatic enzymes led to significantly increased survival over what would normally be expected for patients with inoperable pancreatic adenocarcinoma.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The Scottish embryologist Dr. John Beard proposed in 1906 that the pancreatic proteolytic enzymes represent the body's main defense against cancer and would be useful as a cancer treatment <ref type="bibr" target="#b0">(1)</ref>. Particularly during the first two decades of this century, Dr. Beard's thesis attracted some attention in academic circles, and several case reports in the medical literature documented tumor regression and even remission in terminal cancer patients treated with pancreatic enzymes <ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref>. In 1911, Dr. Beard published a monograph that summarized his therapy and the supporting evidence <ref type="bibr" target="#b6">(7)</ref>.</p><p>After Dr. Beard's death in 1923, the enzyme therapy was largely forgotten. Periodically, alternative therapists have rediscovered Dr. Beard's work and used pancreatic proteolytic enzymes as a treatment for cancer <ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref>.</p><p>Basic scientific support for this hypothesis, although not extensive, does exist: in 1965, Leighton King, a researcher at St. Joseph's Hospital in Arizona, reported complete prevention of tumors in a group of C3H mice carrying Bittner's milk factor virus that received oral pancreatin compared with 100% tumor occurrence in the control group <ref type="bibr" target="#b10">(11)</ref>. In a second article, King proposed an immune enhancement effect for orally ingested pancreatin: in an experimental group of Swiss mice, he described a 260% increase in antibody production with the addition of 2% pancreatin to the diet <ref type="bibr" target="#b11">(12)</ref>.</p><p>Dr. Beard believed that the enzymes had to be injected to prevent destruction by hydrochloric acid in the stomach. However, recent evidence demonstrates that orally ingested pancreatic proteolytic enzymes are acid stable <ref type="bibr" target="#b12">(13)</ref>, pass intact into the small intestine, and are absorbed through the intestinal mucosa into the bloodstream as part of an enteropancreatic recycling process <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b14">15)</ref>.</p><p>The lead author of this study began researching the use of oral pancreatic proteolytic enzyme therapy as a treatment for cancer in 1981 while a medical student. Later, as an immunology fellow, he conducted an intensive retrospective review of 1,306 patients who had been treated over a 20-year period by an unconventional practitioner who used enzyme therapy along with adjunctive dietary and nutritional support. This study included a review of pancreatic cancer patients, some of whom survived in excess of five years (unpublished observations).</p><p>Since 1987, we have been applying proteolytic enzyme therapy to patients with poor-prognosis cancer. The treatment also includes dietary modification, nutritional support in the form of supplements, and detoxification routines commonly used by alternative practitioners.</p><p>In June 1993, the lead author presented a selection of cases from his own practice at the National Cancer Institute (NCI) as part of an NCI effort to evaluate nontraditional cancer therapies. During the meeting, Dr. Michael J. Friedman, then Associate Director of the Cancer Therapy Evaluation Program at the NCI, suggested that we pursue a pilot study of our methods in 10 patients suffering inoperable adenocarcinoma of the pancreas, with survival as the end point. Because the standard survival for the disease is so poor, an effect could be seen in a small number of patients in a short period of time.</p><p>Pancreatic adenocarcinoma, the fifth leading cause of cancer death in the United States, claimed some 27,800 lives in 1996 and remains largely incurable. The overall survival rate of all stages is &lt;1% at five years, with 80% of patients dying within one year. Surgical excision offers the only accepted chance for cure, but for most patients, at the time of diagnosis the tumor is unresectable. For surgically inoperable disease, the condition for patients included in this study, the median survival is six months <ref type="bibr" target="#b15">(16)</ref>. Chemotherapy and radiation have not produced significant improvement in survival: the recent study of gemcitabine, a drug approved for the treatment of pancreatic adenocarcinoma, described a median survival of 5.7 months compared with 4.4 months for patients treated with 5-fluorouracil <ref type="bibr" target="#b16">(17)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design</head><p>After the July 1993 session at the NCI, we developed a protocol that Dr. Friedman reviewed. The trial was conceived as a two-year, unblinded, one-treatment pilot prospective case study. For the study, 10 patients were deemed adequate, with survival as the end point. Patients were to be accrued from our patient population but were to be diagnosed by physicians other than the authors. All patients had to meet the following criteria: 1) They must have been diagnosed with biopsyproven adenocarcinoma of the pancreas. 2) They must have been diagnosed within eight weeks from the inception of therapy. 3) They must not have been subjected to major surgical procedures such as the Whipple procedure. Such patients do poorly because of difficulties with absorption of nutrients in a compromised digestive system. Exploratory surgery or simple biliary bypass procedures were acceptable. 4) They must have been previously untreated with chemotherapy or radiation for their pancreatic disease. 5) They must have no end-stage disease such as liver or kidney failure. 6) They must be ambulatory, able to eat three meals per day, and able to care for themselves, since the program is done at home. 7) They must have adequate family support (help with food preparation improves compliance). 8) They must be free of alcohol or drug addictions (including tobacco). 9) They must be willing to comply with the protocol. 10) They must demonstrate compliance during an eight-week lead-in period.</p><p>Because the median survival for inoperable pancreatic cancer ranges from 17 to 22 weeks, initially it seemed reasonable to include only patients diagnosed within eight weeks of beginning therapy. Because we did not have access to an academic referral network, most potential study patients learned of the treatment through word of mouth. As a result, during the period of the study, most patients who contacted our office were more than eight weeks from diagnosis. By March 1995 the eight-week requirement for entry had to be abandoned, because it was taking too long to recruit patients.</p><p>Patients were to be excluded from the study if they of their own accord decided to stop the program during the first eight weeks of treatment. Patients who might die during this period while attempting to follow the program would not be excluded but would be counted as treatment failures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Recruitment</head><p>Patient screening for the study began in September 1993. All patients who called our office with diagnosed pancreatic adenocarcinoma underwent an initial interview and review of medical records to assess eligibility. The first patient was entered in January 1994, and the last patient in April 1996.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nature of the Treatment</head><p>Overall, the therapy involves three components: diet, oral supplementation with nutrients and enzymes, and routines such as coffee enemas. For pancreatic cancer the protocols can be summed up as follows.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diet:</head><p>The prescribed diet for patients with pancreatic adenocarcinoma emphasizes fresh raw fruits, raw and lightly steamed vegetables, and freshly made vegetable juice daily. The diet encourages plant-based protein sources such as cereals, nuts, and seeds and whole-grain products such as whole-grain bread and brown rice. The diet allows one or two eggs daily, whole-milk yogurt daily, and fish two or three times a week but forbids all red meat or poultry. The diet is designed to provide a concentrated supply of nutrients in their natural form with all the associated cofactors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nutritional supplements:</head><p>The supplement regimen includes vitamins, minerals, and trace elements providing a supportive, not an anticancer, role. We also prescribe certain freeze-dried organ concentrates such as thymus and liver, derived from beef or lamb, that provide a concentrated source of nutrients.</p><p>In addition to such supplements, each pancreatic cancer patient takes 25-40 g of porcine lyophilized pancreas product daily, taken in capsule form, away from meals, and spread evenly throughout the day. The pancreatic enzymes in this product are the proposed anticancer element of the program. The particular formulation of pancreatic enzymes we use tests at 30-80 USP units of proteolytic activity per milligram and 15-40 units of lipolytic activity per milligram.</p><p>Each cancer patient typically ingests a total of 130-160 capsules/day, taken with and away from meals. The products used in the program are available as food substances or dietary supplements and do not require a prescription.</p><p>"Detoxification": On this therapy, patients routinely develop a variety of symptoms, most commonly described as "flulike," such as low-grade fevers, muscle aches and pains, and even rashes that we hypothesize result from low-grade tumor lysis. "Detoxification" refers to procedures such as the coffee enema, which are believed by alternative practitioners to enhance liver function and, in turn, the processing and excretion of metabolic wastes. The coffee enemas are done twice daily, and patients most commonly report symptomatic relief.</p><p>Coffee enemas have been discussed in the orthodox medical literature for the better part of this century. Many nursing texts routinely recommended coffee enemas, and the Merck Manual advocated coffee enemas as a stimulant in all editions from the first in 1898 through 1977 <ref type="bibr" target="#b17">(18)</ref>. During the 1920s and 1930s, coffee enemas were prescribed for a variety of conditions <ref type="bibr" target="#b18">(19)</ref><ref type="bibr" target="#b19">(20)</ref><ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr" target="#b22">(23)</ref>. In terms of their physiological effect, studies have shown that the rectal instillation of fluids will stimulate gallbladder contraction and emptying <ref type="bibr" target="#b23">(24)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Monitoring</head><p>We evaluated all potential study patients in two sessions, approximately 1.5 hours each over two days in our New York office. Because 10 of the 11 patients accepted into the trial lived outside the New York Metropolitan Area, frequent followup visits were impractical. Therefore, patients were required to call the office monthly and to return to our office at least every six months for an extended follow-up reevaluation.</p><p>We assessed patient compliance by regular questioning of patients by phone and during office visits and by assessment of supplement orders. Because the supplements are available from a single source, actual orders were easily compared with the requirements of the prescribed protocol.</p><p>All study patients signed a statement of informed consent, allowing us to use their records for research and publication purposes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome Measures</head><p>This study sought to evaluate length of survival from diagnosis as the only end point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Case Histories</head><p>During the time of the study, from September 1994 until the last patient was entered in April 1996, 36 patients with adenocarcinoma of the pancreas entered our office. Eleven of these patients met all the protocol criteria, passed the initial lead-in period, and were entered into the study. At first, we intended to follow 10 patients, but when Patient C quit the study, we added an 11th patient.</p><p>The case reports of these 11 patients are as follows:</p><p>Patient A: Patient A was a 59-year-old woman who developed jaundice on 31 March 1996. A computerized tomography (CT) scan revealed dilation of the common bile duct, and on 9 April 1996 at Greenville Hospital System (Greenville, SC), Patient A underwent roux-en-Y choledochojejunostomy. The operative note states that "the pancreas was palpated and had a firm, woody consistency throughout." Biopsy of a liver lesion documented moderately differentiated adenocarcinoma consistent with pancreatic primary.</p><p>Patient A was first evaluated in our office on 2 May 1996 and subsequently had a difficult course because of a partial bowel obstruction. On 28 October 1996 she was unable to continue her program and on 14 November 1996 she underwent gastrojejunostomy. The patient never could resume her protocol and died on 3 February 1997, 10 months from diagnosis.</p><p>Patient B: Patient B was a 66-year-old man who developed jaundice in early March 1996. A CT scan demonstrated enlargement in the head of the pancreas. On 22 March 1996 at the Mayo Clinic (Rochester, MN) he underwent gastrojejunostomy, cholecystojejunostomy, and liver biopsy, which documented "metastatic grade III of IV adenocarcinoma consistent with pancreatic primary."</p><p>Patient B was first seen in our office on 16 May 1996. He did well until mid-January 1997, when he was hospitalized for gastrointestinal bleeding, ascites, and pleural effusions. He subsequently died on 8 February 1997, 11 months from diagnosis.</p><p>Patient C: Patient C when first seen in our office was a 45-year-old woman with a history of Hodgkin's disease diagnosed in 1969 and successfully treated with radiation. In April 1995 she developed abdominal pain associated with elevated liver function tests. After a CT scan revealed dilated biliary ducts, on 4 May 1995 at the Mayo Clinic she underwent exploratory laparotomy. The surgeon found "obvious metastatic implants on the peritoneum . . . Palpation of the primary tumor . . . revealed a firm hard mass along the superior border of the head of the pancreas." The surgeon performed a gastrojejunostomy and biopsied multiple peritoneal implants, which showed "metastatic grade IV adenocarcinoma."</p><p>Patient C was first seen by the authors on 26 June 1995. She did well for five months, but then became significantly less compliant. She last contacted our office on 1 February 1996, after admission to UCLA Medical Center for an ileus. She never resumed her program and died on 24 July 1996, 14 months from diagnosis.</p><p>Patient D: Patient D was a 51-year-old man who in February 1996 developed abdominal pain. A CT scan dem-onstrated an 8-cm pancreatic tumor, and on 15 February 1996 at Enloe Hospital (Chico, CA) he underwent a core biopsy of the pancreatic mass. This revealed "moderately well-differentiated adenocarcinoma." A second CT scan at the University of California Davis revealed a 1.5-cm lesion in the liver.</p><p>On 7 March 1996 at the University of California Hospital (Sacramento, CA) the patient underwent gastrojejunostomy. The tumor was unresectable, and a biopsy taken from "tumor near tail of pancreas" indicated mucinous adenocarcinoma.</p><p>Patient D was first seen in our office on 10 April 1996. He had a clinical course complicated by abdominal pain requiring large amounts of morphine and persistent gross hematuria, thought secondary to kidney invasion by tumor, which required transfusions. He eventually died on 4 May 1997, 14 months from diagnosis. At the University of Michigan, an ultrasound revealed dilated bile ducts. A CT scan 10 days later showed a "2-cm low attenuation mass in the uncinate process of the head of the pancreas." On 6 March 1995, endoscopic ultrasound showed a 3 × 4-cm mass in the pancreas. Then on 3 April 1995 Patient F underwent staging laparoscopy, which revealed two nodules on the liver. Biopsy of the liver documented "metastatic poorly differentiated adenocarcinoma consistent with a pancreatic primary."</p><p>Patient F did not have her first appointment in our office until 1 May 1995, 2.5 months after her first indication of pancreatic disease. Her treatment course was complicated by gastric outlet obstruction and biliary stent infection. On 12 June 1996, after developing jaundice and fevers, she was admitted to the University of Michigan Hospitals and underwent gastrojejunostomy for duodenal obstruction. Postoperatively, she developed an infected biliary stent and peritonitis, positive for yeast and Enterobacter cloacae. She never was able to resume her nutritional program and died on 10 August 1996, 17 months from diagnosis.</p><p>Patient G: Patient G was a 61-year-old man who in the Spring 1994 developed jaundice. A CT scan on 27 May 1994 revealed an "enlargement of the pancreatic head felt most probably secondary to a pancreatic carcinoma." Numerous lesions were noted in the liver. On 3 June 1994 at Toledo Hospital (Toledo, OH) the patient underwent choledochoduodenostomy. A liver biopsy documented "adenocarcinoma."</p><p>Patient G was first seen in our office on 7 November 1994, five months from diagnosis. By that time, Patient G had lost a total of 50 pounds and was quite debilitated. A CT scan performed on 28 November 1994 showed significant worsening compared with his May scan: "Now more evident and with definite increase in number and size, are numerous low attenuation regions seen throughout the right and left lobes of the liver."</p><p>For two years, Patient G did very well, but in late August 1996 he developed an incarcerated inguinal hernia causing obstruction, and on 2 September 1996 Patient G underwent hernia repair. Patient G had a difficult recovery from surgery and never resumed his nutritional protocol. He died on 8 November 1996, two years and five months from diagnosis.</p><p>Patient H: Patient H was a 62-year-old woman who in November 1993 became jaundiced. On 10 December 1993 she underwent endoscopic retrograde cholangiopancreatography (ERCP), biliary catheter placement, and a brush biopsy, which demonstrated adenocarcinoma. A CT scan revealed "a mild diffuse prominence to the pancreas," and on 29 December 1993 a core biopsy of the pancreas confirmed "adenocarcinoma in pancreas."</p><p>Patient H was first seen in our office on 31 January 1994. During the course of her therapy, she suffered recurrent biliary stent infections requiring lengthy hospitalizations. On 7 January 1997 she was admitted to UCLA Medical Center with a stent infection. Culture of the drainage fluid revealed five different pathogens, and a CT scan showed an "enlarged pancreatic head, consistent with known carcinoma," but no metastatic disease. She developed bacteremia, fungemia, and acute renal failure due to amphotericin B. She eventually died on 27 May 1997, three years and five months from diagnosis. She had been off her program for most of the six months before her death.</p><p>Patient J: Patient J was a 59-year-old man who in December 1994 developed abdominal pain. ERCP done at Bethesda Hospital (Cincinnati, OH) showed a tumor in the head of the pancreas, and on 24 January 1995 Patient J underwent a pyloric-sparing (partial) Whipple, with approximately 60% of the pancreas resected. The surgical report documents disease throughout the pancreas, and pathology studies revealed "infiltrating moderate to poorly differentiated adenocarcinoma of head of pancreas . . . Carcinoma extends to cut resection margin." Local extension was reported as "peripan-creatic adipose tissue with small nodular foci of adenocarcinoma."</p><p>Patient J was first seen by the authors on 28 March 1995, subsequently followed his program, and did extremely well for nearly three years. In early 1998 he developed abdominal pain that interfered with his ability to follow his protocol. A CT scan on 10 February 1998 was read as clear of any disease. Patient J was referred to Columbia University College of Physicians and Surgeons; there, a review of the CT scan indicated a possible lesion around the superior mesenteric artery.</p><p>On 8 April 1998 Patient J underwent exploratory laparotomy. A 5-cm unresectable tumor was found around the superior mesenteric artery, with no evidence of additional metastases. A biopsy of the lesion revealed adenocarcinoma.</p><p>After his surgery Patient J read newspaper articles extolling angiogenesis blockade as the solution to cancer. Patient J contacted an expert in the field who strongly encouraged him to start high-dose thalidomide. On thalidomide therapy, Patient J rapidly deteriorated. A CT scan in early July revealed five new lesions in the liver: although he tried to resume his nutritional program, Patient J died on 16 August 1998, three years and seven months from diagnosis.</p><p>Patient K: Patient K is a 62-year-old woman who underwent a mastectomy for breast cancer in 1982. She did well until developing persistent abdominal pain in October 1995. On 5 December 1995 at Vanderbilt University Medical Center, Patient K underwent total abdominal hysterectomy and bilateral salpingo-oophorectomy. Palpation of the pancreas revealed a 3 × 4-cm mass in the pancreatic tail. A consulting surgical oncologist "confirmed the diagnosis of probable pancreatic carcinoma."</p><p>The pathology report describes "metastatic poorly differentiated adenocarcinoma . . . involving bilateral ovaries and small bowel mesenteric nodule . . . This tumor is most consistent with a pancreatic primary . . . This bears little resemblance to this patient's previous breast primary. <ref type="bibr">"</ref> Patient K was first seen in the authors' office on 4 January 1996. She is completely asymptomatic at three years from diagnosis and remains very compliant with her protocol.</p><p>Patient L: Patient L is a 67-year-old man who in mid-January 1992 was admitted to St. Vincent's Hospital (Staten Island, NY) with jaundice. A CT scan on 21 January 1992 revealed "enlargement of the head of the pancreas and neck . . . highly suspicious for pancreatic carcinoma." ERCP demonstrated a "large fungating mass" extending to the ampullary region. A stent was inserted, but biopsies of the duodenal area were negative. The patient was told he most likely had inoperable carcinoma.</p><p>Patient L was first seen in our office on 5 March 1992. He initially followed his program and did very well, but after two years his compliance fell off, and on 20 January 1995 he again developed jaundice. A CT scan revealed intraand extrahepatic biliary dilation consistent with obstruction.</p><p>On 26 January 1995, Patient L underwent ERCP and biopsy of a tumor in the ampullary region, which documented adenocarcinoma. He underwent external stent placement and resumed his nutritional protocol.</p><p>At present, Patient L is completely asymptomatic. Although we have been treating him for seven years, we included Patient L in the study from the time of biopsy documentation in January 1995.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary of Included Patients</head><p>Eight of the 11 treated patients were diagnosed with stage IV disease. Four of these (Patients A, B, F, and G) had biopsy-proven liver metastases. Another two patients (Patients C and K) suffered carcinomatosis or extensive abdominal disease. Patient D had a large pancreatic tumor that invaded his kidney, and Patient H had extension from the pancreas into the hilum of the liver.</p><p>Three patients suffered inoperable stage II carcinoma. Of these, Patient J had extensive disease involving the entire pancreas and peripancreatic fat, and Patients E and L suffered large inoperable tumors.</p><p>Of the 11 patients, 7 (Patients A, B, C, D, E, G, and J) had undergone exploratory surgery and biliary bypass procedures before consulting with the authors. Six patients in this group underwent palliative procedures only, with no attempt at tumor resection. Only Patient J underwent partial resection of the pancreatic tumor.</p><p>Three patients (Patients F, H, and L) presented with jaundice and underwent palliative biliary stent placement but no surgery. Patient K, who did not undergo either a surgical biliary bypass procedure or stent placement, underwent total abdominal hysterectomy and oophorectomy for extensive metastatic disease.</p><p>The 11 patients initially presented with a variety of symptoms, including pain, jaundice, and weight loss. All ended up in their doctor's office because of severe morbidity.</p><p>Three patients had been formally diagnosed more than eight weeks before entering the study. Another two patients were diagnosed by biopsy within eight weeks of consulting us but had laboratory and radiographic tests consistent with pancreatic cancer much earlier. These five patients were quite ill with advanced disease at the time they were first seen by the authors.</p><p>Stage and survival from the date of diagnosis for included patients are summarized in Table <ref type="table" target="#tab_0">1</ref>. The one-year survival was 81% (9 of 11 patients); the two-year survival for all patients was 45% (5 of 11 patients); the three-year survival was 36% (4 of 11 patients). Two are alive and doing well, one at three years, the other at four years. Overall, the median survival as of 12 January 1999 is 17 months; the mean is 25.2 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Excluded Patients</head><p>In addition to the 11 patients followed in the study, another 25 patients with a diagnosis of adenocarcinoma of the pancreas were seen in the authors' office during the time of the study but were disqualified for reasons defined by the protocol and shown in Table <ref type="table" target="#tab_1">2</ref>.</p><p>Thirteen patients were excluded from the trial because they chose not to start the program or complied only briefly, usually only days, before stopping the protocol. Of this group, none died while participating in the protocol.</p><p>Four patients were excluded because they presented with multiple significant medical problems requiring multiple medications. Another three patients were excluded because of the long delay between diagnosis and consultation with our office. One patient in this group was many months from diagnosis when he came into our office with metastases into the lungs and neck. He survived for 18 months from diagnosis, despite multiple hospitalizations.</p><p>Two patients had undergone full Whipple procedures, a reason for exclusion from the study, before coming to our office. Another patient had &gt;50% of his liver involved with cancer. He was treated off trial and survived for five months from diagnosis.</p><p>One patient had previously received radiation for pain control of bony metastases. This patient lived for 14 months from diagnosis.</p><p>One patient announced when first seen that she would follow the program only as it suited her. Because of her predicted noncompliance she was not included in the trial. After 21 months of therapy, of her own accord she stopped the program and eventually died 23 months from diagnosis.</p><p>The authors have been able to assess survival in 22 of the 25 excluded patients. The statistics in terms of survival and compliance are provided in Table <ref type="table" target="#tab_2">3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comments</head><p>This unblinded single-arm pilot study of patients suffering inoperable stage II-IV pancreatic adenocarcinoma showed a clear survival advantage for the nutritional-enzyme therapy over what would be expected for this disease. The one-year survival of 81% (9 of 11 patients), the two-year survival of 45% (5 of 11 patients), and the three-year survival of 36% (4 of 11 patients) are far above comparable statistics from The National Cancer Data Base Report on Pancreatic Cancer from 1995.</p><p>In this review the one-and two-year survivals for stage I were 39% and 20%, the one-and two-year survivals for stage II were 32% and 9%, the one-and two-year survivals for stage III were 28% and 12%, and the one-and two-year survivals for stage IV were 26% and 6%. Overall survival for 7,882 patients suffering pancreatic adenocarcinoma, including 5,075 patients of unknown stage, was 25% at one year and 10% at two years <ref type="bibr" target="#b24">(25)</ref>.</p><p>In a trial of gemcitabine, the chemotherapeutic drug recently approved for the treatment of pancreatic cancer, of 126 treated patients, the median survival rate was 5.7 months; only 18% of patients lived one year and none survived beyond 19 months <ref type="bibr" target="#b16">(17)</ref>.</p><p>This nonrandomized, single-arm pilot study did not include a control group. However, the 13 patients who did enter our office during the time of the study but who chose not to start the program or followed it only for several days provide an informal retrospective control group. Of the 12 patients in this group we could track, the mean survival was 4.3 months (range 2-7.5 mo), consistent with the usual survival for the disease.</p><p>The authors expect that critique of the data might include the following:  122 Nutrition and Cancer 1999 1) "The patients did not have pancreatic cancer." All 11 patients had biopsy-proven adenocarcinoma. In four cases (Patients D, E, H, and J) a core biopsy of the pancreas revealed adenocarcinoma. In Patient L a CT scan revealed a tumor in the pancreas, and a biopsy of a lesion in the ampullary region demonstrated adenocarcinoma. In another four cases (Patients A, B, F, and G), biopsies of liver lesions, in the setting of an obvious pancreatic tumor, were consistent with a pancreatic primary. A 10th patient, Patient C, was found to have an obvious pancreatic tumor as well as carcinomatosis. Biopsies of multiple peritoneal implants revealed metastatic carcinoma (grade IV) consistent with pancreatic primary.</p><p>Patient K underwent total abdominal hysterectomy and bilateral oophorectomy for extensive abdominal metastases. She was found to have an obvious pancreatic tumor, and the pathology report of the ovaries and a mesenteric implant states, "Tumor is most consistent with a pancreatic primary although other GI sites cannot be ruled out by histopathology alone."</p><p>2) "These patients must represent a special selected subset of patients with an indolent form of adenocarcinoma of the pancreas who would have done well anyway."</p><p>By histology, the patients in this study suffered aggressive adenocarcinoma. Six patients (Patients B, C, E, F, J, and K) were diagnosed with high-grade or poorly differentiated adenocarcinoma, the most aggressive form of the disease. Of the other five patients, two (Patients A and D) were diagnosed with moderately differentiated adenocarcinoma, and the remaining three patients (Patients G, H, and L) were diagnosed with ungraded adenocarcinoma.</p><p>Eight of the 11 study patients had stage IV disease, including four with biopsy-proven liver metastases, one with carcinomatosis, one with extension to the hilum of the liver, and one with extensive pelvic metastases. In the case of Patient D, the tumor had invaded the kidney, resulting in persistent severe gross hemorrhage necessitating repeated transfusions. Of the three patients with stage II disease, one underwent partial Whipple for tumor involving the entire pancreas, the surgical margins, and the peripancreatic fat. The remaining two patients suffered large unresectable tumors.</p><p>Dr. Friedman of the NCI, in his correspondence with us, suggested that patients who followed our program might represent a subgroup with good performance status who might live longer than expected even without treatment. In a letter dated 18 May 1994, he wrote: "The patients who do fit your eligibility criteria, elect to enter your study and can actually comply with the regimen probably represent a selected subset of patients with this type of cancer; it could be difficult to conclude anything if their survival was prolonged only three months. Such cases may represent one end of the spectrum of the disease. However, objective tumor regressions and/or survival in excess of six months probably would be of real interest."</p><p>In this study, even if it is assumed that these patients represent a subset of "good-prognosis" pancreatic cancer patients, the median survival of 17 months is well in excess of 6 months from the published 17-22 weeks (4-6 mo) for unresectable disease <ref type="bibr" target="#b25">(26)</ref>.</p><p>3) "Because the patients were carefully selected from the authors' practices, this study suffers from selection bias."</p><p>The 11 patients entered into this pilot study were selected, as discussed above, from a larger group of 36 patients with pancreatic carcinoma who entered our offices during the period of eligibility. Twenty-five were excluded for specific reasons outlined in the protocol. Of this group, we disqualified 13 of these patients from consideration because, after their original meeting in our office, they chose not to follow the treatment or quit the therapy after brief periods, usually several days. Because this therapy is still considered alternative, other treating physicians and family members often advise patients not to pursue our treatment.</p><p>In addition to the group of noncompliers, another 12 were disqualified for reasons defined by the protocol. In the case of five patients excluded from the study who followed the therapy off protocol under our direction, the median survival of 16.8 months was approximately that of the pilot study itself. In fact, several of these patients lived longer than patients in the trial but were not included to avoid selection bias.</p><p>Of course, pilot studies by their very nature cannot provide definitive proof of efficacy of any treatment in any disease. Such studies have a single arm, and randomized, two-arm trials remain in oncology the gold standard of therapy evaluation. Nonetheless, pilot studies do provide a screening method to assess whether a new treatment shows any sign of effect. In this investigation, the strongly positive results have generated considerable academic interest. A large-scale, NCI-funded, randomized controlled clinical trial, in which the nutritional-enzyme therapy will be compared directly with gemcitabine, has already begun.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Patient E :</head><label>:</label><figDesc>Patient E was a 76-year-old man with a history of prostate cancer, treated with prostatectomy, radiation, and diethylstilbestrol. He was thought cured of his prostate cancer and did well until December 1995, when he lost 20 pounds and developed jaundice. Sonogram revealed a pancreatic tumor, and on 15 December 1995 at the Marian Health Center (Sioux City, IA) he underwent cholecystojejunostomy gastrojejunostomy. The tumor was unresectable, and biopsy of the pancreas showed adenocarcinoma, grade III.Patient E was first seen in the authors' office on 16 January 1996. Initially, Patient E did well, but after six months he became less compliant because of repeated hospitalizations for transfusions and mental status changes. He stopped the program in December 1996 and died on 22 March 1997, 15 months from diagnosis.Patient F: Patient F was a 69-year-old woman who in early February 1995 developed jaundice. Laboratory studies on 8 February 1995 demonstrated elevated liver function tests and a total bilirubin of 2.3. A percutaneous drainage catheter was inserted for biliary decompression.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Stage and Survival From Date of Diagnosis</figDesc><table><row><cell>Patient</cell><cell>Stage</cell><cell>Diagnosis Date</cell><cell>Treatment Start</cell><cell>Survival, mo</cell><cell>Status</cell><cell>Date of Death</cell></row><row><cell>A</cell><cell>IV</cell><cell>4/09/96</cell><cell>5/03/96</cell><cell>10</cell><cell>Dead</cell><cell>2/03/97</cell></row><row><cell>B</cell><cell>IV</cell><cell>3/22/96</cell><cell>5/16/96</cell><cell>11</cell><cell>Dead</cell><cell>2/08/97</cell></row><row><cell>C</cell><cell>IV</cell><cell>5/04/95</cell><cell>6/26/95</cell><cell>14</cell><cell>Quit</cell><cell>7/24/96</cell></row><row><cell>D</cell><cell>IV</cell><cell>2/15/96</cell><cell>4/10/96</cell><cell>14</cell><cell>Dead</cell><cell>5/04/97</cell></row><row><cell>E</cell><cell>II</cell><cell>12/15/95</cell><cell>1/16/96</cell><cell>15</cell><cell>Dead</cell><cell>3/22/97</cell></row><row><cell>F</cell><cell>IV</cell><cell>3/02/95</cell><cell>5/01/95</cell><cell>17</cell><cell>Dead</cell><cell>8/10/96</cell></row><row><cell>G</cell><cell>IV</cell><cell>6/03/94</cell><cell>11/07/94</cell><cell>29</cell><cell>Dead</cell><cell>11/08/96</cell></row><row><cell>H</cell><cell>IV</cell><cell>12/10/93</cell><cell>1/31/94</cell><cell>41</cell><cell>Dead</cell><cell>5/27/97</cell></row><row><cell>J</cell><cell>II</cell><cell>1/24/95</cell><cell>3/28/95</cell><cell>43</cell><cell>Dead</cell><cell>8/16/98</cell></row><row><cell>K</cell><cell>IV</cell><cell>12/05/95</cell><cell>1/04/96</cell><cell>37</cell><cell>Alive</cell><cell></cell></row><row><cell>L</cell><cell>II</cell><cell>1/26/95</cell><cell>1/26/95</cell><cell>47</cell><cell>Alive</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Reasons for Exclusion</figDesc><table><row><cell>No. of</cell><cell></cell></row><row><cell>Patients</cell><cell>Reason for Exclusion</cell></row><row><cell>13</cell><cell>Did not participate or participated very briefly</cell></row><row><cell>4</cell><cell>Significant comorbidity</cell></row><row><cell>3</cell><cell>Long delay between diagnosis and beginning program</cell></row><row><cell>2</cell><cell>Whipple procedure</cell></row><row><cell>1</cell><cell>End-stage liver disease</cell></row><row><cell>1</cell><cell>Prior radiation therapy</cell></row><row><cell>1</cell><cell>Patient predicted noncompliance</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Survival and Compliance in Excluded Patients</figDesc><table><row><cell>Compliance Level</cell><cell>No. of Patients</cell><cell>Mean Survival, mo</cell></row><row><cell>Poor (none or minimal)</cell><cell>12</cell><cell>4.3</cell></row><row><cell>Moderate</cell><cell>5</cell><cell>10.5</cell></row><row><cell>Good</cell><cell>5</cell><cell>16.8</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Vol. 33, No.<ref type="bibr" target="#b1">2</ref> </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments and Notes</head><p>The authors thank <rs type="person">Dr. Ernst Wynder</rs> for guidance throughout the project. The study was fully funded by the <rs type="funder">Nestle Corporation</rs>. The authors have no financial involvement of any type with Nestle. <rs type="person">N. J. Gonzalez</rs> has designed most of the supplements used by his patients but receives no royalties. In the past, but not at present, he has been a paid consultant for work done on behalf of the company that has provided supplements to his patients. <rs type="person">L. L. Isaacs</rs> serves on the board of directors of the company that provided supplements for the study but receives no compensation in any form for this position. Address reprint requests to <rs type="person">Nicholas J. Gonzalez</rs>, M.D., Suite 204, 36 East 36th St., New York, NY 10016. Phone: 212-213-3337. FAX: 212-213-3414. Submitted 18 October 1998; accepted in final form 19 January 1999.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The action of trypsin upon the living cells of Jensen&apos;s mouse tumor</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="140" to="141" />
+			<date type="published" when="1906">1906</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beard, J: The action of trypsin upon the living cells of Jensen&apos;s mouse tumor. Br Med J 4, 140-141, 1906.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Trypsin treatment of a case of malignant disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="225" to="226" />
+			<date type="published" when="1907">1907</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Campbell, JT: Trypsin treatment of a case of malignant disease. JAMA 48, 225-226, 1907.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Trypsin treatment in malignant disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cutfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">525</biblScope>
+			<date type="published" when="1907">1907</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cutfield, A: Trypsin treatment in malignant disease. Br Med J 5, 525, 1907.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pancreatic treatment of cancer, with report of a cure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Goeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">1030</biblScope>
+			<date type="published" when="1907">1907</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goeth, RA: Pancreatic treatment of cancer, with report of a cure. JAMA 48, 1030, 1907.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A case of malignant tumor, with treatment</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">1724</biblScope>
+			<date type="published" when="1908">1908</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Little, WL: A case of malignant tumor, with treatment. JAMA 50, 1724, 1908.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Case of multiple fibrosarcoma of the tongue, with remarks on the use of trypsin and amylopsin in the treatment of malignant disease</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Wiggin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="2003" to="2008" />
+			<date type="published" when="1906">1906</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wiggin, FH: Case of multiple fibrosarcoma of the tongue, with remarks on the use of trypsin and amylopsin in the treatment of malignant disease. JAMA 47, 2003-2008, 1906.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The Enzyme Treatment of Cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1911">1911</date>
+			<publisher>Chatto and Windus</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beard, J: The Enzyme Treatment of Cancer. London: Chatto and Win- dus, 1911.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Shively</surname></persName>
+		</author>
+		<title level="m">Multiple Proteolytic Enzyme Therapy of Cancer</title>
+		<meeting><address><addrLine>Dayton, OH</addrLine></address></meeting>
+		<imprint>
+			<publisher>Johnson-Watson</publisher>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shively, FL: Multiple Proteolytic Enzyme Therapy of Cancer. Dayton, OH: Johnson-Watson, 1969.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ezymkombinationspräparate</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ransberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Stauder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Strelchan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>; Wobenzyme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mulsal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phlogenzym</forename><forename type="middle">N</forename><surname>Und</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gräfelfing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Germany: Forum Medizin</title>
+		<title level="s">Wissenschaftliche Monogr Präklinik</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ransberger, K, Stauder, O, and Strelchan, P: Ezymkombinationspräpa- rate-Wobenzyme N, Mulsal N, und Phlogenzym N. Gräfelfing, Ger- many: Forum Medizin, 1991. (Wissenschaftliche Monogr Präklinik)</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Survival analysis of an adjuvant therapy with oral enzymes in multiple myeloma patients (abstr)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sakalova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dedrik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gazova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hanisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schiess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">353</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sakalova, A, Dedrik, L, Gazova, S, Hanisch, J, and Schiess, W: Sur- vival analysis of an adjuvant therapy with oral enzymes in multiple myeloma patients (abstr). Br J Haematol 102, 353, 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Prevention of virus-induced mammary tumors by an orally active pancreas factor</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Med Surg</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="345" to="347" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">King, LS: Prevention of virus-induced mammary tumors by an orally active pancreas factor. Exp Med Surg 23, 345-347, 1965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A novel method of enhancing antibody production</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Southwest Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="222" to="224" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">King, LS: A novel method of enhancing antibody production. South- west Med 46, 222-224, 1965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Study of trypsin thermodenaturation process</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Moskvichyov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Komarov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Ivanova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Enzyme Microb Technol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="498" to="502" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moskvichyov, BV, Komarov, EV, and Ivanova, GP: Study of trypsin thermodenaturation process. Enzyme Microb Technol 8, 498-502, 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Enteropancreatic circulation of digestive enzymes as a conservative mechanism</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gotze</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rothman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page" from="607" to="609" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gotze, H, and Rothman, SS: Enteropancreatic circulation of digestive enzymes as a conservative mechanism. Nature 257, 607-609, 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Enteropancreatic circulation of digestive enzymes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liebow</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rothman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">189</biblScope>
+			<biblScope unit="page" from="472" to="474" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liebow, C, and Rothman, SS: Enteropancreatic circulation of digestive enzymes. Science 189, 472-474, 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Harrison&apos;s Principles of Internal Medicine</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mayer</surname></persName>
+		</author>
+		<editor>th ed, AS Fauci, E Braunwald, KJ Isselbacher, JD Wilson, JB Martin, et al.</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>McGraw-Hill</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="581" to="583" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Pancreatic cancer</note>
+	<note type="raw_reference">Mayer, RJ: Pancreatic cancer. In Harrison&apos;s Principles of Internal Medicine, 14th ed, AS Fauci, E Braunwald, KJ Isselbacher, JD Wilson, JB Martin, et al. (eds). New York: McGraw-Hill, 1998, pp 581-583.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Improvements in survival and clinical benefit with gemcitabine as first-line therapy for patients with advanced pancreas cancer: a randomized trial</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ml</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2403" to="2413" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Burris, HA, Moore, MJ, Andersen, J, Green, MR, Rothenberg, ML, et al.: Improvements in survival and clinical benefit with gemcitabine as first-line therapy for patients with advanced pancreas cancer: a randomized trial. J Clin Oncol 15, 2403-2413, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Mcclain</surname></persName>
+		</author>
+		<title level="m">Scientific Principles in Nursing</title>
+		<meeting><address><addrLine>St. Louis, MO</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mosby</publisher>
+			<date type="published" when="1950">1950</date>
+			<biblScope unit="page">168</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McClain, ME: Scientific Principles in Nursing. St. Louis, MO: Mosby, 1950, p 168.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Colon irrigations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Bastedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="865" to="866" />
+			<date type="published" when="1928">1928</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bastedo, WA: Colon irrigations. N Engl J Med 199, 865-866, 1928.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Colon irrigations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Bastedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="734" to="736" />
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bastedo, WA: Colon irrigations. JAMA 98, 734-736, 1932.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Value, indications, limitations and technic of colonic irrigation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Friedenwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Clin North Am</title>
+		<imprint>
+			<biblScope unit="page" from="1611" to="1629" />
+			<date type="published" when="1935-05">May. 1935</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Friedenwald, J, and Morrison, S: Value, indications, limitations and technic of colonic irrigation. Med Clin North Am (May), 1611-1629, 1935.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Colon irrigation in the treatment of mental disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page" from="454" to="457" />
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marshall, JK, and Thompson, CE: Colon irrigation in the treatment of mental disease. N Engl J Med 207, 454-457, 1932.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The value of colonic irrigations in counteracting auto-intoxication of intestinal origin</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Snyder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Clin North Am</title>
+		<imprint>
+			<biblScope unit="page" from="781" to="788" />
+			<date type="published" when="1939-05">May. 1939</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Snyder, RG: The value of colonic irrigations in counteracting auto-in- toxication of intestinal origin. Med Clin North Am (May), 781-788, 1939.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Secretion of bile in response to rectal installations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Garbat</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jacobi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="455" to="462" />
+			<date type="published" when="1929">1929</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Garbat, AL, and Jacobi, HG: Secretion of bile in response to rectal installations. Arch Intern Med 44, 455-462, 1929.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The National Cancer Data Base Report on Pancreatic Cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Niederhuber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Brennan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Menck</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1671" to="1677" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Niederhuber, JE, Brennan, MF, and Menck, HR: The National Can- cer Data Base Report on Pancreatic Cancer. Cancer 76, 1671-1677, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Chemotherapy for pancreatic carcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ahlgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="654" to="663" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+	<note type="raw_reference">Ahlgren, JD: Chemotherapy for pancreatic carcinoma. Cancer 78 Suppl, 654-663, 1996.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

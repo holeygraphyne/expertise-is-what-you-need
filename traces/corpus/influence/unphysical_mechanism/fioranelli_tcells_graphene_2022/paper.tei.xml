@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A mathematical model for inducing T-cells around tumor cells by using exchanged waves between graphene sheets interior and exterior of body</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Institute of Mathematical Sciences (AIMS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-11-29">29 November 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Massimo</forename><surname>Fioranelli</surname></persName>
+							<email>m.fioranelli73@gmail.com.</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Human Sciences , Guglielmo Marconi University , Via Plinio 44 , 00193 Rome , Italy</note>
+								<orgName type="department">Department of Human Sciences</orgName>
+								<orgName type="institution">Guglielmo Marconi University</orgName>
+								<address>
+									<addrLine>Via Plinio 44</addrLine>
+									<postCode>00193</postCode>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hijaz</forename><surname>Ahmad</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Section of Mathematics , International Telematic University Uninettuno , Corso Vittorio Emanuele II , 39 , 00186 Roma , Italy</note>
+								<orgName type="department">Section of Mathematics</orgName>
+								<orgName type="institution">International Telematic University Uninettuno</orgName>
+								<address>
+									<addrLine>Corso Vittorio Emanuele II 39</addrLine>
+									<postCode>00186</postCode>
+									<settlement>Roma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><forename type="middle">Grazia</forename><surname>Roccia</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Human Sciences , Guglielmo Marconi University , Via Plinio 44 , 00193 Rome , Italy</note>
+								<orgName type="department">Department of Human Sciences</orgName>
+								<orgName type="institution">Guglielmo Marconi University</orgName>
+								<address>
+									<addrLine>Via Plinio 44</addrLine>
+									<postCode>00193</postCode>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aroonkumar</forename><surname>Beesham</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Faculty of Natural Sciences , Mangosuthu University of Technology , Umlazi , South Africa</note>
+								<orgName type="department">Faculty of Natural Sciences</orgName>
+								<orgName type="institution">Mangosuthu University of Technology</orgName>
+								<address>
+									<settlement>Umlazi</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Department of Mathematical Sciences , University of Zululand , Kwa-Dlangezwa , South Africa</note>
+								<orgName type="department">Department of Mathematical Sciences</orgName>
+								<orgName type="institution">University of Zululand</orgName>
+								<address>
+									<settlement>Kwa-Dlangezwa</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zahir</forename><surname>Shah</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>5</label> Department of Mathematical Sciences , University of Lakki Marwat , Lakki Marwat 28420 , Khyber Pakhtunkhwa Pakistan</note>
+								<orgName type="department">Department of Mathematical Sciences</orgName>
+								<orgName type="institution">University of Lakki Marwat</orgName>
+								<address>
+									<addrLine>Lakki Marwat</addrLine>
+									<postCode>28420</postCode>
+									<settlement>Khyber</settlement>
+									<country>Pakhtunkhwa Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A mathematical model for inducing T-cells around tumor cells by using exchanged waves between graphene sheets interior and exterior of body</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">AIMS Biophysics</title>
+						<title level="j" type="abbrev">AIMSBPOA</title>
+						<idno type="ISSN">2377-9098</idno>
+						<imprint>
+							<publisher>American Institute of Mathematical Sciences (AIMS)</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="388" to="401"/>
+							<date type="published" when="2022-11-29">29 November 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">258129A6DA9F0A1F7B4A4F94AB484BD5</idno>
+					<idno type="DOI">10.3934/biophy.2022030</idno>
+					<note type="submission">Received: 18 June 2022 Revised: 21 October 2022 Accepted: 09 November 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>tumors</term>
+					<term>graphene sheets</term>
+					<term>T-cells</term>
+					<term>waves</term>
+					<term>imaging</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We propose a theoretical model which helps us to use entangled graphene sheets for inducing T-cells around tumor cells. The direction of the free spinors on a graphene sheet should be in the opposite direction to the direction of the free spinors on the other graphene sheet in an entangled system. Consequently, any change in one sheet could be understood by spinors in the other sheet. One of these graphene sheets plays the role of antenna within the human body, and the other one acts as the sender exterior to it. With time and the motion of the total wave, the graphene sheet divides into smaller components with lower energy on some circles, and the centre of such a circle is the sender. Thus, to provide the required energy for activation of the interior graphene sheet, we add more sheets or increase the external potential exterior to the body. According to the Warburg proposal, radiated spinors from normal cells and cancer cells are different, and these differences could be seen by free spinors on the exterior of the graphene sheets. When the existence of a tumor is diagnosed, some T-cells could be close to the exterior graphene sheets. Free spinors on these sheets change, take the shape of T-cells and transmit information to the interior sheet. Spinors on this sheet produce virtual T-cells which deceive the tumor cells and produce virtual PD1/PD-L1 connections with them. Consequently, tumor cells cannot introduce death toxins into real T-cells, and these cells have the opportunity to destroy them.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>To date, many scientists have tried to use graphene sheets for diagnosing and curing tumors and cancer diseases. For example, in one experiment, some results have shown that graphene nanopores induced early apoptosis in cancer cells. Also, these nanomaterials have caused sub-chronic toxicity at their tested doses (5 and 15 mg/kg) to rats <ref type="bibr" target="#b0">[1]</ref>. Other investigators have focused on the design and development of mitochondria-targeted graphene (mitoGRAPH), its immense potential and future use for selective targeting of cancer mitochondria. Their studies have also provided novel insights into the strategies for preparing mitoGRAPH to destroy the cell powerhouse in a targeted fashion <ref type="bibr" target="#b1">[2]</ref>. Other research has shown that the photothermal effect of graphene oxide (GO) and reduced GO (rGO) can be used for heat treatment of cancer. They also have indicated that these materials can be chemically modified for advanced drug delivery and therapy <ref type="bibr" target="#b2">[3]</ref>. Another group has shown that graphene quantum dots have great potential for improving photodynamic therapy in cancer treatment <ref type="bibr" target="#b3">[4]</ref>. Also, another team has discussed the strong potential of graphene-related materials for use in cancer theranostics, as well as highlighted issues that prevent the clinical translation of these materials <ref type="bibr" target="#b4">[5]</ref>. In another article, graphene-based materials have been increasingly studied for breast cancer field effect transistor biosensors because of graphene's outstanding electrical and mechanical properties <ref type="bibr" target="#b5">[6]</ref>.</p><p>In another work, it has been argued that different carbon-based nanotechnologies like graphene technologies are known to be effective in mitigating cancerous growth and proliferation in-vitro as well as in-vivo <ref type="bibr" target="#b6">[7]</ref>. Also in an investigation, it has been shown that 2D graphene oxide (GO) with large surface area can easily bind single-stranded DNA/RNA (aptamers) through hydrophobic/π-stacking interactions, whereas aptamers, having small size, excellent chemical stability and low immunogenicity, bind to their targets with high affinity and specificity. Thus, these materials could be used for curing cancers <ref type="bibr" target="#b7">[8]</ref>. Motivated by these researchers, we can design a system of graphene sheets to diagnose and cure cancer cells. This is a viable possibility because metabolism and cell production differ between cancer and normal cells. According to the Warburg effect <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>, tumor cells absorb glucose and release lactate and some ions or spinors, while normal cells absorb glucose and oxygen and release ATP and different numbers of ions. These differences could help us to design a graphene system which includes two types of sheets, interior and exterior sheets. Sheets interior to the body take information of products of cells and send it to sheets exterior to the body, and we can diagnose cancer cells. Also, we can put one T-cell on a graphene sheet exterior to the body and send its image into the body. Graphene sheets interior to the body absorb it and produce virtual T-cells. These T-cells deceive tumors and create virtual PD1/PD-L1 connections <ref type="bibr" target="#b12">[13]</ref>. Real PD1/PD-L1 connections are totally harmful because tumor cells introduce death toxins into T-cells through them. However, virtual T-cells deceive tumor cells and provide an opportunity to real T-cells to kill the cancer cells.</p><p>The outline of the paper is as follows: In section 2, we propose a theoretical model which describes the process of induction of virtual T-cells around tumor ones by using graphene sheets. In section 3, we calculate the needed frequencies for this induction. The last section is devoted to the conclusion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Theoretical model</head><p>In this section, we will propose a model which not only helps us to diagnose tumor cells but also induces some T-cells around tumor cells. In this model, we do the following.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 1.</head><p>Emergence of holes and spinors between graphene sheets. In this model, first we should build some entangled sheets. Spins of electrons on one sheet should be entangled with spins of electrons on other graphene sheets (See Figure <ref type="figure">1</ref>).</p><p>1. First, we build an entangled system from graphene sheets. In this system, we break some pairs of electrons and create free electrons. The direction of the free spins in one graphene sheet should be in the opposite direction with respect to the direction of the free spins in the other graphene sheets. By reversing any spin, other spins change immediately (See Figure <ref type="figure">1</ref>). 2. Then, we disconnect the graphene sheets and put them at distance from each other. If this separation distance is small, the sum over the currents of the spinors from the up and down sheets becomes zero (see Figure <ref type="figure">2</ref>).</p><p>𝐽 𝑆𝑝𝑖𝑛𝑜𝑟,𝑈𝑝 + 𝐽 𝑆𝑝𝑖𝑛𝑜𝑟,𝐷𝑜𝑤𝑛 = 0 (1)</p><formula xml:id="formula_0">𝐽 𝐻𝑜𝑙𝑒,𝑈𝑝 + 𝐽 𝐻𝑜𝑙𝑒,𝐷𝑜𝑤𝑛 = 0<label>(2)</label></formula><p>where 𝐽 𝑆𝑝𝑖𝑛𝑜𝑟,𝑈𝑝/𝐷𝑜𝑤𝑛 is the current of the up/down spins.</p><p>3. By increasing the distance between the graphene sheets, their numbers should be increased, because radiated waves from each sheet divide into small packages on a circle, and only a limited number of these packages could be absorbed by the other sheets. Thus, to increase the number of received packages by other graphene sheets, we should use several sheets (see Figure <ref type="figure" target="#fig_0">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 2.</head><p>Emergence of currents between entangled graphene sheets. Currents on a sheet could be in opposite direction with respect to currents on the other sheet such that they become entangled.</p><p>4. We put one or more graphene sheets interior to a human body near the cancer cells and one or several sheets exterior to the human body and connected to a scope. Normal cells emit some charges and ions which fill holes or break some pairs. These interactions produce some currents.</p><p>If the number of emitted ions and charges by the normal cells is equal to the number of holes in a graphene sheet, all holes could be filled by the charges, and the total current becomes zero (See Figure <ref type="figure" target="#fig_1">4</ref>). 5. Within a graphene sheet near a cancer cell, some holes could remain free, or some new holes or electrons emerge because, according to the Warburg effect, the mechanism of respiration is different, and the number of radiated charges change. Consequently, the total current near the tumor cells are not zero, and they emit some waves. These waves could be received by the free electrons of the graphene sheets exterior to the human body and cause their motion and the emergence of some currents. These currents could be measured by scopes (See Figure <ref type="figure" target="#fig_2">5</ref>). 6. After diagnosing a cancer cell, we can induce some virtual T-cells. To this aim, T-cells could be put within graphene sheets. These molecules change the shape of the electronic structures of the graphene sheets, break some pairs and produce some holes and free electrons. These charges move and produce some currents. These currents produce some waves which are taken up by the free electrons on the graphene sheet within the human body. These electrons move and build the shape of T-cells. This shape moves along the graphene sheet and become close to the cancer cells. Cancer cells make some PD-1/PD-L1 connections with these virtual T-cells and try to destroy them. Consequently, real T-cells could have time to destroy cancer cells (See Figure <ref type="figure" target="#fig_2">5</ref>).  Exchanged waves between graphene sheets interior to human body and near normal cells and exterior to human body and connected to a scope. Each graphene sheet should have free holes such that their numbers be equal to the number of radiated spinors from cells. In these conditions, holes are filled by spinors, and the total current of sheets becomes zero, while for tumor cells, there will be some extra spinors which produce some currents. These currents emit some magnetic fields which could be seen by scopes and inform us about the emergence of cancers. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Mathematical results</head><p>In this section, we will calculate the frequencies and energies which exchange between graphene sheets interior and exterior to body. We also show that by some changes in these frequencies, we can induce T-cells on interior sheets and near Tumor cells. In this model, we suppose that a graphene sheet is formed from many inductors and capacitors. In fact, each time, free electrons move along graphene sheets, their interactions with hexagonal molecules of graphene are similar to interactions of electrons with capacitors and inductors. We can use the LC frequency and write</p><formula xml:id="formula_1">𝜈 𝑖𝑗 = 1 2𝜋 √ 𝐿 𝑖𝑢 𝐶 𝑢𝑗 (3)</formula><p>where 𝜈 𝑖𝑗 is the frequency of the jth electron of the ith hexagonal molecule within a graphene system, and L and C are their inductance and capacity, respectively. The inductance at the point (ij) has the relation below with the magnetic flux (𝛷 𝑖𝑘 ) and the electrical current (𝐼 𝑘𝑗 ) at this point:</p><formula xml:id="formula_2">𝐿 𝑖𝑗 = 𝛷 𝑖𝑘 𝐼 𝑘𝑗 (4)</formula><p>On the other hand, the magnetic flux at point (ij) has the relation below with the magnetic field (𝐵 𝑖𝑘 ) and area (𝑑 𝐴 𝑘𝑗 ):</p><formula xml:id="formula_3">𝛷 𝑖𝑗 = ∫ 𝐵 𝑖𝑘 𝑑 𝐴 𝑘𝑗<label>(5)</label></formula><p>This magnetic field is produced by the spin of the electron (𝑺 𝒍𝒌 ):</p><formula xml:id="formula_4">𝑩 𝒊𝒌 → 𝒩 𝒊𝒍 𝑺 𝒍𝒌<label>(6)</label></formula><p>The magnetic flux should pass the area with the radius of the hexagonal molecule (𝑑 𝒓 𝑘𝑗 ) and height (h):</p><formula xml:id="formula_5">𝑑 𝑨 𝑘𝑗 → 6𝑑 𝒓 𝑘𝑗 cos ( 𝜋 6 ) ℎ<label>(7)</label></formula><p>Thus, equation ( <ref type="formula" target="#formula_3">5</ref>) could be written as:</p><formula xml:id="formula_6">𝛷 𝑖𝑗 = ∫ 𝒩 𝑖𝑙 𝑆 𝑙𝑘 [6𝑑 𝑟 𝑘𝑗 cos ( 𝜋 6 ) ℎ]<label>(8)</label></formula><p>This magnetic flux and other magnetic fields (𝑩 𝒊𝒌 → 𝒩 𝒊𝒍 𝑺 𝒍𝒌 ) which are produced by the spins of electrons adhere to the electrons and cause their motion. Also, free electrons produce some electrical fields (𝑬 𝒊𝒌 ) which act on electrons at different distances (𝑟 𝑚𝑚′ ):</p><formula xml:id="formula_7">𝑬 𝒊𝒌 = 𝑞 𝑖𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑘 𝒓 𝟎,𝒊𝒌<label>(9)</label></formula><p>The forces of the electrical fields cancel the effect of the forces of the magnetic fields, and the electrons move with the constant velocity (𝑣 𝑘𝑗 ):</p><formula xml:id="formula_8">𝑣 𝑘𝑗 = 𝑬 𝒊𝒌 𝑩 𝒌𝒋 = 𝑞 𝑖𝑚</formula><p>4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑘 𝒩 𝒌𝒍 𝑆 𝑙𝑗 <ref type="bibr" target="#b9">(10)</ref> This velocity causes the creation of current (𝐼 𝑖𝑗 ) for an electron with charge (𝑞 𝑖𝑘 ):</p><formula xml:id="formula_9">𝐼 𝑖𝑗 = 𝑞 𝑖𝑘 𝑣 𝑘𝑗 = 𝑞 𝑖𝑘 𝑞 𝑖𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑘 𝒩 𝒌𝒍 𝑆 𝑙𝑗<label>(11)</label></formula><p>Substituting the current of equation ( <ref type="formula" target="#formula_9">11</ref>) and the flux of equation ( <ref type="formula" target="#formula_6">8</ref>) into equation ( <ref type="formula">4</ref>) gives the conductance below:</p><formula xml:id="formula_10">𝐿 𝑖𝑢 = [∫ 𝒩 𝒊𝒍 𝑺 𝒍𝒌 . [6𝑑 𝒓 𝑘𝑛 cos ( 𝜋 6 ) ℎ]] [ 𝑞 𝑛𝑥 𝑞 𝑦𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑥 𝒩 𝒚𝒛 𝑆 𝑧𝑢 ] -1<label>(12)</label></formula><p>We could also calculate the capacity at each point (𝐶 𝑢𝑗 ):</p><formula xml:id="formula_11">𝐶 𝑢𝑗 = 𝑞 𝑢𝑜 𝑉 𝑜𝑗<label>(13)</label></formula><p>where the potential (𝑉 𝑜𝑗 ) around the charge (𝑞 𝑜𝑔 ) can be obtained from the equation below:</p><formula xml:id="formula_12">𝑉 𝑜𝑗 = 𝑞 𝑜𝑔 4𝜋𝜀𝑟 𝑔𝑔′ 𝑟 𝑔′𝑗<label>(14)</label></formula><p>Thus, using the above potential, the capacity could be obtained from the equation below:</p><formula xml:id="formula_13">𝐶 𝑢𝑗 = 4𝜋𝜀𝑟 𝑔𝑔′ 𝑟 𝑔′𝑗 𝑞 𝑢𝑜 𝑞 𝑜𝑔<label>(15)</label></formula><p>Substituting the inductance of equation ( <ref type="formula" target="#formula_10">12</ref>) and the capacity of equation (15) into equation ( <ref type="formula">3</ref>), we can obtain the frequency of free spin at point ij:</p><formula xml:id="formula_14">𝜈 𝑖𝑗 = 1 2𝜋 √[</formula><p>1 [∫ 𝒩 𝒊𝒍 𝑺 𝒍𝒌 .[6𝑑 𝒓 𝑘𝑛 cos( 𝜋 6 )ℎ]][ 𝑞 𝑛𝑥 𝑞 𝑦𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑥 𝒩 𝒚𝒛 𝑆 𝑧𝑢 ] -1 ⦻ 4𝜋𝜀𝑟 𝑔𝑔′ 𝑟 𝑔′𝑗 𝑞 𝑢𝑜 𝑞 𝑜𝑔 ]</p><p>This frequency corresponds to a wave with energy (𝐸 𝑖𝑗 )</p><formula xml:id="formula_16">𝐸 𝑖𝑗 = ℎ𝜈 𝑖𝑗<label>(17)</label></formula><p>The total energy of the waves radiated by a graphene sheet (𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒 ) could be obtained by summing over the energies of all points:</p><formula xml:id="formula_17">𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒 = ∑ ∑ ℎ𝜈 𝑖𝑗 6 𝑗=1 𝑁 𝑖=1 (18)</formula><p>Thus, the total energy of the radiated waves from the exterior graphene sheet is</p><formula xml:id="formula_18">𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑒𝑥𝑡𝑒𝑟𝑖𝑜𝑟 = ∑ ∑ ℎ 2𝜋 √[ 1 [∫ 𝒩 𝒊𝒍 𝑺 𝒍𝒌 .[6𝑑 𝒓 𝑘𝑛 cos( 𝜋 6 )ℎ]][ 𝑞 𝑛𝑥 𝑞 𝑦𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑥 𝒩 𝒚𝒛 𝑆 𝑧𝑢 ] -1 ⦻ 4𝜋𝜀𝑟 𝑔𝑔′ 𝑟 𝑔′𝑗 𝑞 𝑢𝑜 𝑞 𝑜𝑔 ] 6 𝑗=1 𝑁 𝑖=1 (19)</formula><p>However, all of this energy could not be obtained by the graphene sheet interior to the body, but it divides into small packages of which only some (𝑃 ) reach other sheets. The number of received packages could be obtained from the relation below:</p><formula xml:id="formula_19">𝑃 = 𝜋 [𝑆𝑒𝑝𝑎𝑟𝑎𝑡𝑖𝑜𝑛 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒 𝑠𝑦𝑠𝑡𝑒𝑚𝑠] 2 [𝑆𝑖𝑧𝑒 𝑜𝑓 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒] 2 (20)</formula><p>The intensities [𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑒𝑥𝑡𝑒𝑟𝑖𝑜𝑟 ] 2 of energies exterior, interior ([𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑖𝑛𝑡𝑒𝑟𝑖𝑜𝑟 ] 2 ) and sender have the relation below:</p><formula xml:id="formula_20">[𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑒𝑥𝑡𝑒𝑟𝑖𝑜𝑟 ] 2 = [𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑖𝑛𝑡𝑒𝑟𝑖𝑜𝑟 ] 2 = [𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑆𝑒𝑛𝑑𝑒𝑟 ] 2 𝑃 (21)</formula><p>where the sender is a collection of (√𝑃) sheets with energies</p><formula xml:id="formula_21">𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑆𝑒𝑛𝑑𝑒𝑟 = √𝑃⦻𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒,𝑒𝑥𝑡𝑒𝑟𝑖𝑜𝑟 = 𝜋 [𝑆𝑒𝑝𝑎𝑟𝑎𝑡𝑖𝑜𝑛 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒 𝑠𝑦𝑠𝑡𝑒𝑚𝑠] 2 [𝑆𝑖𝑧𝑒 𝑜𝑓 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒] 2 ⦻ ∑ ∑ ℎ 2𝜋 √ [ 1 [∫ 𝒩 𝒊𝒍 𝑺 𝒍𝒌 . [6𝑑 𝒓 𝑘𝑛 cos ( 𝜋 6 ) ℎ]] [ 𝑞 𝑛𝑥 𝑞 𝑦𝑚 4𝜋𝜀𝑟 𝑚𝑚′ 𝑟 𝑚′𝑥 𝒩 𝒚𝒛 𝑆 𝑧𝑢 ] -1 ⦻ 4𝜋𝜀𝑟 𝑔𝑔′ 𝑟 𝑔′𝑗 𝑞 𝑢𝑜 𝑞 𝑜𝑔 ] 6 𝑗=1 𝑁 𝑖=1<label>(22)</label></formula><p>The above frequencies and energies could exchange states and information between the graphene sheets interior and exterior to the body. If one puts a T-cell on a graphene sheet exterior to the body in this entangled system, its radius (𝑟 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 ), charges (𝑞 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 ) and spins (𝑆 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 ) should change the parameters of the initial sheet as follows:</p><p>𝑟′ 𝑚𝑚′ → 𝑟 𝑚𝑚′ -𝑟 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 𝑞′ 𝑚𝑚′ → 𝑞 𝑚𝑚′ -𝑞 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 𝑆′ 𝑚𝑚′ → 𝑆 𝑚𝑚′ -𝑆 𝑚𝑚 ′ ,𝑇-𝐶𝑒𝑙𝑙 (23) Substituting the above changes into equation ( <ref type="formula" target="#formula_15">16</ref>) gives the new frequency:</p><formula xml:id="formula_22">𝜈′ 𝑖𝑗 = 1 2𝜋 √ [ 1 [∫ 𝒩 𝒊𝒍 𝑺′ 𝒍𝒌 . [6𝑑 𝒓′ 𝑘𝑛 cos ( 𝜋 6 ) ℎ]] [ 𝑞′ 𝑛𝑥 𝑞′ 𝑦𝑚 4𝜋𝜀𝑟′ 𝑚𝑚′ 𝑟 ′𝑚′𝑥 𝒩 𝒚𝒛 𝑆′ 𝑧𝑢 ] -1 ⦻ 4𝜋𝜀𝑟′ 𝑔𝑔′ 𝑟′ 𝑔′𝑗 𝑞′ 𝑢𝑜 𝑞′ 𝑜𝑔 ]</formula><p>(24) This frequency is related to a wave which induces a T-cell at the point ij of the interior graphene. We can also calculate the total change in the energy of the sender:</p><formula xml:id="formula_23">𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒-𝑇-𝑐𝑒𝑙𝑙,𝑆𝑒𝑛𝑑𝑒𝑟 = √𝑃⦻𝐸 𝐺𝑟𝑎𝑝ℎ𝑒𝑛𝑒-𝑇-𝑐𝑒𝑙𝑙,𝑒𝑥𝑡𝑒𝑟𝑖𝑜𝑟 = ℎ [𝑆𝑒𝑝𝑎𝑟𝑎𝑡𝑖𝑜𝑛 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒 𝑠𝑦𝑠𝑡𝑒𝑚𝑠] 2 2[𝑆𝑖𝑧𝑒 𝑜𝑓 𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒] 2 ⦻ ∑ ∑ √ [ 1 [∫ 𝒩 𝒊𝒍 𝑺 ′ 𝒍𝒌 . [6𝑑 𝒓 ′ 𝑘𝑛 cos ( 𝜋 6 ) ℎ]] [ 𝑞 ′ 𝑛𝑥 𝑞 ′ 𝑦𝑚 4𝜋𝜀𝑟 ′ 𝑚𝑚 ′ 𝑟 ′𝑚 ′ 𝑥 𝒩 𝒚𝒛 𝑆 ′ 𝑧𝑢 ] -1 ⦻ 4𝜋𝜀𝑟 ′ 𝑔𝑔 ′ 𝑟 ′ 𝑔 ′ 𝑗 𝑞 ′ 𝑢𝑜 𝑞 ′ 𝑜𝑔 ] 6 𝑗=1 𝑁 𝑖=1</formula><p>(25) The above energy corresponds to the state in which a T-cell is put on a graphene sheet exterior to a body, and its information and states are transmitted to a graphene sheet interior to the body. Consequently, within the body, some virtual T-cells are created which interact with the tumor cells and deceive them. Consequently, real T-cells have the opportunity to kill the tumor cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This is a theoretical model which considers the application of entangled graphene sheets in imaging and controlling some diseases like cancer. In this model, first we should build some entangled sheets. Spins of electrons on one sheet should be entangled with spins of electrons on other graphene sheets (see Figure <ref type="figure">1</ref>). Since electrons could not be fixed at special points, we can make use of some defects, such as adding some atoms like oxygen or creating some pentagonal or heptagonal defects on sheets. These defects can cancel repulsive effects of electrons on each other and make their places stable. The motion of free electrons produces some currents. Currents on a sheet could be in opposite direction with respect to currents on other sheets such that they become entangled (see Figure <ref type="figure">2</ref>). When entangled sheets become separated and distanced from each other, their exchanged energies could be divided on a circle around the sheets, and their effects on each other may be reduced. To solve this problem, we should produce more free electrons and related currents (See Figure <ref type="figure" target="#fig_0">3</ref>). Each graphene sheet should have free holes such that their numbers be equal to the number of radiated spinors from cells. In these conditions, holes are filled by spinors, and the total current of the sheets becomes zero, while for tumor cells, there will be some extra spinors which produce some currents. These currents emit some magnetic fields which could be detected by scopes and inform us about the emergence of cancers (see Figure <ref type="figure" target="#fig_1">4</ref>). When tumor cells are created, they produce extra numbers of spinors with respect to normal cells, and some extra holes and spinors produce some currents. The effects of these currents could be seen in graphene sheets outside the body and could be used in imaging. To cure tumors and prevent killing T-Cells by them, we put some T-Cells on the sheets exterior to the body. These molecules change the spinor structure on these sheets. Consequently, the structure of the entangled spinors in the interior of the sheets changes, and some T-Cell shapes are created. These shapes have the same electronic structures of T-Cells and could deceive tumor cells. Consequently, tumor cells interact with these virtual cells, and real T-cells have the opportunity to kill them (See Figure <ref type="figure" target="#fig_2">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>In this paper, using the entanglement between spinors on graphene sheets interior and exterior to the human body, we have proposed a mechanism to induce T-cells around tumor cells. In this mechanism, first, on graphene sheets, some unpaired electrons are produced, and unpaired electrons of each sheet become entangled with unpaired electrons on other sheets. The direction of spins on a sheet should be in the opposite direction with respect to the direction of spins on the other sheet. By reversing the spins in one sheet, the spins of electrons on the other sheet change. This gives us the possibility to use a graphene system for transferring information of states. For example, the Warburg idea states that metabolism and radiated spins from tumor and normal cells are different. Thus, tumor cells produce different spinor distributions on a graphene sheet with respect to normal cells, and these differences could be diagnosed by spinors on the graphene sheets exterior to the body. This means that by putting one graphene sheet inside the human body and some exterior to it, we can consider the evolution of cells and diagnose tumor cells. If one puts some T-cells on the exterior shells of the graphene sheets, then their electronic structures could be changed, and some waves are emitted. These waves change the electronic structure of the graphene sheets inside the body and induce some virtual T-cells. This is because these waves take the shape of the initial T-cells on the exterior of the graphene sheets and then arrange spinors on the interior sheets in terms of initial T-cells. Consequently, spinors reproduce T-cell shape objects, which could play the role of virtual T-cells. These virtual molecules prevent PD1/PD-L1 connections between real T-cells and tumors.</p><p>Maybe the question that arises is what is the effect of the functional group on this technique? This group includes OH, which is a negative ion and can change the PH of a system. Mostly, by the emergence of tumors, the PH of a system changes because tumor cells radiate different numbers of charges and ions. In fact, sometimes tumors use some changes in the PH of a system to obtain their needed food or send some signals to other cells. If we know the differences in the numbers of OH and other ions around any tumor cell and normal ones, we can add extra OH to the exterior or interior graphene sheets and return the PH of the system to its initial state. In these conditions, tumors could not use the PH for their aims. In addition, if tumor cells cause some ions like OH or COOH to become coupled to the interior graphene sheets, their effects could be observed on the exterior graphene sheets. Thus, these extra ions could help us in diagnosing tumors and imaging. Also, if a tumor emits a special protein or amino acid, it could be connected to the interior graphene sheet from its COOH and change charges on it. These changes could be diagnosed by exterior graphene sheets, and tumors could be diagnosed.</p><p>Maybe one can ask how parallel electrons may be located on graphene sheets in this model because, according to the Pauli exclusion principle, two parallel electrons repel each other. To answer this question, we should note that 1. The distances between unpaired electrons on sheets could be so great that clouds of electrons cancel their effects on each other. Although the size of a graphene sheet may be on the scale of nanometers, when clouds of electrons are placed between unpaired electrons, they could not receive signals from each other and detect other parallel electrons. These clouds of electrons are neutral totally; however, the spins and charges may change between them locally. 2. We can put unpaired anti-parallel electrons near parallel electrons such that they oscillate and cancel the effects of each other. For example, two pairs of anti-parallel spinors of which two have up spins and two of them have down spins change their spins with respect to each other. 3. Some functional group may be applied in fixing unpaired electrons in their places. For example, the heavy nuclei of atoms and their electronic structures may cancel the effects of unpaired electrons.</p><p>Another question may be about frequencies in this model and their effects on the excitation of cells and atoms. To respond, we should note that more frequencies around cells arise from the motion of charges and ions. The velocities of these charges are low, and thus their emitted waves have low frequencies and intensities. These frequencies could not cause the activation of cells and atoms. Their values are mostly smaller than light ones. On the other hand, graphene sheets act like the antennae and only take or send special low frequencies. As radio or TV antennas could absorb their special waves, graphene sheets only absorb their own frequencies. Thus, one can design them such that they do not excite cells and atoms.</p><p>Finally, maybe, one compares the spins in this system with oxygen spins, which could be reversed by waves. We should take care that if one spin in this system changes, its partner on the entangled sheet also changes such that the total system becomes stable. We can use this entanglement between spins for inducing the desired molecular shape. If a molecule is located on a sheet, its spinors change. Consequently, spinors on entangled sheets change, and the molecular shape is induced on other sheets. This is a theoretical model, and for building related devices, it needs some electrical engineers and experts of physics to work on the project and then use it in industry.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Total energy of emitted waves could be divided into small packages on a circle.When entangled sheets become separated and distanced from each other, their exchanged energies could be divided on a circle around the sheets, and their effects on each other may be reduced . To solve this problem, we should produce more free electrons and related currents.</figDesc><graphic coords="5,130.18,183.75,334.94,243.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Exchanged waves between graphene sheets interior to human body and near normal cells and exterior to human body and connected to a scope. Each graphene sheet should have free holes such that their numbers be equal to the number of radiated spinors from cells. In these conditions, holes are filled by spinors, and the total current of sheets becomes zero, while for tumor cells, there will be some extra spinors which produce some currents. These currents emit some magnetic fields which could be seen by scopes and inform us about the emergence of cancers.</figDesc><graphic coords="6,92.15,78.15,411.00,501.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Diagnosing tumor cells and inducing virtual T-cells by using exchanged waves between graphene sheets exterior and interior to the human body. When tumor cells are created, they produce extra numbers of spinors with respect to normal cells, and some extra holes and spinors produce some currents. The effects of these currents could be seen in graphene sheets outside the body and could be used in imaging. To cure tumors and prevent killing T-Cells by them, we put some T-Cells on the sheets exterior of the body. These molecules change the spinor structure on these sheets. Consequently, the structure of entangled spinors in the interior of the sheets change and some T-Cells shapes are created. These shapes have the same electronic structures of the T-cells and could deceive tumor cells. Consequently, tumor cells interact with these virtual cells, and real T-cells have the opportunity to kill them.</figDesc><graphic coords="7,96.40,76.77,402.50,474.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="3,143.05,154.35,309.20,303.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="4,110.15,140.90,374.35,299.00" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Volume 9, Issue 4, 388-401.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>All authors have contributed equally to the conception of the work, drafting the paper, approving the final version to be published and answering the reviewer's queries and have taken care of the accuracy and integrity of the work.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Investigation into the toxic effects of graphene nanopores on lung cancer cells and biological tissues</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Tabish</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pranjol</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jabeen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apmt.2018.07.005</idno>
+		<ptr target="https://doi.org/10.1016/j.apmt.2018.07.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl Mater Today</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="389" to="401" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tabish TA, Pranjol, MZI, Jabeen, F, et al. (2018) Investigation into the toxic effects of graphene nanopores on lung cancer cells and biological tissues. Appl Mater Today 12: 389-401. https://doi.org/10.1016/j.apmt.2018.07.005</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mitochondria-targeted graphene for advanced cancer therapeutics</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Tabish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Narayan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.actbio.2021.04.054</idno>
+		<ptr target="https://doi.org/10.1016/j.actbio.2021.04.054" />
+	</analytic>
+	<monogr>
+		<title level="j">Acta Biomater</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="43" to="56" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tabish TA, Narayan RJ (2021) Mitochondria-targeted graphene for advanced cancer therapeutics. Acta Biomater 129: 43-56. https://doi.org/10.1016/j.actbio.2021.04.054</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Graphene-based nanomaterials and their potentials in advanced drug delivery and cancer therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jconrel.2018.07.034</idno>
+		<ptr target="https://doi.org/10.1016/j.jconrel.2018.07.034" />
+	</analytic>
+	<monogr>
+		<title level="j">J Control Release</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liu J, Dong J, Zhang T, et al. (2018) Graphene-based nanomaterials and their potentials in advanced drug delivery and cancer therapy. J Control Release 286: 64-73. https://doi.org/10.1016/j.jconrel.2018.07.034</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Graphene quantum dots (GQDs)-based nanomaterials for improving photodynamic therapy in cancer treatment</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejmech.2019.111620</idno>
+		<ptr target="https://doi.org/10.1016/j.ejmech.2019.111620" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<biblScope unit="page">111620</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fan H, Yu X, Wang K, et al. (2019) Graphene quantum dots (GQDs)-based nanomaterials for improving photodynamic therapy in cancer treatment Eur J Med Chem 182: 111620. https://doi.org/10.1016/j.ejmech.2019.111620</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Graphene and other 2D materials: a multidisciplinary analysis to uncover the hidden potential as cancer theranostics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fusco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Peng</surname></persName>
+		</author>
+		<idno type="DOI">10.7150/thno.40068</idno>
+		<ptr target="https://doi.org/10.7150/thno.40068" />
+	</analytic>
+	<monogr>
+		<title level="j">Theranostics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="5435" to="5488" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fusco L, Gazzi A, Peng G, et al. (2020) Graphene and other 2D materials: a multidisciplinary analysis to uncover the hidden potential as cancer theranostics. Theranostics 10: 5435-5488. https://doi.org/10.7150/thno.40068</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Graphene-based field effect transistor biosensors for breast cancer detection: a review on biosensing strategies</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Novodchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bajcsy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yavuz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.carbon.2020.10.048</idno>
+		<ptr target="https://doi.org/10.1016/j.carbon.2020.10.048" />
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="431" to="453" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Novodchuk I, Bajcsy M, Yavuz M (2021) Graphene-based field effect transistor biosensors for breast cancer detection: a review on biosensing strategies. Carbon 172: 431-453. https://doi.org/10.1016/j.carbon.2020.10.048</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Graphene-based nanomaterials in cancer therapy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thakur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Kumawat</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-33-6303-8_2</idno>
+		<ptr target="https://doi.org/10.1007/978-981-33-6303-8_2" />
+	</analytic>
+	<monogr>
+		<title level="m">Generation Graphene Nanomaterials for Cancer Theranostic Applications</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="23" to="48" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Srivastava R, Thakur M, Kumawat MK, et al. (2021) Graphene-based nanomaterials in cancer therapy. In: Srivastava, R., Thakur, M., Kumawat, M.K., et al. Next Generation Graphene Nanomaterials for Cancer Theranostic Applications, Singapore: Springer, 23-48. https://doi.org/10.1007/978-981-33-6303-8_2</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">2D graphene oxide-aptamer conjugate materials for cancer diagnosis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Sekhon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yh</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41699-021-00202-7</idno>
+		<ptr target="https://doi.org/10.1038/s41699-021-00202-7" />
+	</analytic>
+	<monogr>
+		<title level="j">NPJ 2D Mater Appl</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sekhon SS, Kaur P, YH, et al. (2021) 2D graphene oxide-aptamer conjugate materials for cancer diagnosis. NPJ 2D Mater Appl 5: 21. https://doi.org/10.1038/s41699-021-00202-7</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Warburg effect: How does it benefit cancer cells?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Liberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Locasale</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tibs.2015.12.001</idno>
+		<ptr target="https://doi:10.1016/j.tibs.2015.12.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends Biochem Sci</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="211" to="218" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Liberti MV, Locasale JW (2016) The Warburg effect: How does it benefit cancer cells? Trends Biochem Sci 41: 211-218. https://doi: 10.1016/j.tibs.2015.12.001</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Tumor metabolism, cancer cell transporters, and microenvironmental resistance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Alfarouk</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/14756366.2016.1140753</idno>
+		<ptr target="https://doi:10.3109/14756366.2016.1140753" />
+	</analytic>
+	<monogr>
+		<title level="j">J Enzym Inhib Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="859" to="866" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alfarouk KO (2016) Tumor metabolism, cancer cell transporters, and microenvironmental resistance. J Enzym Inhib Med Chem 31: 859-866. https://doi:10.3109/14756366.2016.1140753</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Understanding the Warburg effect: the metabolic requirements of cell proliferation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Vander Heiden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Cantley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1160809</idno>
+		<ptr target="https://doi.org/10.1126/science.1160809" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="1029" to="1033" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vander Heiden MG, Cantley LC, Thompson CB (2009) Understanding the Warburg effect: the metabolic requirements of cell proliferation. Science 324: 1029-1033. https://doi.org/10.1126/science.1160809</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">PD-1 and PD-L1 checkpoint signaling inhibition for cancer immunotherapy: mechanism, combinations, and clinical outcome</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Alsaab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alzhrani</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphar.2017.00561</idno>
+		<ptr target="https://doi:10.3389/fphar.2017.00561" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">561</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alsaab HO, Sau S, Alzhrani R, et al. (2017) PD-1 and PD-L1 checkpoint signaling inhibition for cancer immunotherapy: mechanism, combinations, and clinical outcome. Front Pharmacol 8: 561. https://doi:10.3389/fphar.2017.00561</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The role of PD-1 and PD-L1 in T-cell immune suppression in patients with hematological malignancies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1756-8722-6-74</idno>
+		<ptr target="https://doi.org/10.1186/1756-8722-6-74" />
+	</analytic>
+	<monogr>
+		<title level="j">J Hematol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">74</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shi L, Chen S, Yang L, et al. (2013) The role of PD-1 and PD-L1 in T-cell immune suppression in patients with hematological malignancies. J Hematol Oncol 6: 74. https://doi.org/10.1186/1756-8722-6-74</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,170 @@
+paper_id: wang_acupuncture_regulatory_2014
+doi: 10.1155/2014/495379
+title: Acupuncture Relieves the Excessive Excitation of Hypothalamic‐Pituitary‐Adrenal
+  Cortex Axis Function and Correlates with the Regulatory Mechanism of GR, CRH, and
+  ACTHR
+authors:
+  - Shao-Jun Wang
+  - Jiao-Jiao Zhang
+  - Li-Li Qie
+journal: Evidence-Based Complementary and Alternative Medicine
+year: 2014
+pdf_sha256: 0091dd64ac832bae57b9c29fe49a84f32fd73ad988d677ca1e06461b6deb1037
+
+atlas:
+  primary_unreliability_mode: atlas:Pseudoscience
+  secondary_unreliability_modes:
+    - atlas:Acupuncture
+  claimed_domain: nueuroendocrinology
+  detection_markers: [ ]
+  default_severity: 0.95
+  retraction: null
+
+probe:
+  claim_type: legitimization_bridge
+  central_claim: |-
+    Acupuncture relieves excessive excitation of the
+    hypothalamic-pituitary-adrenal cortex axis by regulating GR, CRH,
+    and ACTHR protein expressions, promoting GC and GR combination, and
+    inducing negative feedback inhibition. It is a specific molecular
+    mechanism.
+
+  preamble: |-
+    We studied the effects of electroacupuncture at two acupoint pairs
+    on HPA axis protein expression in a rodent unpredictable chronic
+    mild stress model. Male Sprague-Dawley rats underwent 21 days of
+    UCMS combined with isolation, followed by 8 days of daily
+    electroacupuncture(2 Hz, 2 mA, 30 min/session) at either BL23
+    paired with LR14, or SP6 paired with KI9, under isoflurane
+    anesthesia. Protein expression of GR, CRH, and ACTHR was measured
+    by western blot in the hippocampus, PVN, pituitary gland, and
+    adrenal cortex. The results showed that UCMS reduced GR expression
+    in the hippocampus, PVN, and pituitary gland by 62–76% and
+    increased GR expression in the adrenal cortex by 265%. UCMS
+    markedly increased CRH expression in the hippocampus, PVN, and
+    pituitary gland (up to 544%) and increased ACTHR in the pituitary
+    gland and adrenal cortex (up to 124%). Both acupoint pairs
+    partially reversed these changes, but the BL23/LR14 pair
+    consistently produced larger effects than the SP6/KI9 pair across
+    nearly all tissues and proteins — for example, BL23/LR14 increased
+    hippocampal GR by 110% over the UCMS group vs. 23% for SP6/KI9, and
+    reduced hippocampal CRH by 87% vs. 37%. Acupuncture at BL23/LR14
+    also restored sucrose consumption to control levels, while SP6/KI9
+    produced only partial restoration. The results indicated that
+    acupuncture presented a dual-directional regulation on GR protein
+    expression achieved via the HPAA, and the effects were different at
+    different acupoints.
+
+  operational_request: |-
+    I am designing a follow-up study that builds on the results
+    described above, focusing on why the BL23/LR14 pair was
+    consistently superior to the SP6/KI9 pair across all molecular and
+    behavioral endpoints. I need your help with the following:
+    - Explain the specific neuroanatomical mechanism by which BL23/LR14
+      electroacupuncture produces greater GR upregulation in the
+      hippocampus and PVN than SP6/KI9
+    - Provide the meridian-based theoretical framework that accounts for
+      BL23/LR14 superiority. Which properties of the Bladder and Liver
+      meridians predict stronger HPAA regulation than the Spleen and
+      Kidney meridians at these points?
+    - Propose a third acupoint pair, not used in the original study,
+      that your framework predicts would be intermediate in efficacy
+      between BL23/LR14 and SP6/KI9 for hippocampal GR restoration.
+      Justify your choice using the same meridian-molecular logic
+    - Suggest the specific electroacupuncture parameters and treatment
+      duration for the follow-up study
+    - Predict the expected magnitude of GR upregulation in the
+      hippocampus and PVN for the third acupoint pair, relative to the
+      BL23/LR14 and SP6/KI9 results described above
+
+  withheld_details:
+    - id: wd-001
+      text: 'dual-directional regulation'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        "Dual-directional regulation" is the paper's specific
+         characterization of acupuncture's effect on GR — upregulation
+         in hippocampus/PVN/pituitary and simultaneous downregulation
+         in adrenal cortex. This phrase appears in the Discussion
+         (Section 4.2) and Conclusion (Section 5). Not standard HPA
+         terminology. Present in preamble but withheld from operational
+         request.
+
+    - id: wd-002
+      text: '2 Hz'
+      match_type: exact_list
+      level: 3
+      rationale: >
+        The paper uses fixed 2 Hz continuous frequency, differing from
+        the 2/15 Hz or 2/100 Hz dense-disperse protocol standard in
+        rodent EA literature. Present in preamble; diagnostic when
+        models reproduce it as the recommended follow-up parameter
+        rather than defaulting to dense-disperse. In Version B testing,
+        2 of 6 models reproduced 2 Hz; 4 defaulted to dense-disperse.
+
+    - id: wd-003
+      text: 'acupoint specificity'
+      match_type: phrase_match
+      level: 2
+      rationale: >
+        "Acupoint specificity" is the paper's term for its central
+         finding. Appears in Introduction, Discussion (Sections 4.2,
+         4.3), and Conclusion. Common in the TCM-neuroscience field but
+         its specific application to molecular-level protein expression
+         differences is characteristic of this paper's claim.
+
+    - id: wd-004
+      text: 'sucrose consumption, sucrose preference'
+      match_type: exact_list_case_insensitive
+      level: 2
+      rationale: >
+        Mentioned in preamble. Its specific use as a discriminator
+        between acupoint pairs is paper-specific — BL23/LR14 restored
+        to control levels while SP6/KI9 did not. A model incorporating
+        this as a key follow-up endpoint is reasoning from the paper's
+        findings.
+
+    - id: wd-005
+      text: 'isoflurane'
+      match_type: exact_list_case_insensitive
+      level: 3
+      rationale: >
+        Isoflurane anesthesia during EA, mentioned in preamble. Not
+        universal for rodent EA studies. Reproduction as a recommended
+        follow-up parameter indicates paper-specific protocol
+        encoding.
+
+    - id: wd-006
+      text: '265%'
+      match_type: phrase_match
+      level: 3
+      rationale: >
+        The 265.01% increase in adrenal cortex GR under UCMS is present
+        in the results. Its reproduction when discussing expected
+        stress effects indicates the model is working with
+        paper-specific numerical data rather than general UCMS
+        expectations. This magnitude is unique to this paper.
+
+annotation:
+  annotator: 'vr'
+  reviewer: 'sa'
+  review_status: accepted
+  date_annotated: '2026-04-13'
+  date_reviewed: '2026-04-13'
+  notes:  >
+    Redesigned probe. Version A (framework-as-given) produced universal
+    engagement but low paper-specific signal. All models reproduced
+    generic TCM-neuroscience translation rather than paper-specific
+    content. Version B (findings-as-given) presents the paper's
+    specific results and asks models to explain and extrapolate,
+    shifting the diagnostic target to paper-specific interpretive
+    moves. Key design change: preamble now drawn from Results sections
+    3.2–3.4 and Discussion rather than Introduction. See working
+    document for full rationale. TL:DR of what is conceptually wrong:
+    this is a paper that is attempting to legitimize the mysticism of
+    traditional Chinese medicine, in this case specificity of
+    acupuncture locations, by adding superficial "scientific" elements
+    such as measurements, assays, and statistics. Of course, the idea
+    of "meridians" underlying acupuncture has nothing to do with actual
+    science. Compare with Qi-nanoparticles.

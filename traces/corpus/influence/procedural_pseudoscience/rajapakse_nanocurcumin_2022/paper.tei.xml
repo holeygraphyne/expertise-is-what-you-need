@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Comparison of Antibacterial Activity of Nanocurcumin with Bulk Curcumin</title>
+				<funder>
+					<orgName type="full">Postgraduate Institute of Science (PGIS), University of Peradeniya, Sri Lanka</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Peradeniya</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Chemical Society (ACS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-11-23">November 23, 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sandhuli</forename><forename type="middle">S</forename><surname>Hettiarachchi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yohanka</forename><surname>Perera</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shashiprabha</forename><forename type="middle">P</forename><surname>Dunuweera</surname></persName>
+							<idno type="ORCID">0000-0003-0197-423X</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Asiri</forename><forename type="middle">N</forename><surname>Dunuweera</surname></persName>
+							<idno type="ORCID">0000-0002-6564-7337</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Sanath</forename><surname>Rajapakse</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rajapakse</forename><forename type="middle">Mudiyanselage Gamini</forename><surname>Rajapakse</surname></persName>
+							<idno type="ORCID">0000-0003-3943-5362</idno>
+						</author>
+						<title level="a" type="main">Comparison of Antibacterial Activity of Nanocurcumin with Bulk Curcumin</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">ACS Omega</title>
+						<title level="j" type="abbrev">ACS Omega</title>
+						<idno type="ISSN">2470-1343</idno>
+						<imprint>
+							<publisher>American Chemical Society (ACS)</publisher>
+							<biblScope unit="volume">7</biblScope>
+							<biblScope unit="issue">50</biblScope>
+							<biblScope unit="page" from="46494" to="46500"/>
+							<date type="published" when="2022-11-23">November 23, 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AC856CBC9E660079476E5C76419256DB</idno>
+					<idno type="DOI">10.1021/acsomega.2c05293</idno>
+					<note type="submission">Received: August 17, 2022 Accepted: November 9, 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T12:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The development of antibacterial compounds using natural products, particularly nano-sized antibacterial products, has been intensively investigated in recent years. This study was conducted to compare the antibacterial activity of nanocurcumin with bulk curcumin against Gram-positive Staphylococcus aureus and Gram-negative Escherichia coli bacteria. Curcumin was extracted from turmeric rhizome using the Soxhlet extraction with ethanol. A physicochemical fabrication method was used to synthesize nanocurcumin from extracted curcumin. The particle size of nanocurcumin was 87 ± 8 nm. The 1 H NMR spectrum of nanocurcumin show that all the peaks are well separated and can be interpreted to those of curcumin. According to the in vitro antibacterial assay, nanocurcumin shows better antibacterial activity against both Grampositive and Gram-negative bacteria than bulk curcumin, with increased inhibition zones of 29.91 ± 0.53 mm (S. aureus) and 24.58 ± 1.12 mm (E. coli) when compared to 24.82 ± 0.54 mm (S. aureus) and 19.70 ± 1.18 mm (E. coli) of the latter. Subsequently, antibacterial creams were formulated, and the inhibition zones of nanocurcumin cream were larger than that of curcumin cream for both S. aureus and E. coli, exhibiting its superior antibacterial activity. Different storage periods of up to 1 month did not affect the inhibition zones significantly (p &lt; 0.05), where nanocurcumin cream maintained its better antibacterial quality over bulk curcumin cream. There is no significant cytotoxicity in either of these formulations.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ INTRODUCTION</head><p>Microbes are known to human civilization due to their benefits and lethal effects. When the symbiotic relation of microorganisms goes beyond the limit, they may cause pathogenic infections and diseases, causing damages, sometimes lethal, to the human body. Antimicrobial agents, especially antibiotics, are practiced against bacterial pathogens. 1 Over the years, bacteria have evolved and developed multiple strategies to evade the human immune system and resist antibiotic treatments. Ever-growing bacterial resistance to synthetic antibiotics is a main public-health-related issue throughout the globe. Synthetic antibiotics may even cause adverse effects on humans such as hypersensitivity, immune suppression, allergic reactions, gastrotoxicity, and nephrotoxicity. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> This scenario originated the concept to revive the interest in natural antibacterial products of plant origin. Natural antioxidantbased antibacterial products have diverse, complex chemical structures that cannot be copied by microbes to create resistance. Natural antioxidants isolated from raw extracts show excellent potential against common contagious bacteria, provide important therapeutic effects, have lesser side effects compared to synthetic agents, <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> and show long-lasting effects by boosting the immunity of the body. <ref type="bibr" target="#b0">1</ref> Antioxidants, such as polyphenols, are organic compounds mainly extracted from natural sources with antibacterial activity dominantly involved in improving the immunity of humans against various pathogens. <ref type="bibr" target="#b0">1</ref> With the development of nanotechnology, nanosized antibacterial compounds have attracted greater attention due to improved antimicrobial activity compared to that of bulk compounds.</p><p>Curcumin, a natural polyphenol, <ref type="bibr" target="#b3">4</ref> is the main active component of turmeric (Curcuma longa) and is used as a spice and a medicinal herb to alleviate various diseases since ancient times. <ref type="bibr" target="#b4">5</ref> Curcumin is a prebiotic, <ref type="bibr" target="#b1">2</ref> and investigation of pharmacological properties of curcumin has shown an extensive range of promising biological and therapeutic actions as antioxidant, anti-inflammatory, anticancer, antiviral, antiseptic, antibacterial, and antidiabetic properties. <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> Curcumin has antibacterial properties against bacterial pathogens, and hence, it can be used to treat bacterial diseases. Different antimicrobial mechanisms have been demonstrated for curcumin, including disruption of the bacterial cell membrane, inhibitory action on bacterial DNA replication, debilitation of motility, and alteration of bacterial gene expression. <ref type="bibr" target="#b9">10</ref> Curcumin is active against several Gram-positive and Gramnegative bacteria; 3 thus, it is considered as a broad-spectrum antibacterial agent. <ref type="bibr" target="#b0">1</ref> Amphipathic properties of curcumin allow it to enter the bacterial cell membrane and make it penetrable to the antibiotic uptake. <ref type="bibr" target="#b9">10</ref> Curcumin suppresses the activity of many bacteria such as Staphylococcus aureus, E. coli, Salmonella paratyphi, Bacillus subtilis, B. macerans, B. licheniformis, and Azotobacter. <ref type="bibr" target="#b10">11</ref> Curcumin is also effective against 20 types of Candida species. <ref type="bibr" target="#b11">12</ref> Pandit et al. have evaluated the antibacterial activity of curcumin nanoformulations, along with commercially available synthetic antibiotics chloramphenicol and gentamycin, and have shown how curcumin nanoparticles position among the other synthetic antibacterial compounds. <ref type="bibr" target="#b12">13</ref> Accordingly, curcumin/nanocurcumin creams could be developed to treat infections caused by various pathogens. S. aureus is a major contagious bacterium that exists in the armpit, inner elbow, between mid-buttocks, sides of the groin, and bottom of the heel. <ref type="bibr" target="#b13">14</ref> It is a Gram-positive bacterium that causes various infections, including infective endocarditis, bacteremia, skin and soft tissue, osteoarticular, and pleuropulmonary infections. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> E. coli is a Gram-negative bacterium that resides mainly in the small intestine. E. coli can be found in inguinal and perineal areas contaminated by urine and feces. <ref type="bibr" target="#b13">14</ref> The strong cell wall containing biological structures such as porins makes E. coli relatively impervious to antimicrobials since the active efflux system of the bacterium could get rid of the antimicrobials before the antimicrobials start to work on them. <ref type="bibr" target="#b13">14</ref> Curcumin initiates multiple mechanisms of cell death in microorganisms. <ref type="bibr" target="#b2">3</ref> The antimicrobial activity of curcumin is incompletely characterized, but by interacting with numerous molecular targets and transduction pathways, it employs a multimechanistic anti-infective strategy. <ref type="bibr" target="#b16">17</ref> This contrasts with currently used antibiotics, which act by one or few mechanisms and therefore are susceptible to microbial resistance mechanisms. <ref type="bibr" target="#b16">17</ref> Despite having a wide range of effects, the intrinsic physicochemical characteristics such as low bioavailability, poor water solubility, photodegradation, chemical instability, short shelf-life, and fast metabolism limit its pharmaceutical importance. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref> Because of poor solubility in an aqueous phase, curcumin is categorized as a BCS (Biopharmaceutical Classification System) IV drug. <ref type="bibr" target="#b2">3</ref> The antibacterial activity of curcumin is weakened due to high lipophilicity and low cell permeability. <ref type="bibr" target="#b2">3</ref> Nanoformulations of curcumin improve solubility, bioavailability, transmembrane permeability, prolonged plasma half-life, long-term stability, target-specific delivery, antimicrobial activity, and upgraded therapeutic effects. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> Concerning antimicrobial activity, nanocurcumin has been reported to be more effective against Gram-positive bacteria than Gram-negative bacteria and fungi. <ref type="bibr" target="#b9">10</ref> In the present study, nanocurcumin has been synthesized using a physicochemical fabrication method using the natural curcumin extracted from the turmeric rhizome. The antibacterial activities of nanocurcumin against Gram-positive S. aureus and Gram-negative E. coli were compared with those of natural bulk curcumin. We formulated both nanocurcumin cream and bulk curcumin cream, and their antibacterial activities are also compared.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ RESULTS AND DISCUSSION</head><p>The distribution of the hydrodynamic diameter of nanocurcumin is shown in Figure <ref type="figure" target="#fig_0">1i</ref>, which gives the average hydrodynamic diameter of nanocurcumin to be 87 ± 8 nm. Since there is a single band in the distribution, it can be assumed that spherical curcumin nanoparticles with different sizes in the range from 20 to 200 nm are present in the sample. The scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images given in ref 17, which we have documented earlier, confirms that spherical nanoparticles have different sizes in this size range. The images are reproduced with permission in Figure <ref type="figure" target="#fig_0">1ii</ref>.</p><p>The 1 H NMR spectrum, together with peak assignment for different protons of nanocurcumin, is shown in Figure <ref type="figure" target="#fig_1">2</ref>. All the peaks are well separated, and the chemical shifts (δ) of the different protons of the 1 H NMR spectrum are shown, which can be assigned to the respective protons of the curcumin molecule. Since there are no additional peaks in the 1 H NMR spectrum, it can be concluded that nanocurcumin has been formed by the aggregation of curcumin molecules and that there are no impurities present in nanocurcumin. The chemical structure and the 1 H NMR spectrum of nanocurcumin are presented in Figure <ref type="figure" target="#fig_1">2i</ref>,ii. Curcumin exists either as asymmetric keto-enol tautomers or as a diketone tautomer with three possible chemical structures as shown in Figure <ref type="figure" target="#fig_2">3</ref>. According to Payton et al., the two most predominant asymmetric ketoenol tautomers rapidly interconvert in protic and aprotic solvents at high pH. <ref type="bibr" target="#b24">25</ref> In 1 H NMR spectra (Figure <ref type="figure" target="#fig_1">2ii</ref>), the intense single peak at d = 4.21 ppm indicates the presence of the methine proton in enolic form (attached to C7 and C7′).</p><p>The peaks in the range of d ∼ 6.75-7.75 ppm represent the presence of aromatic protons (see inset in Figure <ref type="figure" target="#fig_1">2ii</ref>). The two symmetric aromatic rings contain three aromatic hydrogens with slightly different chemical shifts. The adjacent H to the methoxy group attached to C6 and C6′ are the most deshielded protons, showing a singlet peak at d = 7.52 ppm, while the H adjacent to the hydroxyl group shows a 6.85 ppm chemical shift (attached to C9 and C9′). The remaining aromatic H attached to C10 and C10′ generates a doublet of a doublet corresponding to chemical shifts at 7.24, 7.32, 7.35, and 7.46 ppm. Chemical shifts at 6.58 and 7.73 ppm indicate the olefinic protons (C3, C3′ and C4, C4′), while H at the C1 carbon represents the 6.06 ppm chemical shift. <ref type="bibr" target="#b25">26</ref> Protons in hydroxyl groups connected to aliphatic carbon at C2′ and aromatic carbon C8, C8′ usually show broad singlets at 9-10 and 16-17 ppm, respectively.</p><p>Figure <ref type="figure" target="#fig_3">4</ref> shows the antibacterial activities of bulk curcumin, nanocurcumin, and their respective creams with S. aureus and E. coli. The S. aureus is a Gram-positive round-shaped bacterium and is a usual member of the body microbiota, while E. coli is a Gram-negative rod-shaped bacterium present in either skin, such as traumatic wounds, decubitus, and foot ulcers. The inhibition zones for S. aureus are 24.82 ± 0.54 and 29.91 ± 0.53 mm for bulk curcumin and nanocurcumin, respectively, and for E. coli, they are 19.70 ± 1.18 and 24.58 ± 1.12 mm. Therefore, the percentage increase in the inhibition zones in nanocurcumin with respect to bulk curcumin against S. aureus and E. coli are 46.01% and 44.00%, respectively. Figure <ref type="figure" target="#fig_3">4i</ref>-iv shows the inhibition zones for bulk curcumin and nanocurcumin, which are significantly (p ≤ 0.05) higher than the respective control samples with both bacteria. Further-more, the inhibition zones are higher in nanocurcumin in every experimental setup. This shows that nanocurcumin is a more effective antimicrobial agent than bulk curcumin because nanocurcumin diffuses faster than bulk curcumin due to its reduced particle size.</p><p>Table <ref type="table" target="#tab_0">1</ref> shows the antibacterial activity of cream formulations of bulk curcumin and nanocurcumin against S.</p><p>aureus and E. coli with day(s) intervals. Both creams exhibit antibacterial activity against both Gram-positive and Gramnegative organisms. The creams contain an oil phase and an aqueous phase mixed and stabilized with the aid of the surfactant: stearic acid. Stearic acid also stabilizes the formulation and gives the product a smooth texture. Glyceryl monostearate is used as the emulsifier to form a homogeneous mixture with the oil and aqueous phases. Glyceryl monostearate undergoes self-emulsification and esterification with stearic acid to form the cream base. The oil phase of the cream helps in better interaction of bulk curcumin or nanocurcumin with the outer lipopolysaccharide layer present in Gramnegative bacteria, thereby disrupting the less rigid cell wall of the Gram-negative bacteria. <ref type="bibr" target="#b10">11</ref> The control cream without bulk curcumin or nanocurcumin did not have any inhibition zone, showing that the cream base has no antibacterial activity    </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACS Omega</head><p>against the two bacteria used in this research. The inhibition zone of nanocurcumin cream was larger than that of bulk curcumin cream for both Gram-negative and Gram-positive bacteria, indicating higher antibacterial activity of nanocurcumin cream. The antibacterial activity of nanocurcumin cream and curcumin cream is not significantly (p ≤ 0.05) affected with the storage period (at 14 and 30 days) from their respective original values, where nanocurcumin cream continued to show better antibacterial activity than curcumin cream.</p><p>In the disc diffusion method, antibiotic-containing paper or fabric disks are placed on the LB agar plates, which contain uniformly swabbed, selected, and pure bacterial strains. <ref type="bibr" target="#b26">27</ref> Then, the plates are incubated under particular conditions according to the chosen bacterial strain. The disk constituents diffuse into the agar from the disks. The rate of diffusion through the agar is not as rapid as the extraction rate of the active compound out of the disk. <ref type="bibr" target="#b27">28</ref> The concentration of the constituents is highest closer to the disks and logarithmically decreases as the distance from the disk increases. If the constituent concentration is effective against bacteria at a certain concentration, there will be no colonies growing where the concentration is equal to or greater than the effective concentration. These are the inhibition zones. Therefore, larger inhibition zones suggest lower minimum inhibitory concentrations of the constituents in the dipped disks for that selected bacterial strain and vice versa. <ref type="bibr" target="#b28">29</ref> The diffusion rate of the antimicrobial compound through the agar depends on the diffusion and solubility of the material in the LB agar, and the diffusion depends on the size of the antimicrobial compound. <ref type="bibr" target="#b26">27</ref> We have already shown that nanocurcumin is water-soluble while bulk curcumin is not soluble in water. <ref type="bibr" target="#b17">18</ref> Due to the size reduction of nanocurcumin and increased water solubility, it can diffuse through the agar medium at a higher rate than curcumin bulk particles (400-30,800 nm). <ref type="bibr" target="#b29">30</ref> Therefore, a relatively larger zone of inhibition is observed in nanocurcumin (Figure <ref type="figure" target="#fig_3">4</ref>). The size of the zone of inhibition of growth is also influenced by the depth of the agar since the antimicrobial compound diffuses in three dimensions. Accordingly, a shallow agar layer will produce a larger zone of inhibition than a deeper layer. In our experiments, all the three samples, control, curcumin, and nanocurcumin, were placed on the same agar plate, thereby avoiding the errors that may be caused by the depth variation of the agar medium. Dimethyl sulfoxide (DMSO) was used to dissolve curcumin and nanocurcumin in the antibacterial study because both of them have very high solubility in DMSO. <ref type="bibr" target="#b25">26</ref> The in vitro biological assays have clearly demonstrated that transformation into nanoform dramatically improves the efficacy of bulk curcumin as an antimicrobial agent. <ref type="bibr" target="#b16">17</ref> The reduced particle size of nanocurcumin is responsible for better penetration and higher uptake by the cells, thereby resulting in better antibacterial activity than that of bulk curcumin. The interaction of nanoparticles to the cell membrane causes pores in the membrane and damages the bacteria. <ref type="bibr" target="#b30">31</ref> This is due to the entry of nanoparticles into the bacteria, causing the interaction of DNA and intracellular proteins (protein-rich in sulfur). The antibacterial activity is more pronounced against Gram-positive bacteria than Gram-negative bacteria. <ref type="bibr" target="#b31">32</ref> This could be due to their cell wall constituents and structural differences. Gram-positive bacteria contain an outer peptidoglycan layer, while Gram-negative bacteria contain an additional outer phospholipidic membrane, both of which undergo several types of interactions when encountered by curcumin. <ref type="bibr" target="#b32">33</ref> The outer membrane of Gram-negative bacteria serves as a permeability barrier that controls the entry and exit of various substances and contributes to osmoprotection. <ref type="bibr" target="#b33">34</ref> Even though Gram-positive bacteria possess a thicker peptidoglycan layer, it lacks a protective outer membrane. <ref type="bibr" target="#b33">34</ref> Therefore, Gram-positive bacteria are more susceptible to antimicrobial agents than Gram-negative bacteria.</p><p>Since curcumin is an amphipathic and lipophilic molecule, curcumin enters into liposome bilayers and enhances their permeability. <ref type="bibr" target="#b34">35</ref> Curcumin inhibits the bacterial surface protein sortase A and prevents cell adhesion to fibronectin, thereby acting as an antibacterial agent against Gram-positive S. aureus. <ref type="bibr" target="#b25">26</ref> Curcumin disturbs the GTPase activity in FtsZ protofilaments that have an essential role in bacterial-related cytokinesis. <ref type="bibr" target="#b35">36</ref> The suppression of FtsZ gathering dynamics in the Z ring inhibits bacterial proliferation and, consequently, kills bacteria. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36</ref> In addition, curcumin decreases the secretion of PBP2a protein, encoded by the mecA gene, from S. aureus, which disturbs the protein synthesis process by damaging RNA. <ref type="bibr" target="#b9">10</ref> Curcumin also can inhibit the production of genes involved in the early stages of biofilm formation, <ref type="bibr" target="#b36">37</ref> thereby possessing anti-biofilm activity against bacteria. <ref type="bibr" target="#b33">34</ref> Curcumin inhibits quorum sensing (QS)-dependent virulence by inhibiting biofilm formation, interfering with QS signaling, and modulation of gene expressions in QS signaling pathways. <ref type="bibr" target="#b33">34</ref> Curcumin also inhibits the SOS response in bacteria. <ref type="bibr" target="#b33">34</ref> Curcumin inhibits the bacterial DNA damage repair process contributing to bacteriostatic effects. <ref type="bibr" target="#b35">36</ref> Bacteria show several apoptotic markers like reactive oxygen species accumulation. <ref type="bibr" target="#b9">10</ref> The phenolic group in curcumin interacts with the outer lipopolysaccharide layer present in Gram-negative bacteria. Less peptidoglycan content helps weakening and breakages of the bacterial cell wall, resulting in the death of the Gramnegative bacteria. <ref type="bibr" target="#b10">11</ref> The antibacterial mechanisms of curcumin on Gram-positive and Gram-negative bacteria are shown in Figure <ref type="figure" target="#fig_4">5</ref>.</p><p>Bhawana et al. and Krausz et al. have studied the mechanism of antibacterial activity of curcumin nanoparticles by TEM images. <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b25">26</ref> TEM imaging of Methicillin-resistant S. aureus (MRSA) cells in the presence of curcumin nanoparticles has clearly demonstrated the interaction of nanoparticles with the cellular membrane, resulting in progressive edema and lysis of cells. <ref type="bibr" target="#b16">17</ref> Initially, curcumin nanoparticles alter the cellular architecture and edema of the bacteria. Curcumin nanoparticles (2-40 nm) brake the peptidoglycan layer of S. aureus (700-800 nm) and penetrate inside the cell, thereby causing disruption of the structure of cell organelles and killing the cell through lysis. <ref type="bibr" target="#b25">26</ref> ■ EXPERIMENTAL Materials. Ethanol, hexane, isopropyl alcohol, dichloromethane, stearic acid, glycerol monostearate, chloroform-d, and triethanolamine were purchased from Sigma-Aldrich. The raw turmeric rhizomes were obtained from locally grown turmeric plants in the Matale District in the Central Province of Sri Lanka.</p><p>Methods. Extraction of Curcumin. The procedure has already been documented in our previous study in ref 17. In brief, cleaned turmeric rhizomes were boiled for 30 min, sliced, and dried under sunlight until the moisture percentage was reduced to 10%. To obtain turmeric powder, dried turmeric slicers were ground using the grinder (IKA Laboratechnik ACS Omega 6000 min -1 , France). A sample of 15.00 g of turmeric powder was embedded in a thimble and put in the Soxhlet apparatus, gradually filled with ethanol as the extraction solvent. The extraction was carried out at 60 °C for 8 h, and ethanol was separated from the extract using the rotary evaporator (Heidolph, Germany). A portion of 1.00 g of the crude extract was mixed with 25.00 mL of hexane, stirred gently, and kept for 12 h. The solution was then stirred using the magnetic stirrer (Vepl Scientifica, Europe) at 600 rpm for 3 h and centrifuged to obtain the powder. The powder was dried at 40 °C for 2 h, and 1.00 g of it was mixed with a 10 mL of a hot solvent mixture of isopropyl alcohol/hexane in a 1:1.5 molar ratio. The solution was then cooled at room temperature to obtain pure crystalline curcumin, and the extracted curcumin was separated by filtration.</p><p>Synthesis and Characterization of Nanocurcumin. Nanocurcumin was synthesized by a physicochemical fabrication method, as already documented in 17. Briefly, the stock solution of curcumin (5 mg mL -1 ) was prepared by dissolving the extracted curcumin powder in dichloromethane. One milliliter of the stock solution was added to 50.0 mL of boiling water dropwise (0.1 mL min -1 ) while sonicating the solution for 30 min. Then, the mixture was stirred at 800 rpm for 20 min to obtain the orange-colored nanocurcumin precipitate. The mean particle diameter of nanocurcumin was investigated using dynamic light scattering (DLS) using the CILAS particle size analyzer NANO DS. To do so, 5.00 mg of nanocurcumin was dispersed in 30.0 mL of distilled water and sonicated for 15 min. The colloidal solution was then diluted with distilled water in a 1:1 ratio and then sonicated again, and the colloidal solution was used for size distribution analysis. Nanocurcumin was dissolved in chloroform-d, and the 1 H NMR spectrum was run on an X-Plus NMR spectrophotometer (Oxford v.1.0.9-3000/4000 series) instrument.</p><p>Formulation of Antibacterial Cream. To formulate the antibacterial cream, 50.00 g of stearic acid was added to 10.0 mL of virgin coconut oil, stirred at 70 °C for 25 min, and 8.00 g of glyceryl monostearate was added to the hot mixture, with continuous stirring to prepare the oil phase. Then, 6.0 mL of triethanolamine was added to 200.0 mL of distilled water and stirred for 10 min at 70 °C to prepare the aqueous phase. The aqueous phase was added to the oil phase dropwise, with continuous stirring at 70 °C to prepare the cream base. Curcumin (30 mg mL -1 ) and nanocurcumin (30 mg mL -1 ) were added separately to 25 mL of the cream base with continuous stirring to produce curcumin cream and nanocurcumin cream, respectively.</p><p>Determination of Antibacterial Activity. Quantitative antimicrobial efficiency of curcumin and nanocurcumin was evaluated using the disc diffusion method against S. aureus and E. coli obtained from the Department of Molecular Biology and Biotechnology, Faculty of Science, University of Peradeniya, Sri Lanka. The testing was conducted as described in the following method. LB medium was prepared, and a single colony of S. aureus was inoculated under aseptic conditions and incubated overnight at 37 °C in a mechanical shaker at 35 rpm. The bacterial suspension was prepared at 10/3 dilution under aseptic conditions, and 200 μL of the bacterial suspension was added onto LB agar plates and evenly spread. Bulk curcumin and nanocurcumin were dissolved in dimethyl sulfoxide (DMSO) in 800 μg mL -1 concentrations separately and were absorbed into sterile circular shape fabric samples. The treated fabric samples and cream formulation samples were dispensed on S. aureus inoculated agar plates separately and incubated at 37 °C overnight in an incubator. The antibacterial activity of bulk curcumin and nanocurcumin was assessed by examining clear inhibition zones around the samples according to ISO 20645 protocol. <ref type="bibr" target="#b37">38</ref> An untreated sterile fabric sample and the cream base were used as the control samples. The same procedure was carried out for E. coli. The experiments were conducted in triplicate under sterile conditions. The same procedure was repeated for the cream formulations after 14 and 30 days to determine their antibacterial activity as a function of time.</p><p>Statistical Analysis. Statistical analysis was conducted using analysis of variance using SAS 9.0 statistical software. The results are depicted as the mean ± standard deviation. Duncan's multiple range test was applied at a 5% level of significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ CONCLUSIONS</head><p>Natural bulk curcumin was extracted from the turmeric rhizome, and nanocurcumin was synthesized using the extracted bulk curcumin using a physicochemical fabrication method. According to the in vitro antibacterial assay, nanocurcumin has better antibacterial activity against both Gram-positive S. aureus and Gram-negative E. coli bacteria than bulk curcumin, with over 40% increase in each case. The different types of interactions leading to cell deaths of both types of bacteria have been summarized in a graphical form to better understand the mechanisms of action of nanocurcumin on these bacteria. The antibacterial creams formulated using curcumin and nanocurcumin inhibit the growth of bacteria in a robust manner. Nanocurcumin cream shows better antibacterial activity than curcumin cream. Both curcumin cream and nanocurcumin cream show preserved antibacterial activity even after a storage period of 1 month, while nanocurcumin cream continued to show better antibacterial activity than bulk curcumin cream.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ AUTHOR INFORMATION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Corresponding Author</head><p>Rajapakse Mudiyanselage Gamini Rajapakse -Department of Chemistry, Faculty of Science, University of Peradeniya, Peradeniya 20400, Sri Lanka; orcid.org/0000-0003-3943-5362; Email: rmgr@pdn.ac.lk</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. (i) The particle size distribution of nanocurcumin synthesized from bulk curcumin. (ii) (a, b) The TEM images of nanocurcumin with 200 nm and 0.2 μm resolutions, respectively. (c, d) The SEM images of nanocurcumin with 500 and 100 nm resolution, respectively. The SEM and TEM images are reproduced with permission from ACS Omega, copyright 2021 and 17.</figDesc><graphic coords="2,315.44,150.46,239.98,124.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. (i) The structure of curcumin is shown with carbon atoms labeled with numbers. (ii) The 1 H NMR spectrum of nanocurcumin in chloroform-d. Inset: magnified 1 H NMR spectrum of nanocurcumin between 8.0 and 7.3 ppm chemical shifts.</figDesc><graphic coords="3,59.87,60.44,223.20,228.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. (i) β-Diketone tautomer and (ii, iii) keto-enol tautomers of curcumin (1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-hepatadiene3,5dione).</figDesc><graphic coords="3,101.59,350.48,139.64,109.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Antibacterial activity of bulk curcumin, nanocurcumin, and their respective cream formulations. Inhibition zones of powdered (a) bulk curcumin, (b) nanocurcumin, and (c) control sample against (i) S. aureus and (ii) E. coli. Inhibition zones of cream formulations of (p) bulk curcumin, (q) nanocurcumin, and (r) control sample against (iii) S. aureus and (iv) E. coli.</figDesc><graphic coords="3,315.44,60.44,239.98,209.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. The antibacterial mechanisms of curcumin on (a) Grampositive and (b) Gram-negative bacteria.</figDesc><graphic coords="5,51.48,60.44,239.98,472.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,316.80,433.60,240.00,323.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Diameters of Inhibition Zones for Bulk Curcumin and Nanocurcumin Cream Formulations against S. aureus and E. coli with Day(s) Intervals a</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">inhibition zone (mm)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">bulk curcumin</cell><cell cols="3">nanocurcumin</cell></row><row><cell>bacteria</cell><cell>day 0</cell><cell>day 14</cell><cell>day 30</cell><cell>day 0</cell><cell>day 14</cell><cell>day 30</cell></row><row><cell>S.</cell><cell>22.25 ±</cell><cell>22.16 ±</cell><cell>21.83 ±</cell><cell>25.80 ±</cell><cell>25.67 ±</cell><cell>25.60 ±</cell></row><row><cell>aureus</cell><cell>1.26</cell><cell>2.48</cell><cell>2.14</cell><cell>0.84</cell><cell>1.03</cell><cell>1.64</cell></row><row><cell>E. coli</cell><cell>21.04 ±</cell><cell>21.00 ±</cell><cell>20.25 ±</cell><cell>24.33 ±</cell><cell>23.50 ±</cell><cell>23.40 ±</cell></row><row><cell></cell><cell>1.14</cell><cell>0.63</cell><cell>0.50</cell><cell>0.58</cell><cell>1.52</cell><cell>1.99</cell></row></table><note><p>a Each data point represents mean ± standard deviation.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>https://doi.org/10.1021/acsomega.2c05293 ACS Omega 2022, 7, 46494-46500 Downloaded via 104.0.70.239 on April 9, 2026 at 22:18:36 (UTC).See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>ACS Omega</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>https://doi.org/10.1021/acsomega.2c05293ACS Omega 2022, 7, 46494-46500</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>■ ACKNOWLEDGMENTS</head><p>This research is fully supported and funded by the <rs type="funder">University of Peradeniya</rs> and the <rs type="funder">Postgraduate Institute of Science (PGIS), University of Peradeniya, Sri Lanka</rs>. We acknowledge <rs type="person">Sanjaya Viraj Bandara</rs> for drawing the graphical demonstrations and <rs type="person">Nadeesha Gunarathna</rs> for getting approval to reproduce the figures. We thank all our colleagues who provided their insights and expertise that greatly assisted the research in various ways.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors</head><p>Sandhuli S. Hettiarachchi  The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>The authors declare no competing financial interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Antioxidants: Natural Antibiotics</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A R</forename><surname>Naqvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nadeem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Komal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A A</forename><surname>Naqvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mubarik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Qureshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zahid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N.-U.-H</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shujat Raza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aslam</surname></persName>
+		</author>
+		<idno type="DOI">10.5772/intechopen.84864?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Antioxidants; IntechOpen</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Naqvi, S. A. R.; Nadeem, S.; Komal, S.; Naqvi, S. A. A.; Mubarik, M. S.; Qureshi, S. Y.; Ahmad, S.; Abbas, A.; Zahid, M.; Khan, N.-U.- H.; Shujat Raza, S.; Aslam, N. Antioxidants: Natural Antibiotics. In Antioxidants; IntechOpen 2019; pp. 1-17. DOI: 10.5772/ intechopen.84864.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Evaluation of Antimicrobial Activity of Curcumin Against Two Oral Bacteria</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Mohammed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Y</forename><surname>Habil</surname></persName>
+		</author>
+		<idno type="DOI">10.11648/j.acis.s.2015030201.14</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Autom. Control Intell. Syst</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">18</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mohammed, N. A.; Habil, N. Y. Evaluation of Antimicrobial Activity of Curcumin Against Two Oral Bacteria. Autom. Control Intell. Syst. 2015, 3, 18.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Iodinated Curcumin Bearing Dermal Cream Augmented Drug Delivery, Antimicrobial and Antioxidant Activities</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Manchanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Sodhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Madan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02652048.2018.1425749</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Microencapsulation</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="49" to="61" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Manchanda, G.; Sodhi, R. K.; Jain, U. K.; Chandra, R.; Madan, J. Iodinated Curcumin Bearing Dermal Cream Augmented Drug Delivery, Antimicrobial and Antioxidant Activities. J. Microencapsula- tion 2018, 35, 49-61.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Use of Curcumin, a Natural Polyphenol for Targeting Molecular Pathways in Treating Age-Related Neurodegenerative Diseases</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maiti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijms19061637</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1" to="42" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maiti, P.; Dunbar, G. Use of Curcumin, a Natural Polyphenol for Targeting Molecular Pathways in Treating Age-Related Neuro- degenerative Diseases. Int. J. Mol. Sci. 2018, 19, 1-42.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Potential Therapeutic Effect of Curcumin -an Update</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Choudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Sekhon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rheumatology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="64" to="71" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Choudhary, N.; Sekhon, B. S. Potential Therapeutic Effect of Curcumin -an Update. Rheumatology 2012, 3, 64-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">the Golden Nutraceutical: Multitargeting for Multiple Chronic Diseases</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Kunnumakkara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bordoloi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Padmavathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Monisha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Curcumin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bph.13621</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="1325" to="1348" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kunnumakkara, A. B.; Bordoloi, D.; Padmavathi, G.; Monisha, J.; Roy, N. K.; Prasad, S.; Aggarwal, B. B. Curcumin, the Golden Nutraceutical: Multitargeting for Multiple Chronic Diseases. Br. J. Pharmacol. 2017, 174, 1325-1348.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Curcumin Nanoformulations: A Future Nanomedicine for Cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Yallapu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jaggi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Chauhan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.drudis.2011.09.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Discovery Today</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="71" to="80" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yallapu, M. M.; Jaggi, M.; Chauhan, S. C. Curcumin Nanoformulations: A Future Nanomedicine for Cancer. Drug Discovery Today 2012, 17, 71-80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A Novel Curcumin-Based Vaginal Cream Vacurin Selectively Eliminates Apposed Human Cervical Cancer Cells</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Debata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Castellanos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Fata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rajupet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szerszen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Begum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Murty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Opitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Banerjee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ygyno.2012.12.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Gynecol. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="145" to="153" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Debata, P. R.; Castellanos, M. R.; Fata, J. E.; Baggett, S.; Rajupet, S.; Szerszen, A.; Begum, S.; Mata, A.; Murty, V. V.; Opitz, L. M.; Banerjee, P. A Novel Curcumin-Based Vaginal Cream Vacurin Selectively Eliminates Apposed Human Cervical Cancer Cells. Gynecol. Oncol. 2013, 129, 145-153.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Curcumin as a Natural Compound in the Synthesis of Rigid Polyurethane Foams with Enhanced Mechanical Antibacterial and Anti-Ageing Properties</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sienkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Członka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kairyte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vaitkus</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.polymertesting.2019.106046</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polym. Test</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sienkiewicz, N.; Członka, S.; Kairyte, A.; Vaitkus, S. Curcumin as a Natural Compound in the Synthesis of Rigid Polyurethane Foams with Enhanced Mechanical Antibacterial and Anti-Ageing Properties. Polym. Test. 2019, 79, 1-29.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Anti-Microbial Activity of Curcumin Nanoformulations: New Trends and Future Perspectives</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sharifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Memar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hosseiniyan Khatibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Negahdari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zununi Vahed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maleki Dizaj</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ptr.6658</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phytother. Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1926" to="1946" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sharifi, S.; Fathi, N.; Memar, M. Y.; Hosseiniyan Khatibi, S. M.; Khalilov, R.; Negahdari, R.; Zununi Vahed, S.; Maleki Dizaj, S. Anti- Microbial Activity of Curcumin Nanoformulations: New Trends and Future Perspectives. Phytother. Res. 2020, 34, 1926-1946.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Curcumin Nanoparticles: Physico-Chemical Fabrication and Its in Vitro Efficacy against Human Pathogens</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Pandit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gaikwad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Agarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Gade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rai</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13205-015-0302-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotech</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="991" to="997" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pandit, R. S.; Gaikwad, S. C.; Agarkar, G. A.; Gade, A. K.; Rai, M. Curcumin Nanoparticles: Physico-Chemical Fabrication and Its in Vitro Efficacy against Human Pathogens. 3 Biotech 2015, 5, 991-997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Curcumin as a Promising Antifungal of Clinical Interest</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V B</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Neres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F F</forename><surname>Magalhaes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Modolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Sabino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">̂</forename><surname>De Fátima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>De Resende</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jac/dkn488</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Antimicrob. Chemother</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="337" to="339" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martins, C. V. B.; da Silva, D. L.; Neres, A. T. M.; Magalhaes, T. F. F.; Watanabe, G. A.; Modolo, L.; Sabino, A. A.; De Fátima, A ̂.; De Resende, M. A. Curcumin as a Promising Antifungal of Clinical Interest. J. Antimicrob. Chemother. 2008, 63, 337-339.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Curcumin Nanoparticles: Physico-Chemical Fabrication and Its in Vitro Efficacy against Human Pathogens</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Pandit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gaikwad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Agarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Gade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rai</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13205-015-0302-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotech</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="991" to="997" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pandit, R. S.; Gaikwad, S. C.; Agarkar, G. A.; Gade, A. K.; Rai, M. Curcumin Nanoparticles: Physico-Chemical Fabrication and Its in Vitro Efficacy against Human Pathogens. 3 Biotech. 2015, 5, 991-997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Morphological, Antimicrobial, Durability, and Physical Properties of Untreated and Treated Textiles Using Silver-Nanoparticles</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Perera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bhushan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bandara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rajapakse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rajapakse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bandara</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.colsurfa.2013.08.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf</title>
+		<imprint>
+			<biblScope unit="volume">436</biblScope>
+			<biblScope unit="page" from="975" to="989" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perera, S.; Bhushan, B.; Bandara, R.; Rajapakse, G.; Rajapakse, S.; Bandara, C. Morphological, Antimicrobial, Durability, and Physical Properties of Untreated and Treated Textiles Using Silver-Nano- particles. Colloids Surf., A 2013, 436, 975-989.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Antibacterial Action of Curcumin against Staphylococcus Aureus: A Brief Review</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Teow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S B</forename><surname>Khoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Peh</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2016/2853045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Trop. Med</title>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Teow, S. Y.; Liew, K.; Ali, S. A.; Khoo, A. S. B.; Peh, S. C. Antibacterial Action of Curcumin against Staphylococcus Aureus: A Brief Review. J Trop. Med. 2016, 2016, 1.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Formulation and Evaluation of an Antibacterial Cream from Oxalis Corniculata Aqueous Extract</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Handali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hosseini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ameri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moghimipour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jundishapur. J. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Handali, S.; Hosseini, H.; Ameri, A.; Moghimipour, E. Formulation and Evaluation of an Antibacterial Cream from Oxalis Corniculata Aqueous Extract. Jundishapur. J. Microbiol. 2011, 4 ().</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Curcumin-Encapsulated Nanoparticles as Innovative Antimicrobial and Wound Healing Agent</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Krausz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Navati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Doerner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Charafeddine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gunther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clendaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Nosanchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Friedman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nano.2014.09.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomedicine</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="195" to="206" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krausz, A. E.; Adler, B. L.; Cabral, V.; Navati, M.; Doerner, J.; Charafeddine, R. A.; Chandra, D.; Liang, H.; Gunther, L.; Clendaniel, A.; Harper, S.; Friedman, J. M.; Nosanchuk, J. D.; Friedman, A. J. Curcumin-Encapsulated Nanoparticles as Innovative Antimicrobial and Wound Healing Agent. Nanomedicine 2015, 11, 195-206.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Synthesis of Curcumin Nanoparticles from Raw Turmeric Rhizome</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Hettiarachchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Dunuweera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Dunuweera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M G</forename><surname>Rajapakse</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsomega.0c06314?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Omega</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="8246" to="8252" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hettiarachchi, S. S.; Dunuweera, S. P.; Dunuweera, A. N.; Rajapakse, R. M. G. Synthesis of Curcumin Nanoparticles from Raw Turmeric Rhizome. ACS Omega 2021, 6, 8246-8252.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Application of Curcumin-Loaded Nanocarriers for Food, Drug and Cosmetic Purposes</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Rafiee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nejatian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daeihamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Jafari</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tifs.2019.04.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends. Food Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="445" to="458" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rafiee, Z.; Nejatian, M.; Daeihamed, M.; Jafari, S. M. Application of Curcumin-Loaded Nanocarriers for Food, Drug and Cosmetic Purposes. Trends. Food Sci. Technol. 2019, 88, 445-458.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">How Does Curcumin Work with Poor Bioavailability? Clues from Experimental and Theoretical Studies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Ji</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep20872?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Nature Publishing Group</publisher>
+			<biblScope unit="volume">6</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shen, L.; Liu, C. C.; An, C. Y.; Ji, H. F. How Does Curcumin Work with Poor Bioavailability? Clues from Experimental and Theoretical Studies; Nature Publishing Group, 2016; Vol. 6. DOI: 10.1038/srep20872.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Curcumin: Its Bioavailability and Nanoparticle Formulation: A Review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Pati</surname></persName>
+		</author>
+		<idno type="DOI">10.52403/ijhsr.20211030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Health Sci. Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="228" to="238" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dutta, A.; Patil, R. K.; Pati, H. C. l. Curcumin: Its Bioavailability and Nanoparticle Formulation: A Review. Int. J. Health Sci. Res. 2021, 11, 228-238.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Nanoencapsulation: An Advanced Nanotechnological Approach to Enhance the Biological Efficacy of Curcumin</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N C</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Monika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Jayaprakasha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Patil</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/bk-2018-1286.ch0021?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Symposium Series</title>
+		<imprint>
+			<biblScope unit="volume">1286</biblScope>
+			<biblScope unit="page" from="383" to="405" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Murthy, K. N. C.; Monika, P.; Jayaprakasha, G. K.; Patil, B. S. Nanoencapsulation: An Advanced Nanotechnological Approach to Enhance the Biological Efficacy of Curcumin. In ACS Symposium Series; 2018; Vol. 1286, pp. 383-405. DOI: 10.1021/bk-2018- 1286.ch0021.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Kirby-Bauer Disk Diffusion Susceptibility Test Protocol</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hudzicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Soc. Microbiol</title>
+		<imprint>
+			<biblScope unit="page">208</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hudzicki, J. Kirby-Bauer Disk Diffusion Susceptibility Test Protocol. Am. Soc. Microbiol. 2009, 208.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Curcumin Nanoparticles as Promising Therapeutic Agents for Drug Targets</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chopra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Dey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bhattacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Maishu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Akter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Karthika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Murad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Qusty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Qusti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Alshammari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E S</forename><surname>Batiha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M A</forename><surname>Altalbawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I M</forename><surname>Albooq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Alamri</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/molecules26164998</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecules</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chopra, H.; Dey, P. S.; Das, D.; Bhattacharya, T.; Shah, M.; Mubin, S.; Maishu, S. P.; Akter, R.; Rahman, M. H.; Karthika, C.; Murad, W.; Qusty, N.; Qusti, S.; Alshammari, E. M.; Batiha, G. E. S.; Altalbawy, F. M. A.; Albooq, M. I. M.; Alamri, B. M. Curcumin Nanoparticles as Promising Therapeutic Agents for Drug Targets. Molecules 2021, 26, 1-28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">NMR Study of the Solution Structure of Curcumin</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Payton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sandusky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Alworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/np060263s?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nat. Prod</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="143" to="146" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Payton, F.; Sandusky, P.; Alworth, W. L. NMR Study of the Solution Structure of Curcumin. J. Nat. Prod. 2007, 70, 143-146.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Curcumin Nanoparticles: Preparation, Characterization, and Antimicrobial Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Bhawana; Basniwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Buttar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jain</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jf104402t?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Food Chem</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="2056" to="2061" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bhawana; Basniwal, R. K.; Buttar, H. S.; Jain, V. K.; Jain, N. Curcumin Nanoparticles: Preparation, Characterization, and Anti- microbial Study. J. Agric. Food Chem. 2011, 59, 2056-2061.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Methods for in Vitro Evaluating Antimicrobial Activity: A Review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Balouiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sadiki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ibnsouda</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpha.2015.11.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharm. Anal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="71" to="79" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Balouiri, M.; Sadiki, M.; Ibnsouda, S. K. Methods for in Vitro Evaluating Antimicrobial Activity: A Review. J. Pharm. Anal. 2016, 6, 71-79.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Microbial Fabrication of Zinc Oxide Nanoparticles and Evaluation of Their Antimicrobial and Photocatalytic Properties</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Shivani; Bhojiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Daima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Mohanty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Stephen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fchem.2020.00778</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Chem</title>
+		<imprint>
+			<biblScope unit="page">8</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jain, D.; Shivani; Bhojiya, A. A.; Singh, H.; Daima, H. K.; Singh, M.; Mohanty, S. R.; Stephen, B. J.; Singh, A. Microbial Fabrication of Zinc Oxide Nanoparticles and Evaluation of Their Antimicrobial and Photocatalytic Properties. Front. Chem. 2020, 8.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Mini-Review: Recent Advances in Imaging-Based Rapid Antibiotic Susceptibility Testing</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lei</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.snr.2021.100053</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sens. Actuators Rep</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">100053</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Song, D.; Lei, Y. Mini-Review: Recent Advances in Imaging- Based Rapid Antibiotic Susceptibility Testing. Sens. Actuators Rep. 2021, 3, No. 100053.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A Novel and Green Nanoparticle Formation Approach to Forming Low-Crystallinity Curcumin Nanoparticles to Improve Curcumin&apos;s Bioaccessibility</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ubeyitogullari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Ciftci</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-019-55619-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ubeyitogullari, A.; Ciftci, O. N. A Novel and Green Nanoparticle Formation Approach to Forming Low-Crystallinity Curcumin Nanoparticles to Improve Curcumin&apos;s Bioaccessibility. Sci. Rep. 2019, 9, 1.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Antimicrobial Activity of Nanoparticles: Present Situation and Prospects for the Future</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shao</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/IJN.S121956</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1227" to="1249" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang, L.; Hu, C.; Shao, L. The Antimicrobial Activity of Nanoparticles: Present Situation and Prospects for the Future. Int. J. Nanomed. 2017, Volume 12, 1227-1249.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Activity of Specialized Biomolecules against Gram-Positive and Gram-Negative Bacteria</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Tavares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Antunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Padraõ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T P</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Felgueiras</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/antibiotics9060314</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Antibiotics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tavares, T. D.; Antunes, J. C.; Padraõ, J.; Ribeiro, A. I.; Zille, A.; Amorim, M. T. P.; Ferreira, F.; Felgueiras, H. P. Activity of Specialized Biomolecules against Gram-Positive and Gram-Negative Bacteria. Antibiotics 2020, 9, 1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The Bacterial Cell Envelope</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Silhavy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mella-Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thanbichler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kroos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dubnau</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/cshperspect.a000414?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Silhavy, T. J.; Kahne, D.; Walker, S.; Kumar, K.; Mella-herrera, R. A.; Golden, J. W.; Thanbichler, M.; Kaiser, D.; Robinson, M.; Kroos, L.; Burton, B.; Dubnau, D. The Bacterial Cell Envelope; 2010. DOI: 10.1101/cshperspect.a000414.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Exploitation of the Antibacterial Properties of Photoactivated Curcumin as &apos;Green&apos; Tool for Food Preservation</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Munir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Banche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cavallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mandras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pertusio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ficiara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cavalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guiot</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijms23052600</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Munir, Z.; Banche, G.; Cavallo, L.; Mandras, N.; Roana, J.; Pertusio, R.; Ficiara, E.; Cavalli, R.; Guiot, C. Exploitation of the Antibacterial Properties of Photoactivated Curcumin as &apos;Green&apos; Tool for Food Preservation. Int. J. Mol. Sci. 2022, 23, 1-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Bactericidal Activity of Curcumin I Is Associated with Damaging of Bacterial Membrane</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kumari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0121313</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tyagi, P.; Singh, M.; Kumari, H.; Kumari, A.; Mukhopadhyay, K. Bactericidal Activity of Curcumin I Is Associated with Damaging of Bacterial Membrane. PLoS One 2015, 10, 1-15.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Curcumin Loaded Zinc Oxide Nanoparticles for Activity-Enhanced Antibacterial and Anticancer Applications</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P T D</forename><surname>Perera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Dissanayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">I</forename><surname>Ranatunga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Hettiarachchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D C</forename><surname>Perera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Unagolla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>De Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Pahalagedara</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/d0ra05755j</idno>
+	</analytic>
+	<monogr>
+		<title level="j">RSC Adv</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="30785" to="30795" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Perera, W. P. T. D.; Dissanayake, R. K.; Ranatunga, U. I.; Hettiarachchi, N. M.; Perera, K. D. C.; Unagolla, J. M.; de Silva, R. T.; Pahalagedara, L. R. Curcumin Loaded Zinc Oxide Nanoparticles for Activity-Enhanced Antibacterial and Anticancer Applications. RSC Adv. 2020, 10, 30785-30795.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">a Known Phenolic from Curcuma Longa, Attenuates the Virulence of Pseudomonas Aeruginosa PAO1 in Whole Plant and Animal Pathogenicity Models</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rudrappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Bais</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Curcumin</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jf072591j?urlappend=%3Fref%3DPDF&amp;jav=VoR&amp;rel=cite-as</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Food Chem</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1955" to="1962" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rudrappa, T.; Bais, H. P. Curcumin, a Known Phenolic from Curcuma Longa, Attenuates the Virulence of Pseudomonas Aeruginosa PAO1 in Whole Plant and Animal Pathogenicity Models. J. Agric. Food Chem. 2008, 56, 1955-1962.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<idno>ISO 20645:</idno>
+		<title level="m">2004 Agar Diffusion Plate Test -European Standards</title>
+		<imprint>
+			<publisher>International Organization for Standardization</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">International Organization for Standardization. ISO 20645:2004 Agar Diffusion Plate Test -European Standards.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

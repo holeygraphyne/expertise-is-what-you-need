@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Time-resolved hydrino continuum transitions with cutoffs at 22.8 nm and 10.1 nm</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-07-29">29 July 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mills</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BlackLight Power, Inc. , 493 Old Trenton Road , Cranbury , NJ 08512 , USA</note>
+								<orgName type="institution">BlackLight Power, Inc</orgName>
+								<address>
+									<addrLine>493 Old Trenton Road</addrLine>
+									<postCode>08512</postCode>
+									<settlement>Cranbury</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BlackLight Power, Inc. , 493 Old Trenton Road , Cranbury , NJ 08512 , USA</note>
+								<orgName type="institution">BlackLight Power, Inc</orgName>
+								<address>
+									<addrLine>493 Old Trenton Road</addrLine>
+									<postCode>08512</postCode>
+									<settlement>Cranbury</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Time-resolved hydrino continuum transitions with cutoffs at 22.8 nm and 10.1 nm</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">The European Physical Journal D</title>
+						<title level="j" type="abbrev">Eur. Phys. J. D</title>
+						<idno type="ISSN">1434-6060</idno>
+						<idno type="eISSN">1434-6079</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">64</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2011-07-29">29 July 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2F6FFC70B651B41F82D4BBE6497171CB</idno>
+					<idno type="DOI">10.1140/epjd/e2011-20246-5</idno>
+					<note type="submission">Received 29 April 2011 / Received in final form 19 May 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-13T20:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Spectra of low energy, high current pinch discharges in pure hydrogen, oxygen, nitrogen, and helium were recorded in the EUV region, and continuum radiation was only observed from hydrogen [<ref type="url" target="http://www.blacklightpower.com/pdf/GEN3_Harvard.pdf">www.blacklightpower.com/pdf/GEN3_Harvard.pdf</ref>; Int. J. Hydrogen Energy 35, 8446 (2010); Cent. Eur. J. Phys. 8, 318 (2010)]. The continuum radiation bands at 10.1 and 22.8 nm and going to longer wavelengths for theoretically predicted transitions of hydrogen to lower-energy, so called "hydrino" states, was observed first at blacklight power, Inc. (BLP) and reproduced at the Harvard center for astrophysics (CfA). Considering the low energy of 5.2 J per pulse, the observed radiation in the energy range of about 120 eV to 40 eV and reference experiments, no conventional explanation was found to be plausible, including electrode metal emission, Bremsstrahlung radiation, ion recombination, molecular or molecular ion band radiation, and instrument artifacts involving radicals and energetic ions reacting at the CCD and H2 reradiation at the detector chamber. To further study these continuum bands assigned to hydrinos, time resolved spectra were performed that showed a unique delay of the continuum radiation of about 0.1 µs and a duration of &lt; 2 µs following the high-voltage pulse consistent with the mechanism of recombination to form the optimal high-density atomic hydrogen in the pinch that permits the H-H interactions to cause the hydrino transitions and corresponding emission.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Classical physical laws predict that atomic hydrogen may undergo a catalytic reaction with certain species, including itself, that can accept energy in integer multiples of the potential energy of atomic hydrogen, m × 27.2 eV, wherein m is an integer. The predicted reaction involves a resonant, nonradiative energy transfer from otherwise stable atomic hydrogen to the catalyst capable of accepting the energy. The product is H (1/p), fractional Rydberg states of atomic hydrogen called "hydrino atoms", wherein n = 1/2, 1/3, 1/4, . . . , 1/p (p ≤ 137 is an integer) replaces the well-known parameter n = integer in the Rydberg equation for hydrogen excited states. Each hydrino state also comprises an electron, a proton, and a photon, but the field contribution from the photon increases the binding rather than decreasing it corresponding to energy desorption rather than absorption. Since the potential energy of atomic hydrogen is 27.2 eV, two H atoms formed from H 2 by collision with a third, hot H can act as a catalyst for this third H by accepting 2 × 27.2 eV from it. By the same mechanism, the collision of two hot H 2 provide 3H to serve as a catalyst of 3 × 27.2 eV for the fourth. Alternatively, through-space energy transfer by magnetic or induced electric dipole-dipole coupling can occur in H + , e -recombining pinched plasmas having permissively high a e-mail: rmills@blacklightpower.com H densities. Following the energy transfer to the catalyst an intermediate is formed having the radius of the H atom and a central field of 3 and 4 times the central field of a proton, respectively, due to the contribution of the photon of each intermediate. The radius is predicted to decrease as the electron undergoes radial acceleration to a stable state having a radius that is 1/3 (m = 2) or 1/4 (m = 3) the radius of the uncatalyzed hydrogen atom with the further release of 54.4 eV and 122.4 eV of energy, respectively. This energy emitted as a characteristic EUV continuum with a cutoff at 22.8 nm and 10.1 nm, respectively, was observed only from pulsed pinched hydrogen discharges.</p><p>Specifically, Mills predicted that atomic hydrogen forms fractional Rydberg energy states H(1/p) called "hydrino atoms" wherein n = 1 2 , 1 3 , 1 4 , . . . , 1 p (p ≤ 137 is an integer) replaces the well-known parameter n = integer in the Rydberg equation for hydrogen excited states <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. The transition of H to H[ aH p = m+1 ] occurs by a nonradiative resonance energy transfer of m×27.2 eV to m H atoms (m is an integer) to form an intermediate that decays with the emission of continuum bands with short wavelength cutoff and energies E (H→H[ a H p = m+1 ]) given by and extending to longer wavelengths than the corresponding cutoff. This theory explains the photon energy range and cutoffs observed in the plasma emission experiments with molecular hydrogen. BLP and CfA reported the observation of continuum radiation from a high-current gas discharge in the presence of molecular H 2 in the discharge chamber <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Spectra were measured with a vacuum grazing incidence spectrometer and recorded with a CCD camera. The gas pressure was varied in the range from 0.1 to 1.3 torr. The spectrometer calibrated with O (and He) lines showed reliable wavelength measurements. In the current study, the temporal resolution of the continuum radiation was elucidated using a channel electron multiplier detector and a multichannel scaling card while measures were taken to avoid saturation effects that may have been present in a previous study <ref type="bibr" target="#b3">[4]</ref>. The temporal recording of the emission relative to the initiation of the discharge event was achieved by gating the timing of the detection electronics off of the self-triggering event of the plasma discharge having a period set by the capacitor time constant for charging to the threshold followed by breakdown.</p><formula xml:id="formula_0">E (H→H[ a H p = m+1 ]) = m 2 × 13.6 eV; λ (H→H[ a H p = m+1 ]) = 91.2 m 2 nm (1)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Experimental method</head><p>The experimental set up for recording the EUV spectra of pulsed plasmas is shown in Figure <ref type="figure" target="#fig_0">1</ref>. EUV spectroscopy was recorded on pure hydrogen, oxygen, nitrogen, and helium high-voltage pulsed discharge plasmas with a McPherson grazing incidence EUV spectrometer (model 248/310G) equipped with a grating having 600 lines/mm. The angle of incidence was 87 • . The wavelength region recorded by the monochromator was 5-75 nm. The wavelength resolution was about 0.05 nm (FWHM) with an en-trance slit width of &lt; 1 μm. The EUV light was detected by a CCD detector (Andor iDus) cooled at -60 • C.</p><p>The main discharge cell comprised a Ta hollow anode (3 mm bore) and a Ta hollow cathode (3 mm bore) separated by a 3 mm gap. A negative high voltage DC power supply was used to apply -10 kV between the cathode and anode wherein a bank of ten pairs of 5200 pF capacitors were connected in parallel to this high voltage source. An electron gun (Clinton Displays, Part # 2-001), driven by a high voltage pulse generator (DEI, PVX 4140), provided a pulsed electron beam with a beam voltage of 1-3 kV and a duration of 0.5 ms. The electron beam triggered a high voltage pulsed discharge at a repetition rate of 5 Hz. The CCD detector was gated synchronously with the e-beam trigger. It had an exposure time of 100 ms for each pulse discharge comprising a breakdown time of about 300 ns. Each spectrum comprised the superposition of 1000 discharges. The CCD dark count was subtracted from the accumulated spectrum. Ultra-high purity gases were flowed at rates between 1 to 10 sccm and pressures between 100 mtorr and 1300 mtorr were controlled by a mass flow controller (MKS). On-line mass spectroscopy and high-resolution visible spectroscopy using the Jobin Yvon Horiba 1250 M spectrometer ruled out contaminants in the plasma gases.</p><p>Temporal studies were performed on H continuum spectral wavelengths (15.  record the emission events as shown in Figure <ref type="figure" target="#fig_2">2</ref>. At certain gas pressures in the cathode and anode gap, discharge (breakdown) of the gas with photon emission occurred spontaneously at a corresponding high-voltage threshold and charge time. The light source was found to operate reproducibly in a self-trigger mode with a discharge frequency of 5 Hz. The cathode breakdown voltage was probed using a high-voltage probe (Tektronix P6015), and this signal was used as the trigger to activate a pulse generator (HP 8015A) to output a pulse signal to trigger the MCS to record the photon emitting time spectrum.</p><p>The EUV photons emitted during the breakdown were dispersed by the grazing incidence monochromator and detected by a channel electron multiplier (CEM) (detector technology model 206-10-C-SL) wherein the CEM was required to obtain temporal measurements, and the spectrum of the CEM and CCD were confirmed to be the same. The photon signal from the CEM was amplified by a preamplifier (stanford research systems model SR445A) and delayed 400 ns using a long cable to the MCS card so that the photon signal arrival times were coincident with the pulse-generator gating of the MCS card to properly record the arrival times relative to the initiation of the high-voltage pulse. The spectrometer slit width was set at a level to avoid MCS card saturation. All MCS spectra were acquired from 5000 pulses with the minimum MSC dwell time of 100 ns/channel.</p><p>Photon emitting time profiles were also recorded using an oscilloscope. The cathode voltage signal was used to trigger the oscilloscope, and the photon signals from the preamplifier were fed into the oscilloscope directly without the delay cable. The breakdown time was determined to be about 300 ns, and the results of the time-resolved emission recorded with the MCS were confirmed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results and discussion</head><p>The EUV spectra of pinched-pulsed discharges in oxygen, nitrogen, helium in two spectral ranges, and hydrogen are shown in Figures <ref type="figure" target="#fig_3">3a-3e</ref>, respectively. Ion line emission was observed for oxygen, nitrogen, and helium in the 5-45 nm range. Oxygen ion lines were also observed similarly in all spectra due to the oxide coating on the metal electrodes. Uniquely, only hydrogen showed continua. The emission having a cutoff at 22.8 nm and 10.1 nm with the intensity increasing to a maximum at longer wavelengths matched that predicted from the transitions H</p><p>* [ aH 3 ] → H[ aH 3 ] + 54.4 eV and H * [ aH 4 ] → H[ aH 4 ] + 122.4 eV, respectively. A CfA group reproduced the published continuum results of BlackLight Power, Inc. as reported in a recent paper by Bykanov <ref type="bibr" target="#b0">[1]</ref>. Continuum radiation was observed from pure hydrogen over the spectral region ∼10 to 30 nm; whereas, no continuum was observed from helium plasmas run under essentially identical conditions. Only helium ion and background oxygen ion emission were observed; wherein, the latter was common to both plasma sources. By comparing all hydrogen results involving different electrodes, gratings, spectrometers, and numbers of CCD image superpositions, it was concluded that the same emitter was common in all cases of hydrogen continuum emission and that the spectral width varied due to variations in the spectral intensity or detection sensitivity. The hydrogen continuum radiation comprised two profiles, one with a short wavelength cutoff at about 10 nm and a second was distinguishable by a reversal of the slope of the intensity versus wavelength in the region of 22-23 nm.</p><p>Plasma physicist Bykanov <ref type="bibr" target="#b0">[1]</ref> evaluated specific known mechanisms using data from the literature and the input of further test data from BLP. Electrode metal emission was eliminated since the spectral features were the same over any given region where it was intense enough to be detected, and the intensity was shown to be proportional to concentration of hydrogen. Recombination and Bremsstrahlung radiation mechanisms were excluded because the intensities of these types of continuum spectra scale with Z, as Z 2 or Z 4 , respectively. Thus, a more intense continuum spectrum should have been observed in He (Z = 2) than in H 2 (Z = 1), but it was not. Energetic electrons from an electron gun as a source of the continuum band was eliminated due to the observation that changing the high voltage from -10 kV to -15 kV had no effect on the spectral profile. Band radiation from molecular electronic transitions broadened by vibrational and rotational transitions including hydrogen molecular or molecular ion emission was excluded as the source due to the extraordinary energy (&gt;100 eV) of the continuum radiation compared to the energy levels of these species. Another reason for excluding this mechanism was the broad energy width of the continuum band (∼60 eV) that could not be explained by the plasma temperature (max 15 eV, most likely &lt;10 eV). By using spectral-region-cutoff filters and recording the spectral profile change with changing of the CCD position, the source of the continuum radiation was confirmed to be the hydrogen plasma, and the emission was deemed a true spectrum. Addition of hydrogen gas to the CCD chamber had no effect on the emission profile. These results eliminated detection artifacts as possibilities. In summary, considering the low energy of 5.2 J per pulse, the observed radiation in the photon energy range from 40 eV to 120 eV, and reference experiments with He, oxygen and nitrogen, no conventional explanation was found to be plausible for the continua including electrode metal emission, Bremsstrahlung radiation, ion recombination, molecular or molecular ion band radiation, and instrument artifacts involving radicals and energetic ions reacting at the CCD and H 2 re-radiation at the detector.</p><p>Temporal studies were performed on H continuum spectral wavelengths (15. The European Physical Journal D (a) (b) (c) Fig. 5. Temporal emission of selected oxygen ion lines of the radiation produced by the oxygen coating of the Ta electrodes during a pure 437 mtorr hydrogen high-voltage pulsed plasma relative to the breakdown event at the zero time point. A major portion of the emission occurred before the first 0.2 µs with a 0.1 µs delay. (a) The selected line was O VI at 15.0 nm. (b) The selected line was O VI at 17.3 nm. (c) The selected line was O V at 19.3 nm. (a) (b) Fig. 6. Temporal emission of selected nitrogen ion lines produced by a pure 156 mtorr nitrogen high-voltage pulsed plasma relative to the breakdown event at the zero time point. A major portion of the emission occurred before the first 0.2 µs with a 0.1 µs delay. (a) The selected line was N V at 18.61 nm. (b) The selected line was N V at 24.77 nm.</p><p>comprised pure nitrogen and helium. Temporal emission of selected nitrogen ion lines (N V 18.61 and 24.77 nm) produced by a pure 156 mtorr nitrogen high-voltage pulsed plasma relative to the breakdown event at the zero time point are shown in Figures <ref type="figure">6a-6b</ref>. A major portion of the emission occurred before the first 0.2 μs with a 0.1 μs delay and a duration of &lt;3 μs.</p><p>Temporal emission of helium ion and atom lines produced by a pure 1.36 torr helium high-voltage pulsed plasma relative to the breakdown event at the zero time point are shown in Figures <ref type="figure" target="#fig_5">7a-7g</ref>. Both He II and He I emission had an extraordinarily long afterglow of &gt;10 μs compared to an emission duration of about &lt;2 μs for O, N, and H plasmas, and the emission occurred immediately at breakdown rather than a typical 0.1 μs delay. The time resolved emission of oxygen and nitrogen were as expected for the lifetimes of the corresponding heavy multielectron ions having longer-lived plasma recombination lifetimes. H having the lowest mass would not be expected to have long-lived ionized or excited states; yet, the continuum radiation was delayed by about 0.1 μs following the end of the high-voltage pulse. In contrast, He 2+ which also forms a low mass, one-electron atom upon recombination showed line emission immediately. The temporal delay for the continuum emission assigned to hydrino transitions is consistent with the mechanism of H + , e -recombination to form high-density atomic hydrogen in the pinch that permitted the H-H interactions to cause the hydrino transitions and corresponding emission. Simplistically, the collisionally induced interactions depend on the H collisional or interaction frequency per unit volume Z H, H given by the following equation (2) from reference <ref type="bibr" target="#b4">[5]</ref>:</p><formula xml:id="formula_1">(a) (b)<label>(c) (d) (e) (f)</label></formula><formula xml:id="formula_2">Z H, H = π (2r H ) 2 8RT π 2 M H 1/2 C 2 H (<label>2</label></formula><formula xml:id="formula_3">)</formula><p>where r H , M H , and C H are the interaction radius, the mass, and number density of H, T is the gas temperature, and R is the ideal gas constant. In pinched plasmas, the atom concentration following recombination can easily be 10 17 /cm 3 <ref type="bibr" target="#b5">[6]</ref>, and the collision frequency can be very high (&gt;10 7 /s per H), permissive of multi-body through-space interactions. The continuum emission delay matched the time scale of H recombination with a high density in the pinch creating a transient high density of atomic H. This condition in turn was permissive of the formation of hydrinos wherein 2H or 3H serve as a catalyst for another H to give rise to the observed 10.1 and 22.8 nm cutoff continua.</p><p>Another unexpected result regarding the temporal He II and He I plasma emission was the observation of a long afterglow of &gt;10 μs compared to about &lt;2 μs for all other gases tested. The significance of the anomalous He II afterglow was previously noted that forced an unlikely explanation involving He 2+ 2 dissociative recombination <ref type="bibr" target="#b3">[4]</ref>. An alternative mechanism involves a hydrino catalytic reaction. Since the energy for the ionization of He + to He 2+ is 2 × 27.2 eV, it may serve as a catalyst for H to form hydrinos. He II catalysis of trace hydrogen contamination to form hydrinos also yields He III ions that would recombine with He II emission and corresponding He I emission. This process may be the cause of the anomalous afterglow of He II and I emission that requires an energy source to maintain the ionization and corresponding emission at times greater than 10 μs from the cessation of the discharge pulse. Another related observation that may be a consequence of He + serving as a catalyst is the intensity of the 30.4 nm He II line is greater intensity than the He atomic line at 58.43 nm. This is the case even for the second order of He II as shown in Figure <ref type="figure" target="#fig_3">3d</ref>; whereas, the He I line is typically 100 times more intense than the He II line 1 .</p><p>1 <ref type="url" target="http://physics.nist.gov/cgi-bin/ASD/lines1.pl.">http://physics.nist.gov/cgi-bin/ASD/lines1.pl</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Conclusion</head><p>Since the potential energy of atomic hydrogen is 27.2 eV, one or more (m) × H atoms can act as a catalyst for a given H by accepting m × 27.2 eV from it. Following the nonradiative energy transfer, further energy seen as characteristic continuum radiation having a short-wavelength cutoff of m 2 ×13.6 eV is released as the hydrino transitions to a final stable radius of 1/(1 + m) that of H. To further study these continuum bands assigned to hydrinos, time resolved spectra were performed. The continuum emission was only observed from hydrogen after a 0.1 μs delay following the short high-voltage pulse (&lt;300 ns). Like H + , He 2+ forms a low mass, one-electron atom (He + ) upon recombination. However, in contrast to H emission, helium ion (He + ) showed line emission immediately with a long afterglow of &gt;10 μs compared to about &lt;2 μs for all other gases tested. The delay for the H continuum emission and the absence of a long afterglow are consistent with the relationship between the plasma dynamics and the hydrino transition mechanism -the conditions most favorable for H-H atom interactions to give rise to transitions to form hydrinos and corresponding emission occurring at the time period having the highest atom density from recombination of the plasma in the pinch. A possible explanation for the anomalous afterglow of He II emission and the intensity inversion of He II (30.4 nm) &gt; He I (58.43 nm) involves He + as a hydrino catalyst that forms He 2+ in the process. Specifically, He + reacts with trace H contamination to form hydrinos and He 2+ ions that recombine to give He II emission for a prolonged time due to the catalytic nature of the energetic reaction.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. (Color online) Experimental setup for the high-voltage pulsed discharge cell. The source emits its light spectra through an entrance aperture passing through a slit, with the spectra dispersed off a grazing-incidence grating onto a CCD detection system.</figDesc><graphic coords="2,107.06,91.71,380.70,199.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>2, 17.5, 19.35, 20, 25.4 nm) and well characterized atomic and ionic lines (O VI 15.0 and 17.3 nm, O V 19.3 nm, N V 18.61 and 24.77 nm, He I 53.7 nm and 58.43 nm, He II 24.3, 25.63, and 30.4 nm) wherein the photon emitting time spectra were acquired by a multichannel scaling (MCS) card (Ortek MCS-pci). Rather than use the e-beam trigger, the intrinsic time cycle due to the capacitor-charging constant from zero volts to the next breakdown threshold and pulse discharge comprised a self-trigger used to gate the MCS card to</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. (Color online) Experimental setup for time-resolved studies of the high-voltage pulsed discharge cell emission. The temporal recording of the emission relative to the initiation of the discharge event was achieved by gating the timing of the detection electronics off of the self-triggering event of the plasma discharge having a period set by the capacitor time constant for charging to the threshold followed by breakdown.</figDesc><graphic coords="3,133.78,91.78,326.69,220.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Emission spectra of electron-beam-initiated, high-voltage pulsed discharges in oxygen, nitrogen, helium, and hydrogen. Only known oxygen, nitrogen, and helium ion lines were observed in the absence of a continuum for the corresponding gases in the 10-45 nm range. Continuum radiation was observed for hydrogen only. (a) Pure oxygen plasma. (b) Pure nitrogen plasma. (c) and (d) Pure helium plasma in two wavelength ranges to cover ion (10-45 nm) and atom (45-75 nm) lines. (e) Pure hydrogen plasma.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .Fig. 5 .Fig. 6 .</head><label>456</label><figDesc>Fig. 4. Temporal emission of selected wavelengths of the H continuum radiation produced by a pure 437 mtorr hydrogen high-voltage pulsed plasma relative to the breakdown event at the zero time point. A major portion of the emission occurred after the first 0.2 µs with a 0.1 µs delay. (a) The selected H continuum wavelength was 15.2 nm. (b) The selected H continuum wavelength was 17.5 nm. (c) The selected H continuum wavelength was 19.35 nm.</figDesc><graphic coords="5,306.78,482.12,241.59,172.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Temporal emission of selected helium ion and atom lines produced by a pure 1.36 torr helium high-voltage pulsed plasma relative to the breakdown event at the zero time point. Both He II and He I emission had an extraordinarily long afterglow of &gt;10 µs compared to an emission duration of about &lt;2 µs for all other gases tested, and the emission occurred immediately at breakdown rather than a typical 0.1 µs delay. (a) The selected line was He II at 24.3 nm. (b) The selected line was He II at 25.63 nm. (c) The selected line was He II at 30.4 nm. (d) The selected line was He II at 30.4 nm with a different scale from that in (c). (e) The selected line was He I at 53.7 nm. (F) The selected line was He I at 58.43 nm. (g) The selected line was He I at 58.43 nm with a different scale from that in (F).</figDesc><graphic coords="7,122.89,92.27,348.54,571.93" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Validation of the Observation of Soft X-ray Continuum Radiation from Low Energy Pinch Discharges in the Presence of Molecular Hydrogen</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bykanov</surname></persName>
+		</author>
+		<ptr target="www.blacklightpower.com/pdf/GEN3_Harvard.pdf" />
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">A. Bykanov, Validation of the Observation of Soft X-ray Continuum Radiation from Low Energy Pinch Discharges in the Presence of Molecular Hydrogen, www.blacklightpower.com/pdf/GEN3_Harvard.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hydrogen Energy</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">8446</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R.L. Mills, Y. Lu, Int. J. Hydrogen Energy 35, 8446 (2010)</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Akhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cent. Eur. J. Phys</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">318</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R.L. Mills, Y. Lu, K. Akhar, Cent. Eur. J. Phys. 8, 318 (2010)</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Master&apos;s Thesis: EUV spectroscopy of hydrogen plasmas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F H</forename><surname>Van Gessel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Group of Elementary Processes in Gas Discharges</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">09</biblScope>
+			<biblScope unit="page" from="61" to="70" />
+		</imprint>
+		<respStmt>
+			<orgName>Eindhoven University of Technology, Department of Applied Physics</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">A.F.H. van Gessel, Master&apos;s Thesis: EUV spectroscopy of hydrogen plasmas, 2009, Eindhoven University of Technology, Department of Applied Physics, Group of Elementary Processes in Gas Discharges, EPG 09-02, pp. 61-70</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Levine</surname></persName>
+		</author>
+		<title level="m">Physical Chemistry</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill Book Company</publisher>
+			<date type="published" when="1978">1978</date>
+			<biblScope unit="page">421</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Levine, Physical Chemistry (McGraw-Hill Book Company, New York, 1978), pp. 420, 421</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schriever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rosier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Neff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Opt</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">5413</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Bergmann, G. Schriever, O. Rosier, M. Muller, W. Neff, R. Lebert, Appl. Opt. 38, 5413 (1999)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

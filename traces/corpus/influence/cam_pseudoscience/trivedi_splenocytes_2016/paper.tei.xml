@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">An Impact of the Trivedi Effect® -Biofield Energy Healing on Herbomineral Formulation for Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-12-08">December 8, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kumar</forename><surname>Mahendra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alice</forename><surname>Trivedi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dahryn</forename><surname>Branton</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gopal</forename><surname>Trivedi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alan</forename><forename type="middle">Joseph</forename><surname>Nayak</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dimitrius</forename><surname>Balmer</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Anagnos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Patricia</forename><surname>Janice</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joni</forename><forename type="middle">Marie</forename><surname>Kinney</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joy</forename><forename type="middle">Angevin</forename><surname>Holling</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lauree</forename><forename type="middle">Ann</forename><surname>Balmer</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Duprey-Reed</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mahendra</forename><forename type="middle">Kumar</forename><surname>Trivedi</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alice</forename><surname>Branton</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dahryn</forename><surname>Trivedi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gopal</forename><surname>Nayak</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alan</forename><forename type="middle">Joseph</forename><surname>Balmer</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dimitrius</forename><surname>Anagnos</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Janice</forename><forename type="middle">Patricia</forename><surname>Kinney</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joni</forename><forename type="middle">Marie</forename><surname>Holling</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joy</forename><forename type="middle">Angevin</forename><surname>Balmer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lauree</forename><forename type="middle">Ann</forename><surname>Duprey-Reed</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vaibhav</forename><forename type="middle">Rajan</forename><surname>Parulkar</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mayank</forename><surname>Gangwar</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Trivedi Science Research Laboratory Pvt. Ltd. , Bhopal , Madhya Pradesh , India</note>
+								<orgName type="institution">Trivedi Science Research Laboratory Pvt. Ltd</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<region>Madhya Pradesh</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Snehasis</forename><surname>Jana</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Trivedi Global, Inc. , Henderson , Nevada , USA</note>
+								<orgName type="institution">Trivedi Global, Inc</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Trivedi Science Research Laboratory Pvt. Ltd. , Bhopal , Madhya Pradesh , India</note>
+								<orgName type="institution">Trivedi Science Research Laboratory Pvt. Ltd</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<region>Madhya Pradesh</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joni</forename><forename type="middle">Marie</forename><surname>Kinney</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joy</forename><forename type="middle">Angevin</forename><surname>Holling</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Balmer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mahendra</forename><surname>Kumar</surname></persName>
+						</author>
+						<title level="a" type="main">An Impact of the Trivedi Effect® -Biofield Energy Healing on Herbomineral Formulation for Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2329-0870 (Print)</idno>
+						<imprint>
+							<date type="published" when="2016-12-08">December 8, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5B57BFFDA467A820E7F0FF99E0178563</idno>
+					<idno type="DOI">10.11648/j.ab.20160406.12</idno>
+					<note type="submission">Submitted on 16 Dec 2016 Received: November 18, 2016; Accepted: November 28, 2016;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-04-11T18:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0c5e0cf</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Biofield Energy Healing Treatment</term>
+					<term>Biofield Energy Healers</term>
+					<term>The Trivedi Effect ®</term>
+					<term>Immune-Modulation</term>
+					<term>Pro-inflammatory Cytokines</term>
+					<term>Splenocytes</term>
+					<term>TNF-α</term>
+					<term>MIP-1α</term>
+					<term>IL-1β</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The traditional systems of medicine widely use herbal drugs for many biological activities, but there are limited experimental studies based upon herbomineral formulations that combine herbs or plant extracts with minerals. Medicinal plants and minerals have been widely reported to have many healing properties including anti-inflammatory, anti-diabetic, and anti-stress activities, as well as improving overall health and the immune system <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. The immunomodulatory activity of herbal medicine can be potentiated with the presence of important minerals. These combination products are rapidly gaining attention due to their low toxicity and better bioavailability <ref type="bibr" target="#b2">[3]</ref>. A newly formulated herbomineral formulation with improved immunomodulatory activity could be an advancement for pharmaceutical companies with respect to nutritional supplements. However, significant antiinflammatory activity is always an important target for any new herbomineral formulation <ref type="bibr" target="#b3">[4]</ref>. Although the global market has different anti-inflammatory, analgesic, and immunomodulatory potential formulations with high efficacy, they are unfortunately unsuitable for many patients due to their limited potency, less tolerance, and adverse effects, etc. In the search of some novel formulation, a new proprietary herbomineral formulation was formulated using the root extract of the important medicinal plant Withania somnifera (ashwagandha), along with three minerals viz. zinc chloride, magnesium gluconate, and sodium selenate. The beneficial effects of the test formulation might be attributed to the immunomodulatory potential of each of the individual components <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. For example, ashwagandha belongs to the family Solanaceae and is commonly used in alternative therapies for its immunomodulatory, antitumor, and antibacterial effects, and much more. This is due to the presence of pharmacologically active molecules like withanolides <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. Additionally, it has been welldocumented that minerals such as selenium, zinc, and magnesium have significant importance in the modulation of the immune system and have been found to have strong immunomodulatory potential <ref type="bibr" target="#b5">[6]</ref>. These formulations can be used for better therapeutic effect in immune compromised patients affected with cardiovascular diseases, age and stress related diseases, cancer, and autoimmune disorders. Along with the herbomineral formulations, the Biofield Energy Healers in this study have used energy medicine (Biofield Energy Healing Treatment) as a complementary and alternative approach to study the impact of Biofield Energy Treatment on the herbomineral formulation for its immunomodulatory potential with respect to the proinflammatory cytokines in splenocyte cells isolated from the biofield energy treated mice.</p><p>Amidst the broad field of Complementary and Alternative Medicine (CAM), there have been a substantial amount of scientific reports that show the beneficial effects of Biofield Energy Healing Therapy. However, the effect of Biofield Energy Treatment showed beneficial results to enhance the immune function of cervical cancer patients using therapeutic touch <ref type="bibr" target="#b11">[12]</ref>, massage therapy <ref type="bibr" target="#b12">[13]</ref>, etc. Biofield Energy Therapies have been practiced worldwide recently with significant therapeutic outcomes, such as enhanced personal well-being in the case of cancer patients <ref type="bibr" target="#b13">[14]</ref>, improved functional ability in arthritis patients <ref type="bibr" target="#b14">[15]</ref>, and decreased pain and anxiety <ref type="bibr" target="#b15">[16]</ref>.</p><p>The National Center of Complementary and Integrative Health (NCCIH) has recognized and accepted Biofield Energy Healing as a complementary and alternative medicine (CAM) health care approach in addition to other therapies, medicines and practices such as naturopathy, natural products, homeopathy, mindfulness, meditation, yoga, deep breathing, Tai Chi, Reiki, Qi Gong, chiropractic/osteopathic manipulation, massage, special diets, progressive relaxation, guided imagery, cranial sacral therapy acupressure,</p><p>acupuncture, relaxation techniques, hypnotherapy, rolfing structural integration, movement therapy, pilates, Ayurvedic medicine, traditional Chinese herbs and medicines, healing touch, essential oils, aromatherapy, and applied prayer (as is common in all religions, like Buddhism, Christianity Hinduism, Judaism and Buddhism). Human Biofield Energy has subtle energy that has the capacity to work in an effective manner <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. Biofield Energy Healing Treatment (The Trivedi Effect ® ) had significant impact in the transformation of living organisms and nonliving materials such as medical science <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>, microbiology <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>, genetics and biotechnology <ref type="bibr" target="#b24">[25,</ref><ref type="bibr" target="#b25">26]</ref>, nutraceuticals <ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref>, agricultural science and livestock <ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref>, and materials science <ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref>.</p><p>This experiment was designed to evaluate the impact of Biofield Energy Healing (The Trivedi Effect ® ) Treatment on the new herbomineral formulation for immunomodulatory potential after co-incubation with the isolated splenocyte cells from the Biofield Energy Treated mice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Chemicals and Reagents</head><p>The test formulation component ashwagandha (Withania somnifera) root extract powder (≥ 5% of total withanolides) was procured from Sanat Products Ltd., India. Zinc chloride and magnesium (II) gluconate hydrate were procured from Tokyo Chemical Industry Co., Ltd. (TCI), Japan. Sodium selenate was procured from Alfa Aesar, USA. Other experimental chemicals such as lipopolysaccharide (LPS), 3-(4, 5-diamethyl-2-thiazolyl) 2, 5 diphenyl-2 H-tetrazolium) (MTT), Roswell Park Memorial Institute (RPMI-1640), Lglutamine, penicillin, streptomycin, 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES), 2-mercaptoethanol, concanavalin A (Con-A), rapamycin, NaHCO 3 , and EDTA were purchased from Sigma Chemical Corp. (St. Louis, MO), a subsidiary of Sigma-Aldrich Corporation. ELISA (enzymelink immunosorbent assay) assay kits for all cytokines tumor necrosis factor alpha (TNF-α), macrophage inflammatory protein-1α (MIP-1α), and interleukin-1 beta (IL-1β) were purchased from R&amp;D systems, USA. Fetal bovine serum (FBS) was purchased from GIBCO, USA. All other chemicals used in the experiment were of analytical grade available in India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Test Formulation and Reference Standard</head><p>The test formulation comprised of a combination of four ingredients viz. ashwagandha root powder extract, zinc chloride, sodium selenate, and magnesium gluconate. LPS was used as an inflammatory stimulant, while Con-A and rapamycin were used as the reference standard (positive control) for immunostimulatory and immunosuppressive action, respectively in the splenocyte assay.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Experimental Animal</head><p>C57BL/6 male mice (8 weeks old, 22 gm body weight) were purchased from Vivo Bio Tech Ltd., Hyderabad, India and acclimatized for one week prior to the experiments. The mice were maintained under controlled conditions with a temperature of 22 ± 3°C, humidity of 30% to 70% and a 12 hours of light or 12 of hours dark cycle and rodent laboratory diet and drinking tap water were provided ad libitum. All the procedures were in strict accordance with the Guide for the Care and Use of Laboratory Animals published by the US National Institutes of Health. The approval of the Institutional Animal Ethics Committee was obtained prior to carrying out the animal experiment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Biofield Energy Healing Strategies</head><p>The herbomineral test formulation was divided into two parts. One part of the herbomineral formulation did not receive any sort of treatment and was defined as the control group, while another part received the Biofield Energy Treatment and was defined as the Biofield Treated test formulation. Further, one group of mice received the Biofield Energy Treatment per se by the Biofield Energy Healers under similar conditions, which were used to isolate the splenocyte cells as per the study design (Figure <ref type="figure" target="#fig_0">1</ref>). These isolated splenocyte cells were known as the Biofield Treated splenocyte cells. The Biofield Energy Healing Treatment (The Trivedi Effect ® ) was provided by the group of seven Biofield Energy Healers, six of which were remotely located in the U.S.A. and one of which was remotely located in Canada, while the test formulation was located in the research laboratory of Dabur Research Foundation near New Delhi in Ghaziabad, India, and kept under standard laboratory conditions. This treatment was provided for 5 minutes through the Biofield Energy Healers' unique Energy Transmission process (The Trivedi Effect ® ), administered remotely to the test formulation. Similarly, the control sample was subjected to "sham" healers under the same laboratory conditions for 5 minutes. The sham healer did not have any knowledge about the Biofield Energy Treatment. After that, the Biofield Energy Treated and untreated samples were kept in similar sealed conditions and used for the in vitro study on splenocyte cells for cytokines estimation. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Experimental Design</head><p>The experimental study was divided into 7 groups. Group 1 consisted of splenocyte cells isolated from the Biofield Energy Treated animal without LPS and was denoted as the negative control. Group 2 served as a stimulant group that included similar cells with LPS. Group 3 included the same isolated splenocyte cells with LPS along with the vehicle (0.005% DMSO) and was denoted as the vehicle control. Groups 4 and 5 were defined as the positive controls i.e. Con-A (0.5 µg/mL) and rapamycin (1 nM and 10 nM), respectively. Group 6 and 7 were denoted as the test item groups that included splenocyte cells (isolated from the Biofield Energy Treated animal) with LPS along with the untreated and Biofield Energy Treated test formulation, respectively at concentrations 0.00001053 to 10.53 µg/mL. After 48 hours of incubation, supernatants were analyzed for the secreted levels of TNF-α, MIP-1α, and IL-1β using ELISA (enzyme-linked immunosorbent assay) as per the manufacturer's instructions. Concentrations were determined in triplicate wells of each sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Isolation of Murine Splenocytes</head><p>The Biofield Energy Treated C57BL/6 male mice were sacrificed and their spleens were aseptically removed and ground by passing through a sterile plastic strainer under Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes aseptic conditions. After the cells were centrifuged twice at 1000 g for 5 minutes, erythrocytes were lysed by lysis buffer (0.15 M NH 4 Cl, 0.01 M NaHCO 3 , and 0.1 mM EDTA, pH 7.4) and then the cell pellets were washed twice with RPMI-1640 medium. Further, the cells were resuspended in complete RPMI-1640 medium (RPMI 1640 medium plus 10% fetal bovine serum, 2 mM glutamine, 100 IU/mL of penicillin and streptomycin, 15 mM HEPES and 50 mM 2mercaptoethanol). The cell counts were performed using a hemocytometer and cell viability was determined using the trypan-blue dye exclusion technique with the results showing ≥95% of viable cells. The cells were cultured in 96-well tissue culture plates with 0.2 x 10 6 cells per well. They were incubated at 37°C in a humidified atmosphere of 5% CO 2 for the indicated period <ref type="bibr" target="#b35">[36]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Cell Culture and Test Item Treatment</head><p>The splenocyte (0.2 x 10 6 cells per well) cells isolated from the Biofield Energy Treated mice were grown in 96well culture plates using RPMI-1640 medium supplemented with 10% FBS, 100 units/mL of penicillin, and 100 µg/mL of streptomycin. LPS (50 ng/mL) induced splenocyte cells cultures were grown for 48 hours at 37°C in a humidified CO 2 incubator (5% CO 2 ). The effect of cytotoxicity of the test formulation was tested by treating cells with different concentrations of the test formulation in RPMI-1640 medium. The various concentrations of the test formulation were used i.e. 0.00001053 µg/mL to 10.53 µg/mL in the presence of inflammatory stimulus (LPS) for cell viability assay. The respective vehicle controls (DMSO) were kept in the assay for comparison.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8.">Cytotoxicity by MTT Assay</head><p>The effect of the test formulation at the concentration range of 0.00001053 µg/mL to 10.53 µg/mL was tested for cell viability assay using 3-(4,5-dimethythiazol-2-yl)-2,5diphenyl tetrazolium bromide (MTT) assay. The number of viable cells were determined by the ability of mitochondria to convert MTT to formazan dye. Splenocyte cells isolated from the Biofield Energy Treated mice were cultured overnight in 96-well plates, at a density of 0.2 x 10 6 cells per well. After treatment with the test formulation and incubation period, the medium was removed. 20 µL of 5 mg/mL MTT was then added to each well and incubated for 3 hours further at 37ºC in a humidified 5% CO 2 atmosphere. The cells were centrifuged and supernatants were removed. The cell pellets in each well were resuspended in 150 µL of DMSO to dissolve formazan crystals. The optical density of each well was read at 540 nm using BioTek Reader (SIAFRT/Synergy HT multimode reader, US).</p><p>The effect of the test formulation on the cell viability of splenocyte cells was determined as equation ( <ref type="formula">1</ref> The concentration that resulted in &gt;72% viability was selected for subsequent cytokine estimation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.9.">Determination of Cytokines (TNF-Α and IL-1β) and Chemokine (MIP-1α) Using ELISA</head><p>The in-vitro activity of the test formulations was estimated on the mice splenocyte cells for the production of TNF-α, MIP-1α, and IL-1β using enzyme-linked immunosorbent assay (ELISA). The ELISA plates were coated with an antibody in a coating buffer at the recommended concentration and kept overnight at 4°C. After washing with PBS-T (PBS with 0.05% Tween 20), the plates were blocked with assay diluent for at least 2 hours at room temperature. A total of 100 µL culture supernatant from different experimental samples and standards were incubated overnight at 4°C and, after three washes, biotinylated antimice cytokine (TNF-α, MIP-1α, and IL-1β) antibodies at the recommended concentrations were incubated for 1 hour at room temperature and the plates were incubated for 45 minutes at room temperature with gentle shaking. The plates were again washed 3 times and then 100 µL of horseradish per-oxidase (HRP)-streptavidin conjugate solution was added and the plates were incubated for 45 minutes at room temperature with gentle shaking. Next, the plate wells were washed 3 times as previous and 100 µL of 3,3,5,5'tetramethylbenzidine (TMB) one-step substrate reagent was added, followed by a 30-minute incubation at room temperature in the dark. Further, 50 µL of 0.2 mole/L sulphuric acid was added to each well to stop the reaction and the plates were read for absorbance at 450 nm using a BioTek Reader (SIAFRT/Synergy HT multimode reader). Standards were run in parallel to the samples, and the concentrations were determined in triplicates for each sample <ref type="bibr" target="#b36">[37]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.10.">Statistical Analysis</head><p>Data were expressed as mean ± SEM and were subjected to Student's t-test for two group comparison. Statistical significance was considered at p≤0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">MTT Assay on Splenocyte Cells</head><p>The splenocyte cells isolated from the Biofield Energy Treated mice were studied for viability assay after exposure of the test formulation using MTT cell viability assay after 48 hours of incubation. The cell viability results are summarized in Figure <ref type="figure">2</ref>. The results showed the % cell viability was altered after the Biofield Energy Healing Treatment in all the tested concentrations of the herbomineral test formulation.</p><p>The untreated cells isolated from the Biofield Treated mice, LPS, and Con-A group showed 100%, 187.44%, and 160.47% cell viability, respectively, while the positive control (rapamycin) group showed percentage cell viability as 81.30% and 78.70% at concentrations 1 and 10 nM, respectively in the presence of LPS (0.5 µg/mL). Con-A and rapamycin showed immunostimulatory and immunosuppressive action, respectively, and were used as positive controls in the experiment. The test formulation concentrations range from 0.00001053 to 10.53 µg/mL were selected for the cell viability assay on the Biofield Treated splenocyte cells, and concentrations up to 1.053 µg/mL were found to be safe with percentage viability ranging from 72.91% to 97.54%. Out of the six tested concentrations, the cell viability was increased by 3.17%, 5.07%, 2.77%, and 6.61% in the Biofield Treated test formulation i.e. at 0.0001053, 0.01053, 0.1053, and 1.053 µg/mL, respectively, while two concentrations showed decreased cell viability at 0.00001053 and 0.01053 µg/mL with respect to the untreated test formulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 2. MTT assay in splenocyte cells (isolated from the Biofield Treated mice) after 48 hours of treatment with different test formulation concentrations in the presence of 0.5 µg/mL LPS. The absorbance of the MTT formazan was determined at 540 nm in an ELISA reader. Cell viability was defined as the absorbance ratio (expressed as a percentage) of the test formulation treated cells relative to the untreated vehicle control group.</head><p>MTT assay suggests that the concentrations of the test formulation were found safe up to 1.053 µg/mL with respect to the viability of splenocyte cells. However, the viability percentage was significantly increased after the Biofield Energy Treatment on the test formulation. This cell viability assay defines metabolic activity by evaluating the activity of succinate dehydrogenase, a mitochondrial enzyme. MTT assay is widely used in the in vitro evaluation of the cell toxicity for any test formulations, and is regarded as a more rapid, less costly, less time consuming, and non-radioactive method as compared with the other assays. This assay displays cell proliferation results on the basis of cell growth and metabolic activity <ref type="bibr" target="#b37">[38]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Effect of the Biofield Energy Treated Test Formulation on Cytokines Expression (TNF-α and IL-1β) and Chemokine (MIP-1α) in Biofield Treated Mouse Splenocyte Cells</head><p>The effect of the test formulation was evaluated for proinflammatory cytokines and chemokines levels in the Biofield Treated splenocyte cells. Pro-inflammatory cytokines and chemokines play important roles in inflammation, immune modulation, and lymphocyte activation. Therefore, six concentrations were examined for the expression of TNF-α, MIP-1α and IL-1β in the splenocyte cells isolated from the Biofield Treated animals. The effect of the test formulation on pro-inflammatory cytokines was estimated after 48 hours of incubation with the test formulation using ELISA assay.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.1.">Estimation of TNF-α Expression</head><p>The results of TNF-α expression in the splenocyte cells of the Biofield Treated mice with respect to the test formulation are represented in Figure <ref type="figure" target="#fig_2">3</ref>. At all the tested concentrations, both the untreated and Biofield Energy Treated formulation groups showed altered expressions of TNF-α. The untreated cells, LPS, Con-A, and vehicle control groups showed values of TNF-α as 100. <ref type="bibr">14, 191.24, 255</ref>.60, and 208.19 pg/mL, respectively. At two different concentrations i.e. at 1 and 10 nM, the rapamycin group showed TNF-α expression as 158.48 and 184.91 pg/mL, respectively.</p><p>However, the Biofield Energy Treated test formulation showed increases in the expression of TNF-α at five concentrations as compared with the untreated formulation. The significant alterations (p≤0.01) were reported in the Biofield Energy Treated formulation at concentrations 0.01053 and 1.053 µg/mL, and the levels were increased by 53.67% and 25.62%, respectively in comparison to the untreated test formulation. At concentration 0.1053 µg/mL, TNF-α was found to be suppressed by 16.72% in the Biofield Energy Treated formulation as compared with the untreated test formulation. On the other hand, the decreased expression of TNF-α in the untreated formulation group with respect to the vehicle control was reported at 0.00001053, 0.001053, 0.01053, and 1.053 µg/mL by 7.18%, 19.05%, 6.90%, and 19.18%, respectively. The Biofield Energy Treated formulation group showed suppression of TNF-α expression by 4.0% and 8.56% at 0.001053 and 0.1053 µg/mL, respectively as compared with the vehicle control. Overall, the test formulation showed immunosuppressive effect by inhibiting the concentration of TNF-α as compared with the vehicle control at four out of six tested concentrations. The Biofield Energy Treatment showed significant effect in altering the level of TNF-α as compared to the untreated test formulation.</p><p>Overall, it can be concluded that the Biofield Energy Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes Healing Treatment potentiated the TNF-α inhibition, and showed immunosuppressive activity mainly at higher concentrations. TNF-α plays a major role in immune disorders and is also defined as a controlling factor for many other diseases <ref type="bibr" target="#b38">[39]</ref>. Thus, it can be suggested that the Biofield Treated test formulation can be used in many inflammatory disorders and autoimmune diseases. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2.">Estimation of MIP-1α Expression</head><p>The expression of MIP-1α on splenocyte cells isolated from the Biofield Energy Treated animals after exposure to the test formulation is shown in Figure <ref type="figure" target="#fig_3">4</ref>. The results showed that MIP-1α secretion was inhibited in the presence of the test formulation as compared with the vehicle control group. However, the comparative effect of the test formulation on MIP-1α secretion in splenocyte cells showed significant alteration at all the tested concentrations. The untreated cells, LPS, Con-A, and vehicle control group showed values of MIP-1α as 88.32 ± 9.5, 988.32 ± 52.16, 337.93 ± 40.90, and 1548.21 ± 54.73 pg/mL, respectively. However, the rapamycin at two different concentrations i.e. at 1 and 10 nM showed MIP-1α expression as 1083.43 and 1168.78 pg/mL, respectively. The untreated test formulation showed significant inhibition of MIP-1α secretion at 5 tested concentrations i.e. at 0.00001053, 0.0001053, 0.001053, 0.1053, and 1.053 µg/mL by 9.89%, 9.89%, 15.69%, 2.94%, and 36.21%, respectively as compared to the vehicle control group. However, the Biofield Energy Treated test formulation showed suppression of MIP-1α in all the tested concentration i.e. 0.00001053, 0.0001053, 0.001053, 0.01053, 0.1053 and 1.053 µg/mL by 8.43%, 22.02%, 21.92%, 20.54%, 5.40%, and 19.82%, respectively as compared with the vehicle control group. The Biofield Energy Healing Treatment enhanced the immunosuppressive property of the test formulation in comparison with the untreated test formulation. Data suggest that the Biofield Energy Treated test formulation showed significant suppression of MIP-1α in 4 tested concentrations out of 6, i.e. 0.0001053, 0.001053, 0.01053, and 0.1053 µg/mL by 13.50%, 7.38%, 36.83% (p≤0.001), and 2.53%, respectively as compared with the untreated test formulation. This suggests that the level of MIP-1α was inhibited at all the Biofield Energy Treated test formulation concentrations with respect to the vehicle control and showed significant inhibition up to 36.83% with respect to the untreated test formulation. The scientific reports suggest that the reduction of MIP-1α would be beneficial in minimizing the inflammatory responses in several diseases <ref type="bibr" target="#b39">[40]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.3.">Estimation of IL-1β Expression</head><p>The expression of IL-1β in the presence of the test formulation is presented in The untreated test formulation showed significant inhibition of IL-1β secretion in four tested concentrations i.e. at 0.00001053, 0.001053, 0.1053, and 1.053 µg/mL by 22.94%, 23.07%, 38.71%, and 56.08%, respectively as compared with the vehicle control group. However, the Biofield Energy Treated test formulation group reported with inhibition of IL-1β secretion at four tested concentrations by 22.94%, 23.07%, 38.71%, and 54.65% at 0.00001053, 0.001053, 0.1053, and 1.053 µg/mL, respectively as compared with the vehicle control group. The comparative results suggest that the Biofield Energy Treatment significantly improved the immunosuppressive property of the test formulation at four concentrations as compared to the untreated test formulation. The significant inhibition of IL-1β secretion after the Biofield Treatment was reported at concentrations 0.0001053, 0.001053, 0.01053, and 0.01053 µg/mL by 32.40%, 14.99%, 60.42%, and 15.15%, respectively as compared with the untreated formulation. Overall, the results suggest that better immunosuppressive activity was reported at higher concentrations as compared to lower concentrations of the test formulation. The expression of IL-1β was decreased in the Biofield Energy Treated formulation at all the concentrations, except at concentration 0.00001053 µg/mL. The immunological and inflammatory functions of IL-1β in controlling the immune response during infections are well-defined <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b41">42]</ref>. Overall, the inhibitory effect might be the result of specific inhibition of NF-κB, a transcription factor involved in the activation of many inflammatory mediator genes.</p><p>Herbomineral products have been reported to have beneficial results with minimal side effects in various diseases such as diabetes, indigestion, inflammation of the intestine, osteomalacia, blood disorders, infertility, potent revitalizer, etc. <ref type="bibr" target="#b42">[43]</ref>. Due to its high safety profile and therapeutic effect, the scope of herbal and alternative and complimentary medicine has vastly increased worldwide <ref type="bibr" target="#b43">[44]</ref>. Each of the individual components comprising the test formulation have been scientifically reported to have immunomodulatory effects. Ashwagandha is reported to inhibit the NF-κB and AP-1 transcription factors <ref type="bibr" target="#b44">[45]</ref>. Minerals such as zinc directly influence the cytokines (IL-2, IL-6, IL-1β, and TNF-α) generation, in cases of deficiency <ref type="bibr" target="#b45">[46]</ref>. Magnesium also affects the cytokines generation by activation of NF-κB, which has proven to be effective in inflammatory diseases <ref type="bibr" target="#b46">[47]</ref>. Selenium plays an important role in inflammation by modulating the leukocytes effector functions like cytokines secretion, migration, adherence, and phagocytosis <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref>. When applied to herbomineral formulations, Biofield Energy Healing Treatments can be a novel approach for immunosuppressive action. Overall, the</p><p>Mahendra Kumar Trivedi et al.: An Impact of the Trivedi Effect ® -Biofield Energy Healing on Herbomineral Formulation for Immunomodulation of Pro-inflammatory Cytokines in Biofield Treated Mouse Splenocytes effect of the Biofield Energy Treated herbomineral formulation showed immunosuppressive effect on the level of tested cytokines and chemokines (TNF-α, IL-1β, and MIP-1α) in splenocyte cells isolated from the Biofield Energy Treated mice, which supports the use of Biofield Energy Treated test formulation for various types of autoimmune disorders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>Based on the current findings of this study, the splenocyte cells isolated from the Biofield Energy Treated mice showed significant immunosuppressive effect on the tested cytokines (TNF-α, MIP-1α, and IL-1β) after administration of the Biofield Treated test formulation as compared with the untreated test formulation. MTT assay in the Biofield Treated splenocyte cells suggest that the Biofield Energy Treated formulation increased the cell viability by 3.17%, 5.07%, 2.77%, and 6.61% at 0.0001053, 0.01053, 0.1053, and 1.053 µg/mL, respectively as compared with the untreated test formulation. Further, the levels of cytokines were significantly suppressed in the Biofield Energy Treated test formulation group. TNF-α level was significantly inhibited by 16.72% at 0.1053 µg/mL in the Biofield Treated test formulation as compared with the untreated test formulation. However, the Biofield Energy Treated formulation group also showed low levels of TNF-α expression by 4.0% and 8.56% at 0.001053 and 0.1053 µg/mL, respectively as compared with the vehicle control group. In the case of MIP-1α, the Biofield Energy Treated test formulation showed significant suppression by 13.50%, 7.38%, 36.83% (p≤0.001), and 2.53% at 0.0001053, 0.001053, 0.01053, and 0.1053 µg/mL, respectively as compared with the untreated test formulation. Besides, the levels of MIP-1α were also downregulated in all the tested concentrations of the test formulation by 8.43%, 22.02%, 21.92%, 20.54%, 5.40%, and 19.82% at 0.00001053, 0.0001053, 0.001053, 0.01053, 0.1053 and 1.053 µg/mL, respectively as compared with the vehicle control group. Suppression of IL-1β expression was also reported in the Biofield Energy Treated test formulation group by 32.40%, 14.99%, 60.42% (p≤0.05), and 15.15% at 0.0001053, 0.001053, 0.01053, and 0.01053 µg/mL, respectively as compared with the untreated formulation.</p><p>On the basis of the experimental results of the various tested cytokines and their expression, significant immunosuppressive activity was reported in the new herbomineral formulation after treatment with The Trivedi Effect ® -Biofield Energy Healing (TEBEH) by the group of seven renowned Biofield Energy Healers. The Biofield Energy Treated test formulation can be used as an effective Complementary and Alternative Medicine (CAM) approach to prevent and treat immune-mediated diseases such as Irritable Bowel Syndrome, Rheumatoid arthritis, Ulcerative colitis and Crohn's disease, Stress, Asthma, and many more, with a safe therapeutic index. Biofield Energy Healing Treatments can also be utilized in organ transplants (for example kidney transplants, liver transplants and heart transplants), various autoimmune disorders such as Lupus, Addison Disease, Celiac Disease (gluten-sensitive enteropathy), Dermatomyositis, Graves' Disease, Hashimoto Thyroiditis, Multiple Sclerosis (MS), Myasthenia Gravis, Pernicious Anemia, Aplastic Anemia, Sjogren Syndrome, Systemic Lupus Erythematosus, Alopecia Areata, Fibromyalgia, Vitiligo, Psoriasis, Scleroderma, Chronic Fatigue Syndrome, Vasculitis, and Type 1 Diabetes. Biofield Energy Healing can also be utilized for the anti-inflammatory disorders, stress prevention and management, anti-aging, and for the improvement of overall health and quality of life.</p><p>Abbreviations: LPS: Lipopolysaccharide; DMSO: Dimethyl sulfoxide; FBS: Fetal bovine serum; MTT: 3-(4,5-Dimethylthiazol-2-yl)-2,5-Diphenyltetrazolium Bromide; PBS: Phosphate buffer saline; ELISA: Enzyme-linked immunosorbent assay; NCCIH: National Center of Complementary and Integrative Health; CAM: Complementary and Alternative Medicine</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Schematic experimental design of the Biofield Energy Healing Treatment.</figDesc><graphic coords="4,309.84,170.04,238.32,243.36" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>): % Cell viability = 100 -% cytotoxicity (1) Where; % cytotoxicity = [(O.D. of control cells -O.D. of cells treated with the test formulation)/O.D. of control cells]*100.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Concentration-dependent effect on TNF-α by test formulation using splenocyte cells isolated from the Biofield Treated animals. For each concentration treatment, the level of TNF-α release was measured after 48-hours of treatment. All values are represented in pg/mL as mean ± SEM (**p≤0.01 as compared with the untreated test formulation).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Concentration-dependent inhibition of LPS mediated production of MIP-1α by the test formulation. For each concentration treatment, the levels of MIP-1α were measured after 48 hours of treatment. The values are represented in pg/mL as mean ± SEM ( *** p≤0.001 as compared with the untreated test formulation).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>The results demonstrated the inhibition of IL-1β after treatment with the Biofield Treated and untreated test formulations as compared with the vehicle control group. However, the comparative effect of the Biofield Treated and untreated test formulations on IL-1β secretion in the Biofield Treated splenocytes showed significant inhibition at 4 out of 6 tested concentrations. The untreated cells, LPS, Con-A, and vehicle control group showed values of IL-1β as 8.18 ± 0.89, 51.65 ± 4.04, 15.40 ± 2.75, and 38.23 ± 3.5 pg/mL, respectively.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Concentration-dependent effect of LPS mediated production of IL-1β by the test formulation. For each concentration treatment, the level of IL-1β release was measured in cell supernatant after 48-hours of treatment. All values are represented in pg/mL as mean ± SEM (*p≤0.05, as compared with the untreated test formulation).</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors are grateful to <rs type="institution">Dabur Research Foundation</rs>, <rs type="institution">Trivedi Science, Trivedi Global, Inc</rs>. and <rs type="person">Trivedi Master Wellness</rs> for their assistance and support during this work.</p></div>
+			</div>
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>L'archive ouverte</head></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Regulatory role of mineral elements in the metabolism of medicinal plants</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rastogi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shukla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicinal and Aromatic Plant Science and Biotechnology</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Naeem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Mma</forename><surname>Khan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Moinuddin</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>(Eds) Mineral nutrition of medicinal and aromatic plants Special Issue 1</note>
+	<note type="raw_reference">Mishra BK, Rastogi A, Shukla S (2012) Regulatory role of mineral elements in the metabolism of medicinal plants. In: Naeem M, Khan MMA, Moinuddin (Eds) Mineral nutrition of medicinal and aromatic plants. Medicinal and Aromatic Plant Science and Biotechnology 6 (Special Issue 1), 1-23</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Natural products as a robust source of new drugs and drug leads: Past successes and present day issues</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Rishton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="43D" to="49D" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rishton GM (2008) Natural products as a robust source of new drugs and drug leads: Past successes and present day issues. Am J Cardiol 101: 43D-49D.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Morinda citrifolia based formulations for regulating T cell immunomodulation in neonatal stock animals</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Darien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Godbee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009. 20090068204</date>
+			<pubPlace>USA Patent</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Darien BJ, Godbee RJ (2009) Morinda citrifolia based formulations for regulating T cell immunomodulation in neonatal stock animals. USA Patent 20090068204.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Health Benefits of Traditional Chinese Plant Medicines: Weighing the Scientific Evidence: A Report for the Rural Industries Research and Development Corporation</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Thomson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>RIRDC</publisher>
+			<pubPlace>Barton, Australia</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomson GE (2007) The Health Benefits of Traditional Chinese Plant Medicines: Weighing the Scientific Evidence: A Report for the Rural Industries Research and Development Corporation, RIRDC, Barton, Australia.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Studies on the immunomodulatory effects of ashwagandha</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ziauddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Phansalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Diwanay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Patwardhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Ethnopharmacol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="69" to="76" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ziauddin M, Phansalkar N, Patki P, Diwanay S, Patwardhan B (1996) Studies on the immunomodulatory effects of ashwagandha. J Ethnopharmacol 50: 69-76.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effects of trace elements on the immune system</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lukác</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Massányi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiol Mikrobiol Imunol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="3" to="9" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lukác N, Massányi P (2007) Effects of trace elements on the immune system. Epidemiol Mikrobiol Imunol 56: 3-9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Magnesium and immune function: An overview</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Galland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Magnesium</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="290" to="299" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Galland L (1998) Magnesium and immune function: An overview. Magnesium 7: 290-299.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Contribution of selected vitamins and trace elements to immune function</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Wintergerst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maggini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hornig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Nutr Metab</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="301" to="323" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wintergerst ES, Maggini S, Hornig DH (2007) Contribution of selected vitamins and trace elements to immune function. Ann Nutr Metab 51: 301-323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Withania somnifera (Ashwagandha): A review</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Girdhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rana</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogn Rev</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="129" to="136" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Girdhari L, Rana A (2007) Withania somnifera (Ashwagandha): A review. Pharmacogn Rev 1: 129-136.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Antibacterial efficacy of Withania somnifera (Ashwagandha) an indigenous medicinal plant against experimental murine salmonellosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Owais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Sharad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shehbaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saleemuddin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytomedicine</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="229" to="235" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Owais M, Sharad KS, Shehbaz A, Saleemuddin M (2005) Antibacterial efficacy of Withania somnifera (Ashwagandha) an indigenous medicinal plant against experimental murine salmonellosis. Phytomedicine 12: 229-235.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">An overview on ashwagandha: A Rasayana (Rejuvenator) of Ayurveda</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bhalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gilca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Afr J Tradit Complement Altern Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="208" to="213" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh N, Bhalla M, de Jager P, Gilca M (2011) An overview on ashwagandha: A Rasayana (Rejuvenator) of Ayurveda. Afr J Tradit Complement Altern Med 8: 208-213.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Preservation of immune function in cervical cancer patients during chemoradiation using a novel integrative approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Lutgendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mullen-Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Degeest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Buekers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Goodheart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Antoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lubaroff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Behav Immun</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1231" to="1240" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lutgendorf SK, Mullen-Houser E, Russell D, Degeest K, Jacobson G, Hart L, Bender D, Anderson B, Buekers TE, Goodheart MJ, Antoni MH, Sood AK, Lubaroff DM (2010) Preservation of immune function in cervical cancer patients during chemoradiation using a novel integrative approach. Brain Behav Immun 24: 1231-1240.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Massage therapy is associated with enhancement of the immune system&apos;s cytotoxic capacity</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ironson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Scafidi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="205" to="217" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ironson G, Field T, Scafidi F (1996) Massage therapy is associated with enhancement of the immune system&apos;s cytotoxic capacity. Int J Neurosci 84: 205-217.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effect of therapeutic touch on the well-being of persons with terminal cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bouchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Holist Nurs</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="383" to="398" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Giasson M, Bouchard L (1998) Effect of therapeutic touch on the well-being of persons with terminal cancer. J Holist Nurs 16: 383-398.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The efficacy of therapeutic touch for improving functional ability in elders with degenerative arthritis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Peck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nurs Sci Q</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peck SD (1998) The efficacy of therapeutic touch for improving functional ability in elders with degenerative arthritis. Nurs Sci Q 11: 123-132.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The effect of therapeutic touch on pain and anxiety in burn patients</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Gauthier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Adv Nurs</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="10" to="20" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Turner JG, Clark AJ, Gauthier DK, Williams M (1998) The effect of therapeutic touch on pain and anxiety in burn patients. J Adv Nurs 28: 10-20.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Complementary and alternative medicine use among adults and children: United States, 2007</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bloom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nahin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natl Health Stat Report</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barnes PM, Bloom B, Nahin RL (2008) Complementary and alternative medicine use among adults and children: United States, 2007. Natl Health Stat Report 12: 1-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The biofield hypothesis: Its biophysical basis and role in medicine</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rubik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Altern Complement Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="703" to="717" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rubik B (2002) The biofield hypothesis: Its biophysical basis and role in medicine. J Altern Complement Med 8: 703-717.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The potential impact of biofield treatment on human brain tumor cells: A time-lapse video microscopy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Integr Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">141</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Mondal SC, Jana S (2015) The potential impact of biofield treatment on human brain tumor cells: A time-lapse video microscopy. J Integr Oncol 4: 141.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">In vitro evaluation of biofield treatment on cancer biomarkers involved in endometrial and prostate cancer cell lines</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cancer Sci Ther</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="253" to="257" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Gangwar M, Jana S (2015) In vitro evaluation of biofield treatment on cancer biomarkers involved in endometrial and prostate cancer cell lines. J Cancer Sci Ther 7: 253-257.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Antibiogram pattern of Shigella flexneri: Effect of biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Air Water Borne Diseases</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">122</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Shettigar H, Mondal SC, Jana S (2015) Antibiogram pattern of Shigella flexneri: Effect of biofield treatment. Air Water Borne Diseases 3: 122.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Antimicrobial susceptibility pattern and biochemical characteristics of Staphylococcus aureus: Impact of biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Microb Biochem Technol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="238" to="241" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Mondal SC, Jana S (2015) Antimicrobial susceptibility pattern and biochemical characteristics of Staphylococcus aureus: Impact of biofield treatment. J Microb Biochem Technol 7: 238-241.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effect of biofield energy treatment on Streptococcus group B: A postpartum pathogen</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Microb Biochem Technol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="269" to="273" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Shettigar H, Mondal SC, Jana S (2015) Effect of biofield energy treatment on Streptococcus group B: A postpartum pathogen. J Microb Biochem Technol 7: 269-273.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Phenotypic and biotypic characterization of Klebsiella oxytoca: An impact of biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shettigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bairwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Microb Biochem Technol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="202" to="205" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Patil S, Shettigar H, Bairwa K, Jana S (2015) Phenotypic and biotypic characterization of Klebsiella oxytoca: An impact of biofield treatment. J Microb Biochem Technol 7: 202-205.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Antimicrobial susceptibility, biochemical characterization and molecular typing of biofield treated Klebsiella pneumoniae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Health Med Inform</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">206</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Gangwar M, Jana S (2015) Antimicrobial susceptibility, biochemical characterization and molecular typing of biofield treated Klebsiella pneumoniae. J Health Med Inform 6: 206.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Antibiogram, biochemical reactions, and genotypic pattern of biofield treated Pseudomonas aeruginosa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Trop Dis</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">181</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2015) Antibiogram, biochemical reactions, and genotypic pattern of biofield treated Pseudomonas aeruginosa. J Trop Dis 4: 181.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Biofield treatment: A potential strategy for modification of physical and thermal properties of gluten hydrolysate and ipomoea macroelements</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr Food Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">414</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Tallapragada RM, Branton A, Trivedi D, Nayak G, Mishra R, Jana S (2015) Biofield treatment: A potential strategy for modification of physical and thermal properties of gluten hydrolysate and ipomoea macroelements. J Nutr Food Sci 5: 414.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Biofield treatment: An effective strategy to improve the quality of beef extract and meat infusion powder</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mishra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr Food Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">389</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Nayak G, Patil S, Tallapragada RM, Jana S, Mishra R (2015) Biofield treatment: An effective strategy to improve the quality of beef extract and meat infusion powder. J Nutr Food Sci 5: 389.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Morphological and molecular analysis using RAPD in biofield treated sponge and bitter gourd</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agriculture and Forestry</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="264" to="270" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2015) Morphological and molecular analysis using RAPD in biofield treated sponge and bitter gourd. American Journal of Agriculture and Forestry 3: 264-270.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effect of biofield energy treatment on chlorophyll content, pathological study, and molecular analysis of cashew plant (Anacardium occidentale L.)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Plant Sciences</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="372" to="382" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2015) Effect of biofield energy treatment on chlorophyll content, pathological study, and molecular analysis of cashew plant (Anacardium occidentale L.). Journal of Plant Sciences 3: 372-382.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Molecular analysis of biofield treated eggplant and watermelon crops</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gangwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Crop Sci Tech</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">208</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Gangwar M, Jana S (2016) Molecular analysis of biofield treated eggplant and watermelon crops. Adv Crop Sci Tech 4: 208.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of biofield treated energized water on the growth and health status in chicken (Gallus gallus domesticus)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poult Fish Wildl Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">140</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Branton A, Trivedi D, Nayak G, Mondal SC, Jana S (2015) Effect of biofield treated energized water on the growth and health status in chicken (Gallus gallus domesticus). Poult Fish Wildl Sci 3: 140.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">An evaluation of biofield treatment on thermal, physical and structural properties of cadmium powder</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thermodyn Catal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">147</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Nayak G, Patil S, Tallapragada RM, Latiyal O, Jana S (2015) An evaluation of biofield treatment on thermal, physical and structural properties of cadmium powder. J Thermodyn Catal 6: 147.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Effect of biofield energy treatment on physical and structural properties of calcium carbide and praseodymium oxide</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Materials Science and Applications</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="390" to="395" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Nayak G, Patil S, Tallapragada RM, Latiyal O, Jana S (2015) Effect of biofield energy treatment on physical and structural properties of calcium carbide and praseodymium oxide. International Journal of Materials Science and Applications 4: 390-395.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Characterization of physical, thermal and structural properties of chromium (VI) oxide powder: Impact of biofield treatment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tallapragada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Branton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Latiyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jana</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Powder Metall Min</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">128</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Trivedi MK, Tallapragada RM, Branton A, Trivedi D, Nayak G, Latiyal O, Jana S (2015) Characterization of physical, thermal and structural properties of chromium (VI) oxide powder: Impact of biofield treatment. J Powder Metall Min 4: 128.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Inhibition of S-adenosyl-l-homocysteine hydrolase induces immunosuppression</title>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">R</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Zuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pharmacol Exp Ther</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page" from="705" to="711" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wu QL, Fu YF, Zhou WL, Wang JX, Feng YH, Liu J, Xu JY, He PL, Zhou R, Tang W, Wang GF, Zhou Y, Yang YF, Ding J, Li XY, Chen XR, Yuan C, Lawson BR, Zuo JP (2005) Inhibition of S-adenosyl-l-homocysteine hydrolase induces immunosuppression. J Pharmacol Exp Ther 313: 705-711.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Evaluation of immunostimulatory activity of Chyawanprash using in vitro assays</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Madaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kanjilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sastry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jaggi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="158" to="163" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Madaan A, Kanjilal S, Gupta A, Sastry JL, Verma R, Singh AT, Jaggi M (2015) Evaluation of immunostimulatory activity of Chyawanprash using in vitro assays. Indian J Exp Biol 53: 158-163.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Effects of several salt marsh plants on mouse spleen and thymus cell proliferation using MTT assay</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Youn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">O.S.J</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="209" to="212" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Seo Y, Lee HJ, Kim Y, Youn H, Lee BJ (2005) Effects of several salt marsh plants on mouse spleen and thymus cell proliferation using MTT assay. O.S.J 40: 209-212.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Tumor necrosis factor: Function, release and clearance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Bemelmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Van Tits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Buurman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Immunol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bemelmans MH, van Tits LJ, Buurman WA (1996) Tumor necrosis factor: Function, release and clearance. Crit Rev Immunol 16: 1-11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The role of MIP-1 alpha in the development of systemic inflammatory response and organ injury following trauma hemorrhage</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Kan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Schwacha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Choudhry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Chaudry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="2806" to="2812" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hsieh CH, Frink M, Hsieh YC, Kan WH, Hsu JT, Schwacha MG, Choudhry MA, Chaudry IH (2008) The role of MIP-1 alpha in the development of systemic inflammatory response and organ injury following trauma hemorrhage. J Immunol 181: 2806-2812.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Immunological and inflammatory functions of the interleukin-1 family</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Dinarello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Immunol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="519" to="550" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dinarello CA (2009) Immunological and inflammatory functions of the interleukin-1 family. Annu Rev Immunol 27: 519-550.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Role of interleukin-1 in the pulmonary immune response during Pseudomonas aeruginosa pneumonia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Rijneveld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Florquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Dinarello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Poll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Lung Cell Mol Physiol</title>
+		<imprint>
+			<biblScope unit="volume">282</biblScope>
+			<biblScope unit="issue">L</biblScope>
+			<biblScope unit="page" from="285" to="L290" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schultz MJ, Rijneveld AW, Florquin S, Edwards CK, Dinarello CA, van der Poll T (2002) Role of interleukin-1 in the pulmonary immune response during Pseudomonas aeruginosa pneumonia. Am J Physiol Lung Cell Mol Physiol 282: L285-L290.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Joshi</surname></persName>
+		</author>
+		<title level="m">Chaukambha Sanskrit Bhawan</title>
+		<meeting><address><addrLine>Varanasi, India</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998. 1998</date>
+			<biblScope unit="page" from="127" to="129" />
+		</imprint>
+	</monogr>
+	<note>Rasa Amritam</note>
+	<note type="raw_reference">Joshi D (1998) Varanasi, India: Chaukambha Sanskrit Bhawan; 1998. Rasa Amritam; pp. 127-129.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A public health agenda for traditional, complementary, and alternative medicine</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bodeker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kronenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1582" to="1591" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bodeker G, Kronenberg F (2002) A public health agenda for traditional, complementary, and alternative medicine. Am J Public Health 92: 1582-1591.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Withania somnifera inhibits NF-κB and AP-1 transcription factors in human peripheral blood and synovial fluid mononuclear cells</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maurya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Naik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytother Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="905" to="913" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Singh D, Aggarwal A, Maurya R, Naik S (2007) Withania somnifera inhibits NF-κB and AP-1 transcription factors in human peripheral blood and synovial fluid mononuclear cells. Phytother Res 21: 905-913.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The immune system and the impact of zinc during aging</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Immun Ageing</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Haase H, Rink L (2009) The immune system and the impact of zinc during aging. Immun Ageing 6: 9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Magnesium decreases inflammatory cytokine production: A novel innate immunomodulatory mechanism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Romani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Valentin-Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Luciano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramirez</forename><surname>Kitchen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Funderburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mesiano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bernstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="page" from="6338" to="6346" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sugimoto J, Romani AM, Valentin-Torres AM, Luciano AA, Ramirez Kitchen CM, Funderburg N, Mesiano S, Bernstein HB (2012) Magnesium decreases inflammatory cytokine production: A novel innate immunomodulatory mechanism. J Immunol 188: 6338-6346.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Selenium modifies the osteoblast inflammatory stress response to bone metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Sosnoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">H</forename><surname>Gandhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Novinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Prabhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mastro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carcinogenesis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1941" to="1948" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen YC, Sosnoski DM, Gandhi UH, Novinger LJ, Prabhu KS, Mastro AM (2009) Selenium modifies the osteoblast inflammatory stress response to bone metastatic breast cancer. Carcinogenesis 30: 1941-1948.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Serum selenium concentrations and hypertension in the US Population</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laclaustra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Navas-Acien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stranges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ordovas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guallar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Cardiovasc Qual Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="369" to="376" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Laclaustra M, Navas-Acien A, Stranges S, Ordovas JM, Guallar E (2009) Serum selenium concentrations and hypertension in the US Population. Circ Cardiovasc Qual Outcomes 2: 369-376.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Selenium intake and cardiovascular risk: What is new?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Navas-Acien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bleys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guallar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Lipidol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="43" to="49" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Navas-Acien A, Bleys J, Guallar E (2008) Selenium intake and cardiovascular risk: What is new? Curr Opin Lipidol 19: 43-49.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

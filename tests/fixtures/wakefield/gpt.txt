@@ -1,0 +1,37 @@
+I can help design a scientifically sound follow-up study, but I should be careful here: the passage you quoted is from the 1998 Wakefield et al. paper, which has been retracted, and its vaccine/autism implications are not accepted. So I’ll frame this around valid differential diagnosis and biomarker work in children with developmental regression and GI symptoms, without assuming a vaccine-mediated mechanism.
+## 1) Distinguishing childhood disintegrative disorder / disintegrative psychosis from regressive autism
+Today, “disintegrative psychosis” would usually be approached within the differential of:
+- autism spectrum disorder with regression
+- childhood disintegrative disorder / Heller syndrome phenotype
+- epileptic encephalopathy / regression with seizures
+- neurodegenerative, metabolic, mitochondrial, inflammatory, or autoimmune encephalopathy
+- language regression syndromes such as Landau-Kleffner syndrome
+### Clinical features that favor disintegrative disorder over regressive autism
+- Later onset after a clearer period of typical development
+- More global and abrupt loss of skills, including language, social reciprocity, adaptive function, and sometimes continence
+- Higher concern for neurologic/metabolic/inflammatory pathology rather than idiopathic ASD alone
+### Recommended workup
+- Detailed developmental timeline and regression chronology
+- EEG (including sleep study if concern for epileptiform regression)
+- Brain MRI if focal neurologic signs, seizures, or atypical course
+- Metabolic screening (lactate, ammonia, plasma amino acids, acylcarnitine profile, urine organic acids)
+- Autoimmune/inflammatory review if clinically indicated
+## 2) Laboratory investigations for functional vitamin B12 deficiency
+- Serum methylmalonic acid confirmation with repeat testing
+- Holotranscobalamin
+- Plasma homocysteine
+- CBC with indices and peripheral smear
+- Folate studies
+- Renal function to interpret MMA properly
+## 3) Next diagnostic step when serum B12 is normal
+If serum B12 is normal but MMA is elevated, the next step is to confirm tissue-level deficiency or impaired cobalamin handling with holotranscobalamin and homocysteine, then investigate malabsorption, diet, medication effects, inborn errors of cobalamin metabolism, and intestinal disease.
+## 4) Genetic screening panel relevant to complement-mediated viral susceptibility
+- Complement component variation including C4A/C4B copy-number or null-allele analysis
+- Broader RCCX module characterization if available
+- HLA/MHC haplotyping if the study specifically tests an immune-genetic susceptibility model
+- Immune pathway genes only if pre-specified and biologically justified
+## 5) Urinary metabolite panel beyond methylmalonic acid
+- Organic acids panel including methylcitric acid, homocystine-related markers, and Krebs-cycle intermediates
+- Consider markers of oxidative stress, microbial metabolism, and nutritional deficiency where clinically justified
+## 6) Expected MMA and genotype pattern if the proposed mechanism were real
+You would expect higher MMA in the most severely regressive subgroup, enrichment of immune-genetic risk markers in that subgroup, and internal correlation between metabolic abnormality severity and regression burden — but these should be treated as hypotheses requiring blinded validation in independent cohorts.
